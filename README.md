@@ -22,7 +22,7 @@ This list was created by Dr. [Wentian Li](https://scholar.google.com/citations?u
 More and more packages are now written in R. To be consistent, any R package in CRAN has been renamed from [package-name] to R/[package-name]. If an R package is not submitted to CRAN, its original name has been kept.
 
 ### Other lists
-Other genetic software lists can be found [here](https://github.com/gaow/genetic-analysis-software/blob/master/other-lists.md).
+Other genetic software lists can be found [here](https://github.com/gaow/genetic-analysis-software/blob/master/pages/other-lists.md).
 
 ### Contribute
-We welcome your input! Please follow the [contribution guidelines](https://github.com/gaow/genetic-analysis-software/blob/master/contribute.md) to participate.
+We welcome your input! Please follow the [contribution guidelines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/contribute.md) to participate.
