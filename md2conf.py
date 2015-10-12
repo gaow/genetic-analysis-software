@@ -1,6 +1,6 @@
 import sys, re
 MAP1 = {
-    'full name': 'FULL NAME',
+    'full name': 'FULL_NAME',
     'version': 'VERSION',
     'description':  'DESCRIPTION',
     'authors': 'AUTHOR',
@@ -11,21 +11,26 @@ MAP1 = {
     'executables': 'EXE',
     'reference': 'REFERENCE'
     }
-FIELDS = ['name', 'FULL NAME', 'VERSION', 'DESCRIPTION', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE']
+FIELDS = ['name', 'FULL_NAME', 'OTHER_NAME', 'VERSION', 'DESCRIPTION', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE', 'RELATED']
 
 def dict2conf(d):
-    d['Tag'] = []
-    d['Related'] = []
     d['name'] = d['name'].replace('(see', '(see also') if not 'see also' in d['name'] else d['name']
+    d['name'] = re.sub(r'other name|other names', 'previously', d['name'])
+    if 'previously' in d['name']:
+        value = d['name'].split('(')
+        d['name'] = value[0].strip()
+        d['OTHER_NAME'] = [re.sub(r'previously|previously:', '', value[1]).strip().strip(')')]
     if 'see also' in d['name']:
         value = d['name'].split('(')
         d['name'] = value[0].strip()
-        d['Related'].append(value[1].replace('see also', '').strip().strip(')'))
+        d['RELATED'] = [value[1].replace('see also', '').strip().strip(')')]
     if 'AUTHOR' in d:
         d['AUTHOR'][0] = d['AUTHOR'][0].replace(' and ', ', ')
         r = re.compile(r'(?:[^,(]|\([^)]*\))+')
         d['AUTHOR'] = [x.strip() for x in r.findall(d['AUTHOR'][0])]
-    with open(d['name'].replace('/', '&').replace(' ','_') + '.conf', 'w') as f:
+    d['name'] = re.sub(r"\(|\)|,",'', d['name'])
+    fname = d['name'].replace(' - ','-').replace('/', '&').replace(' ','_') + '.ini'
+    with open(fname, 'w') as f:
         for key in FIELDS:
             try:
                 if key == 'name':
@@ -36,6 +41,7 @@ def dict2conf(d):
                             f.write('{}={}\n'.format(key, item))
             except KeyError:
                 pass
+        f.write('TAG=\n')
     return {}
 
 d = {}

@@ -5396,7 +5396,7 @@
 
     *   authors: Peter Cartwright (Univ Utah, now Cimarron Software [pc@cimsoft.com](mailto:pc@cimsoft.com))
 
-*   <font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">web: <font color="#0000ff"><span lang="en-US"><u><font color="#0000ff">http://lab.rockefeller.edu/ott/programs</font></u></span></font> or <font color="#0000ff"><font face="Times New Roman, serif"><u>https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis</u></font></font> (please contact Alberto Goldoni, email: <font color="#0000ff"><font face="Times New Roman, serif"><u>alberto.goldoni1975@gmail.com</u></font></font> if you have any questions on this version)</font></font>
+    *   web: http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 
     *   source code language: C and Pascal
 
@@ -5894,7 +5894,7 @@
 
     *   authors: Peter Cartwright (Univ Utah, now Cimarron Software [pc@cimsoft.com](mailto:pc@cimsoft.com))
 
-*   <font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">web: <font color="#0000ff"><span lang="en-US"><u><font color="#0000ff">http://lab.rockefeller.edu/ott/programs</font></u></span></font> or <font color="#0000ff"><font face="Times New Roman, serif"><u>https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis</u></font></font> (please contact Alberto Goldoni, email: <font color="#0000ff"><font face="Times New Roman, serif"><u>alberto.goldoni1975@gmail.com</u></font></font> if you have any questions on this version)</font></font>
+    *   web: http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 
     *   source code language: C and Pascal
 
@@ -5938,7 +5938,7 @@
 
     *   authors: Peter Cartwright (Univ Utah, now Cimarron Software [pc@cimsoft.com](mailto:pc@cimsoft.com))
 
-*   <font face="Times New Roman, serif"><font size="2" style="font-size: 11pt">web: <font color="#0000ff"><span lang="en-US"><u><font color="#0000ff">http://lab.rockefeller.edu/ott/programs</font></u></span></font> or <font color="#0000ff"><font face="Times New Roman, serif"><u>https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis</u></font></font> (please contact Alberto Goldoni, email: <font color="#0000ff"><font face="Times New Roman, serif"><u>alberto.goldoni1975@gmail.com</u></font></font> if you have any questions on this version)</font></font>
+    *   web: http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 
     *   source code language: C and Pascal
 
@@ -12274,7 +12274,7 @@
 
 *   WEB-PREPLINK
 
-    *   This was a simple program running on our old _linkage_ server at Rockefeller University. However, that server has been [updated](http://lab.rockefeller.edu/ott/) and no longer supports running scripts, so web-preplink is no longer available.
+    *   description: This was a simple program running on our old _linkage_ server at Rockefeller University. However, that server has been [updated](http://lab.rockefeller.edu/ott/) and no longer supports running scripts, so web-preplink is no longer available.
 
 *   WEBQTL
 
