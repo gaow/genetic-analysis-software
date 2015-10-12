@@ -1,6 +1,7 @@
 import sys, re
 MAP1 = {
     'full name': 'FULL_NAME',
+    'alias': 'OTHER_NAME',
     'version': 'VERSION',
     'description':  'DESCRIPTION',
     'authors': 'AUTHOR',
@@ -9,9 +10,12 @@ MAP1 = {
     'source code language': 'LANGUAGE',
     'operating systems': 'OS',
     'executables': 'EXE',
-    'reference': 'REFERENCE'
+    'reference': 'REFERENCE',
+    'availability':'AVAILABILITY',
+    'price':'AVAILABILITY',
+    'vender':'AVAILABILITY'
     }
-FIELDS = ['name', 'FULL_NAME', 'OTHER_NAME', 'VERSION', 'DESCRIPTION', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE', 'RELATED']
+FIELDS = ['name', 'FULL_NAME', 'OTHER_NAME', 'VERSION', 'DESCRIPTION', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE', 'RELATED', 'AVAILABILITY']
 
 def dict2conf(d):
     d['name'] = d['name'].replace('(see', '(see also') if not 'see also' in d['name'] else d['name']
@@ -19,7 +23,10 @@ def dict2conf(d):
     if 'previously' in d['name']:
         value = d['name'].split('(')
         d['name'] = value[0].strip()
-        d['OTHER_NAME'] = [re.sub(r'previously|previously:', '', value[1]).strip().strip(')')]
+        if 'OTHER_NAME' in d:
+            d['OTHER_NAME'][0] += ', ' + re.sub(r'previously|previously:', '', value[1]).strip().strip(')')
+        else:
+            d['OTHER_NAME'] = [re.sub(r'previously|previously:', '', value[1]).strip().strip(')')]
     if 'see also' in d['name']:
         value = d['name'].split('(')
         d['name'] = value[0].strip()
@@ -28,6 +35,8 @@ def dict2conf(d):
         d['AUTHOR'][0] = d['AUTHOR'][0].replace(' and ', ', ')
         r = re.compile(r'(?:[^,(]|\([^)]*\))+')
         d['AUTHOR'] = [x.strip() for x in r.findall(d['AUTHOR'][0])]
+    if 'URL' in d:
+        d['URL'] = ';'.join(d['URL']).split(";")
     d['name'] = re.sub(r"\(|\)|,",'', d['name'])
     fname = d['name'].replace(' - ','-').replace('/', '&').replace(' ','_') + '.ini'
     with open(fname, 'w') as f:
@@ -60,8 +69,8 @@ for line in open('gas-html.md').readlines():
                 d[MAP1[value[0].lower()]] = [value[1]]
                 prev_key = MAP1[value[0].lower()]
             else:
+                print line
                 try:
                     d[prev_key].append(line)
                 except:
-                    print line
-                    sys.exit()
+                    raise

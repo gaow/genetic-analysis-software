@@ -134,7 +134,7 @@
 
     *   Gudbjartsson, Thorvaldsson, Gunnarsson, Kong, Ingolfsdottir (2004), "Decision diagram based multipoint linkage analysis: ALLEGRO2", American Journal of Human Genetics, 75(suppl):?.
 
-    *   Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), "Allegro version 2", Nature Genetics, 37:1015-1016\. [<font color="#ff0000">**PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM**</font>]
+    *   Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), "Allegro version 2", Nature Genetics, 37:1015-1016\. **PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM**
 
 *   ALLELIX
 
@@ -340,7 +340,6 @@
 
     *   reference: Iwata, Ninomiya (2006) "AntMap: constructing genetic linkage maps using an ant colony optimization algorithm", Breeding Science, 56:371-377.
 
-    *   [PDF]
 
 *   APE
 
@@ -504,9 +503,7 @@
 
     *   authors: David Hinds (email: dahinds@users.sourceforge.net) Neil Risch (Stanford Univ),
 
-    *   web/ftp: http://aspex.sourceforge.net/
-
-    *   previously: ftp://lahmed.stanford.edu/pub/aspex
+    *   web/ftp: http://aspex.sourceforge.net/; ftp://lahmed.stanford.edu/pub/aspex
 
     *   source code language: C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.teleport.com/pub/users/pturner/acegr)
 
@@ -644,17 +641,7 @@
 
     *   version: 3.2.1 (May 2010)
 
-    *   description: BEAGLE is a state of the art software package for analysis of large-scale genetic data sets with hundreds of thousands of markers genotyped on thousands of samples. BEAGLE can
-
-    *   phase genotype data (i.e. infer haplotypes) for unrelated individuals, parent-offspring pairs, and parent-offspring trios.
-
-    *   infer sporadic missing genotype data.
-
-    *   impute ungenotyped markers that have been genotyped in a reference panel.
-
-    *   perform single marker and haplotypic association analysis.
-
-    *   detect genetic regions that are homozygous-by-descent in an individual or identical-by-descent in pairs of individuals.
+    *   description: BEAGLE is a state of the art software package for analysis of large-scale genetic data sets with hundreds of thousands of markers genotyped on thousands of samples. BEAGLE can * phase genotype data (i.e. infer haplotypes) for unrelated individuals, parent-offspring pairs, and parent-offspring trios * infer sporadic missing genotype data * impute ungenotyped markers that have been genotyped in a reference panel * perform single marker and haplotypic association analysis * detect genetic regions that are homozygous-by-descent in an individual or identical-by-descent in pairs of individuals.
 
     *   authors: Brian L Browning, Sharon R Browning (email: browning@stat.auckland.ac.nz),
 
@@ -844,9 +831,7 @@
 
     *   authors: Claus Skaanning Jensen (email: claus@cs.auc.dk) (Aalborg University, Denmark)
 
-    *   web/ftp: http://www.cs.auc.dk/~claus/block.html
-
-    *   or a copy from http://hpcio.cit.nih.gov/lserver/BLOCK.html
+    *   web/ftp: http://www.cs.auc.dk/~claus/block.html; http://hpcio.cit.nih.gov/lserver/BLOCK.html
 
     *   ftp://ftp.cs.auc.dk/pub/packages/block/current
 
@@ -1090,9 +1075,7 @@
 
     *   version: v1.6
 
-    *   description: Illumina's CASAVA software captures summary information for resequencing and counting studies and places the data in a compact structure for visualization within GenomeStudio Software or publicly available analysis tools. CASAVA can create genomic builds, call SNPs, detects indels, and count reads from data generated from one or more runs of the Genome Analyzer across a broad range of sequencing applications.
-
-    *   v.1.6 highlights: 1\. complete secondary analysis software package, including facilities for alignment, reference-guided assembly, SNP/indel calling and counting for RNA applications. 2\. new methods for gapped, multiseed alignments that reduce artifactual mismatches. 3\. new indel detection method, and improved SNP calling on longer Genome Analyzer reads.
+    *   description: Illumina's CASAVA software captures summary information for resequencing and counting studies and places the data in a compact structure for visualization within GenomeStudio Software or publicly available analysis tools. CASAVA can create genomic builds, call SNPs, detects indels, and count reads from data generated from one or more runs of the Genome Analyzer across a broad range of sequencing applications. \\ v.1.6 highlights: * complete secondary analysis software package, including facilities for alignment, reference-guided assembly, SNP/indel calling and counting for RNA applications. * new methods for gapped, multiseed alignments that reduce artifactual mismatches. * new indel detection method, and improved SNP calling on longer Genome Analyzer reads.
 
     *   authors: (Illumina)
 
@@ -1106,7 +1089,6 @@
 
     *   reference:
 
-    *   price:
 
 *   CASPAR
 
@@ -1492,7 +1474,7 @@
 
     *   web/ftp: http://www.gmod.org/cmap/
 
-    *   http download: https://sourceforge.net/project/showfiles.php?group_id=27707
+    *   https://sourceforge.net/project/showfiles.php?group_id=27707
 
     *   source code language: Perl
 
@@ -1707,6 +1689,8 @@
     *   web/ftp: http://www.biostat.harvard.edu/complab/dchip/snp.htm
 
     *   http://www.biostat.harvard.edu/~ileykin/accessory.htm
+    
+    *   http://groups.yahoo.com/group/dchip/
 
     *   source code language: C++
 
@@ -1716,7 +1700,6 @@
 
     *   reference: Leykin et al. (2005), "Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data", BMC Genetics, 6:7.
 
-    *   Yahoo discussion group: http://groups.yahoo.com/group/dchip/
 
 *   DGENE
 
@@ -1842,7 +1825,7 @@
 
     *   description: a tool for manual and automatic DNA sequence assembly, DNA sequence analysis, automatic sample processing, contig editing, metadata integration, file format conversion and mutation detection.
 
-    *   web site: http://www.dnabaser.com/
+    *   web: http://www.dnabaser.com/
 
 *   DOLINK (other name: WDLINK)
 
@@ -1958,9 +1941,7 @@
 
     *   description: A set of three programs, preproc, eclipse2 and eclipse3 which analyze genetic marker data for genotypic errors and pedigree errors. Using a single preprocessing program (preproc), eclipse2 analyzes data on pairs of individuals, and eclise3 analyzes data jointly on trios.
 
-    *   authors: Solveig Sieberts (email: solly@stat.washington.edu)
-
-    *   based on some earlier prototype routines by Jochen Kumm.
+    *   authors: Solveig Sieberts (email: solly@stat.washington.edu) based on some earlier prototype routines by Jochen Kumm.
 
     *   web/ftp: http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 
@@ -2972,9 +2953,7 @@
 
     *   operating systems: MS-Windows, UNIX(Solaris), Linux
 
-    *   executables: gc, gcp, gcx, pgc.
-
-    *   RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS
+    *   executables: gc, gcp, gcx, pgc., RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS
 
     *   reference: Zhao, Lissarrague, Essioux, Sham (2002), "GENECOUNTING: haplotype analysis with missing genotypes", Bioinformatics, 18(12):1694-1695.
 
@@ -5864,11 +5843,7 @@
 
     *   version: Jan 2001
 
-    *   description: L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured.
-
-    *   Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes.
-
-    *   L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.
+    *   description: L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured. | Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes. | L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.
 
     *   authors: Shaun Purcell, Pak Sham
 
@@ -7546,9 +7521,7 @@
 
     *   version:
 
-    *   description: Collection of nine packages for genetic analysis;
-
-    *   the original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
+    *   description: Collection of nine packages for genetic analysis; | the original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
 
     *   Authors: many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).
 
@@ -8256,9 +8229,7 @@
 
     *   version: 2.0 (Sept 2003)
 
-    *   description: This program implements a new statistical method for reconstructing haplotypes from population genotype data
-
-    *   new for v2: (1) the introduction of a new computational approach, resulting in much faster haplotype resolution. (2) the introduction of a new model that allows for recombination and decay of Linkage Disequilibrium (LD) with distance, which results in more accurate haplotype estimates. This model also allows the user to estimate recombination rates, and identify recombination hotspots from population genotype data. (3) the facility to perform a test for haplotype frequency differences between cases and controls. (4) more extensive output summarising the results.
+    *   description: This program implements a new statistical method for reconstructing haplotypes from population genotype data. | new for v2: (1) the introduction of a new computational approach, resulting in much faster haplotype resolution. (2) the introduction of a new model that allows for recombination and decay of Linkage Disequilibrium (LD) with distance, which results in more accurate haplotype estimates. This model also allows the user to estimate recombination rates, and identify recombination hotspots from population genotype data. (3) the facility to perform a test for haplotype frequency differences between cases and controls. (4) more extensive output summarising the results.
 
     *   Authors: Matthew Stephens (email: stephens@stat.washington.edu)
 
@@ -9582,20 +9553,7 @@
 
     *   version: 1.6-4 (August 2010)
 
-    *   description: GenABEL is a software created to facilitate whole-genome association analysis. Specific features of GenABEL include:
-
-    *   Support of modern methods for analysis in outbred populations
-
-    *   Maximum Likelihood estimation of linear, logistic and Cox regression on genome-wide scale
-
-    *   A range of functions specifically designed to help GWA analysis in samples of individuals from genetically isolated populations, and/or samples of related individuals (family-based design), and other analysis in presence of stratification
-
-    *   Special functions oriented to meta-analysis
-
-    *   Extensive documentation (about 100 pages of reference manual and 150 pages of tutorial)
-
-    *   Many example data sets and exercises
-
+    *   description: GenABEL is a software created to facilitate whole-genome association analysis. Specific features of GenABEL include: * Support of modern methods for analysis in outbred populations * Maximum Likelihood estimation of linear, logistic and Cox regression on genome-wide scale * A range of functions specifically designed to help GWA analysis in samples of individuals from genetically isolated populations, and/or samples of related individuals (family-based design), and other analysis in presence of stratification * Special functions oriented to meta-analysis * Extensive documentation (about 100 pages of reference manual and 150 pages of tutorial) * Many example data sets and exercises
     *   authors:
 
     *   web/ftp: http://mga.bionet.nsc.ru/~yurii/ABEL/GenABEL/
@@ -10136,9 +10094,7 @@
 
     *   version:
 
-    *   description: The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets).
-
-    *   The program sequenceLDhot is a method for detecting recombination hotspots from population genetic data. It takes as input phased (i.e. haplotype) data, together with an estimate of the background recombination rate within the region (this is allowed to vary across the region). Then sequenceLDhot considers a grid of putative hotspot positions, and for each putative hotspot calculates a likelihood ratio statistics for the presence of a hotspot.
+    *   description: The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets). | The program sequenceLDhot is a method for detecting recombination hotspots from population genetic data. It takes as input phased (i.e. haplotype) data, together with an estimate of the background recombination rate within the region (this is allowed to vary across the region). Then sequenceLDhot considers a grid of putative hotspot positions, and for each putative hotspot calculates a likelihood ratio statistics for the presence of a hotspot.
 
     *   authors: Paul Fearnhead (Department of Mathematics and Statistics, Lancaster University, UK)
 
@@ -10500,15 +10456,13 @@
 
     *   S Lin, Z Skrivanek, M Irwin (2003), "Haplotyping using SIMPLE - caution on ignoring interference", Genetic Epidemiology, 25:384-387.
 
-*   SIMULA
+*   SIMLA 3
 
     *   full name:
 
     *   version: 3.2, 3.3 with graphic user interface
 
-    *   description: SIMLA is a simulation program that generates data sets of families for use in linkage and association studies. SIMLA_3.2 is a major upgrade to versions 2.3 and 3.0 that provides the ability to simulate two disease loci and two environmental covariates. Gene-gene and gene-environment interactions may also be simulated which jointly determine the disease risk of all pedigree members.
-
-    *   The SIMLA3.3 with Graphical User Interface (GUI) is designed for users to set up the SIMLA parameters conveniently. The GUI assists in creating a SIMLA control file based on the parameters specified on the GUI panels. It includes the SIMLA 3.2 program version.
+    *   description: SIMLA is a simulation program that generates data sets of families for use in linkage and association studies. SIMLA_3.2 is a major upgrade to versions 2.3 and 3.0 that provides the ability to simulate two disease loci and two environmental covariates. Gene-gene and gene-environment interactions may also be simulated which jointly determine the disease risk of all pedigree members. | The SIMLA3.3 with Graphical User Interface (GUI) is designed for users to set up the SIMLA parameters conveniently. The GUI assists in creating a SIMLA control file based on the parameters specified on the GUI panels. It includes the SIMLA 3.2 program version.
 
     *   authors: email: simla@chg.duhs.duke.edu
 
