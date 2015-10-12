@@ -66,7 +66,10 @@ for line in open('gas-html.md').readlines():
         if line:
             value = [x.strip() for x in line.split(':', 1)]
             if value[0].lower() in MAP1:
-                d[MAP1[value[0].lower()]] = [value[1]]
+                if MAP1[value[0].lower()] not in d:
+                    d[MAP1[value[0].lower()]] = [value[1]]
+                else:
+                    d[MAP1[value[0].lower()]].append(value[1])
                 prev_key = MAP1[value[0].lower()]
             else:
                 print line
