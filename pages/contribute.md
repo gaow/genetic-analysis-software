@@ -5,6 +5,8 @@ To contribute, please provide information of the software in `*.ini` format taki
 
 Once you have completed the `*.ini` file, you may either fork this repository, add the `*.ini` file to `db` folder, commit and send a github pull request, or you can simply email the `*.ini` file to <gaow@uchicago.edu> preferably with the phrase "Rockefeller List" in your email subject.
 
+You are welcome to both add new software and make improvement to contents on existing software on the list.
+
 ### Format of long text
 If you have a long section e.g. for the `DESCRIPTION` section where there are multiple paragraphs and bullet points, you need to use `\\` to separate paragraphs and `\\*` for bullet points. For example in your `*.ini` file, 
 

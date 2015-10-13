@@ -36,5 +36,5 @@ You can find github's search bar on the top of the page where you can search con
 ### Contribute
 We welcome your input! Please follow the [contribution guidelines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/contribute.md) to participate.
 
-### Leave comments to programs!
-Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a "Review" section for each program so that users can leave comments on the program and suggestions to potential users. Link to "Review" sections are found at the end of program detail pages.
+### Leave comments to programs (and to the list)
+Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a "Review" section for each program so that users can leave comments on the program and suggestions to potential users. Link to "Review" sections are found at the end of program detail pages. Please also use this section to leave suggestions you have to the contents of a particular program page on this list (please do not open any new issues for this).
