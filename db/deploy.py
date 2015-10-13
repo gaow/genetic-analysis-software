@@ -53,7 +53,7 @@ class GasParser:
                 category = '#' if re.match(r"[-+]?\d+$", name[0]) is not None else name[0].upper()
                 if category not in categories:
                     categories.append(category)
-                    f.write('## {}\n'.format(category))
+                    f.write('\n## {}\n'.format(category))
                 link_text = self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else '>>'
                 link = 'https://github.com/gaow/genetic-analysis-software/blob/master/pages/' + \
                   self.data[name]['FileName'].replace('.ini', '.md')
