@@ -16,3 +16,5 @@ http://www-gene.cimr.cam.ac.uk/clayton/software/
 ##Language
 C,C++
 
+
+## [Reviews on SNPHAP](https://github.com/gaow/genetic-analysis-software/issues/537)

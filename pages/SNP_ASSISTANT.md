@@ -21,3 +21,5 @@ MS-Windows(95 and newer)
 ##Reference
 online manual: http://www.biodata.ee/sa/SNP_Assistant_Manual_1.0.7.pdf
 
+
+## [Reviews on SNP ASSISTANT](https://github.com/gaow/genetic-analysis-software/issues/533)

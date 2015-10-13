@@ -20,3 +20,5 @@ UNIX(Solaris/..), Linux, MS-Windows(95/98/NT/2000/XP)
 * Zollner, Pritchard (2004), "Coalescent-based association mapping and fine mapping of complex trait loci", Genetics, 169:1071-1092.
 * Zollner, Wen, Pritchard (2005), "Association mapping and fine mapping with TreeLD", Bioinformatics, 21(14):3168-3170.
 
+
+## [Reviews on TREELD](https://github.com/gaow/genetic-analysis-software/issues/591)

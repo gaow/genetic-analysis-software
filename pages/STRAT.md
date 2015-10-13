@@ -20,3 +20,5 @@ JK Pritchard, M Stephens, NA Rosenberg, P Donnelly (2000), "Association mapping 
 ##Related
 STRUCTURE
 
+
+## [Reviews on STRAT](https://github.com/gaow/genetic-analysis-software/issues/563)

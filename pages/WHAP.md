@@ -15,3 +15,5 @@ C,C++
 ##OS
 UNIX, MS-Windows, MS-DOS, Linux
 
+
+## [Reviews on WHAP](https://github.com/gaow/genetic-analysis-software/issues/610)

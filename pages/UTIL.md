@@ -20,3 +20,5 @@ multiple, binom, chiprob, conting, equiv, hist, hwe, ibd, mapfun, nocom, norinv,
 ##Reference
 Ott (1999), Analysis of human genetic linkage 3rd edition (Johns Hospkins University Press, Baltimore).
 
+
+## [Reviews on UTIL](https://github.com/gaow/genetic-analysis-software/issues/600)

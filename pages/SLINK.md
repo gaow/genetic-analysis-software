@@ -24,3 +24,5 @@ slink, isim, lsim, msim
 ##Related
 FASTSLINK
 
+
+## [Reviews on SLINK](https://github.com/gaow/genetic-analysis-software/issues/526)

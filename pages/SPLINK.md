@@ -30,3 +30,5 @@ splink, ped2spl
 * Holmans and Clayton (1995), submitted.
 * online manual
 
+
+## [Reviews on SPLINK](https://github.com/gaow/genetic-analysis-software/issues/555)

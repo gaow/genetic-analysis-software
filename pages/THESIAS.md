@@ -17,3 +17,5 @@ http://ecgene.net/genecanvas/downloads.php?cat_id=1
 ##OS
 MS-Windows, Linux
 
+
+## [Reviews on THESIAS](https://github.com/gaow/genetic-analysis-software/issues/585)

@@ -29,3 +29,5 @@ any with R installation
 * Wilson, Kim, Sung, Cai, McMahon, Sorant (2009), "Tiled Regression: the use of regression methods in hotspot defined genomic segments to identify independent genetic variants responsible for variation in quantitative traits", Abstract 142\. In: "Abstracts from the Eighteenth Annual Meeting of the International Genetic Epidemiology Society", Genetic Epidemiology, 33:793.
 * Sorant, Cai, Sung, Kim, Wilson (2010), "Tiled Regression Analysis Package (TRAP): software implementation of tiled regression methodology", Abstract 244. In: "Abstracts from the nineteenth annual meeting of the International Genetic Epidemiology Society", Genetic Epidemiology, 34:984-985.
 
+
+## [Reviews on TRAP](https://github.com/gaow/genetic-analysis-software/issues/590)

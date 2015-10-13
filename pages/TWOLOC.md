@@ -23,3 +23,5 @@ twoloc, calc_alpha, mkp, calc_ibd
 ##Reference
 Farrall (1997), Genetic Epidemiology, 14:103-115.
 
+
+## [Reviews on TWOLOC](https://github.com/gaow/genetic-analysis-software/issues/596)

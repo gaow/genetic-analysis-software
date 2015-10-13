@@ -27,3 +27,5 @@ simple, scan
 * Z Skrivanek, S Lin, ME Irwin (2003), "Linkage Analysis with Sequential Imputation", Genetic Epidemiology, 25:25-35.
 * S Lin, Z Skrivanek, M Irwin (2003), "Haplotyping using SIMPLE - caution on ignoring interference", Genetic Epidemiology, 25:384-387.
 
+
+## [Reviews on SIMPLE](https://github.com/gaow/genetic-analysis-software/issues/519)

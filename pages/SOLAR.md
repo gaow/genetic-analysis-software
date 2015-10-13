@@ -31,3 +31,5 @@ solar, ibdprep, ibdmat, relate, multipnt
 * Blangero, Almasy (1996), "SOLAR: sequential oligogenic linkage analysis routines", Population Genetics Laboratory Technical Report No. 6, Southwest Foundation for Biomedical Research, San Antonio, TX 78228.
 * Almasy, Blangero (1998), "Multipoint quantitative-trait linkage analysis in general pedigrees", American Journal of Human Genetics, 62(5):1198-1211 (1998)
 
+
+## [Reviews on SOLAR](https://github.com/gaow/genetic-analysis-software/issues/548)

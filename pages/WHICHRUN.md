@@ -22,3 +22,5 @@ MS-Windows (95/98/NT)
 ##Reference
 Banks, Eichert (2000), "WHICHRUN (version 3.2): a computer program for population assignment of individuals based on multilocus genotype data", Journal of Heredity, 91:87-89.
 
+
+## [Reviews on WHICHRUN](https://github.com/gaow/genetic-analysis-software/issues/611)

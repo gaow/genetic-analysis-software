@@ -11,3 +11,5 @@ Java
 ##Reference
 Koboldt, Chen, Wylie, Larson, McLellan, Mardis, Weinstock, Wilson, Ding (2009), "VarScan: variant detection in massively parallel sequencing of individual and pooled samples", Bioinformatics, 25:2283-2285.
 
+
+## [Reviews on VARSCAN](https://github.com/gaow/genetic-analysis-software/issues/602)

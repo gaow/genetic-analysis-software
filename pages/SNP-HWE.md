@@ -15,3 +15,5 @@ Fortran, C,C++, R
 ##Reference
 Wigginton, Cutler, Abecasis (2005), "A note on exact tests of Hardy-Weinberg equilibrium", American Journal of Human Genetics, 76(5):887-893\. [ html]
 
+
+## [Reviews on SNP-HWE](https://github.com/gaow/genetic-analysis-software/issues/540)

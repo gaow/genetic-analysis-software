@@ -17,3 +17,5 @@ http://www.broad.mit.edu/mpg/sweep/
 ##Reference
 Sabeti, Reich, Higgins, Levine, Richter, Schaffner, Gabriel, Platko, Patterson, McDonald, Ackerman, Campbell, Altshuler, Cooper, Kwiatkowski, Ward, Lander (2002), "Detecting recent positive selection in the human genome from haplotype structure", Nature, 419:832-827.
 
+
+## [Reviews on SWEEP](https://github.com/gaow/genetic-analysis-software/issues/570)

@@ -22,3 +22,5 @@ http://www.broad.mit.edu/mpg/snap/
 ##Language
 R, Oracle
 
+
+## [Reviews on SNAP 2](https://github.com/gaow/genetic-analysis-software/issues/528)

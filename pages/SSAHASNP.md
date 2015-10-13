@@ -12,3 +12,5 @@ ssahaSNP is a polymorphism detection tool. It detects homozygous SNPs and indels
 ##URL
 http://www.sanger.ac.uk/resources/software/ssahasnp/
 
+
+## [Reviews on SSAHASNP](https://github.com/gaow/genetic-analysis-software/issues/559)

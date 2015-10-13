@@ -23,3 +23,5 @@ MS-DOS
 * Schork, Boehnke, Terwilliger, Ott (1993), "Two-trait-locus linkage analysis: a powerful strategy for mapping complex genetic traits", American Journal of Human Genetics, 53(5):1127-1136
 * online documentation
 
+
+## [Reviews on TLINKAGE](https://github.com/gaow/genetic-analysis-software/issues/587)

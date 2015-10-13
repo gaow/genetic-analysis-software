@@ -18,3 +18,5 @@ http://www.svaproject.org/
 ##Reference
 Ge,Ruzzo, Shianna,He,Pelak, Heinzen, Need, Cirulli, Maia, Dickson, Zhu,Singh, Allen, Goldstein (2011), "SVA: software for annotating and visualizing sequenced human genomes", Bioinformatics, 27:1998-2000.
 
+
+## [Reviews on SVA](https://github.com/gaow/genetic-analysis-software/issues/568)

@@ -24,3 +24,5 @@ all via internet
 * J Wang, RW Williams, EJ Chesler, KF Manly (2003), "WebQTL: Web-based complex trait analysis", Neuroinformatics 1(4):299-308.
 * EJ Chesler, J Wang, L Lu, Y Qu, KF Manly, RW Williams (2003), "Genetic correlates of gene expression in recombinant inbred strains: a relational model system to explore neurobehavioral phenotypes", Neuroinformatics, 1(4):343-357.
 
+
+## [Reviews on WEBQTL](https://github.com/gaow/genetic-analysis-software/issues/607)

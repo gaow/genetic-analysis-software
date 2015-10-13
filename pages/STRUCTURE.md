@@ -20,3 +20,5 @@ JK Pritchard, M Stephens, P Donnelly (2000), "Inference of population structure 
 ##Related
 STRAT
 
+
+## [Reviews on STRUCTURE](https://github.com/gaow/genetic-analysis-software/issues/564)

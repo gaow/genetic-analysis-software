@@ -11,3 +11,5 @@ web-based
 ##Reference
 de Bakker, Yelensky, Pe'er, Gabriel, Daly, Altshuler (2005), "Efficiency and power in genetic association studies", Nature Genetics, 37:1217-1223.
 
+
+## [Reviews on TAGGER](https://github.com/gaow/genetic-analysis-software/issues/572)

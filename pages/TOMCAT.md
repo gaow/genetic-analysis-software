@@ -22,3 +22,5 @@ tomcat1.0.jar
 ##Reference
 Beckmann, Thomas, Fischer, Chang-Claude (2005), "Haplotype sharing analysis using mantel statistics", Human Heredity, 59(2):67-78.
 
+
+## [Reviews on TOMCAT](https://github.com/gaow/genetic-analysis-software/issues/588)

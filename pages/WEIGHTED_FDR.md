@@ -15,3 +15,5 @@ R
 ##OS
 MS-Windows, Linux, UNIX
 
+
+## [Reviews on WEIGHTED_FDR](https://github.com/gaow/genetic-analysis-software/issues/608)

@@ -23,3 +23,5 @@ UNIX, LINUX, CYGWIN
 ##Reference
 Lemire (2006), "SUP: An extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values", BMC Genetics, 7:40.
 
+
+## [Reviews on SUP](https://github.com/gaow/genetic-analysis-software/issues/567)

@@ -11,3 +11,5 @@ http://www.chg.duke.edu/research/simlaplot.html
 ##Language
 R
 
+
+## [Reviews on SIMULAPLOT](https://github.com/gaow/genetic-analysis-software/issues/520)

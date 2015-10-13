@@ -15,3 +15,5 @@ Linux
 ##Reference
 Diao, Lin (2006), "Improving the power of association tests for quantitative traits in family studies", Genetic Epidemiology, 30:301-313.
 
+
+## [Reviews on SQTDT/SPDT](https://github.com/gaow/genetic-analysis-software/issues/557)

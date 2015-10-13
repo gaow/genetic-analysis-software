@@ -14,3 +14,5 @@ FORTRAN90
 ##Reference
 Stram (2004), "Tag SNP selection for association studies", Genetic Epidemiology, 27(4):365-374.
 
+
+## [Reviews on TAGSNP](https://github.com/gaow/genetic-analysis-software/issues/574)

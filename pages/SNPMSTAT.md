@@ -17,3 +17,5 @@ http://www.bios.unc.edu/~lin/software/SNPMStat/
 ##Reference
 Lin, Hu, Huang (2008), "Simple and efficient analysis of SNP-disease association with missing genotype data", American Journal of Human Genetics, 82:444-452.
 
+
+## [Reviews on SNPMSTAT](https://github.com/gaow/genetic-analysis-software/issues/542)

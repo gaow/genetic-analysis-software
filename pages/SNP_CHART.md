@@ -17,3 +17,5 @@ web-based
 ##Reference
 Tebbutt, Opushnyev, Tripp, Kassamali, Alexander, Andersen (2005), "SNP Chart: an integrated platform for visualization and interpretation of microarray genotyping data", Bioinformatics, 21(1):124-127.
 
+
+## [Reviews on SNP CHART](https://github.com/gaow/genetic-analysis-software/issues/534)

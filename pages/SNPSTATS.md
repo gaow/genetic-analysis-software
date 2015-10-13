@@ -17,3 +17,5 @@ web-based
 ##Reference
 Sole, Guino, Valls, Iniesta, Moreno (2006), "SNPStats: a web tool for the analysis of association studies", Bioinformatics, 22(15):1928-1929.
 
+
+## [Reviews on SNPSTATS](https://github.com/gaow/genetic-analysis-software/issues/545)

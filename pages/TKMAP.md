@@ -15,3 +15,5 @@ based on bioTk which is based on Tcl/Tk
 ##Reference
 manual page
 
+
+## [Reviews on TKMAP](https://github.com/gaow/genetic-analysis-software/issues/586)

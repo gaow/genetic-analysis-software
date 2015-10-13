@@ -17,3 +17,5 @@ SOAP provides full solution to next generation sequencing data analysis. Current
 * Li, Li, Fang, et al. (2009), "SNP detection for massively parallel whole-genome resequencing", Genome Research, 19:1124-1132.
 * Li, Yu, Li, Lam, Yiu, Kristiansen, Wang (2009), "SOAP2: an improved ultrafast tool for short read alignment", Bioinformatics, 25(15):1966-1967.
 
+
+## [Reviews on SOAP](https://github.com/gaow/genetic-analysis-software/issues/547)

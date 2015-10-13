@@ -15,3 +15,5 @@ Linux
 ##Reference
 Diao, Lin (2005), "A powerful and robust method for mapping quantitative trait loci in general pedigrees", American Journal of Human Genetics, 77(1):97-111\. [ html]
 
+
+## [Reviews on SQTL](https://github.com/gaow/genetic-analysis-software/issues/558)

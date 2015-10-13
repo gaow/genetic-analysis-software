@@ -19,3 +19,5 @@ C
 ##Reference
 Anderson, Dunham (2005), "SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations", Molecular Ecology Notes, 5(2):459-461.
 
+
+## [Reviews on SPIP](https://github.com/gaow/genetic-analysis-software/issues/553)

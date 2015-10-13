@@ -8,3 +8,5 @@ http://www.broadinstitute.org/software/syzygy/
 ##Reference
 Rivas et al. (2011), "Deep resequencing of GWAS loci identifies independent rare variants associated with inflammatory bowel disease", Nature Genetics, in press.
 
+
+## [Reviews on SYZYGY](https://github.com/gaow/genetic-analysis-software/issues/571)

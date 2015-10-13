@@ -25,3 +25,5 @@ UNIX(SunOS),Linux, MacOS, MS-Windows(2000/XP)
 ##Reference
 Poznik, Adamska, Xu, Krolewski, Rogus (2006), "A novel framework for sib pair linkage analysis", American Journal of Human Genetics, 78(2):222-230\. [ html]
 
+
+## [Reviews on SPLAT](https://github.com/gaow/genetic-analysis-software/issues/554)

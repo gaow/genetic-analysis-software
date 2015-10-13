@@ -17,3 +17,5 @@ UNIX, MS-Windows, Linux, MacOS X
 ##Reference
 M Fishelson, D Geiger (2002), Bioinformatics, 18(suppl 1):S189-S198.
 
+
+## [Reviews on SUPERLINK](https://github.com/gaow/genetic-analysis-software/issues/566)

@@ -26,3 +26,5 @@ web-based
 ##Reference
 Zhiwu Zhang, Peter J Bradbury, Dallas E Kroon, Terry M Casstevens, Edward S Buckler (2006), "TASSEL 2.0: a software package for association and diversity analyses in plants and animals", Plant & Animal Genomes XIV Conference. [[abstract](http://www.intl-pag.org/14/abstracts/PAG14_C012.html)]
 
+
+## [Reviews on TASSEL](https://github.com/gaow/genetic-analysis-software/issues/576)

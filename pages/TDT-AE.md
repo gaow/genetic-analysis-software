@@ -30,3 +30,5 @@ tdt-ae (PC), tdtae (UNIX and LINUX)
 * Gordon, Haynes, Johnnidis, Patel, Bowcock, Ott (2004), "A transmission disequilibrium test for general pedigrees that is robust to the presence of random genotyping errors and any number of untyped parents", European Journal of Human Genetics, 12:752-761.
 * User's Guide
 
+
+## [Reviews on TDT-AE](https://github.com/gaow/genetic-analysis-software/issues/577)

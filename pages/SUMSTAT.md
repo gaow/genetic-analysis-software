@@ -18,3 +18,5 @@ MS-Windows, Linux
 ##Reference
 Hoh, Wille, Ott (2001), "Trimming, weighting, and grouping SNPs in human case-control association studies", Genome Research, 11:2115-2119
 
+
+## [Reviews on SUMSTAT](https://github.com/gaow/genetic-analysis-software/issues/565)

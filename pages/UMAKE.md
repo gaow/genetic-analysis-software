@@ -16,3 +16,5 @@ UMAKE is a software pipeline to detect SNPs and call their genotypes from a list
 ##URL
 http://genome.sph.umich.edu/wiki/UMAKE
 
+
+## [Reviews on UMAKE](https://github.com/gaow/genetic-analysis-software/issues/597)

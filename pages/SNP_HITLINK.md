@@ -17,3 +17,5 @@ http://www.dynacom.co.jp/u-tokyo.ac.jp/snphitlink/
 ##Reference
 Fukuda, Nakahara, Date, Takahashi, Goto, Miyashita, Kuwano, Adachi, Nakamura, Tsuji (2009), "SNP HiTLink: a high-throughput linkage analysis system employing dense SNP data", BMC Bioinformatics, 10:121.
 
+
+## [Reviews on SNP HITLINK](https://github.com/gaow/genetic-analysis-software/issues/539)

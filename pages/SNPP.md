@@ -29,3 +29,5 @@ Windows, Linux, Solaris, MacOS
 ##Reference
 Zhao, Li, Guo, Xu, Li, Deng (2005), "SNPP: automating large-scale SNP genotype data management", Bioinformatics, 21:266-268
 
+
+## [Reviews on SNPP](https://github.com/gaow/genetic-analysis-software/issues/543)

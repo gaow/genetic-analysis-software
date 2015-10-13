@@ -29,3 +29,5 @@ simla2.3
 * MP Bass, ER Martin, ER Hauser(2002), Am J Hum Genet, suppl 71:569.
 * MP Bass, ER Martin, ER Hauser (2004), "Pedigree generation for analysis of genetic linkage and association", Proceedings of the Pacific Symposium on Biocomputing, pp.93-103.
 
+
+## [Reviews on SIMLA](https://github.com/gaow/genetic-analysis-software/issues/515)

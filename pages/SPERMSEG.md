@@ -14,3 +14,5 @@ C
 ##Reference
 MS McPeek (1999), "SPERMSEG: analysis of segregation distortion in single-sperm data", American Journal of Human Genetics, 65(4):1195-1197\. [ html]
 
+
+## [Reviews on SPERMSEG](https://github.com/gaow/genetic-analysis-software/issues/552)

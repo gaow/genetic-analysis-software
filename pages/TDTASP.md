@@ -31,3 +31,5 @@ tdtasp
 ##Reference
 Brown (2004), "Power calculations for the transmission/disequilibrium and affected sib pair tests using elementary probability methods", Genetic Research, 83(2):133-141.
 
+
+## [Reviews on TDTASP](https://github.com/gaow/genetic-analysis-software/issues/578)

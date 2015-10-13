@@ -17,3 +17,5 @@ SAS macro
 ##Reference
 M Knapp (1999), "A note on power approximations for the transmission/disequilibrium test", American Journal of Human Genetics, 64(4):1177-1185
 
+
+## [Reviews on TDTPOWER](https://github.com/gaow/genetic-analysis-software/issues/581)

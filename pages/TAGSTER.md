@@ -19,3 +19,5 @@ Linux, MacOS, MS-Windows
 ##Reference
 Xu, Kaplan, Taylor (2007), "TAGster: efficient selection of LD tag SNPs in single or multiple populations", Bioinformatics, 23:3254-3255.
 
+
+## [Reviews on TAGSTER](https://github.com/gaow/genetic-analysis-software/issues/575)

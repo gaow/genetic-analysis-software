@@ -30,3 +30,5 @@ UNIX(SunOS/Solaris)
 * SIMWALK manual
 * FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/20.html
 
+
+## [Reviews on SIMWALK](https://github.com/gaow/genetic-analysis-software/issues/523)

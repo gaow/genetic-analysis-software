@@ -14,3 +14,5 @@ Linux, UNIX
 ##Reference
 Nielsen, Mailund (2008), "SNPFile -- A software library and file format for large scale association mapping and population genetics studies", BMC Bioinformatics, 9:526.
 
+
+## [Reviews on SNPFILE](https://github.com/gaow/genetic-analysis-software/issues/536)

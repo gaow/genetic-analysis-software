@@ -21,3 +21,5 @@ C
 ##Reference
 Lin, Zeng (2009), "Proper analysis of secondary phenotype data in case-control association studies", Genetic Epidemiology, 33:256-265.
 
+
+## [Reviews on SPREG](https://github.com/gaow/genetic-analysis-software/issues/556)

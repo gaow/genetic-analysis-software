@@ -15,3 +15,5 @@ Linux
 ##Reference
 Diao, Lin (2006), "Semiparametric variance-component models for linkage and association analyses of censored trait data", Genetic Epidemiology, 30:570-581.
 
+
+## [Reviews on SVCC](https://github.com/gaow/genetic-analysis-software/issues/569)

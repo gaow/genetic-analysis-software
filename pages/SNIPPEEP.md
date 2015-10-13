@@ -13,3 +13,5 @@ http://snippeep.sourceforge.net/
 ##Language
 C
 
+
+## [Reviews on SNIPPEEP](https://github.com/gaow/genetic-analysis-software/issues/531)

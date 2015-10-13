@@ -25,3 +25,5 @@ unphased, tdtphase, cocaphase, pdtphase, qpdtphase
 * F Dudbridge (2003), "Pedigree disequilibrium tests for multilocus haplotypes", Genetic Epidemiology, 25:115-121.
 * Dudbridge (2008), "Likelihood-based association analysis for nuclear families and unrelated subjects with missing genotype data", Human Heredity, 66:87-98.
 
+
+## [Reviews on UNPHASED](https://github.com/gaow/genetic-analysis-software/issues/599)

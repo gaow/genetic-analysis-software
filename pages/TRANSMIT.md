@@ -25,3 +25,5 @@ transmit
 ##Reference
 online documentation
 
+
+## [Reviews on TRANSMIT](https://github.com/gaow/genetic-analysis-software/issues/589)

@@ -18,3 +18,5 @@ C++ (provided as Python libraries)
 ##Reference
 Peng, Kimmel (2005), "simuPOP: a forward-time population genetics simulation environment", Bioinformatics, 21(18):3686-3687.
 
+
+## [Reviews on SIMUPOP](https://github.com/gaow/genetic-analysis-software/issues/522)

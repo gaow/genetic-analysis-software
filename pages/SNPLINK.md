@@ -17,3 +17,5 @@ UNIX
 ##Reference
 Webb, Sellick, Houlston (2005), "SNPLINK: multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal", Bioinformatics, 21:3060-3061.
 
+
+## [Reviews on SNPLINK](https://github.com/gaow/genetic-analysis-software/issues/541)

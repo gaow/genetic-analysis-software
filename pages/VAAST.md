@@ -14,3 +14,5 @@ http://www.yandell-lab.org/software/vaast.html
 ##Reference
 Yandell, Huff, Hu, Singleton, Moore, Xing, Jorde, Reese (2011), "A probabilistic disease-gene finder for personal genomes", Genome Research, 21(9):1529-1542.
 
+
+## [Reviews on VAAST](https://github.com/gaow/genetic-analysis-software/issues/601)

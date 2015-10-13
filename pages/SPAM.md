@@ -14,3 +14,5 @@ http://www.genetics.cf.adfg.state.ak.us/software/spampage.php
 ##Reference
 Debevec, Gates, Masuda, Pella, Reynolds, Seeb (2000), "SPAM (version 3.2): statistics program for analyzing mixtures", Journal of Heredity, 91:509-511.
 
+
+## [Reviews on SPAM](https://github.com/gaow/genetic-analysis-software/issues/549)

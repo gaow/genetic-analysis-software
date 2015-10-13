@@ -20,3 +20,5 @@ UNIX, MS-Windows, MS-DOS, MacOS(X)
 ##Reference
 Posada, Maxwell, Templeton (2005), "TreeScan: a bioinformatic application to search for genotype/phenotype associations using haplotype trees", Bioinformatics, 21(9):2130-2132.
 
+
+## [Reviews on TREESCAN](https://github.com/gaow/genetic-analysis-software/issues/592)

@@ -22,3 +22,5 @@ MS-DOS, UNIX(SunOS/..), VMS
 * Ploughman, Boehnke (1989), "Estimating the power of a proposed linkage study for a complex genetic trait", American Journal of Human Genetics, 44(4):543-551
 * online documentation (version 4.1, april 1990)
 
+
+## [Reviews on SIMLINK](https://github.com/gaow/genetic-analysis-software/issues/516)

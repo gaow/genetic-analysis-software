@@ -20,3 +20,5 @@ Linux, UNIX(Solaris), MS-Windows
 ##Reference
 Am Soc Hum Genet annual meeting (2002) Nothnagel (2002), "Simulation of LD block-structured SNP haplotype data and its use for the analysis of case-control data by supervised learning methods", Am J. Hum Genet, 71(4)(suppl), A2363.
 
+
+## [Reviews on SNAP 3](https://github.com/gaow/genetic-analysis-software/issues/529)

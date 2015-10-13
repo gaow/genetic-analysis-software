@@ -16,3 +16,5 @@ http://www.cals.ncsu.edu/plantpath/people/faculty/carbone/snap.html
 ##Reference
 Aylor, Price, Carbone (2006), "SNAP: Combine and Map modules for multilocus population genetic analysis", Bioinformatics, 22(11):1399-1401.
 
+
+## [Reviews on SNAP](https://github.com/gaow/genetic-analysis-software/issues/530)

@@ -25,3 +25,5 @@ MS-Windows, MS-DOS, UNIX(Solaris)
 ##Reference
 Chen, Deng (2001), Genetic Epidemiology, 21:53-67.
 
+
+## [Reviews on TDT-PC](https://github.com/gaow/genetic-analysis-software/issues/580)

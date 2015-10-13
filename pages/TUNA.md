@@ -16,3 +16,5 @@ http://www.stat.uchicago.edu/~wen/tuna/
 * Nicolae (2006), "Testing untyped alleles (TUNA) - applications to genome-wide association studies", Genetic Epidemiology, 30(8):718-727.
 * Wen, Nicolae (2007), "Case-control association studies of untyped markers with TUNA", Bioinformatics, 24(3):435-437.
 
+
+## [Reviews on TUNA](https://github.com/gaow/genetic-analysis-software/issues/595)

@@ -15,3 +15,5 @@ UNIX(Solaris), Linux
 ##Reference
 Y Luo, S Lin (2003), "Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees", Genetic Epidemiology, 25:14-24.
 
+
+## [Reviews on START](https://github.com/gaow/genetic-analysis-software/issues/560)

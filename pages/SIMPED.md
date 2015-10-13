@@ -19,3 +19,5 @@ UNIX, MS-Window, Linux
 ##Reference
 Leal, Yan, Muller-Myhsok (2005), "SimPed: a simulation program to generate haplotype and genotype data for pedigree structures", Human Heredity, 60(2):119-122.
 
+
+## [Reviews on SIMPED](https://github.com/gaow/genetic-analysis-software/issues/518)

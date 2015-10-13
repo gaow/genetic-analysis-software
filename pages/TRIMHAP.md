@@ -27,3 +27,5 @@ hal
 ##Reference
 MacLean, Martin, Sham, Straub, Kendler (2000), "The trimmed-haplotype test for linkage disequilibrium", American Journal of Human Genetics, 66(3):1062-1075\. [ html]
 
+
+## [Reviews on TRIMHAP](https://github.com/gaow/genetic-analysis-software/issues/594)

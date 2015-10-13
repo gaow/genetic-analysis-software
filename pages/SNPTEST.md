@@ -11,3 +11,5 @@ Jonathan Marchini
 ##URL
 http://www.stats.ox.ac.uk/~marchini/software/gwas/snptest.html
 
+
+## [Reviews on SNPTEST](https://github.com/gaow/genetic-analysis-software/issues/546)
