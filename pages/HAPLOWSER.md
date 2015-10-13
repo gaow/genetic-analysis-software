@@ -1,0 +1,13 @@
+#HAPLOWSER
+##Full_name
+HAPLotype brOWSER
+
+##URL
+http://embio.yonsei.ac.kr/haplowser/
+
+##Language
+Java
+
+##Reference
+Kim, Kim, Waterman, Park, Li (2009), "HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome", Bioinformatics, 25(18):2430-2431.
+

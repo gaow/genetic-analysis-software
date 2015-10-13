@@ -1,0 +1,27 @@
+#MAPMAKER/SIBS
+##Version
+2.1 (Dec 1996)
+
+##Author
+Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
+
+##URL
+ftp://ftp-genome.wi.mit.edu/distribution/software/sibs
+
+##Language
+C
+
+##OS
+UNIX
+
+##Exe
+sibs
+
+##Reference
+* Kruglyak, Lander (1995), "Complete multipoint sib-pair analysis of qualitative and quantitative traits", American Journal of Human Genetics, 57(2):439-454
+* the changes from version 1.1 to 2.0 .
+* manual (in postscript)
+
+##Related
+GENEHUNTER
+

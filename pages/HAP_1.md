@@ -1,0 +1,14 @@
+#HAP 1
+##Full_name
+haplotype resolution using imperfect phylogeny
+
+##Version
+3.0
+
+##Author
+Eleazar Eskin ( eeskin@cs.ucsd.edu)
+
+##URL
+* http://research.calit2.net/hap/
+* http://www.cs.columbia.edu/compbio/hap/
+
