@@ -32,9 +32,9 @@ def dict2conf(d):
         d['name'] = value[0].strip()
         d['RELATED'] = [value[1].replace('see also', '').strip().strip(')')]
     if 'AUTHOR' in d:
-        d['AUTHOR'][0] = d['AUTHOR'][0].replace(' and ', ', ')
+        d['AUTHOR'] = ', '.join(d['AUTHOR']).replace(' and ', ', ')
         r = re.compile(r'(?:[^,(]|\([^)]*\))+')
-        d['AUTHOR'] = [x.strip() for x in r.findall(d['AUTHOR'][0])]
+        d['AUTHOR'] = [x.strip() for x in r.findall(d['AUTHOR'])]
     if 'URL' in d:
         d['URL'] = ';'.join(d['URL']).split(";")
     d['name'] = re.sub(r"\(|\)|,",'', d['name'])
@@ -77,3 +77,4 @@ for line in open('gas-html.md').readlines():
                     d[prev_key].append(line)
                 except:
                     raise
+d = dict2conf(d)
