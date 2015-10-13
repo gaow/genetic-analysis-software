@@ -530,7 +530,6 @@
 * [RVTESTS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RVTESTS.md), Rare Variants TESTS
 
 ## S
-* [S](https://github.com/gaow/genetic-analysis-software/blob/master/pages/S.md)
 * [SAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAGE.md), Statistical Analysis for Genetic Epidemiology
 * [SAMTOOLS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAMTOOLS.md), Sequence Alignment/Map TOOLS
 * [SAS/GENETICS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAS&GENETICS.md)
