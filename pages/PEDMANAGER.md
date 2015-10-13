@@ -20,3 +20,5 @@ UNIX
 ##EXE
 pedprep
 
+
+## [Reviews on PEDMANAGER](https://github.com/gaow/genetic-analysis-software/issues/387)

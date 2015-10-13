@@ -23,3 +23,5 @@ msg_proj
 ##Reference
 A Almudevar, C Field (1999), "Estimation of single generation sibling relationships based on DNA markers", J. Agricultural, Biological and Environmental Statistics, 4(2):136-165.
 
+
+## [Reviews on PRT](https://github.com/gaow/genetic-analysis-software/issues/427)

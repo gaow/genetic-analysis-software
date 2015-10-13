@@ -26,3 +26,5 @@ MS-Windows, Linux
 * Gauderman (2002), "Sample size requirements for matched case-control studies of gene-environment interaction", Statistics in Medicine, 21:35-50.
 * Kraft, Yen, Stram, Morrison, Gauderman (2007), "Exploiting gene-environment interaction to detect genetic associations", Human Heredity, 63:1141-1119.
 
+
+## [Reviews on PIAGE](https://github.com/gaow/genetic-analysis-software/issues/400)

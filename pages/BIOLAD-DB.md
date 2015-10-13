@@ -24,3 +24,5 @@ MS-Windows
 ##Reference
 Nielsen, Leidner, Haynes, Krauthammer, Kreek (2007), "The BiolAD-DB system - an informatics system for clinical and genetic data", Molecular Diagnosis & Therapy, 11(1):15-19.
 
+
+## [Reviews on BIOLAD-DB](https://github.com/gaow/genetic-analysis-software/issues/41)

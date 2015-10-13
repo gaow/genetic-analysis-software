@@ -23,3 +23,5 @@ UNIX(Solaris), Linux(RedHat), MS-Windows(XP)
 * Hauser, Watanabe, Duren, Bass, Langefeld, Boehnke (2004), "Ordered subset analysis in genetic linkage mapping of complex traits", Genetic Epidemiology, 27:53-63.
 * Chung, Hauser, martin (2006), "The APL test: extension to general nuclear families and haplotypes and examination of its robustness", Human Heredity, 61:189-199.
 
+
+## [Reviews on APL-OSA](https://github.com/gaow/genetic-analysis-software/issues/22)

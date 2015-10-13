@@ -27,3 +27,5 @@ sib_ibd, sib_tdt, sib_phase, sib_map, sib_kin, sib_clean
 ##Reference
 online manual (PDF)
 
+
+## [Reviews on ASPEX](https://github.com/gaow/genetic-analysis-software/issues/28)

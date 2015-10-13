@@ -25,3 +25,5 @@ gpcommand, gpextract, gpanalyze
 ##Reference
 Pearson, Huentelman, Halperin, Tembe, Melquist, Homer, Brun, Szelinger, Coon, Zismann, Webster, Beach, Sando, Aasly, Heun, Jessen, Kolsch, Tsolaki, Daniilidou, Reiman, Papassotiropoulos, Hutton, Stephan, Craig (2007), "Identification of the genetic basis for complex disorders by use of pooling-based genomewide single-nucleotide-polymorphism association studies", American Journal of Human Genetics, 80:126-139
 
+
+## [Reviews on GENEPOOL](https://github.com/gaow/genetic-analysis-software/issues/155)

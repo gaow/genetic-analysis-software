@@ -23,3 +23,5 @@ mld.x
 ##Reference
 Zaykin, Zhivotovsky, Weir (1995), Genetica, 96:169-178.
 
+
+## [Reviews on MLD](https://github.com/gaow/genetic-analysis-software/issues/342)

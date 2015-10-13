@@ -14,3 +14,5 @@ C
 ##OS
 UNIX(Solaris), MS-Windows(XP)
 
+
+## [Reviews on HWESTRATA](https://github.com/gaow/genetic-analysis-software/issues/241)

@@ -27,3 +27,5 @@ MS-Windows(2000/XP), Linux, MacOS
 ##Reference
 Gaunt, Rodriguez, Zapata, Day (2006), "MIDAS: software for analysis and visualisation of interallelic disequilibrium between multiallelic markers", BMC Bioinformatics, 7:227.
 
+
+## [Reviews on MIDAS](https://github.com/gaow/genetic-analysis-software/issues/333)

@@ -17,3 +17,5 @@ MS-Windows (95/98/NT/2000/XP), MacOS(X)
 ##Reference
 Balloux (2001), "EASYPOP (Version 1.7): a computer program for population genetics simulations", Journal of Heredity, 92:301-302.
 
+
+## [Reviews on EASYPOP](https://github.com/gaow/genetic-analysis-software/issues/97)

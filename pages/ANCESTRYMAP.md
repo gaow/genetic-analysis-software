@@ -19,3 +19,5 @@ UNIX, Linux
 ##Reference
 Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O'Brien, Altshuler, Daly, Reich (2004), "Methods for high-density admixture mapping of disease genes", American Journal of Human Genetics, 74(5):97-1000
 
+
+## [Reviews on ANCESTRYMAP](https://github.com/gaow/genetic-analysis-software/issues/18)

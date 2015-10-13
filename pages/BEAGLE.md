@@ -27,3 +27,5 @@ MS-Windows, Linux, UNIX(Solaris), MacOS
 * Browning SR and Browning BR (2007), "Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering", American Journal of Human Genetics, 81(5):1084-1097
 * Browning BR and Browning SR (2007), "Efficient multilocus association testing for whole genome association studies using localized haplotype clustering", Genetic Epidemiology, 31:365-375.
 
+
+## [Reviews on BEAGLE](https://github.com/gaow/genetic-analysis-software/issues/36)

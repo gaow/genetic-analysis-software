@@ -26,3 +26,5 @@ cats (graphical interface for MS-Windows, MacOS, and Linux), cats-test (Linux co
 ##Reference
 Skol, Scott, Abecasis, Boehnke (2006), "Joint analysis is more efficient than replication-based analysis for two-stage genome-wide association studies", Nature Genetics, 38:209-213.
 
+
+## [Reviews on CATS](https://github.com/gaow/genetic-analysis-software/issues/58)

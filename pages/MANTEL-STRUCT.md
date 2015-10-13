@@ -14,3 +14,5 @@ MS-Windows
 ##Reference
 Miller (1999), "MANTEL-STRUCT: a program for the detection of population structure via mantel tests", Journal of Heredity, 90:258-259.
 
+
+## [Reviews on MANTEL-STRUCT](https://github.com/gaow/genetic-analysis-software/issues/299)

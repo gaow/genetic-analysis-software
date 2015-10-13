@@ -11,3 +11,5 @@ Java
 ##Reference
 Martin, Valsesia, Telenti, Xenarios, Stevenson (2009), "AssociationViewer: a scalable and integrated software tool for visualization of large-scale variation data in genomic context", Bioinformatics, 25(5):662-663.
 
+
+## [Reviews on ASSOCIATIONVIEWER](https://github.com/gaow/genetic-analysis-software/issues/29)

@@ -14,3 +14,5 @@ http://www.sanger.ac.uk/resources/software/carol/
 ##Language
 R
 
+
+## [Reviews on CAROL](https://github.com/gaow/genetic-analysis-software/issues/54)

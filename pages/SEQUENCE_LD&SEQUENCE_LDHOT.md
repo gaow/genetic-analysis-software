@@ -13,3 +13,5 @@ http://www.maths.lancs.ac.uk/~fearnhea/Software.html
 * Fearnhead, Donnelly (2002), "Approximate likelihood methods for estimating local recombination rates", Journal of the Royal Statistical Society series B, 64:657-680.
 * Fearnhead (2006), "SequenceLDhot: detecting recombination hotspots", Bioinformatics, 22:3061-3066.
 
+
+## [Reviews on SEQUENCE LD/SEQUENCE LDHOT](https://github.com/gaow/genetic-analysis-software/issues/502)

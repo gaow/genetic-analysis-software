@@ -18,3 +18,5 @@ inferhap.exe, ettdt.exe
 ##Reference
 Selman, Roeder, Devlin (2001), "Transmission/Disequilibrium Test Meets Measured haplotype analysis: family-based association analysis guided by evolution of haplotypes", American Journal of Human Genetics, 68(5):1250-1263
 
+
+## [Reviews on ET-TDT](https://github.com/gaow/genetic-analysis-software/issues/114)

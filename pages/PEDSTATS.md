@@ -24,3 +24,5 @@ pedstats
 ##Reference
 Wigginton, Abecasis (2005), "PEDSTATS: descriptive statistics, graphics and quality assessment for gene mapping data", Bioinformatics, 21:3445-3447.
 
+
+## [Reviews on PEDSTATS](https://github.com/gaow/genetic-analysis-software/issues/394)

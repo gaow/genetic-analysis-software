@@ -18,3 +18,5 @@ http://wwwcsif.cs.ucdavis.edu/~gusfield/bpph.html
 ##Reference
 D. Gusfield (2002), "Haplotyping as perfect phylogeny: conceptual framework and efficient solutions", In Proceedings of RECOMB, Sixth Annual Conference on Research in Computational Molecular Biology, pp.?-?.
 
+
+## [Reviews on BPPH](https://github.com/gaow/genetic-analysis-software/issues/51)

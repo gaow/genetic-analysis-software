@@ -21,3 +21,5 @@ Linux
 ##Reference
 R Kilpikari, MJ Sillanpaa (2003), "Bayesian analysis of multilocus association in quantitative and qualitative traits", Genetic Epidemiology, 25:122-135.
 
+
+## [Reviews on BAMA](https://github.com/gaow/genetic-analysis-software/issues/31)

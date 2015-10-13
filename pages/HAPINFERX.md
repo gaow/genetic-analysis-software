@@ -14,3 +14,5 @@ FORTRAN
 ##Reference
 Clark (1990), "Inference of haplotype from PCR-amplified samples of diploid populations", Molecular Biology and Evolution, 7:111-122.
 
+
+## [Reviews on HAPINFERX](https://github.com/gaow/genetic-analysis-software/issues/202)

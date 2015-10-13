@@ -17,3 +17,5 @@ Java
 ##Reference
 Barrett, Fry, Maller, Daly (2005), "Haploview: analysis and visualization of LD and haplotype maps", Bioinformatics, 21(2):263-265.
 
+
+## [Reviews on HAPLOVIEW](https://github.com/gaow/genetic-analysis-software/issues/218)

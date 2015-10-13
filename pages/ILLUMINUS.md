@@ -14,3 +14,5 @@ C++
 ##Reference
 Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), "A genotype calling algorithm for the Illumina BeadArray platform", Bioinformatics, 23(20):2741-2746.
 
+
+## [Reviews on ILLUMINUS](https://github.com/gaow/genetic-analysis-software/issues/245)

@@ -21,3 +21,5 @@ introduction
 ##Availability
 please contact shannon.conners@jmp.com for details
 
+
+## [Reviews on SAS/GENETICS](https://github.com/gaow/genetic-analysis-software/issues/495)

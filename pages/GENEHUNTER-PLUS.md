@@ -24,3 +24,5 @@ Kong, Cox (1997), "Allele-sharing models: LOD scores and accurate linkage tests"
 ##Related
 ALLEGRO, GENEHUNTER, GENEHUNTER-IMPRINTING, GENEHUNTER-MODSCORE, GENEHUNTER-TWOLOCUS
 
+
+## [Reviews on GENEHUNTER-PLUS](https://github.com/gaow/genetic-analysis-software/issues/151)

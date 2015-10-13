@@ -23,3 +23,5 @@ UNIX, MacOS. MatLab programming environment is required.
 ##Reference
 Am Soc Hum Genet annual meeting 1996 (Ng,Mukhopadhyay, Rayman,Ghosth,Perlin, Am J Hum Genet, suppl 59, A225 (1996); Am Soc Hum Genet annual meeting 1997 (Perlin, Bloch, Mukhopadhyay, Ng, Am J Hum Genet, suppl 61, A290 (1997)).
 
+
+## [Reviews on FASTMAP 1](https://github.com/gaow/genetic-analysis-software/issues/122)

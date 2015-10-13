@@ -11,3 +11,5 @@ C++
 ##Reference
 Stegle, Parts, Durbin, Winn (2010), "A Bayesian framework to account for complex non-genetic factors in gene expression levels greatly increases power in eQTL studies", PLoS Computational Biology, 6:e1000770.
 
+
+## [Reviews on PEER](https://github.com/gaow/genetic-analysis-software/issues/397)

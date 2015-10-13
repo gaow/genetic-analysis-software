@@ -17,3 +17,5 @@ MS-Windows, Linux
 ##Reference
 Li and Jiang (2005), "Haplotype-based linkage disequilibrium mapping via direct data mining", Bioinformatics, 21(24):4384-4393.
 
+
+## [Reviews on HAPMINER](https://github.com/gaow/genetic-analysis-software/issues/221)

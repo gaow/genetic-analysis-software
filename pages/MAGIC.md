@@ -22,3 +22,5 @@ MS-Windows (95/98/NT/2000/XP)
 ##Reference
 CL Simpson, VK Hansen, PC Sham, A Collins, JF Powell, A Al-Chalabi (2004), "MaGIC: A program to generate targeted marker sets for genome-wide association studies", BioTechniques, 37:996-999.
 
+
+## [Reviews on MAGIC](https://github.com/gaow/genetic-analysis-software/issues/294)

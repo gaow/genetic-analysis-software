@@ -15,3 +15,5 @@ http://ibi.imim.es/osirisform.html
 ##Reference
 Bonis, Furlong, Sanz (2006), "OSIRIS: a tool for retrieving literature about sequence variants", Bioinformatics, 22(20):2567-2569.
 
+
+## [Reviews on OSIRIS](https://github.com/gaow/genetic-analysis-software/issues/364)

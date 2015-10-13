@@ -10,3 +10,5 @@ Abecasis' group (Univ Michigan)
 * http://genome.sph.umich.edu/wiki/GlfTrio
 * http://genome.sph.umich.edu/wiki/GlfMultiples
 
+
+## [Reviews on GLFSINGLE/GLFTRIO/GLFMULTIPLES](https://github.com/gaow/genetic-analysis-software/issues/179)

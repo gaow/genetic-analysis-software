@@ -26,3 +26,5 @@ UNIX(Compaq-Alpha/..)
 ##Related
 PANGAEA
 
+
+## [Reviews on PEDPACK](https://github.com/gaow/genetic-analysis-software/issues/388)

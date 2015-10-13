@@ -20,3 +20,5 @@ Java
 * Sun, Jacobsen, Kardia (2006), "ChromoScan: a scan statistic application for identifying chromosomal regions in genomic studies", Bioinformatics, 22(23):2945-2947.
 * Sun, Levin, Boerwinkle, Robertson, Kardia (2006), "A scan statistic for identifying chromosomal patterns of SNP association", Genetic Epidemiology, 30(7):627-635.
 
+
+## [Reviews on CHROMOSCAN](https://github.com/gaow/genetic-analysis-software/issues/70)

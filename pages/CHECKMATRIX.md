@@ -17,3 +17,5 @@ http://www.atgc.org/XLinkage/
 ##Language
 Python
 
+
+## [Reviews on CHECKMATRIX](https://github.com/gaow/genetic-analysis-software/issues/67)

@@ -25,3 +25,5 @@ block, theta
 ##Reference
 Jensen, Kong and Kjaerulff, "Blocking-Gibbs Sampling in Very Large Probabilistic Expert Systems", International Journal of Human-Computer Studies, 647-666 (1995).
 
+
+## [Reviews on BLOCK](https://github.com/gaow/genetic-analysis-software/issues/44)

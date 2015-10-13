@@ -15,3 +15,5 @@ http://biomath.med.uth.gr
 ##Reference
 Zintzaras, Ioannidis (2005), "HEGESMA: genome search meta-analysis and heterogeneity testing", Bioinformatics, 21(18):3672-3673.
 
+
+## [Reviews on HEGESMA](https://github.com/gaow/genetic-analysis-software/issues/231)

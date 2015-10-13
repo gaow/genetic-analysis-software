@@ -17,3 +17,5 @@ http://www.openbioinformatics.org/annovar/
 ##Reference
 Wang, Li, Hakonarson (2010), "ANNOVAR: Functional annotation of genetic variants from next-generation sequencing data", Nucleic Acids Research, 38:e164.
 
+
+## [Reviews on ANNOVAR](https://github.com/gaow/genetic-analysis-software/issues/19)

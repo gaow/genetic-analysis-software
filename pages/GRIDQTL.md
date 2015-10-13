@@ -11,3 +11,5 @@ http://www.gridqtl.org.uk/
 ##OS
 web-based
 
+
+## [Reviews on GRIDQTL](https://github.com/gaow/genetic-analysis-software/issues/187)

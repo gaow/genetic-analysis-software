@@ -20,3 +20,5 @@ UNIX
 ##Reference
 D Franke, A Kleensang and A Ziegler (2006), "SIBSIM, quantitative phenotype simulation in extended pedigrees", GMS Med Inform Biom Epidemiol, 2(1):Doc04.
 
+
+## [Reviews on SIBSIM](https://github.com/gaow/genetic-analysis-software/issues/508)

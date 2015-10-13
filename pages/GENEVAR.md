@@ -14,3 +14,5 @@ Java
 ##Reference
 Yang, Beazley, Montgomery, Dimas, Gutierrez-Arcelus, Stranger, Deloukas, Dermitzakis (2010), "Genevar: a database and Java application for the analysis and visualization of SNP-gene associations in eQTL studies", Bioinformatics, 24(18):2105-2107.
 
+
+## [Reviews on GENEVAR](https://github.com/gaow/genetic-analysis-software/issues/161)

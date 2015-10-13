@@ -20,3 +20,5 @@ UNIX, MS-Windows
 ##EXE
 haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
 
+
+## [Reviews on HAPLOBLOCKFINDER](https://github.com/gaow/genetic-analysis-software/issues/205)

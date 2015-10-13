@@ -25,3 +25,5 @@ rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, q
 * Basten,Weir,Zeng (1994), "Zmap-a QTL cartographer", in Proceedings of the 5th World Congress on Genetics Applied to Livestock Production: Computing Strategies and Software, vol 22, eds. Smith, Gavora, Chesnais, Fairfull, Gibson, Kennedy, Burnside.
 * online manual
 
+
+## [Reviews on QTL Cartographer](https://github.com/gaow/genetic-analysis-software/issues/438)

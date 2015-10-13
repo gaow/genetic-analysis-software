@@ -17,3 +17,5 @@ Fortran77
 ##Reference
 Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.J. Hum. Genet. suppl. 61, A197 (1997)); online manual page
 
+
+## [Reviews on SIB-PAIR](https://github.com/gaow/genetic-analysis-software/issues/507)

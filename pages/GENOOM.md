@@ -25,3 +25,5 @@ UNIX, Linux
 ##Reference
 Quesneville, Anxolabehere (1997), "GENOOM: a simulation package for GENetic Object-Oriented Modeling", Abstract in the European Mathematical Genetics Meeting Proceedings, Annals of Human Genetics, 61:543.
 
+
+## [Reviews on GENOOM](https://github.com/gaow/genetic-analysis-software/issues/169)

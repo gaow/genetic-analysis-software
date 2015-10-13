@@ -20,3 +20,5 @@ MS-Windos, UNIX
 ##Reference
 Piry, Alapetite, Cornuet, Paetkau, Baudouin, Estoup (2004), "GeneClass2: a software for genetic assignment and first-generation migrant detection", Journal of Heredity, 95:536-539.
 
+
+## [Reviews on GENECLASS](https://github.com/gaow/genetic-analysis-software/issues/145)

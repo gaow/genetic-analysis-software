@@ -5,3 +5,5 @@ a tool for manual and automatic DNA sequence assembly, DNA sequence analysis, au
 ##URL
 http://www.dnabaser.com/
 
+
+## [Reviews on DNABASER](https://github.com/gaow/genetic-analysis-software/issues/92)

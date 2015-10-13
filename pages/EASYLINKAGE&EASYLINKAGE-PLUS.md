@@ -26,3 +26,5 @@ linkage_v5.02.exe
 * Lindner, Hoffmann (2005), "easyLINKAGE: A PERL script for easy and automated two-/multi-point linkage analyses", Bioinformatics, 21(3):405-407.
 * Hoffmann, Lindner (2005), "easyLINKAGE-Plus - automated linkage analyses using large-scale SNP data" Bioinformatics, 21(17):3565-3567.
 
+
+## [Reviews on EASYLINKAGE/EASYLINKAGE-PLUS](https://github.com/gaow/genetic-analysis-software/issues/96)

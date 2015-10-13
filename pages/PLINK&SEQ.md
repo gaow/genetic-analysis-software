@@ -14,3 +14,5 @@ MacOS, Linux
 ##Related
 PLINK
 
+
+## [Reviews on PLINK/SEQ](https://github.com/gaow/genetic-analysis-software/issues/406)

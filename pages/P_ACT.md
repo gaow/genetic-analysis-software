@@ -14,3 +14,5 @@ http://csg.sph.umich.edu/boehnke/p_act.php
 ##Reference
 Conneely, Boehnke (2007), "So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests", American Journal of Human Genetics, 81(6):1158-1168
 
+
+## [Reviews on P_ACT](https://github.com/gaow/genetic-analysis-software/issues/365)

@@ -20,3 +20,5 @@ MacOS
 ##Reference
 Manly and Olsen, Mammalian Genome, 10:327-334 (1999)
 
+
+## [Reviews on MAP MANAGER QT](https://github.com/gaow/genetic-analysis-software/issues/311)

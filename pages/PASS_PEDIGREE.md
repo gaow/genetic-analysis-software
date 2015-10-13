@@ -12,3 +12,5 @@ PASS (Pro Active Software Solutions) Software
 ##Availability
 price
 
+
+## [Reviews on PASS PEDIGREE](https://github.com/gaow/genetic-analysis-software/issues/369)

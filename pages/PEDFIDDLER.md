@@ -21,3 +21,5 @@ UNIX (OSF1, and Solaris 2.7, AlphaLinux) MS-Windows (XP Home/Win32/Win95), Linux
 ##Related
 PEDPACK in PANGAEA
 
+
+## [Reviews on PEDFIDDLER](https://github.com/gaow/genetic-analysis-software/issues/379)

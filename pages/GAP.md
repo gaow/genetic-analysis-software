@@ -27,3 +27,5 @@ MS-Windows (3.1/95/NT), UNIX(Solaris)
 ##Availability
 price single user: US$795; LAN version: US$1295\. Kindred only: US$495\. (academic prices are US$595, US$1095, US$395, respectively)
 
+
+## [Reviews on GAP](https://github.com/gaow/genetic-analysis-software/issues/134)

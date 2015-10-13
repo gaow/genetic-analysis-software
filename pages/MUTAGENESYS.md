@@ -12,3 +12,5 @@ http://magnet.c2b2.columbia.edu/mutagenesys/
 ##Reference
 Stoyanovich, Pe'er (2008), "MutaGeneSys: estimating individual disease susceptibility based on genome-wide SNP array data", Bioinformatics, 24(3):440-442.
 
+
+## [Reviews on MUTAGENESYS](https://github.com/gaow/genetic-analysis-software/issues/357)

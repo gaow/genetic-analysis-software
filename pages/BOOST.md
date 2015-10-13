@@ -17,3 +17,5 @@ http://bioinformatics.ust.hk/BOOST.html
 ##Reference
 Wan, Yang, Yang, Xue, Fan, Tang, Yu (2010), "BOOST: a Boolean representation-based method for detecting SNP-SNP interactions in genome-wide association studies"", American Journal of Human Genetics, 87:325-340.
 
+
+## [Reviews on BOOST](https://github.com/gaow/genetic-analysis-software/issues/47)

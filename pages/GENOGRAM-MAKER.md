@@ -14,3 +14,5 @@ Monica McGoldrick, Randy Gerson, , Sylvia Shellenberger (1999), Genograms: Asses
 ##Availability
 US$50 (student), US$125 (standard)
 
+
+## [Reviews on GENOGRAM-MAKER](https://github.com/gaow/genetic-analysis-software/issues/165)

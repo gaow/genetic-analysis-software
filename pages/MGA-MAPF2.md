@@ -11,3 +11,5 @@ FORTRAN
 ##OS
 MS-DOS, MS-Windows (95/98/NT)
 
+
+## [Reviews on MGA-MAPF2](https://github.com/gaow/genetic-analysis-software/issues/332)

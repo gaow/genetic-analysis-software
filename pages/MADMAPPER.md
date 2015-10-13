@@ -17,3 +17,5 @@ Python
 ##EXE
 MadMapper_RECBIT, MadMapper_XDELTA
 
+
+## [Reviews on MADMAPPER](https://github.com/gaow/genetic-analysis-software/issues/293)

@@ -21,3 +21,5 @@ R
 ##Reference
 Aulchenko, Ripke, Isaacs, van Duijn (2007), "GenABEL: an R library for genome-wide association analysis", Bioinformatics, 23(10):1294-1296.
 
+
+## [Reviews on R/GENABEL](https://github.com/gaow/genetic-analysis-software/issues/462)

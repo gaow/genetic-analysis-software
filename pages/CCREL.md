@@ -23,3 +23,5 @@ Unix/Linux
 ##Reference
 Browning, Briley, Briley, Chandra, Charnecki, Ehm, Johansson, Jones, Karter, Yarnall, Wagner (2005), "Case-control single marker and haplotypic association analysis of pedigree data", Genetic Epidemiology, 28:110-122.
 
+
+## [Reviews on CCREL](https://github.com/gaow/genetic-analysis-software/issues/61)

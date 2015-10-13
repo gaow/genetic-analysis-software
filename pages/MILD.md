@@ -14,3 +14,5 @@ http://www.geneticepi.com/Research/software/software.html
 ##OS
 UNIX, Linux
 
+
+## [Reviews on MILD](https://github.com/gaow/genetic-analysis-software/issues/334)

@@ -11,3 +11,5 @@ http://www.molecular-haplotype.org/profiler/profiler_intro.htm
 ##OS
 Linux, UNIX(Solaris)
 
+
+## [Reviews on PROFILER](https://github.com/gaow/genetic-analysis-software/issues/425)

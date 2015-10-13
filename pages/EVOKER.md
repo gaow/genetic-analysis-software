@@ -16,3 +16,5 @@ Evoker is a graphical tool for visualizing genotype intensity data in order to a
 ##Language
 Java, Perl
 
+
+## [Reviews on EVOKER](https://github.com/gaow/genetic-analysis-software/issues/115)

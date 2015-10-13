@@ -15,3 +15,5 @@ A stepwise approach to identifying recombination breakpoints in a sequence align
 * http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/
 * http://cran.r-project.org/web/packages/stepwise/index.html
 
+
+## [Reviews on R/STEPWISE](https://github.com/gaow/genetic-analysis-software/issues/487)

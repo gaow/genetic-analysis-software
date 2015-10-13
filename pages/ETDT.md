@@ -22,3 +22,5 @@ MS-DOS
 ##Reference
 Sham, Curtis (1995), Annals of Human Genetics, 59:323-336.
 
+
+## [Reviews on ETDT](https://github.com/gaow/genetic-analysis-software/issues/113)

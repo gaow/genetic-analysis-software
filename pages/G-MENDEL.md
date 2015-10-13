@@ -15,3 +15,5 @@ http://cropandsoil.oregonstate.edu/G-mendel
 ##OS
 UNIX, MS-Windows
 
+
+## [Reviews on G-MENDEL](https://github.com/gaow/genetic-analysis-software/issues/184)

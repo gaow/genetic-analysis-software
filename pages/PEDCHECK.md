@@ -21,3 +21,5 @@ UNIX(SunOS/Solaris/Compaq-Alpha/SGI-IRIX/..)
 * Am Soc Hum Genet annual meeting 1997 (O'Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O'Connell, Weeks (1998), "PedCheck: a program for identification of genotype incompatibilities in linkage analysis", American Journal of Human Genetics, 63(1):259-266
 * FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/8.html
 
+
+## [Reviews on PEDCHECK](https://github.com/gaow/genetic-analysis-software/issues/378)

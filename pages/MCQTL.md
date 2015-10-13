@@ -27,3 +27,5 @@ UNIX, Linux
 ##Reference
 Jourjon, Jasson, Marcel, Ngom, Mangin (2005), "MCQTL: Multi-allelic QTL mapping in multi-cross design", Bioinformatics, 21:128-130.
 
+
+## [Reviews on MCQTL](https://github.com/gaow/genetic-analysis-software/issues/320)

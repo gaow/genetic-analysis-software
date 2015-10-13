@@ -17,3 +17,5 @@ Java
 ##Reference
 F Dudbridge, T Carver, GW Williams (2004), "Pelican: pedigree editor for linkage computer analysis", Bioinformatics, 20(14):2327-2328.
 
+
+## [Reviews on PELICAN](https://github.com/gaow/genetic-analysis-software/issues/398)

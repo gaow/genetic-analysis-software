@@ -20,3 +20,5 @@ C++ (the standard template library, STL, is used)
 ##Related
 PANGAEA
 
+
+## [Reviews on INSEGT](https://github.com/gaow/genetic-analysis-software/issues/248)

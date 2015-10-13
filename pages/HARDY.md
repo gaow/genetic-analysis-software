@@ -25,3 +25,5 @@ Guo and Thompson (1992), Biometrics, 48, 361-372.
 ##Related
 PANGAEA
 
+
+## [Reviews on HARDY](https://github.com/gaow/genetic-analysis-software/issues/229)

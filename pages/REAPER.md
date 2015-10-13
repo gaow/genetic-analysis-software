@@ -19,3 +19,5 @@ MS-Windows, Linux
 ##Reference
 Magi, Kaplinski, Remm (2006), "The whole genome TagSNP selection and transferability among HapMap populations", Pacific Symposium on Biocomputing, 11:535-543.
 
+
+## [Reviews on REAPER](https://github.com/gaow/genetic-analysis-software/issues/450)

@@ -26,3 +26,5 @@ king
 ##Reference
 Manichaikul, Mychaleckyj, Rich, Daly, Sale, Chen (2010), "Robust relationship inference in genome wide association studies", Bioinformatics. 2010 Nov 15;26(22):2867-73
 
+
+## [Reviews on KING](https://github.com/gaow/genetic-analysis-software/issues/257)

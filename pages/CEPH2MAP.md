@@ -11,3 +11,5 @@ C
 ##EXE
 ceph2map
 
+
+## [Reviews on CEPH2MAP](https://github.com/gaow/genetic-analysis-software/issues/63)

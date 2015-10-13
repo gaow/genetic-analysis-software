@@ -27,3 +27,5 @@ Am Soc Hum Genet annual meeting 1987 (Dyke, Mamelka, Am J. Hum Genet, suppl 41, 
 ##Availability
 disk and user's guide: US$45; user's guide: US$20; upgrade for disk: US$15;
 
+
+## [Reviews on PEDIGREE/DRAW](https://github.com/gaow/genetic-analysis-software/issues/382)

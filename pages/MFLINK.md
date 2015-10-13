@@ -16,3 +16,5 @@ C
 ##Reference
 Curtis, Sham (1995), "Model-free linkage analysis using likelihoods", American Journal of Human Genetics, 57(3):703-716
 
+
+## [Reviews on MFLINK](https://github.com/gaow/genetic-analysis-software/issues/331)

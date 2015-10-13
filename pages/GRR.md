@@ -26,3 +26,5 @@ MS-Windows
 ##Reference
 Abecasis, Cherny, Cookson, and Cardon (2001), "GRR: Graphical representation of relationship errors", Bioinformatics, 17(8):742-743.
 
+
+## [Reviews on GRR](https://github.com/gaow/genetic-analysis-software/issues/189)

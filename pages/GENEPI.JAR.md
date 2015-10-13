@@ -24,3 +24,5 @@ CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKi
 ##Related
 , JPSGCS
 
+
+## [Reviews on GENEPI.JAR](https://github.com/gaow/genetic-analysis-software/issues/154)

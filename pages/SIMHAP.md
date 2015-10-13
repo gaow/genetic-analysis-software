@@ -25,3 +25,5 @@ web-based
 ##Reference
 Carter, McCaskie, Palmer (2008), "SimHap GUI: An intuitive graphical user interface for genetic association analysis", BMC Bioinformatics, 9:557
 
+
+## [Reviews on SIMHAP](https://github.com/gaow/genetic-analysis-software/issues/512)

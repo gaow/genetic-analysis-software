@@ -11,3 +11,5 @@ Jonathan Marchini
 ##URL
 http://www.stats.ox.ac.uk/~marchini/software/gwas/gtool.html
 
+
+## [Reviews on GTOOL](https://github.com/gaow/genetic-analysis-software/issues/192)

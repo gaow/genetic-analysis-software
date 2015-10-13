@@ -16,3 +16,5 @@ Pascal
 ##OS
 UNIX, MS-DOS
 
+
+## [Reviews on LNKTOCRI](https://github.com/gaow/genetic-analysis-software/issues/279)

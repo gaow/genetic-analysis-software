@@ -18,3 +18,5 @@ http://watson.hgen.pitt.edu/register/
 ##Reference
 Am Soc Hum Genet annual meeting 2006 Mukhopadhyay, Bhattacharjee, Kuo, Weeks, Feingold, Am J Hum Genet, suppl. ?, ? (1995)). http://www.ashg.org/genetics/abstracts/abs06/f1567.htm
 
+
+## [Reviews on QTL-ALL](https://github.com/gaow/genetic-analysis-software/issues/436)

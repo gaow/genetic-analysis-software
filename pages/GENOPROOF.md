@@ -17,3 +17,5 @@ Java
 ##OS
 MS-Windows (95/98/2000/NT/XP)
 
+
+## [Reviews on GENOPROOF](https://github.com/gaow/genetic-analysis-software/issues/170)

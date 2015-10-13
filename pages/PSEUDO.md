@@ -24,3 +24,5 @@ pseudo, scan
 ##Reference
 Wigginton, Abecasis (2006), "An evaluation of the replicate pool method: quick estimation of genome-wide linkage peak p-values", Genetic Epidemiology, 30(4):320-332.
 
+
+## [Reviews on PSEUDO](https://github.com/gaow/genetic-analysis-software/issues/429)

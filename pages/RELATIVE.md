@@ -24,3 +24,5 @@ relative
 * Am Soc Hum Genet annual meeting 1995 (Göring and Ott, Am J Hum Genet, suppl. 57, A192 (1995));
 * Goring and Ott (1997), "Relationship estimation in affected sib pair analysis of late-onset diseases", European Journal of Human Geneics, 5:69-77.
 
+
+## [Reviews on RELATIVE](https://github.com/gaow/genetic-analysis-software/issues/454)

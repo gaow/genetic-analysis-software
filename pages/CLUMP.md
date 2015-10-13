@@ -18,3 +18,5 @@ MS-DOS
 ##Reference
 Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online documentation
 
+
+## [Reviews on CLUMP](https://github.com/gaow/genetic-analysis-software/issues/73)

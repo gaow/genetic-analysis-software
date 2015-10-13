@@ -24,3 +24,5 @@ scout_cl.exe, scout_gui.exe
 ##Reference
 Epstein, Veal, Trembath, Barker, Li, Satten (2005), "Genetic association analysis using data from triads and unrelated subjects", American Journal of Human Genetics, 76(4):592-608\. [ html]
 
+
+## [Reviews on SCOUT](https://github.com/gaow/genetic-analysis-software/issues/498)

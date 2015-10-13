@@ -22,3 +22,5 @@ powerlic
 * Guo, Elston (1999), "Linkage information content of polymorphic genetic markers", Human Heredity, 49:112-118.
 * Niu, Struk, Lindpaintner (2001), Human Heredity, 52(2):102-109.
 
+
+## [Reviews on POLYMORPHISM](https://github.com/gaow/genetic-analysis-software/issues/408)

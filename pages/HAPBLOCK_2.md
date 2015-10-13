@@ -11,3 +11,5 @@ http://econpapers.repec.org/software/bocbocode/s438902.htm
 ##Language
 Stata
 
+
+## [Reviews on HAPBLOCK 2](https://github.com/gaow/genetic-analysis-software/issues/199)

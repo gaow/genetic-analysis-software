@@ -29,3 +29,5 @@ mlbgh
 ##Reference
 Abel, Muller-Myhsok (1998), "Robustness and power of the maximum-likelihood-binomial and maximum-likelihood-score methods, in multipoint linkage analysis of affected-sibship data", American Journal of Human Genetics, 63(2):638-647
 
+
+## [Reviews on MLBGH](https://github.com/gaow/genetic-analysis-software/issues/341)

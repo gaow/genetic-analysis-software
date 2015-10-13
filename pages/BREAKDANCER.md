@@ -11,3 +11,5 @@ Perl, C++
 ##Reference
 Chen, Wallis, McLellan, Larson, Kalicki, Pohl, McGrath, Wendl, Zhang, Locke, Shi, Fulton, Ley, Wilson, Ding, Mardis (2009), "BreakDancer: an algorithm for high-resolution mapping of genomic structural variation", Nature Methods, 6:677-681.
 
+
+## [Reviews on BREAKDANCER](https://github.com/gaow/genetic-analysis-software/issues/53)

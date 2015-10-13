@@ -11,3 +11,5 @@ http://www.qtlbim.org/
 ##Language
 R
 
+
+## [Reviews on R/QTLBIM](https://github.com/gaow/genetic-analysis-software/issues/482)

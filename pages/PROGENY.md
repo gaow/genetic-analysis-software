@@ -20,3 +20,5 @@ C++ and Active X Controls
 ##OS
 MS-Windows (95/98/2000/ME/NT/XP)
 
+
+## [Reviews on PROGENY](https://github.com/gaow/genetic-analysis-software/issues/426)

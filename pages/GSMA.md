@@ -23,3 +23,5 @@ UNIX(Solaris), MS-DOS
 * Wise et al. (1999), Annals of Human Genetics, 63:263-272.
 * Levinson et al., (2003), American Journal of Human Genetics, 73(1):17-33
 
+
+## [Reviews on GSMA](https://github.com/gaow/genetic-analysis-software/issues/191)

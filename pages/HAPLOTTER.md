@@ -16,3 +16,5 @@ web-based
 ##Reference
 Voight, Kudaravalli, Wen, Pritchard (2006), "A map of recent positive selection in the human genome", PLoS Biology, 4(3):e72.
 
+
+## [Reviews on HAPLOTTER](https://github.com/gaow/genetic-analysis-software/issues/215)

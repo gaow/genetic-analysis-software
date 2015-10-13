@@ -23,3 +23,5 @@ UNIX, MS-Windows, MacOS, etc
 * Brown, Vision, Tanksley (2000), "Selective mapping: A discrete optimization approach to selecting a population subset for use in a high-density genetic mapping project", Proceedings of the 11th Annual {ACM-SIAM} Symposium on Discrete Algorithms, pp.419-428.
 * Xu, Zou, Vision (2005), "Improving QTL mapping resolution in experimental crosses by the use of genotypically selected samples", Genetics, 170, 401-408.
 
+
+## [Reviews on MAPPOP](https://github.com/gaow/genetic-analysis-software/issues/314)

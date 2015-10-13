@@ -21,3 +21,5 @@ UNIX, Linux
 ##EXE
 kLD, lsqLD, booit.pl
 
+
+## [Reviews on BOOLD](https://github.com/gaow/genetic-analysis-software/issues/46)

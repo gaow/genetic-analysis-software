@@ -11,3 +11,5 @@ gcc/g++, perl, MATLAB
 ##Reference
 Kirkpatrick, Santos-Armendariz, Karp, Halperin (2007), "HaploPool: improving haplotype frequency estimation through DNA pools and phylogenetic modeling", Bioinformatics, 23(22):3048-3055.
 
+
+## [Reviews on HAPLOPOOL](https://github.com/gaow/genetic-analysis-software/issues/210)

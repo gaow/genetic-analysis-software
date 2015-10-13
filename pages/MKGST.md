@@ -11,3 +11,5 @@ http://www.uni-kiel.de/medinfo/mitarbeiter/krawczak/download/index.html
 ##EXE
 asp, aspshare,easypat, mutprof,mutcomp, findsire,patern,fingcomp,hapmax, mutpred
 
+
+## [Reviews on MKGST](https://github.com/gaow/genetic-analysis-software/issues/340)

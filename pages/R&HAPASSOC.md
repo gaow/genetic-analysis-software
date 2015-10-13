@@ -12,3 +12,5 @@ a likelihood approach is used to inference of haplotype and nongenetic effects a
 ##Language
 R
 
+
+## [Reviews on R/HAPASSOC](https://github.com/gaow/genetic-analysis-software/issues/464)

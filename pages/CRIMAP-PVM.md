@@ -20,3 +20,5 @@ C, PVM
 ##Reference
 Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.
 
+
+## [Reviews on CRIMAP-PVM](https://github.com/gaow/genetic-analysis-software/issues/82)

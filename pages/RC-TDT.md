@@ -22,3 +22,5 @@ SAS macro
 * Knapp (1999b), "Using exact P values to compare the power between the reconstruction-combined transmission/disequilibrium test and the sib transmission/disequilibrium test" (letter), American Journal of Human Genetics, 65:1208-1210\. [ html]
 * Horvath, Laird, Knapp (2000), "The transmission/disequilibrium test and parental-genotype reconstruction for X-chromosomal markers", American Journal of Human Genetics, 66(3):1161-1167\. [ html]
 
+
+## [Reviews on RC-TDT](https://github.com/gaow/genetic-analysis-software/issues/449)

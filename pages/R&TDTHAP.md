@@ -20,3 +20,5 @@ R/Splus
 ##Reference
 Clayton, Jones (1999), "Transmission/disequilibrium tests for extended marker haplotypes", American Journal of Human Genetics, 65(4):1161-1169
 
+
+## [Reviews on R/TDTHAP](https://github.com/gaow/genetic-analysis-software/issues/488)

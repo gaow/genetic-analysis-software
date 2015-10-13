@@ -24,3 +24,5 @@ Heath (1997), "Markov chain segregation and linkage analysis for oligogenic mode
 ##Related
 PANGAEA
 
+
+## [Reviews on LOKI](https://github.com/gaow/genetic-analysis-software/issues/284)

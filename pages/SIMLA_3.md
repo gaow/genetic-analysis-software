@@ -22,3 +22,5 @@ UNIX(Solaris), Linux, MS-Windows
 ##Reference
 Schmidt, Hauser, Martin, Schmidt (2005), "Extension of the SIMLA package for generating pedigrees with complex inheritance patterns: Environmental covariates, gene-gene and gene-environment interaction", Statistical Applications in Genetics and Molecular Biology, 4(1):15.
 
+
+## [Reviews on SIMLA 3](https://github.com/gaow/genetic-analysis-software/issues/514)

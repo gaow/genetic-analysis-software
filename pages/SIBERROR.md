@@ -24,3 +24,5 @@ siberror
 ##Reference
 Ehm, Wagner (1998), "Test statistic to detect errors in sib-pair relationship", American Journal of Human Genetics, 62(1):181-188
 
+
+## [Reviews on SIBERROR](https://github.com/gaow/genetic-analysis-software/issues/504)

@@ -24,3 +24,5 @@ UNIX
 ##Reference
 Pirinen, Gasbarra (2006), "Finding consistent gene transmission patterns on large and complex pedigrees", IEEE/ACM cransactions on Computational Biology and Bioinformatics, 3(3):252-262
 
+
+## [Reviews on APE](https://github.com/gaow/genetic-analysis-software/issues/21)

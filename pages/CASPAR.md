@@ -26,3 +26,5 @@ UNIX
 * Am Soc Hum Genet annual meeting 1995 (Buhler, et. al. American Journal of Human Genetics, 57 Supp, A171 (1995));
 * Buhler, et. al. (1997) Human Heredity, 47(4):211-222.
 
+
+## [Reviews on CASPAR](https://github.com/gaow/genetic-analysis-software/issues/57)

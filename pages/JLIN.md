@@ -28,3 +28,5 @@ Java-based installer available from website
 ##Reference
 Carter, McCaskie, Palmer (2006), "JLIN: A java based linkage disequilibrium plotter", BMC Bioinformatics, 7:60.
 
+
+## [Reviews on JLIN](https://github.com/gaow/genetic-analysis-software/issues/252)

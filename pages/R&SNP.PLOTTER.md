@@ -19,3 +19,5 @@ R
 ##Reference
 Luna, Nicodemus (2007), "snp.plotter: an R-based SNP/haplotype association and linkage disequilibrium plotting package", Bioinformatics, 23(6):774-776.
 
+
+## [Reviews on R/SNP.PLOTTER](https://github.com/gaow/genetic-analysis-software/issues/485)

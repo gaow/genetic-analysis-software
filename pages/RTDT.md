@@ -14,3 +14,5 @@ Matlab, C++
 ##Reference
 Sebastiani, Abad, Alpargu, Ramoni (2004), "Robust Transmission/Disequilibrium Test for incomplete family genotypes", Genetics, 168:2329-2337.
 
+
+## [Reviews on RTDT](https://github.com/gaow/genetic-analysis-software/issues/489)

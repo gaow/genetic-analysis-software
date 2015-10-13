@@ -14,3 +14,5 @@ http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit
 ##Reference
 DePristo, Banks, Poplin, Garimella, Maguire, Hartl, Philippakis, del Angel, Rivas, Hanna, McKenna, Fennell, Kernytsky, Sivachenko, Cibulskis, Gabriel, Altshuler, Daly (2011), "A framework for variation discovery and genotyping using next-generation DNA sequencing data", Nature Genetics, 43:491-498.
 
+
+## [Reviews on GATK](https://github.com/gaow/genetic-analysis-software/issues/139)

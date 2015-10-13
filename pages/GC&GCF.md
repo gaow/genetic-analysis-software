@@ -23,3 +23,5 @@ Linux
 * Bacanu, Devlin, Roeder (2002), "Association studies for quantitative traits in structured populations", Genetic Epidemiology, 22:78-93.
 * Devlin, Bacanu, Roeder (2004), "Genomic control in the extreme", Nature Genetics, 36(11):1129-1130.
 
+
+## [Reviews on GC/GCF](https://github.com/gaow/genetic-analysis-software/issues/140)

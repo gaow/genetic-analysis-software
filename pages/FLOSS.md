@@ -14,3 +14,5 @@ Brian L Browning
 ##URL
 http://faculty.washington.edu/browning/floss/floss.htm
 
+
+## [Reviews on FLOSS](https://github.com/gaow/genetic-analysis-software/issues/132)

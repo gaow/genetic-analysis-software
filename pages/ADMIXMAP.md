@@ -33,3 +33,5 @@ admixmap, admixmap.pl, and some R scripts to process the output
 * CJ Hoggart, EJ Parra, MD Shriver, C Bonilla, RA Kittles, DC Clayton, PM McKeigue (2003), "Control of confounding of genetic associations in stratified populations", American Journal of Human Genetics, 72(6):1492-1504
 * PM McKeigue, J Carpenter, EJ Parra, MD Shriver (2000), "Estimation of admixture and detection of linkage in admixed populations by a Bayesian approach: application to African-American populations", Annals of Human Genetics, 64:171-186.
 
+
+## [Reviews on ADMIXMAP](https://github.com/gaow/genetic-analysis-software/issues/6)

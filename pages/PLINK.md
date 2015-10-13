@@ -17,3 +17,5 @@ Purcell, Neale, Todd-Brown, Thomas, Ferreira, Bender, Maller, de Bakker, Daly, S
 ##Related
 PLINK/SEQ
 
+
+## [Reviews on PLINK](https://github.com/gaow/genetic-analysis-software/issues/405)

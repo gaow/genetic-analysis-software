@@ -17,3 +17,5 @@ MS-Windows
 ##Reference
 Leykin et al. (2005), "Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data", BMC Genetics, 6:7.
 
+
+## [Reviews on DCHIP LINKAGE](https://github.com/gaow/genetic-analysis-software/issues/85)

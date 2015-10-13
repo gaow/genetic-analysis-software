@@ -18,3 +18,5 @@ homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
 * Ott (1986), Genetic Epidemiology, Suppl,1,251-257.
 * online documentation
 
+
+## [Reviews on HOMOG/HOMOGM](https://github.com/gaow/genetic-analysis-software/issues/234)

@@ -24,3 +24,5 @@ MS-Windows (95/98/ME/NT4.0/2000)
 * RE Voorrips (2001), "MapChart version 2.0: Windows software for the graphical presentation of linkage maps and QTLs", Plant Research International, Wageningen, Netherlands.
 * Voorrips (2002), "MapChart: Software for the graphical presentation of linkage maps and QTLs", Journal of Heredity, 93(1):77-78.
 
+
+## [Reviews on MAPCHART](https://github.com/gaow/genetic-analysis-software/issues/301)

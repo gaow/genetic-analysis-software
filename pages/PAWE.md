@@ -18,3 +18,5 @@ http://linkage.rockefeller.edu/pawe/
 ##Reference
 Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.
 
+
+## [Reviews on PAWE](https://github.com/gaow/genetic-analysis-software/issues/372)

@@ -8,3 +8,5 @@ Developed by scientists for scientists, our Biomedical Integrated Discovery Envi
 ##URL
 http://www.htbiology.com/software.php
 
+
+## [Reviews on BIOIDE](https://github.com/gaow/genetic-analysis-software/issues/40)

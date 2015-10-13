@@ -26,3 +26,5 @@ haploblock_b, haploblock_n
 * Instruction Manual: http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf
 * LD Mapping Supplement http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf
 
+
+## [Reviews on HAPLOBLOCK](https://github.com/gaow/genetic-analysis-software/issues/206)

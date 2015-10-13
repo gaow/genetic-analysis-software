@@ -21,3 +21,5 @@ MS-DOS, MS-Windows
 ##Reference
 Cook, Gurling, Curtis (1993), "DOLINK: a computer program to facilitate management of genetic data and analyses", Annals of Human Genetics, 57:307-310.
 
+
+## [Reviews on DOLINK](https://github.com/gaow/genetic-analysis-software/issues/93)

@@ -18,3 +18,5 @@ http://www.multiqtl.com/
 ##Availability
 contact: sales@multiqtl.com. tel: 972-4824-0449\. FAX: 972-4824-6554. address: MultiQTL Ltd, Institute of Evolution, Haifa University, Haifa, Israel 31905
 
+
+## [Reviews on MULTIQTL](https://github.com/gaow/genetic-analysis-software/issues/355)

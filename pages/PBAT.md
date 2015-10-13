@@ -23,3 +23,5 @@ http://www.biostat.harvard.edu/~clange/default.htm
 ##Related
 FBAT
 
+
+## [Reviews on PBAT](https://github.com/gaow/genetic-analysis-software/issues/373)

@@ -16,3 +16,5 @@ http://wbiomed.curtin.edu.au/genepop/
 ##Reference
 Raymond, Rousset (1995), "GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism", Journal of Heredity, 86:248-249
 
+
+## [Reviews on GENEPOP](https://github.com/gaow/genetic-analysis-software/issues/156)

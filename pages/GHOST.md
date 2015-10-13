@@ -9,3 +9,5 @@ http://www.sph.umich.edu/csg/chen/ghost/
 * Burdick, Chen, Abecasis, Cheung (2006), "In silico method for inferring genotypes in pedigrees", Nature Genetics, 38:1002-1004.
 * Chen, Abecasis (2007), "Family-based association tests for genomewide association scans", American Journal of Human Genetics, 81(5):913-926
 
+
+## [Reviews on GHOST](https://github.com/gaow/genetic-analysis-software/issues/177)

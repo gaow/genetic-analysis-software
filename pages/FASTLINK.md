@@ -38,3 +38,5 @@ UNIX, VMS, MS-DOS,.. and can also run in parallel on shared memory UNIX machines
 ##Related
 LINKAGE
 
+
+## [Reviews on FASTLINK](https://github.com/gaow/genetic-analysis-software/issues/121)

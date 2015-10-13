@@ -24,3 +24,5 @@ autostart, autoscan10.sh
 ##Reference
 American Journal of Human Genetics, supp, 65 . ( [abstract](http://www.jurgott.org/linkage/absAUTOSCAN_AJHG99.htm)) (1999)
 
+
+## [Reviews on AUTOSCAN](https://github.com/gaow/genetic-analysis-software/issues/30)

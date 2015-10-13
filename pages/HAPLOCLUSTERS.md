@@ -11,3 +11,5 @@ http://bioinf.wehi.edu.au/folders/melanie/haploclusters.html
 ##Reference
 Bahlo,Stankovich,Speed,Rubio,Burfoot,Foote (2006), "Detecting genome wide haplotype sharing using SNP or microsatellite haplotype data", Human Genetics, 119(1-2):38-50.
 
+
+## [Reviews on HAPLOCLUSTERS](https://github.com/gaow/genetic-analysis-software/issues/208)

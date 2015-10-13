@@ -20,3 +20,5 @@ rholike, hotspot, fullopt
 ##Reference
 Li, Stephens (2003), Genetics, 165(4):2213-2233.
 
+
+## [Reviews on HOTSPOTTER](https://github.com/gaow/genetic-analysis-software/issues/236)

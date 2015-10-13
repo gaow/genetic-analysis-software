@@ -21,3 +21,5 @@ MS-DOS
 ##Reference
 Curtis, Sham (1994), Annals of Human Genetics, 58:151-162.
 
+
+## [Reviews on ERPA](https://github.com/gaow/genetic-analysis-software/issues/112)

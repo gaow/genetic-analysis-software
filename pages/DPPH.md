@@ -18,3 +18,5 @@ Linux, MacOS
 ##Reference
 Bafna, Gusfield, Lancia, Yooseph (2003), "Haplotyping as perfect phylogeny: a direct approach", Journal of Computational Biology, 10(3):323-340.
 
+
+## [Reviews on DPPH](https://github.com/gaow/genetic-analysis-software/issues/94)

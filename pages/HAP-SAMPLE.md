@@ -11,3 +11,5 @@ web-based
 ##Reference
 Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), "Simulating association studies: a data-based resampling method for candidate regions or whole genome scans", preprint.
 
+
+## [Reviews on HAP-SAMPLE](https://github.com/gaow/genetic-analysis-software/issues/225)

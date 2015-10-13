@@ -18,3 +18,5 @@ http://www.multifactordimensionalityreduction.org/
 * Ritchie, Hahn, Roodi, Bailey, Dupont, Parl, Moore (2001), "Multifactorial dimensionality reduction reveals high-order interactions among estrogen metabolism genes in sporadic breat cancer", American Journal of Human Genetics, 69:138-147.
 * Moore, Gilbert, Tsai, Chiang, Holden, Barney, White (2006), "A flexible computational framework for detecting, characterizing, and interpreting statistical patterns of epistasis in genetic studies of human disease susceptibility", Journal of Theoretical Biology, 241:252-261.
 
+
+## [Reviews on MDR](https://github.com/gaow/genetic-analysis-software/issues/322)

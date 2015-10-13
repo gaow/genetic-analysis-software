@@ -25,3 +25,5 @@ Linux, MS-Windows, MacOS
 ##EXE
 lamarc, migrate, coalesce, fluctuate, recombine
 
+
+## [Reviews on LAMARC](https://github.com/gaow/genetic-analysis-software/issues/259)

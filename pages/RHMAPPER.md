@@ -20,3 +20,5 @@ Perl
 * Slonim, Stein, Kruglyak, Lander (1996), in preparation.
 * online user's guide
 
+
+## [Reviews on RHMAPPER](https://github.com/gaow/genetic-analysis-software/issues/467)

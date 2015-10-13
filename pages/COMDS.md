@@ -20,3 +20,5 @@ list1,com1, comds (shell script)
 ##Reference
 manual (November 1993)
 
+
+## [Reviews on COMDS](https://github.com/gaow/genetic-analysis-software/issues/77)

@@ -27,3 +27,5 @@ MS-Windows (95/98/NT/2000/XP)
 * User's manual (PDF, v1.1)
 * User's manual (PDF, v3.1)
 
+
+## [Reviews on ARLEQUIN](https://github.com/gaow/genetic-analysis-software/issues/25)

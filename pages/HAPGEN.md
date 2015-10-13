@@ -16,3 +16,5 @@ http://www.stats.ox.ac.uk/~marchini/software/gwas/hapgen.html
 ##Language
 C++
 
+
+## [Reviews on HAPGEN](https://github.com/gaow/genetic-analysis-software/issues/201)

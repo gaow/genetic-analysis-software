@@ -23,3 +23,5 @@ UNIX
 ##Reference
 Kruglyak, Daly, Lander (1995), "Rapid multipoint linkage analysis of recessive traits in nuclear families, including homozygosity mapping", American Journal of Human Genetics, 56(2):519-527
 
+
+## [Reviews on MAPMAKER/HOMOZ](https://github.com/gaow/genetic-analysis-software/issues/308)

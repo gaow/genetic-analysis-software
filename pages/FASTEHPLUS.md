@@ -21,3 +21,5 @@ Zhao, Sham (2002), "Faster allelic association analysis using unrelated subjects
 ##Related
 EH, EHPLUS
 
+
+## [Reviews on FASTEHPLUS](https://github.com/gaow/genetic-analysis-software/issues/119)

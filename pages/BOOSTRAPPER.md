@@ -11,3 +11,5 @@ http://bioinfo.ebc.ee/download/
 ##OS
 MS-Window, Linux
 
+
+## [Reviews on BOOSTRAPPER](https://github.com/gaow/genetic-analysis-software/issues/48)

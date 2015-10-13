@@ -20,3 +20,5 @@ MS-Windows, MacOS, Linux, UNIX(Solaris)
 ##Reference
 Iwata, Ninomiya (2006) "AntMap: constructing genetic linkage maps using an ant colony optimization algorithm", Breeding Science, 56:371-377.
 
+
+## [Reviews on ANTMAP](https://github.com/gaow/genetic-analysis-software/issues/20)

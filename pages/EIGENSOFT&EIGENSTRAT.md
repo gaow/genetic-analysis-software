@@ -17,3 +17,5 @@ Linux
 ##Reference
 Price, Patterson, Plenge, Weinblatt, Shadick, Reich (2006), "Principal components analysis corrects for stratification in genome-wide association studies", Nature Genetics, 38(8):904-909.
 
+
+## [Reviews on EIGENSOFT/EIGENSTRAT](https://github.com/gaow/genetic-analysis-software/issues/104)

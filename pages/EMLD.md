@@ -23,3 +23,5 @@ UNIX, MS-Windows
 ##EXE
 emld
 
+
+## [Reviews on EMLD](https://github.com/gaow/genetic-analysis-software/issues/106)

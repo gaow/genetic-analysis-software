@@ -18,3 +18,5 @@ MS-Windows
 * Li, Jiang (2003), "Effecient rule-based haplotyping algorithms for pedigree data", Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.197-206.
 * Li, Jiang (2004), " An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming", Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.101-110.
 
+
+## [Reviews on PEDPHASE](https://github.com/gaow/genetic-analysis-software/issues/390)

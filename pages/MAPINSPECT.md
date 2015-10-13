@@ -25,3 +25,5 @@ MapComp.exe
 ##Related
 GGT
 
+
+## [Reviews on MAPINSPECT](https://github.com/gaow/genetic-analysis-software/issues/305)

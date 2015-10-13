@@ -28,3 +28,5 @@ UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux
 ##EXE
 assoc, fcor, freq, genibd, lodlink, lodpal, markerinfo, mlod, pedinfo, reltest, segreg, sibpal, tdtex
 
+
+## [Reviews on SAGE](https://github.com/gaow/genetic-analysis-software/issues/492)

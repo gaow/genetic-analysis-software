@@ -23,3 +23,5 @@ multiPopTagSelect.pl
 ##Reference
 Howie, Carlson, Rieder, Nickerson (2006), "Efficient selection of tagging single-nucleotide polymorphisms in multiple populations", Human Genetics, 120(1):58-68.
 
+
+## [Reviews on MULTIPOPTAGSELECT](https://github.com/gaow/genetic-analysis-software/issues/354)

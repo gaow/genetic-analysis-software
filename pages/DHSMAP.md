@@ -28,3 +28,5 @@ dhsmap.solaris, dhsmap.linux
 ##Reference
 McPeek and Strahs (1999), "Assessment of linkage disequilibrium by the decay of haplotype sharing, with application to fine-scale genetic mapping", American Journal of Human Genetics, 65(3):858-875
 
+
+## [Reviews on DHSMAP](https://github.com/gaow/genetic-analysis-software/issues/87)

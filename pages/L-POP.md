@@ -20,3 +20,5 @@ MS-DOS
 ##EXE
 lpop
 
+
+## [Reviews on L-POP](https://github.com/gaow/genetic-analysis-software/issues/286)

@@ -25,3 +25,5 @@ gc, gcp, gcx, pgc., RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS
 * Zhao (2004), "2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis", Bioinformatics, 20:1325-1326.
 * Curtis, Knight, Sham (2006), "Program report: GENECOUNTING support programsProgram report: GENECOUNTING support programs", Annals of Human Genetics, 70:277-279.
 
+
+## [Reviews on GENECOUNTING](https://github.com/gaow/genetic-analysis-software/issues/146)

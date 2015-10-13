@@ -19,3 +19,5 @@ UNIX(SunOS,Solaris), MS-DOS, MacOS
 ##Availability
 disks or tapes and user's manual: US$55; user's manual: US$30; disk for registered users: US$20\. person to contact: Linda Freeman-Shade, Dept Genetics, Southwest Foundation for Biomedical Research, P.O. Box 760549, San Antonio, TX 78245-0549 (email: linda@darwin.sfbr.org)
 
+
+## [Reviews on PEDSYS](https://github.com/gaow/genetic-analysis-software/issues/395)

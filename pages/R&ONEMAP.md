@@ -23,3 +23,5 @@ load.onemap, read.outcross, extract.group, remove.marker, arbitr.rf.2pts, est.rf
 ##Reference
 Garcia, Kido, Meza, Souza, Pinto, Pastina, Leite, Silva, Ulian, Figueira, Souza (2006), "Development of an integrated genetic map of a sugarcane (Saccharum spp.) commercial cross, based on a maximum-likelihood approach for estimation of linkage and linkage phases", Theoretical and Applied Genetics, 112:298-314.
 
+
+## [Reviews on R/ONEMAP](https://github.com/gaow/genetic-analysis-software/issues/477)

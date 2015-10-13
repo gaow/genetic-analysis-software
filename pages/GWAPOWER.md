@@ -17,3 +17,5 @@ R
 ##Reference
 Spencer, Su, Donnelly, Marchini (2009), "Designing genome-wide association studies: sample size, power, imputation, and the choice of genotyping chip", PLoS Genetics, 5(5):e1000477.
 
+
+## [Reviews on GWAPOWER](https://github.com/gaow/genetic-analysis-software/issues/193)

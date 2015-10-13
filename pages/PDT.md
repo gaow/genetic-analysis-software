@@ -20,3 +20,5 @@ UNIX(Solaris)
 ##Reference
 Martin, Monks, Warren, Kaplan (2000), American Journal of Human Genetics, 67(1):146-154
 
+
+## [Reviews on PDT](https://github.com/gaow/genetic-analysis-software/issues/376)

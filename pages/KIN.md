@@ -19,3 +19,5 @@ MS-DOS
 ##Reference
 Tinker and Mather, Journal of Heredity, 84, 238 (1993)
 
+
+## [Reviews on KIN](https://github.com/gaow/genetic-analysis-software/issues/258)

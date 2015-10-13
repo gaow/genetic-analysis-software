@@ -14,3 +14,5 @@ C
 ##Reference
 Graham, Thompson (2000), "A coalescent model of ancestry for a rare allele", Genetics, 156:375-384.
 
+
+## [Reviews on AGEINF](https://github.com/gaow/genetic-analysis-software/issues/7)

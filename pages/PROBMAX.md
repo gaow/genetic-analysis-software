@@ -11,3 +11,5 @@ http://www.uoguelph.ca/~rdanzman/software/PROBMAX/
 ##Reference
 Danzmann (1997), "PROBMAX: a computer program for assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny", Journal of Heredity, 88:333.
 
+
+## [Reviews on PROBMAX](https://github.com/gaow/genetic-analysis-software/issues/423)

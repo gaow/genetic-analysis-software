@@ -18,3 +18,5 @@ http://www.sph.umich.edu/csg/abecasis/MACH/index.html
 ##Related
 MINIMAC
 
+
+## [Reviews on MACH](https://github.com/gaow/genetic-analysis-software/issues/291)

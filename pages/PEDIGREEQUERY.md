@@ -12,3 +12,5 @@ A Kirichenko
 ##Reference
 A Kirichenko (2003), "PedigreeQuery - software for pedigree drawing" (abstract), American Journal of Human Genetics, suppl
 
+
+## [Reviews on PEDIGREEQUERY](https://github.com/gaow/genetic-analysis-software/issues/383)

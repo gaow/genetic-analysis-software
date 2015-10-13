@@ -17,3 +17,5 @@ Y Yang et al. (2003), "Efficiency of single-nucleotide polymorphism haplotype es
 ##Related
 EH
 
+
+## [Reviews on EHP](https://github.com/gaow/genetic-analysis-software/issues/102)

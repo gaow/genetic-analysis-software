@@ -27,3 +27,5 @@ any with R installation
 * Roy-Gagnon (2004), "Theoretical and applied investigations of a Regression of Offspring on Mid-Parent approach: Familial idiopathic scoliosis", Ph.D. dissertaion. Johns Hopkins University.
 * Pugh, Papanicolaou, Justice, Roy-Gagnon, Sorant, Kingman, Wilson (2001), "Comparison of variance components, ANOVA and regression of offspring on midparent (ROMP) methods for SNP markers", Genetic Epidemiology, 21(Suppl 1):S794-S799.
 
+
+## [Reviews on ROMPREV](https://github.com/gaow/genetic-analysis-software/issues/476)

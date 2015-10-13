@@ -19,3 +19,5 @@ MS-DOS, ...
 ##Reference
 Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)
 
+
+## [Reviews on DGENE](https://github.com/gaow/genetic-analysis-software/issues/86)

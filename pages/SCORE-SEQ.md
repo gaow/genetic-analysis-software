@@ -15,3 +15,5 @@ http://www.bios.unc.edu/~lin/software/SCORE-Seq/
 ##Reference
 Lin, Tang (2011), "A general framework for detecting disease associations with rare variants in sequencing studies", American Journal of Human Genetics, 89:354-367.
 
+
+## [Reviews on SCORE-SEQ](https://github.com/gaow/genetic-analysis-software/issues/497)

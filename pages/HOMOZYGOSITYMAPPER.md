@@ -18,3 +18,5 @@ web-based
 ##Reference
 Seelow, Schuelke, Hildebrandt, Nürnberg (2009), "HomozygosityMapper--an interactive approach to homozygosity mapping", Nucleic Acid Research, 37(web server issue):W593-599.
 
+
+## [Reviews on HOMOZYGOSITYMAPPER](https://github.com/gaow/genetic-analysis-software/issues/235)

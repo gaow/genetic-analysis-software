@@ -24,3 +24,5 @@ locusmap
 ##Reference
 J Garbe, Y Da (2003), Locusmap user manual Version 1.0\. Department of Animal Science, University of Minnesota.
 
+
+## [Reviews on LOCUSMAP](https://github.com/gaow/genetic-analysis-software/issues/280)

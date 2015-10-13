@@ -17,3 +17,5 @@ perl
 ##OS
 Linux, MS-Windows
 
+
+## [Reviews on CHIP2SPELL](https://github.com/gaow/genetic-analysis-software/issues/69)

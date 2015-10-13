@@ -17,3 +17,5 @@ http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
 ##Reference
 Yang, Pan, Lin, Fann (2006), "PDA: pooled DNA analyzer", BMC Bioinformatics, 7:233.
 
+
+## [Reviews on PDA](https://github.com/gaow/genetic-analysis-software/issues/374)

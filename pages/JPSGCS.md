@@ -23,3 +23,5 @@ ApproxGCHap, CheckErrors, CheckFormat, CheckParameters, CheckPedigree, CheckTrip
 ##Related
 GENEPI.JAR
 
+
+## [Reviews on JPSGCS](https://github.com/gaow/genetic-analysis-software/issues/254)

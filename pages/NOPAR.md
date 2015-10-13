@@ -21,3 +21,5 @@ UNIX(SunOS)
 ##Reference
 Collins,Morton (1995), Human Heredity, 45:311-318.
 
+
+## [Reviews on NOPAR](https://github.com/gaow/genetic-analysis-software/issues/359)

@@ -24,3 +24,5 @@ web-based
 ##Reference
 G Seaton, CS Haley, SA Knott, M Kearsey, PM Visscher (2002), "QTL Express: mapping quantitative trait loci in simple and complex pedigrees", Bioinformatics, 18:339-340
 
+
+## [Reviews on QTL EXPRESS](https://github.com/gaow/genetic-analysis-software/issues/439)

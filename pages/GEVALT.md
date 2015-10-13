@@ -21,3 +21,5 @@ http://acgt.cs.tau.ac.il/gevalt/
 ##Reference
 Davidovich, Kimmel, Shamir (2007), "GEVALT: An integrated software tool for genotype analysis", BMC Bioinformatics, 8:36.
 
+
+## [Reviews on GEVALT](https://github.com/gaow/genetic-analysis-software/issues/174)

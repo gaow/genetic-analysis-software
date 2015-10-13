@@ -25,3 +25,5 @@ UNIX
 ##Reference
 Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), "Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus", American Journal of Human Genetics, 73(3):612-626
 
+
+## [Reviews on CC-QLS](https://github.com/gaow/genetic-analysis-software/issues/59)

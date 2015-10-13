@@ -21,3 +21,5 @@ UNIX, MS-Windows, MacOS
 ##Reference
 Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890\. [Medline]
 
+
+## [Reviews on R/QTL](https://github.com/gaow/genetic-analysis-software/issues/484)

@@ -15,3 +15,5 @@ http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
 ##Reference
 Anderson, Novembre (2003), "Finding haplotype block boundaries by using the minimum description length criterion", American Journal of Human Genetics, 73(2):336-354
 
+
+## [Reviews on MDBLOCKS](https://github.com/gaow/genetic-analysis-software/issues/321)

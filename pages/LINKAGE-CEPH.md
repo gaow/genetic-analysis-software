@@ -27,3 +27,5 @@ cfactor,cilink,clodscore,cmap
 ##Related
 three-generation) pedigrees
 
+
+## [Reviews on LINKAGE - CEPH](https://github.com/gaow/genetic-analysis-software/issues/274)

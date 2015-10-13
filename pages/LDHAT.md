@@ -20,3 +20,5 @@ DOS
 ##Reference
 McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), "The fine-scale structure of recombination rate variation in the human genome", Science, 304:581-584.
 
+
+## [Reviews on LDHAT](https://github.com/gaow/genetic-analysis-software/issues/267)

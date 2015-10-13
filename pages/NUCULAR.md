@@ -11,3 +11,5 @@ http://mlemire.freeshell.org/software.html
 ##Reference
 Lemire (2005), "A simple nonparametric multipoint procedure to test for linkage through mothers or fathers as well as imprinting effects in the presence of linkage", BMC Genetics, 6(Suppl 1):S159.
 
+
+## [Reviews on NUCULAR](https://github.com/gaow/genetic-analysis-software/issues/360)

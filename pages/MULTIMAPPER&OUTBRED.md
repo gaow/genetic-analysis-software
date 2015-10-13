@@ -17,3 +17,5 @@ C
 ##Reference
 Sillanpaa, Arjas (1999), "Bayesian mapping of multiple quantitative trait loci from incomplete outbred offspring data", Genetics, 151:1605-1619.
 
+
+## [Reviews on MULTIMAPPER/OUTBRED](https://github.com/gaow/genetic-analysis-software/issues/353)

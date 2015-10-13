@@ -29,3 +29,5 @@ gf
 * Liang KY, Huang CY, Beaty TH (2000) A unified sampling approach for multipoint analysis of qualitative and quantitative traits in sib pairs. American Journal Human Genetics, 66(5):1631-1641
 * Glidden DV, Liang KY, Chiu YF, Pulver AE (2003), "Multipoint affected sibpair linkage methods for localizing susceptibility genes of complex diseases", Genetic Epidemiology, 24:107-117
 
+
+## [Reviews on GENEFINDER](https://github.com/gaow/genetic-analysis-software/issues/147)

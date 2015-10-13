@@ -11,3 +11,5 @@ Eric C Anderson (email: eric.anderson@stanfordalumni.org)
 ##URL
 http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm
 
+
+## [Reviews on CHROMOSEG](https://github.com/gaow/genetic-analysis-software/issues/71)

@@ -24,3 +24,5 @@ ghm
 * K Strauch (2003), "Parametric linkage analysis with automatic optimization of the disease model parameters". American Journal of Human Genetics 73(Suppl1):A2624.
 * Dietter, Mattheisen, Fuerst, Rueschendorf, Wienker, Strauch (2007), "Linkage analysis using sex-specific recombination fractions with GENEHUNTER-MODSCORE", Bioinformatics, 23(1):64-70.
 
+
+## [Reviews on GENEHUNTER-MODSCORE](https://github.com/gaow/genetic-analysis-software/issues/150)

@@ -30,3 +30,5 @@ PedGenie, hapMC, hapConstructor
 * Curtin, Wong, Allen-Brady, Camp (2007), "PedGenie: meta genetic association testing in mixed family and case-control designs", BMC Bioinformatics, 8:448.
 * Abo, Knight, Wong, Cox, Camp (2008), "hapConstructor: automatic construction and testing of haplotypes in a Monte Carlo framework", Bioinformatics, 24(18):2105-2107.
 
+
+## [Reviews on GENIE](https://github.com/gaow/genetic-analysis-software/issues/163)

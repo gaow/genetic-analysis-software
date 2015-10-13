@@ -11,3 +11,5 @@ Java
 ##Reference
 Falchi, Fuchsberger (2008), "Jenti: an efficient tool for mining complex inbred genealogies", Bioinformatics, 24(5):724-726.
 
+
+## [Reviews on JENTI](https://github.com/gaow/genetic-analysis-software/issues/251)

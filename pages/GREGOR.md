@@ -16,3 +16,5 @@ MS-DOS
 ##Reference
 Tinker and Mather, Journal of Heredity, 84, 237 (1993)
 
+
+## [Reviews on GREGOR](https://github.com/gaow/genetic-analysis-software/issues/186)

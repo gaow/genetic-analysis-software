@@ -14,3 +14,5 @@ http://chgr.mc.vanderbilt.edu/genomeSIMLA/
 ##Reference
 Dudek, Motsinger, Velez, Williams, Ritchie (2006), "Data simulation software for whole-genome association and other studies in human genetics", Pacific Symposium on Biocomputing, 499-510.
 
+
+## [Reviews on GENOMESIMLA](https://github.com/gaow/genetic-analysis-software/issues/167)

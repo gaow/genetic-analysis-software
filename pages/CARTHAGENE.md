@@ -25,3 +25,5 @@ MS-Windows, UNIX(Solaris), Linux. Sources are available for other operating syst
 * Schiex,Gaspin, Proceedings of the International Conference on Intelligent Systems for Molecular Biology (ISMB) (1997).
 * Givry, Bouchez, Chabrier, Milan, Schiex (2005), "CARTHAGENE: multipopulation integrated genetic and radiation hybrid mapping", Bioinformatics, 21(8):1703-1704.
 
+
+## [Reviews on CARTHAGENE](https://github.com/gaow/genetic-analysis-software/issues/55)

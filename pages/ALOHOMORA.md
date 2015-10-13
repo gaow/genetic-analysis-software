@@ -21,3 +21,5 @@ MS-Window, Linux, UNIX (Solaris/..)
 ##Reference
 Ruschendorf, Nurnberg (2005), "ALOHOMORA: a tool for linkage analysis using 10K SNP array data", Bioinformatics, 21(9):2123-2125.
 
+
+## [Reviews on ALOHOMORA](https://github.com/gaow/genetic-analysis-software/issues/12)

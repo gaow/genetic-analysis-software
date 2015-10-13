@@ -17,3 +17,5 @@ VMS
 ##Reference
 Gu, Pakstis, Kidd (2005), "HAPLOT: a graphical comparison of haplotype blocks, tagSNP sets and SNP variation for multiple populations", Bioinformatics, 21:3938-3939.
 
+
+## [Reviews on HAPLOT](https://github.com/gaow/genetic-analysis-software/issues/214)

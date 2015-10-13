@@ -28,3 +28,5 @@ prest.solaris, prest.linux, altertest.solaris, altertest.linux
 ##Reference
 McPeek, Sun (2000), "Statistical tests for detection of misspecified relationships by use of genome-screen data", American Journal of Human Genetics, 66(3):1076-1094
 
+
+## [Reviews on PREST](https://github.com/gaow/genetic-analysis-software/issues/421)

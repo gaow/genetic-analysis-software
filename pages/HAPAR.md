@@ -19,3 +19,5 @@ MS-Window, UNIX(Solaris/..)
 ##Reference
 Wang, Xu (2003), "Haplotype inference by maximum parsimony", Bioinformatics, 19(14):1773-1780.
 
+
+## [Reviews on HAPAR](https://github.com/gaow/genetic-analysis-software/issues/197)

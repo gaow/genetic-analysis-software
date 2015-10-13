@@ -32,3 +32,5 @@ ped.exe
 ##Availability
 site license US$99.
 
+
+## [Reviews on PED](https://github.com/gaow/genetic-analysis-software/issues/385)

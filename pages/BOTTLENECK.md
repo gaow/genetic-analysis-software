@@ -17,3 +17,5 @@ MS-Windows (95)
 ##Reference
 Piry, Luikart, Cornuet (1999), "BOTTLENECK: a computer program for detecting recent reductions in the effective size using allele frequency data", Journal of Heredity, 90:502-503.
 
+
+## [Reviews on BOTTLENECK](https://github.com/gaow/genetic-analysis-software/issues/50)

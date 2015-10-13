@@ -21,3 +21,5 @@ R
 ##Reference
 Lee, Luca, Klei, Devlin, Roeder (2010), "Discovering genetic ancestry using spectral graph theory", Genetic Epidemiology, 34(1):51-59.
 
+
+## [Reviews on R/SPECTRAL-GEM](https://github.com/gaow/genetic-analysis-software/issues/486)

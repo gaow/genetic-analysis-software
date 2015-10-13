@@ -22,3 +22,5 @@ Java
 ##Reference
 Brun-Samarcq, et al, (1999) Bioinformatics, 15(4):345-346\. [ full text (PDF) ].
 
+
+## [Reviews on COPE](https://github.com/gaow/genetic-analysis-software/issues/79)

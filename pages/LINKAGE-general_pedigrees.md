@@ -33,3 +33,5 @@ MS-DOS, OS2, UNIX, VMS
 ##Related
 FASTLINK
 
+
+## [Reviews on LINKAGE - general pedigrees](https://github.com/gaow/genetic-analysis-software/issues/275)

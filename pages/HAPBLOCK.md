@@ -22,3 +22,5 @@ MS-Windows, Linux, UNIX(Solaris)
 * Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.
 * Zhang, Qin, Chen, Liu, Waterman, Sun (2005), "HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms", Bioinformatics, 21(1):131-134.
 
+
+## [Reviews on HAPBLOCK](https://github.com/gaow/genetic-analysis-software/issues/200)

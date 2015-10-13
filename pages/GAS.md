@@ -17,3 +17,5 @@ http://users.ox.ac.uk/~ayoung/gas.html .
 ##OS
 MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS
 
+
+## [Reviews on GAS](https://github.com/gaow/genetic-analysis-software/issues/136)

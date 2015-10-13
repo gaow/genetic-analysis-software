@@ -18,3 +18,5 @@ altree, altree-convert, altree-add-s
 ##Reference
 Bardel, Danjean, Hugot, Darlu, Genin (2005), "On the use of haplotype phylogeny to detect disease susceptibility loci", BMC Genetics, 6:24.
 
+
+## [Reviews on ALTREE](https://github.com/gaow/genetic-analysis-software/issues/14)

@@ -12,3 +12,5 @@ The program polymutt implemented a likelihood-based framework for calling single
 ##URL
 http://genome.sph.umich.edu/wiki/Polymutt:_a_tool_for_calling_polymorphism_and_de_novo_mutations_in_families_for_sequencing_data
 
+
+## [Reviews on POLYMUTT](https://github.com/gaow/genetic-analysis-software/issues/409)

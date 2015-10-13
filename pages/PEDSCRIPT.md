@@ -11,3 +11,5 @@ http://genome.sph.umich.edu/wiki/PedScript
 ##EXE
 anonymize, mendelcheck, nuke, trim, sample
 
+
+## [Reviews on PEDSCRIPT](https://github.com/gaow/genetic-analysis-software/issues/393)

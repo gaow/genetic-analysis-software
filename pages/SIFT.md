@@ -20,3 +20,5 @@ SIFT predicts whether an amino acid substitution affects protein function based 
 * Ng, Henikoff (2003), "SIFT: Predicting amino acid changes that affect protein function", Nucleic Acids Research, 31:3812-3814.
 * Kumar, Henikoff, Ng (2009), "Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm", Nature Protocols, 4:1073-1081.
 
+
+## [Reviews on SIFT](https://github.com/gaow/genetic-analysis-software/issues/509)

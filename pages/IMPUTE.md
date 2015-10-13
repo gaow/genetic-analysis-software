@@ -16,3 +16,5 @@ https://mathgen.stats.ox.ac.uk/impute/impute.html
 * Marchini, Howie, Myers, McVean, Donnelly (2007), "A new multipoint method for genome-wide association studies via imputation of genotypes", Nature Genetics, 39:906-913.
 * Howie, Donnelly, Marchini (2009), "A flexible and accurate genotype imputation method for the next generation of genome-wide association studies", PLoS Genetics, 5(6):e1000529
 
+
+## [Reviews on IMPUTE](https://github.com/gaow/genetic-analysis-software/issues/247)

@@ -24,3 +24,5 @@ Pascal (web implementation: Perl, C, php)
 ##OS
 web-based, MS-DOS, MS-Windows(32), Linux (for stand-alone version)
 
+
+## [Reviews on FINETTI](https://github.com/gaow/genetic-analysis-software/issues/129)

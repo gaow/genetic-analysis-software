@@ -17,3 +17,5 @@ Pascal
 ##OS
 MS-DOS
 
+
+## [Reviews on CEPH2CRI](https://github.com/gaow/genetic-analysis-software/issues/62)

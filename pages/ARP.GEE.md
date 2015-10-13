@@ -15,3 +15,5 @@ http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
 ##Language
 R/S-PLUS
 
+
+## [Reviews on ARP.GEE](https://github.com/gaow/genetic-analysis-software/issues/26)

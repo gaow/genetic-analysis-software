@@ -15,3 +15,5 @@ C++
 ##Reference
 Zhang, Liu, Chen, Deng (2008), "HAPSIMU: a genetic simulation platform for population-based association studies", BMC Bioinformatics, 9:331.
 
+
+## [Reviews on HAPSIMU](https://github.com/gaow/genetic-analysis-software/issues/227)

@@ -19,3 +19,5 @@ UNIX (SunOS/..)
 ##Reference
 Morton, Rao, Lalouel, "Methods in Genetic Epidemiology" (Karger, 1983).
 
+
+## [Reviews on POINTER](https://github.com/gaow/genetic-analysis-software/issues/407)

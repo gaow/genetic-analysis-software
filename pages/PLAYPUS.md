@@ -9,3 +9,5 @@ an integrated variant caller
 ##URL
 http://www.well.ox.ac.uk/platypus
 
+
+## [Reviews on PLAYPUS](https://github.com/gaow/genetic-analysis-software/issues/403)

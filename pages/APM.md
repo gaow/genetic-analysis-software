@@ -24,3 +24,5 @@ apm, sim, apmmult, simmult, chapm, hist
 ##Reference
 Weeks and Lange, American Journal of Human Genetics, 42(2):315-326 (1988). [[abstract](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1715269)]
 
+
+## [Reviews on APM](https://github.com/gaow/genetic-analysis-software/issues/23)

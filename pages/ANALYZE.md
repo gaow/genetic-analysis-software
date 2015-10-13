@@ -22,3 +22,5 @@ UNIX (SunOS/Solaris/OSF1..)
 ##EXE
 analysis (script), analyzeprep, downfreq, extract, (homog), homogpos, homogpre, hrrlamb, hrrlambprep, hrrmult, hrrprep, interpretation, locusorder, pedprepare, polylocus, sib2link, sibpairna, sibprepna, tdtlikena
 
+
+## [Reviews on ANALYZE](https://github.com/gaow/genetic-analysis-software/issues/16)

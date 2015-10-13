@@ -18,3 +18,5 @@ R
 ##Reference
 Skare, Sheehan, Egeland (2009), "Identification of distant family relationships", Bioinformatics, 25(18):2376-2382.
 
+
+## [Reviews on R/FEST](https://github.com/gaow/genetic-analysis-software/issues/459)

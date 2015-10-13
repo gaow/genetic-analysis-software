@@ -11,3 +11,5 @@ http://www.reading.ac.uk/Statistics/genetics/software.html
 ##Language
 C
 
+
+## [Reviews on HWMET](https://github.com/gaow/genetic-analysis-software/issues/242)

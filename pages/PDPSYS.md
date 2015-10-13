@@ -23,3 +23,5 @@ MS-Windows (95)
 ##EXE
 pdpsys
 
+
+## [Reviews on PDPSYS](https://github.com/gaow/genetic-analysis-software/issues/375)

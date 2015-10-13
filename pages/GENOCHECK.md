@@ -34,3 +34,5 @@ GenoCheck, toaff
 * Ehm, Cottingham, Kimmel (1995), J. Biological Systems, 3(1), 13-25.
 * Ehm, Cottingham, Kimmel (1996), "Error detection for genetic data, using likelihood methods", American Journal of Human Genetics, 58(1):225-234
 
+
+## [Reviews on GENOCHECK](https://github.com/gaow/genetic-analysis-software/issues/164)

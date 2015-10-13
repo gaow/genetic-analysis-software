@@ -27,3 +27,5 @@ emgi.exe (fixed number of markers), bash emgi.sh (sliding window)
 ##Reference
 Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002), "Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals", Human Heredity, 53:79-91.
 
+
+## [Reviews on HTR](https://github.com/gaow/genetic-analysis-software/issues/239)

@@ -18,3 +18,5 @@ MS-Windows, UNIX
 ##Reference
 D Curtis, BV North, H Gurling, E Blaveri, PC Sham (2002), "A quick and simple method for detecting subjects with abnormal genetic background in case-control samples", Annals of Human Genetics, 66:235-244.
 
+
+## [Reviews on CHECKHET](https://github.com/gaow/genetic-analysis-software/issues/66)

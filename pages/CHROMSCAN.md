@@ -11,3 +11,5 @@ A.R. Collins (University of Southampton)
 ##URL
 http://www.som.soton.ac.uk/research/geneticsdiv/epidemiology/chromscan/
 
+
+## [Reviews on CHROMSCAN](https://github.com/gaow/genetic-analysis-software/issues/72)

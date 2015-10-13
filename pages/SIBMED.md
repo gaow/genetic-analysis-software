@@ -27,3 +27,5 @@ sibmed.exe
 ##Reference
 Douglas, Boehnke, Lange (2000), "A multipoint method for detecting genotyping errors and mutations in sibling-pair linkage data", American Journal of Human Genetics, 66(4):1287-1297\. [ html]
 
+
+## [Reviews on SIBMED](https://github.com/gaow/genetic-analysis-software/issues/506)

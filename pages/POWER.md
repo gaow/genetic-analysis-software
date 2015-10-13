@@ -14,3 +14,5 @@ MS-Window
 ##Reference
 Garcia-Closas, Lubin (1999), "Power and sample size calculations in case-control studies of gene-environmental interactions: Comments on different approaches", American Journal of Epidemiology, 149:689-693.
 
+
+## [Reviews on POWER](https://github.com/gaow/genetic-analysis-software/issues/415)

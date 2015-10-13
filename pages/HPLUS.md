@@ -20,3 +20,5 @@ MS-Windows, Linux
 * Zhao, Li, Khalid (2003), "A method for assessing disease associations with SNP haplotypes and environmental variables in case-control", American Journal of Human Genetics, 72(5):1231-1250
 * Li, Khalid, Carlson, Zhao (2003), "Estimating haplotype frequencies and standard errors for multiple single nucleotide polymorphisms", Biostatistics, 4:513-522.
 
+
+## [Reviews on HPLUS](https://github.com/gaow/genetic-analysis-software/issues/237)

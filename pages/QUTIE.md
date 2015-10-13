@@ -14,3 +14,5 @@ http://www.sanger.ac.uk/resources/software/rarevariant/
 ##Related
 CCRAVAT
 
+
+## [Reviews on QUTIE](https://github.com/gaow/genetic-analysis-software/issues/443)

@@ -23,3 +23,5 @@ simibd, xslink
 * Davis, Schroeder, Goldin, Weeks (1996), "Nonparametric simulation-based statistics for detecting linkage in general pedigrees", American Journal of Human Genetics, 58(4):867-880
 * online README file
 
+
+## [Reviews on SIMIBD](https://github.com/gaow/genetic-analysis-software/issues/513)

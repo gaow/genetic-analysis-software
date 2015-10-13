@@ -24,3 +24,5 @@ web-based
 ##Reference
 Macgregor and Khan (2006), "GAIA: An easy-to-use web-based application for interaction analysis of case-control data", BMC Medical Genetics, 7:34
 
+
+## [Reviews on GAIA](https://github.com/gaow/genetic-analysis-software/issues/133)

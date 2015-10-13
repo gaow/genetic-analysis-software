@@ -12,3 +12,5 @@ R
 * Devlin, Jones, Bacanu, Roeder (2002), "Mixture models for linkage analysis of affected sibling pairs and covariates", Genetic Epidemiology, 22(1):52-65.
 * Devlin, Jones, Bacanu, Roeder (2002), "Reply to Olson", Genetic Epidemiology, 23(4):449-455.
 
+
+## [Reviews on COVIBD](https://github.com/gaow/genetic-analysis-software/issues/80)

@@ -24,3 +24,5 @@ pedigraph
 ##Reference
 J Garbe, Y Da (2003), Pedigraph user manual Version 1.1\. Department of Animal Science, University of Minnesota.
 
+
+## [Reviews on PEDIGRAPH](https://github.com/gaow/genetic-analysis-software/issues/381)

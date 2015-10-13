@@ -14,3 +14,5 @@ http://mapdisto.free.fr/
 ##Language
 MS-Excel
 
+
+## [Reviews on MAPDISTO](https://github.com/gaow/genetic-analysis-software/issues/303)

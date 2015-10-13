@@ -19,3 +19,5 @@ R
 ##Reference
 Zhang, Niyogi, McPeek (2009), "Laplacian eigenfunctions learn population structure", PLoS ONE, 4(12):e7928.
 
+
+## [Reviews on LAPSTRUCT](https://github.com/gaow/genetic-analysis-software/issues/262)

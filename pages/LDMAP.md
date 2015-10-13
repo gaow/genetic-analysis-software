@@ -20,3 +20,5 @@ UNIX(Solaris)
 ##Reference
 online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.html
 
+
+## [Reviews on LDMAP](https://github.com/gaow/genetic-analysis-software/issues/269)

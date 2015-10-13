@@ -25,3 +25,5 @@ sibs
 ##Related
 GENEHUNTER
 
+
+## [Reviews on MAPMAKER/SIBS](https://github.com/gaow/genetic-analysis-software/issues/310)

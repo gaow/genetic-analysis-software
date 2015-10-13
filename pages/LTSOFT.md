@@ -11,3 +11,5 @@ Alkes Price (Harvard Univ)
 ##URL
 http://www.hsph.harvard.edu/faculty/alkes-price/software/
 
+
+## [Reviews on LTSOFT](https://github.com/gaow/genetic-analysis-software/issues/290)

@@ -17,3 +17,5 @@ http://ibi.zju.edu.cn/software/qtlnetwork
 ##Reference
 Yang, Hu, Hu, Yu, Xia, Ye, Zhu (2008), "QTLNetwork: mapping and visualizing genetic architecture of complex traits in experimental populations", Bioinformatics. 24(5):721-723.
 
+
+## [Reviews on QTLNETWORK](https://github.com/gaow/genetic-analysis-software/issues/440)

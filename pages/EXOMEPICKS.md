@@ -8,3 +8,5 @@ Abecasis' group (Univ Michigan)
 ##URL
 http://genome.sph.umich.edu/wiki/ExomePicks
 
+
+## [Reviews on EXOMEPICKS](https://github.com/gaow/genetic-analysis-software/issues/116)

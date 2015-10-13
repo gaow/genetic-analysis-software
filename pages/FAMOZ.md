@@ -26,3 +26,5 @@ UNIX(Solaris/..), Linux, MS-Windows
 * S Gerber, S Mariette, R Streiff, C Bodénès, A Kremer (2000), "Comparison of microsatellites and AFLP markers for parentage analysis", Molecular Ecology, 9:1037-1048.
 * S Gerber, P Chabrier, A Kremer (2003), "FaMoz: a software for parentage analysis using dominant, codominant and uniparentally inherited markers", Molecular Ecology Notes, 3(3):479-481.
 
+
+## [Reviews on FAMOZ](https://github.com/gaow/genetic-analysis-software/issues/118)

@@ -28,3 +28,5 @@ MS-Windows (95/98)
 ##Reference
 Yasuo, Ryo, Akira, Takeshi (1995), "MAPL: a package of computer programs for construction of DNA polymorphismlinkage maps and analysis of QTL" (in Japanese), Breeding Science, 45(1):139-142.
 
+
+## [Reviews on MAPL](https://github.com/gaow/genetic-analysis-software/issues/306)

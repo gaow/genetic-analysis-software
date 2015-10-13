@@ -21,3 +21,5 @@ MS-Windows (95), UNIX
 ##Reference
 Am Soc Hum Genet annual meeting 1997 (Duren,Cox,Hauser,Boehnke, Am J. Hum Genet. suppl 61, A273(1997)).
 
+
+## [Reviews on RELPAIR](https://github.com/gaow/genetic-analysis-software/issues/456)

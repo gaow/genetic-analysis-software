@@ -12,3 +12,5 @@ http://genome.sph.umich.edu/wiki/Minimac
 ##Related
 MACH
 
+
+## [Reviews on MINIMAC](https://github.com/gaow/genetic-analysis-software/issues/336)

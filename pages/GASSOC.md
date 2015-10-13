@@ -25,3 +25,5 @@ UNIX(SunOS/Solaris/..)
 * Am Soc Hum Genet annual meeting 1996 (Rowland, Schaid, Am J. Hum Genet, suppl, 59, A234 (1996)).
 * Schaid (1996), Genetic Epidemiology, 13:423-449.
 
+
+## [Reviews on GASSOC](https://github.com/gaow/genetic-analysis-software/issues/138)

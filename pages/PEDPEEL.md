@@ -12,3 +12,5 @@ http://mga.bionet.nsc.ru/soft/pedpeel/
 ##Reference
 Belonogova, Axenovich (2007), "Optimal peeling order for pedigrees with incomplete genotypic information", Computational Biology and Chemistry , 31(3):173-177.
 
+
+## [Reviews on PEDPEEL](https://github.com/gaow/genetic-analysis-software/issues/389)

@@ -27,3 +27,5 @@ UNIX, MS-Windows, MacOS
 * Becker, Valentonyte, Croucher, Strauch, Schreiber, Hampe, Knapp (2006), "Identification of probable genotyping errors by consideration of haplotypes", European Journal of Human Genetics, 14:450-8.
 * Becker, Baur, Knapp (2006), "Detection of parent-of-origin effects using haplotype analysis", Human Heredity, 62:64-76
 
+
+## [Reviews on FAMHAP](https://github.com/gaow/genetic-analysis-software/issues/117)

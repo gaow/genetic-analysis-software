@@ -8,3 +8,5 @@ http://bioinformatics.ust.hk/MegaSNPHunter.html
 ##Reference
 Wan, Yang, Yang, Xue, Tang, Yu (2009), "MegaSNPHunter: a learning approach to detect disease predisposition SNPs and high level interactions from whole genome data", BMC Bioinformatics, 10:13.
 
+
+## [Reviews on MEGASNPHUNTER](https://github.com/gaow/genetic-analysis-software/issues/326)

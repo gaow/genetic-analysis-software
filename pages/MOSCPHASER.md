@@ -17,3 +17,5 @@ http://emu.src.riken.jp/MOCSphase/MOSCphaser.zip
 * Kato, Nakamura, Tsunoda (2008), "MOCSphaser: a haplotype inference tool from a mixture of copy number variation and single nucleotide polymorphism data", Bioinformatics, 24(14):1645-1646.
 * http://emu.src.riken.jp/MOCSphase/SuppInfor.doc
 
+
+## [Reviews on MOSCPHASER](https://github.com/gaow/genetic-analysis-software/issues/347)

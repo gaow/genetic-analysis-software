@@ -17,3 +17,5 @@ R
 ##Reference
 Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), "Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs", Genetics, 170:291-304.
 
+
+## [Reviews on LDGROUP](https://github.com/gaow/genetic-analysis-software/issues/266)

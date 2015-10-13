@@ -12,3 +12,5 @@ http://www.bioinf.mdc-berlin.de/projects/hap/
 ##Reference
 K Rohde, R Furst (2001), "Haplotyping and estimation of haplotype frequencies for closely linked biallelic multilocus genetic phenotypes including nuclear family information", Human Mutation, 17(4):289-295.
 
+
+## [Reviews on HAPLOTYPE ESTIMATION](https://github.com/gaow/genetic-analysis-software/issues/216)

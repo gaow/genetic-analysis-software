@@ -17,3 +17,5 @@ Linux, MacOS
 ##Reference
 Albers, Lunter, MacArthur, McVean, Ouwehand, Durbin (2011), "Dindel: Accurate indel calls from short-read data", Genome Research, 21:961-973.
 
+
+## [Reviews on DINDEL](https://github.com/gaow/genetic-analysis-software/issues/88)

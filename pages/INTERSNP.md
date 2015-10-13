@@ -21,3 +21,5 @@ UNIX, MS-Windows, MacOS
 ##Reference
 Herold, Steffens, Brockschmidt, Baur, Becker (2009), "INTERSNP: genome-wide interaction analysis guided by a priori information", Bioinformatics, 25(24):3275-3281
 
+
+## [Reviews on INTERSNP](https://github.com/gaow/genetic-analysis-software/issues/250)

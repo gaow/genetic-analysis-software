@@ -19,3 +19,5 @@ MS-Windows
 ##Reference
 V Vazquez, A Vicentin, L Vazquez, and G Martinez (2002) "Nuevo programa BDGen, como base de datos y herramienta de analisis estadistico de patrones geneticos". VII meeting of the Spanish-Portuguese Group for the International Society for Forensic Genertics. Barcelona, June 2002.
 
+
+## [Reviews on BDGEN](https://github.com/gaow/genetic-analysis-software/issues/34)

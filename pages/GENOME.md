@@ -19,3 +19,5 @@ UNIX(Solaris), Linux, MS-Windows
 ##Reference
 Liang, Zollner, Abecasis (2006), "GENOME: a rapid coalescent-based whole genome simulator", ASHG Annual Meeting.
 
+
+## [Reviews on GENOME](https://github.com/gaow/genetic-analysis-software/issues/166)

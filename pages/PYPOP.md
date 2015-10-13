@@ -25,3 +25,5 @@ MS-Windows(98/2000/XP), Linux
 * Lancaster, Nelson, Single, Meyer, Thomson (2003), "PyPop: a software framework for population genomics: analyzing large-scale multi-locus genotype data", Proceedings of the Pacific Symposium on Biocomputing, 8:514-525.
 * Lancaster, Single, Solberg, Nelson, Thomson (2007), "PyPop update - a software pipeline for large-scale multilocus population genomics", Tissue Antigens, 69(s1):192-197.
 
+
+## [Reviews on PYPOP](https://github.com/gaow/genetic-analysis-software/issues/432)

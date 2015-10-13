@@ -21,3 +21,5 @@ MS-Windows
 * Fischer, Kruger, Gross (2006), "RISCALW: a windows program for risk calculation in families with Duchenne Muscular Dystrophy", Annals of Human Genetics, 70:249-254.
 * Fischer, Gross, Kruger, Cremer, Vogel, Grimm (2006), "Modeling germline mosaicism and different new mutation rates simultaneously for appropriate risk calculations in families with Duchenne muscular dystrophy", Annals of Human Genetics, 70:237-248.
 
+
+## [Reviews on RISCALW](https://github.com/gaow/genetic-analysis-software/issues/469)

@@ -20,3 +20,5 @@ UNIX (Sun/Compaq-Alpha/HP..)
 ##Reference
 Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);
 
+
+## [Reviews on MULTIMAP](https://github.com/gaow/genetic-analysis-software/issues/351)

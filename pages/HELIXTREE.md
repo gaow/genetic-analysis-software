@@ -37,3 +37,5 @@ helixtree.exe
 ##Availability
 Academic pricing available. Please contact Golden Helix, Inc. at info@goldenhelix.com
 
+
+## [Reviews on HELIXTREE](https://github.com/gaow/genetic-analysis-software/issues/232)

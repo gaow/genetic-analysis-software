@@ -24,3 +24,5 @@ MS-Windows, Linux
 ##Reference
 Sargolzaei, Schenkel (2009), "QMSim: a large-scale genome simulator for livestock", Bioinformatics, 25:680-681.
 
+
+## [Reviews on QMSIM](https://github.com/gaow/genetic-analysis-software/issues/434)

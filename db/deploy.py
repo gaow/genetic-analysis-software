@@ -79,7 +79,7 @@ class GasParser:
             json.dump(data, f)
         # Update comment
         for name in self.data.keys():
-            with open(os.path.join(self.prefix, self.data[name]['FileName'].replace('.ini', '.md')), 'w') as f:
+            with open(os.path.join(self.prefix, self.data[name]['FileName'].replace('.ini', '.md')), 'a') as f:
                 if name in data:
                     f.write('\n## [Reviews on {}](https://github.com/gaow/genetic-analysis-software/issues/{})'.\
                             format(name, data[name]))

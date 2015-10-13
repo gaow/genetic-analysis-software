@@ -26,3 +26,5 @@ preped, descstat, prepap,simul, papdr (with 8 options),gpe
 ##Reference
 manual (version 5, PDF) online manual (version 4) (from Wellcome Trust)
 
+
+## [Reviews on PAP](https://github.com/gaow/genetic-analysis-software/issues/367)

@@ -17,3 +17,5 @@ http://droog.gs.washington.edu/ldSelect.html
 ##Reference
 Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), "Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium", American Journal of Human Genetics, 74(1):106-120
 
+
+## [Reviews on LDSELECT](https://github.com/gaow/genetic-analysis-software/issues/271)

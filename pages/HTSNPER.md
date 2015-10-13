@@ -24,3 +24,5 @@ C++, JVM
 ##OS
 MS-Windows, Linux
 
+
+## [Reviews on HTSNPER](https://github.com/gaow/genetic-analysis-software/issues/240)

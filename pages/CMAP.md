@@ -29,3 +29,5 @@ cmap_admin.pl
 ##Reference
 Ware et al. (2002), "Gramene, a tool for grass genomics", Plant Physiology, 130:1606-1613.
 
+
+## [Reviews on CMAP](https://github.com/gaow/genetic-analysis-software/issues/75)

@@ -16,3 +16,5 @@ MS-Windows (NT/2000/XP profession/), require either Oracle RDBMS or MySQL.
 ##Reference
 Yang, Wang, Gingle (2005), "IntegratedMap: a web interface for integrating genetic map data", Bioinformatics, 21(9):2126-2127.
 
+
+## [Reviews on INTEGRAYEDMAP](https://github.com/gaow/genetic-analysis-software/issues/249)

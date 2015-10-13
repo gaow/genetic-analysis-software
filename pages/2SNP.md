@@ -12,3 +12,5 @@ http://alla.cs.gsu.edu/~software/2SNP/
 ##Reference
 Brinza and Zelikovsky (2006), "2SNP: scalable phasing based on 2-SNP haplotypes", Bioinformatics, 22(3):371-373.
 
+
+## [Reviews on 2SNP](https://github.com/gaow/genetic-analysis-software/issues/3)

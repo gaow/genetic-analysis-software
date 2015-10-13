@@ -26,3 +26,5 @@ pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknownpse
 * Goring, Terwilliger (2000), "Linkage analysis in the presence of errors IV: joint pseudomarker analysis of linkage and/or linkage disequilibrium on a mixture of pedigrees and singletons when the mode of inheritance cannot be accurately specified", American Journal of Human Genetics, 66(4):1310-1327
 * Hiekkalinna, Schäffer, Lambert, Norrgrann, Göring, Terwilliger (2011), "PSEUDOMARKER: a powerful program for joint linkage and/or linkage disequilibrium analysis on mixtures of singletons and related individuals", Human Heredity, 71:256-266
 
+
+## [Reviews on PSEUDOMARKER](https://github.com/gaow/genetic-analysis-software/issues/430)

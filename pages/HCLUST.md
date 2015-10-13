@@ -8,3 +8,5 @@ http://wpicr.wpic.pitt.edu/WPICCompGen/hclust/hclust.htm
 ##Language
 R
 
+
+## [Reviews on HCLUST](https://github.com/gaow/genetic-analysis-software/issues/230)

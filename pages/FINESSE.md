@@ -15,3 +15,5 @@ Linux, UNIX(Solaris)
 ##Related
 VITESSE
 
+
+## [Reviews on FINESSE](https://github.com/gaow/genetic-analysis-software/issues/128)

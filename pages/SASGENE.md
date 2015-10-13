@@ -19,3 +19,5 @@ SAS
 ##Reference
 Liu, Wehner, Donaghy (1997), "SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage", Journal of Heredity, 88:253-254.
 
+
+## [Reviews on SASGENE](https://github.com/gaow/genetic-analysis-software/issues/494)

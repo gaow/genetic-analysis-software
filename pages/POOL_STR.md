@@ -17,3 +17,5 @@ POOLing alleles of Short Tandem Repeat markers
 ##Reference
 Aulchenko, Beroli-Avella, van Duijn (2005), "A method for pooling alleles from different genotyping experiments", Annals of Human Genetics, 69(2):233-238.
 
+
+## [Reviews on POOL_STR](https://github.com/gaow/genetic-analysis-software/issues/412)

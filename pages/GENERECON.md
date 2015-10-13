@@ -17,3 +17,5 @@ UNIX, Linux, MacOS, MS-Windows
 ##Reference
 Mailund, Schierup, Pedersen, Madsen, Hein, Schauser (2006), "GeneRecon -- A coalescent based tool for fine-scale association mapping", Bioinformatics, 22(18):2317-2318.
 
+
+## [Reviews on GENERECON](https://github.com/gaow/genetic-analysis-software/issues/157)

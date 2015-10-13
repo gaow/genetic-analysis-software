@@ -29,3 +29,5 @@ R Van Berloo (1999),"GGT: Software for the display of graphical genotypes", Jour
 ##Related
 , MAPCOMP
 
+
+## [Reviews on GGT](https://github.com/gaow/genetic-analysis-software/issues/176)

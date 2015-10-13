@@ -23,3 +23,5 @@ MS-Windows, MacOS
 ##Reference
 Manly, Cudmore, and Meer (2001), " Map Manager QTX, cross-platform software for genetic mapping", Mammalian Genome, 12(12):930-932.
 
+
+## [Reviews on MAP MANAGER QTX](https://github.com/gaow/genetic-analysis-software/issues/312)

@@ -26,3 +26,5 @@ quanto.exe
 * Gauderman (2002), "Sample size requirements for association studies of gene-gene interaction", American Journal of Epidemiology, 155:478-484
 * WJ Gauderman (2003), "Candidate gene association studies for a quantitative trait, using parent-offspring trios", Genetic Epidemiology, 25:327-338
 
+
+## [Reviews on QUANTO](https://github.com/gaow/genetic-analysis-software/issues/441)

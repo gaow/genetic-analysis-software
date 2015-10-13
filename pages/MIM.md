@@ -26,3 +26,5 @@ UNIX
 * Goldgar, Oniki (1992), "Comparison of a multipoint identity-by-descent method with parametric multipoint linkage analysis for mapping quantitative traits", American Journal of Human Genetics, 50(3):598-606
 * online manual (from Wellcome Trust)
 
+
+## [Reviews on MIM](https://github.com/gaow/genetic-analysis-software/issues/335)

@@ -11,3 +11,5 @@ http://www.twin-research.ac.uk/WebPowQ/PowQ.htm
 ##Reference
 Falchi and Borlino (2006), "PowQ: a user-friendly package for the design of variance component multipoint linkage analysis studies", Bioinformatics, 22(11):1404-1405.
 
+
+## [Reviews on POWQ](https://github.com/gaow/genetic-analysis-software/issues/418)

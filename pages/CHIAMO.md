@@ -14,3 +14,5 @@ http://www.stats.ox.ac.uk/~marchini/software/gwas/chiamo.html
 ##Reference
 Marchini, Spencer, Teo, Donnelly (2007), "A Bayesian hierarchical mixture model for genotype calling in a multi-cohort study",
 
+
+## [Reviews on CHIAMO](https://github.com/gaow/genetic-analysis-software/issues/68)

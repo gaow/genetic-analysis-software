@@ -23,3 +23,5 @@ Zhao, Curtis, Sham (2000), "Model-free and permutation tests for allelic associa
 ##Related
 EH, FASTEHPLUS
 
+
+## [Reviews on EHPLUS](https://github.com/gaow/genetic-analysis-software/issues/103)

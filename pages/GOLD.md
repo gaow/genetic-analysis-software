@@ -18,3 +18,5 @@ http://www.sph.umich.edu/csg/abecasis/GOLD/
 ##Reference
 Abecasis, Cookson (2000), Bioinformatics, 16(2):182-183.
 
+
+## [Reviews on GOLD](https://github.com/gaow/genetic-analysis-software/issues/185)

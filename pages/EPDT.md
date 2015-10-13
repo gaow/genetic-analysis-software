@@ -21,3 +21,5 @@ UNIX
 ##Reference
 Yang, Chen, Fann "A pedigree-based disequilibrium test for a single extended pedigree". preprint.
 
+
+## [Reviews on EPDT](https://github.com/gaow/genetic-analysis-software/issues/109)

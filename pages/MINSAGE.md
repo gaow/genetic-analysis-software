@@ -17,3 +17,5 @@ MS-Windows
 ##Reference
 HG Gregorius (1980), "The probability of losing an allele when diploid genotypes are sampled", Biometrics, 36:643-652.
 
+
+## [Reviews on MINSAGE](https://github.com/gaow/genetic-analysis-software/issues/337)

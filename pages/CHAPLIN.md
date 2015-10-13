@@ -29,3 +29,5 @@ chaplin.exe
 * M Epstein, G Satten (2003), "Inference on haplotype effects in case-control studies using unphased genotype data", American Journal of Human Genetics, 73(6):1316-1329
 * Satten, Epstein (2004), "Comparison of prospective and retrospective methods for haplotype inference in case-control studies", Genetic Epidemiology, 27(3):192-201
 
+
+## [Reviews on CHAPLIN](https://github.com/gaow/genetic-analysis-software/issues/65)

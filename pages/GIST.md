@@ -20,3 +20,5 @@ UNIX, MS-Windows
 ##Reference
 Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):418-431
 
+
+## [Reviews on GIST](https://github.com/gaow/genetic-analysis-software/issues/178)

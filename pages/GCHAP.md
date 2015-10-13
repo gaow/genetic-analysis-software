@@ -22,3 +22,5 @@ Java
 ##Related
 GENEPI.JAR
 
+
+## [Reviews on GCHAP](https://github.com/gaow/genetic-analysis-software/issues/141)

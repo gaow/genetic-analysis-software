@@ -26,3 +26,5 @@ eaglet.pl
 ##Reference
 Stewart, Peljto, Greenberg (2009), "Multiple subsampling of dense SNP data localizes disease genes with increased precision", Human Heredity, to appear.
 
+
+## [Reviews on EAGLET](https://github.com/gaow/genetic-analysis-software/issues/95)

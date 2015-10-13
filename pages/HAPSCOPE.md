@@ -11,3 +11,5 @@ http://lpg.nci.nih.gov/lpg_small/protocols/HapScope/
 ##Reference
 Zhang, Rowe, Struewing, Buetow (2002), "HapScope: a software system for automated and visual analysis of functionally annotated haplotypes", Nucleic Acid Research, 30:5213-5221.
 
+
+## [Reviews on HAPSCOPE](https://github.com/gaow/genetic-analysis-software/issues/226)

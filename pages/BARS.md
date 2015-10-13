@@ -21,3 +21,5 @@ Linux
 ##Reference
 Zhang, Roeder, Wallstrom, Devlin (2003), "Integration of associative statistics over genomic regions using Bayesian Adaptive Regression Splines", Human Genomics, 1:20-29.
 
+
+## [Reviews on BARS](https://github.com/gaow/genetic-analysis-software/issues/32)

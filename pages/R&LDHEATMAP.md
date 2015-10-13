@@ -22,3 +22,5 @@ R
 ##Reference
 Shin, Blay, McNeney, Graham (2006), "LDheatmap: an R function for graphical display of pairwise linkage disequilibria between single nucleotide polymorphisms", Journal of Statistical Software, 16, code snippet 3.
 
+
+## [Reviews on R/LDHEATMAP](https://github.com/gaow/genetic-analysis-software/issues/472)

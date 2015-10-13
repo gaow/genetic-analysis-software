@@ -11,3 +11,5 @@ http://www.biosciences-labs.bham.ac.uk/Kearsey/
 ##OS
 Java
 
+
+## [Reviews on QTL CAFE](https://github.com/gaow/genetic-analysis-software/issues/437)

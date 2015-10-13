@@ -12,3 +12,5 @@ http://www.jax.org/staff/churchill/labsite/software/Jqtl/index.html
 ##Language
 Java
 
+
+## [Reviews on J/QTL](https://github.com/gaow/genetic-analysis-software/issues/255)

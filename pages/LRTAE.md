@@ -25,3 +25,5 @@ MS-Windows, UNIX(Solaris), Linux
 * Gordon, Yang, Haynes, Finch, Mendell, Brown, Haroutunian (2004), "Increasing power for tests of genetic association in the presence of phenotype and/or genotype error by use of double-sampling", Stat Appl Genet and Mol Biol 3:Article 26.
 * online manual page
 
+
+## [Reviews on LRTAE](https://github.com/gaow/genetic-analysis-software/issues/288)

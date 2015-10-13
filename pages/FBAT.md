@@ -30,3 +30,5 @@ fbat, pbat, powerfbat, xwxw, xdt
 ##Related
 PBAT
 
+
+## [Reviews on FBAT](https://github.com/gaow/genetic-analysis-software/issues/125)

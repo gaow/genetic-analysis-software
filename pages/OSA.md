@@ -29,3 +29,5 @@ osa2.0
 * ER Hauser, MP Bass, ER Martin, RM Watanabe, WL Duren, M Boehnke (2001), Am J Hum Genet, suppl 69:529.
 * ER Hauser, RM Watanabe, WL Duren, MP Bass, CD Langefeld, M Boehnke (2004), "Ordered subset analysis in genetic linkage mapping of complex traits", Genetic Epidemiology, 27(1):53-63.
 
+
+## [Reviews on OSA](https://github.com/gaow/genetic-analysis-software/issues/363)

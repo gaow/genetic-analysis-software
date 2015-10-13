@@ -18,3 +18,5 @@ Visual Basic 5
 ##OS
 MS-Windows (95/98/NT)
 
+
+## [Reviews on COMBIN](https://github.com/gaow/genetic-analysis-software/issues/76)

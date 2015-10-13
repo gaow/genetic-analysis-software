@@ -12,3 +12,5 @@ Eleazar Eskin ( eeskin@cs.ucsd.edu)
 * http://research.calit2.net/hap/
 * http://www.cs.columbia.edu/compbio/hap/
 
+
+## [Reviews on HAP 1](https://github.com/gaow/genetic-analysis-software/issues/195)

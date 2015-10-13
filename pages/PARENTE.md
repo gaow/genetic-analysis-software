@@ -14,3 +14,5 @@ http://www2.ujf-grenoble.fr/leca/membres/manel.html
 ##Reference
 Cercueil, Bellemain, Manel (2002), "PARENTE: computer program for parentage analysis", Journal of Heredity, 93:458-459.
 
+
+## [Reviews on PARENTE](https://github.com/gaow/genetic-analysis-software/issues/368)

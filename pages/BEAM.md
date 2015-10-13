@@ -21,3 +21,5 @@ UNIX, Linux, DOS
 ##Reference
 Zhang, Liu (2007), "Bayesian inference of epistatic interactions in case-control studies", Nature, 39:1167-1173.
 
+
+## [Reviews on BEAM](https://github.com/gaow/genetic-analysis-software/issues/37)

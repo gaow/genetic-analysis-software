@@ -18,3 +18,5 @@ Illumina's CASAVA software captures summary information for resequencing and cou
 ##URL
 http://www.illumina.com/software/genome_analyzer_software.ilmn
 
+
+## [Reviews on CASAVA](https://github.com/gaow/genetic-analysis-software/issues/56)

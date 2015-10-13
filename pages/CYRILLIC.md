@@ -26,3 +26,5 @@ Chapman (1990), American Journal of Medical Genetics, 36:155-160.
 * commercial v2.1 (US$599/379 UK pounds/570 euros), 3 (US$769/479 UK pounds/725 euro), upgrades from v2.1 to v3 (US$299), upgrades from v2 to v3 (US$399),
 * Cyrillic Software, UK; Exeter Software (USA reseller)
 
+
+## [Reviews on CYRILLIC](https://github.com/gaow/genetic-analysis-software/issues/84)

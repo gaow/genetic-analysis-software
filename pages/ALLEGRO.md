@@ -24,3 +24,5 @@ C++
 * Gudbjartsson, Thorvaldsson, Gunnarsson, Kong, Ingolfsdottir (2004), "Decision diagram based multipoint linkage analysis: ALLEGRO2", American Journal of Human Genetics, 75(suppl):?.
 * Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), "Allegro version 2", Nature Genetics, 37:1015-1016\. **PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM**
 
+
+## [Reviews on ALLEGRO](https://github.com/gaow/genetic-analysis-software/issues/10)

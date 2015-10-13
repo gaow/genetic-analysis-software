@@ -20,3 +20,5 @@ UNIX(AIX), Linux, MS-Windows(NT)
 ##Reference
 Frisch, Bohn, Melchinger (2000), "PLABSIM: software for simulation of marker-assisted backcrossing", Journal of Heredity, 91:86-87.
 
+
+## [Reviews on PLABSIM](https://github.com/gaow/genetic-analysis-software/issues/402)

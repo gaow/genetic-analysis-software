@@ -22,3 +22,5 @@ lea.exe
 ##Reference
 Langella, Chikhi, Beaumont (2001), "LEA (Likelihood-based estimation of admixture): a program to simultaneously estimate admixture and the time since admixture", Molecular Ecology Notes, 1(4):357-358.
 
+
+## [Reviews on LEA](https://github.com/gaow/genetic-analysis-software/issues/273)

@@ -17,3 +17,5 @@ UNIX (AIX/IRIX/DECalpha), Linux, MacOS, MS-DOS, MS-Windows(95)
 ##Reference
 Guldbrandtsen, Tokiuk, Loeschcke (2000), "POPDIST, version 1.1.1: a program to calculate population genetic distance and identity measures", Journal of Heredity, 91:178-179.
 
+
+## [Reviews on POPDIST](https://github.com/gaow/genetic-analysis-software/issues/413)

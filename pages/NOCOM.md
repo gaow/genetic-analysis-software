@@ -21,3 +21,5 @@ MS-DOS, OS2
 * Ott (1979), "Detection of rare major genes in lipid levels", Human Genetics, 51:79-91.
 * online user's guide
 
+
+## [Reviews on NOCOM](https://github.com/gaow/genetic-analysis-software/issues/358)

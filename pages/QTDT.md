@@ -26,3 +26,5 @@ qtdt, prelude, finale, pedstats
 ##Reference
 Abecasis, Cardon and Cookson (2000), "A general test of association for quantitative traits in nuclear families", American Journal of Human Genetics, 66(1):279-292\. [ html]
 
+
+## [Reviews on QTDT](https://github.com/gaow/genetic-analysis-software/issues/435)

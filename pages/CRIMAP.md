@@ -25,3 +25,5 @@ crimap
 * documentation (version 2.4, 1990).
 * Tutorial (from biobase.dk)
 
+
+## [Reviews on CRIMAP](https://github.com/gaow/genetic-analysis-software/issues/81)

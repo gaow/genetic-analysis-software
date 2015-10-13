@@ -33,3 +33,5 @@ mega2
 * online documentation: http://watson.hgen.pitt.edu/docs/mega2_html/mega2.html
 * FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/2.html
 
+
+## [Reviews on MEGA2](https://github.com/gaow/genetic-analysis-software/issues/325)

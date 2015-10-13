@@ -11,3 +11,5 @@ http://www.sanger.ac.uk/resources/software/margarita/
 ##Language
 Java
 
+
+## [Reviews on MARGARITA](https://github.com/gaow/genetic-analysis-software/issues/317)

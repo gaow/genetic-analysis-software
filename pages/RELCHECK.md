@@ -24,3 +24,5 @@ relcheck
 * Boehnke, Cox (1997), "Accurate inference of relationships in sib-pair linkage studies", American Journal of Human Genetics, 61(2):423-429
 * Broman, Weber (1998), "Estimation of pairwise relationships in the presence of genotyping errors" (letter), American Journal of Human Genetics, 63(5):1563-1564
 
+
+## [Reviews on RELCHECK](https://github.com/gaow/genetic-analysis-software/issues/455)

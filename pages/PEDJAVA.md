@@ -27,3 +27,5 @@ pedJava, pedJavaServer
 ##Reference
 in preparation
 
+
+## [Reviews on PEDJAVA](https://github.com/gaow/genetic-analysis-software/issues/386)

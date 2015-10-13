@@ -18,3 +18,5 @@ MATLAB
 ##Reference
 Sen, Churchill (2001), "A statistical framework for quantitative trait mapping", Genetics, 159:371-387.
 
+
+## [Reviews on PSEUDOMARKER.M](https://github.com/gaow/genetic-analysis-software/issues/431)

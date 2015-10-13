@@ -18,3 +18,5 @@ http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php
 ##OS
 MS-Windows (3.1/95/NT), MacOS (10.2.8/10.3)
 
+
+## [Reviews on GDA](https://github.com/gaow/genetic-analysis-software/issues/142)

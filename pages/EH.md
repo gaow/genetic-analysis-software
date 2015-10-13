@@ -26,3 +26,5 @@ eh
 ##Related
 EHPLUS, FASTEHPLUS, EHP
 
+
+## [Reviews on EH](https://github.com/gaow/genetic-analysis-software/issues/101)

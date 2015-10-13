@@ -14,3 +14,5 @@ http://www.imbs.uni-luebeck.de/pub/silcLOD/index.html
 ##Reference
 E Lander, L Kruglyak (1995), "Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results", Nature Genetics, 11:241-247.
 
+
+## [Reviews on SILCLOD](https://github.com/gaow/genetic-analysis-software/issues/510)

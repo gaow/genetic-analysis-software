@@ -17,3 +17,5 @@ MS-Windows (95/98/00/NT)
 ##Reference
 Degen, Petit, Kremer (2001), "SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations", Journal of Heredity, 92(5):447-448.
 
+
+## [Reviews on SGS](https://github.com/gaow/genetic-analysis-software/issues/503)

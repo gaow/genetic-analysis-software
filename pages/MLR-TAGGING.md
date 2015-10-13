@@ -18,3 +18,5 @@ http://alla.cs.gsu.edu/~software/tagging/tagging.html
 ##Reference
 He, Zelikovsky (2006), "MLR-tagging: informative SNP selection for unphased genotypes based on multiple linear regression", Bioinformatics, 22(20):2558-2561.
 
+
+## [Reviews on MLR-TAGGING](https://github.com/gaow/genetic-analysis-software/issues/343)

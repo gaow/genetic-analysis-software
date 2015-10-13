@@ -22,3 +22,5 @@ UNIX, Linux/Cygwin, MS-Windows, MacOS
 ##Reference
 Sanchez, de Givry, Schiex (2007), "Mendelian error detection in complex pedigrees using weighted constraint satisfaction techniques", Frontiers in Artificial Intelligence and Applications, 163:29-37.
 
+
+## [Reviews on MENDELSOFT](https://github.com/gaow/genetic-analysis-software/issues/328)

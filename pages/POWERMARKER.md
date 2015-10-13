@@ -14,3 +14,5 @@ http://statgen.ncsu.edu/powermarker/
 ##Reference
 Liu, Muse (2005), "PowerMarker: an integrated analysis environment for genetic marker analysis", Bioinformatics, 21(9):2128-2129.
 
+
+## [Reviews on POWERMARKER](https://github.com/gaow/genetic-analysis-software/issues/416)

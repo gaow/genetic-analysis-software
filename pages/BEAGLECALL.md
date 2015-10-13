@@ -17,3 +17,5 @@ MS-Windows, UNIX, Linux, MacOS
 ##Reference
 Browning, Yu (2009), "Simultaneous genotype calling and haplotype phase inference improves genotype accuracy and reduces false positive associations for genome-wide association studies", American Journal of Human Genetics, 85:847-861.
 
+
+## [Reviews on BEAGLECALL](https://github.com/gaow/genetic-analysis-software/issues/35)

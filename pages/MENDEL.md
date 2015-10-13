@@ -21,3 +21,5 @@ FORTRAN77
 * module USERM14: Stringham, Boehnke (1996), "Identifying marker typing incompatibilities in linkage analysis", American Journal of Human Genetics, 59(4):946-950
 * Lange, Cantor, Horvath, Perola, Sabatti, Sinsheimer, Sobel (2001), Am. J. Hum. Genet. 69(suppl), A1886.
 
+
+## [Reviews on MENDEL](https://github.com/gaow/genetic-analysis-software/issues/327)

@@ -15,3 +15,5 @@ C
 * Sillanpaa, Arjas (1998), "Bayesian mapping of multiple quantitative trait loci from incomplete inbred line cross data", Genetics, 148:1373-1388.
 * Martinez, Thorgaard, Robison, Sillanpaa (2005), "An application of Bayesian QTL mapping to early development in double haploid lines of rainbow trout including environmental effects", Genetical Research, 86:209-221.
 
+
+## [Reviews on MULTIMAPPER](https://github.com/gaow/genetic-analysis-software/issues/352)

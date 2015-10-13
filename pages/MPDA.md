@@ -34,3 +34,5 @@ mpda
 ##Reference
 Yang, Huang, Li, Lin, Yu, Diccianni, Wu, Chen, Fann (2008), "MPDA: Microarray Pooled DNA Analyzer", BMC Bioinformatics, 9:196.
 
+
+## [Reviews on MPDA](https://github.com/gaow/genetic-analysis-software/issues/348)

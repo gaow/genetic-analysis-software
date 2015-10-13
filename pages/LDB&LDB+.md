@@ -29,3 +29,5 @@ UNIX(SunOS/..)
 * Morton, Collins, Lawrence, Shield (1992), Annals of Human Genetics, 56:223-232.
 * online manual and user guide
 
+
+## [Reviews on LDB/LDB+](https://github.com/gaow/genetic-analysis-software/issues/265)

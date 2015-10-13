@@ -8,3 +8,5 @@ Abecasis's group (Univ Michigan)
 ##URL
 http://genome.sph.umich.edu/wiki/LocusZoom
 
+
+## [Reviews on LOCUSZOOM](https://github.com/gaow/genetic-analysis-software/issues/281)

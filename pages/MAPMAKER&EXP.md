@@ -31,3 +31,5 @@ mapmaker
 ##Related
 MMDRAWER
 
+
+## [Reviews on MAPMAKER/EXP](https://github.com/gaow/genetic-analysis-software/issues/307)

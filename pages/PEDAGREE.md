@@ -20,3 +20,5 @@ UNIX, Linux, MS-Windows, MS-DOS,
 ##EXE
 pedagree
 
+
+## [Reviews on PEDAGREE](https://github.com/gaow/genetic-analysis-software/issues/377)

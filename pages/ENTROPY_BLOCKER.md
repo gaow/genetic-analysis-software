@@ -14,3 +14,5 @@ R
 ##OS
 MS-Windows, Linux
 
+
+## [Reviews on ENTROPY BLOCKER](https://github.com/gaow/genetic-analysis-software/issues/108)

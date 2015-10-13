@@ -14,3 +14,5 @@ http://www.hsph.harvard.edu/faculty/alkes-price/software/
 ##Reference
 Pasaniuc et al. (2011), "Enhanced statistical tests for GWAS in admixed populations: assessment using African Americans from CARe and a breast cancer consortium", PLoS Genetics, 7:e1001371.
 
+
+## [Reviews on MIXSCORE](https://github.com/gaow/genetic-analysis-software/issues/339)

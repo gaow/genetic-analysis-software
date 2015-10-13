@@ -24,3 +24,5 @@ web-based
 * Li, Jiang, Ho, Song, Sham (2007), "IGG: A tool to integrate GeneChips for genetic studies", Bioinformatics, 23(22):3105-3107.
 * Li, Jiang, Kao, Sham, Song (2009), "IGG3: a tool to rapidly integrate large genotype datasets for whole-genome imputation and individual-level meta-analysis", Bioinformatics, 25(11):1449-1450.
 
+
+## [Reviews on IGG](https://github.com/gaow/genetic-analysis-software/issues/244)

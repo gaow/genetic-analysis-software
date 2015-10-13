@@ -20,3 +20,5 @@ web-based
 ##Reference
 Hanis, Chakraborty, Ferrell, Schull (1986), "Individual admixture estimates: disease associations and individual risk of diabetes and gallbladder disease among Mexican-Americans in Starr County, Texas", American Journal of Physical Anthropology, 70(4):433-441.
 
+
+## [Reviews on ANCESTRY](https://github.com/gaow/genetic-analysis-software/issues/17)

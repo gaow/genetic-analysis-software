@@ -20,3 +20,5 @@ gronrec,gronreca,gronlod,groninbr, gronchec,gronped,gronpedc, grontree
 ##Reference
 Meerman, "A Logic Programming Approach to Pedigree Analysis", (Thesis Publishers Amsterdam, 1991). Available free of charge from the author. Contains documented sources and description.
 
+
+## [Reviews on GRONLOD](https://github.com/gaow/genetic-analysis-software/issues/188)

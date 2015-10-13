@@ -29,3 +29,5 @@ alpw.exe
 ##Reference
 Mansfield, Brown, Green, Carothers, Morris, Evans, Wright (1994), "Automation of genetic linkage analysis using fluorescent microsatellite markers", Genomics, 24(2):225-233.
 
+
+## [Reviews on ALP](https://github.com/gaow/genetic-analysis-software/issues/13)

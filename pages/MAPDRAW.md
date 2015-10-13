@@ -22,3 +22,5 @@ MS-Windows
 ##Reference
 Liu, Meng (2003), "MapDraw: a microsoft excel macro for drawing genetic linkage maps based on given genetic linkage data", Heraditas (Beijing), 25(3):317-321.
 
+
+## [Reviews on MAPDRAW](https://github.com/gaow/genetic-analysis-software/issues/304)

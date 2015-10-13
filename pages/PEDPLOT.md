@@ -22,3 +22,5 @@ pedplot
 ##Reference
 Am Soc Hum Genet annual meeting 1998 (Stajich, Haynes, Pericak-Vance, Am J Hum Genet, suppl, 63,A242).
 
+
+## [Reviews on PEDPLOT](https://github.com/gaow/genetic-analysis-software/issues/391)

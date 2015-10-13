@@ -28,3 +28,5 @@ map
 * Morton, Collins (1990), Annals of Human Genetics, 54:103-106.
 * Shields, Collins, Buetow, Morton (1991), Proceedings of the National Academy of Sciences , 88:6501-6505.
 
+
+## [Reviews on MAP/MAP+/MAP+H/MAP2000](https://github.com/gaow/genetic-analysis-software/issues/313)

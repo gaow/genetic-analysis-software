@@ -23,3 +23,5 @@ Java
 ##Reference
 Ao, Yip, Ng, Cheung, Fong, Melhado, Sham (2005), "CLUSTAG: hierarchical clustering and graph methods for selecting tag SNPs", Bioinformatics, 21(8):1735-1736.
 
+
+## [Reviews on CLUSTAG](https://github.com/gaow/genetic-analysis-software/issues/74)

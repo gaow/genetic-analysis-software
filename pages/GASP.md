@@ -27,3 +27,5 @@ UNIX(DEC-UNIX 4.0B/Solaris 2.5/SGI-IRIX 6.2/..)
 ##Reference
 Am Soc Hum Genet annual meeting 1996 (Wilson, Bailey-Wilson, Pugh, Sorant, Am J. Hum Genet, suppl, 59, A193 (1996)); documentation draft (in postscript)
 
+
+## [Reviews on GASP](https://github.com/gaow/genetic-analysis-software/issues/137)

@@ -17,3 +17,5 @@ http://www.chem.agilent.com/scripts/pds.asp?lpage=34662
 ##Availability
 for quote request, go to http://www.chem.agilent.com/scripts/cag_requestaquote.asp
 
+
+## [Reviews on GENESPRING GT](https://github.com/gaow/genetic-analysis-software/issues/158)

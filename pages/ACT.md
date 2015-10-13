@@ -30,3 +30,5 @@ ibd, ml, ql, he, ibdn, multic
 * Amos (1994), "Robust variance-components approach for assessing genetic linkage in pedigrees", American Journal of Human Genetics, 54:535-543. [[abstract](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1918121)]
 * de Andreade, Amos, Thiel (1999), "Methods to estimate genetic parameters for quantitative traits", Genetic Epidemiology, 17(1):64-76.
 
+
+## [Reviews on ACT](https://github.com/gaow/genetic-analysis-software/issues/4)

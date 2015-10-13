@@ -17,3 +17,5 @@ R
 ##OS
 UNIX, Linux
 
+
+## [Reviews on ARIEL](https://github.com/gaow/genetic-analysis-software/issues/24)

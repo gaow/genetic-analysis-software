@@ -25,3 +25,5 @@ MS-Windows(98/NT/XP)
 ##Reference
 M Sargolzaei, H Iwaisaki, JJ Colleau (2006), "CFC: a tool for monitoring genetic diversity", Proceedings of the 8th World Congress on Genetics Applied to Livestock Production, CD-Rom comm. N 27-28.
 
+
+## [Reviews on CFC](https://github.com/gaow/genetic-analysis-software/issues/64)

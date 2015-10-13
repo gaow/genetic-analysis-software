@@ -14,3 +14,5 @@ PolyPhen-2 is a tool which predicts possible impact of an amino acid substitutio
 * Ramensky, Bork, Sunyaev (2002), "Human non-synonymous SNPs: server and survey", Nucleic Acids Research, 30:3894-3900.
 * Adzhubei, Schmidt, Peshkin, Ramensky, Gerasimova, Bork, Kondrashov, Sunyaev (2010), "A method and server for predicting damaging missense mutations", Nature Methods, 7:248-249.
 
+
+## [Reviews on POLYPHEN](https://github.com/gaow/genetic-analysis-software/issues/410)

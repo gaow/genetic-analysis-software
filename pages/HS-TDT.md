@@ -18,3 +18,5 @@ UNIX, MS-Windows
 * Zhang, Sha, Chen, Dong, Jiang (2003), "Transmission/disequilibrium test based on haplotype sharing for tightly linked markers", American Journal of Human Genetics, 73(3):566-579
 * Zhang, Sha, Chen, Dong, Jiang (2004), "Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker" (letter), American Journal of Human Genetics, 74(3):591-593
 
+
+## [Reviews on HS-TDT](https://github.com/gaow/genetic-analysis-software/issues/238)

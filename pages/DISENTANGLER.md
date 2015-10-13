@@ -17,3 +17,5 @@ Java/JRE1.5
 ##Reference
 Okada et al. (2011), "HLA-Cw*1202-B*5201-DRB1*1502 haplotype increases risk for ulcerative colitis but reduces risk for Crohn's disease", Gastroenterology, 141(3):864-871.
 
+
+## [Reviews on DISENTANGLER](https://github.com/gaow/genetic-analysis-software/issues/89)

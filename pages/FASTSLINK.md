@@ -28,3 +28,5 @@ slink
 ##Related
 SLINK
 
+
+## [Reviews on FASTSLINK](https://github.com/gaow/genetic-analysis-software/issues/124)

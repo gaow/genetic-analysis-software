@@ -16,3 +16,5 @@ Matthew Stephens (email: stephens@stat.washington.edu)
 ##Reference
 Stephens, Smith, Donnelly (2001), AJHG, 68:978-989.
 
+
+## [Reviews on PHASE](https://github.com/gaow/genetic-analysis-software/issues/399)

@@ -11,3 +11,5 @@ Goncalo Abecasis (email: goncalo@umich.edu)
 ##URL
 http://www.sph.umich.edu/csg/abecasis/Metal/
 
+
+## [Reviews on METAL](https://github.com/gaow/genetic-analysis-software/issues/330)

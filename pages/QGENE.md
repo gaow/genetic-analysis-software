@@ -21,3 +21,5 @@ Java
 ##Reference
 Nelson (1997), "QGENE: software for marker-based genomic analysis and breeding", Molecular Breeding, 3:239-245\. [[abstract](http://dx.doi.org/10.1023/A:1009604312050)]
 
+
+## [Reviews on QGENE](https://github.com/gaow/genetic-analysis-software/issues/433)

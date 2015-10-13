@@ -20,3 +20,5 @@ MS-Windows, UNIX (Solaris/..), Linux, MacOS
 ##Reference
 Browning (2008), "PRESTO: Rapid calculation of order statistic distributions and multiple-testing adjusted P-values via permutation for one and two-stage genetic association studies", BMC Bioinformatics, 9:309.
 
+
+## [Reviews on PRESTO](https://github.com/gaow/genetic-analysis-software/issues/422)

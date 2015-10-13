@@ -15,3 +15,5 @@ Octave, R (future version)
 ##Reference
 Miller, Li (2005), "GenetSim: software for simulation of familial data in genetics and epidemiology" (abstract), Genetic Epidemiology, 29:269.
 
+
+## [Reviews on GENETSIM](https://github.com/gaow/genetic-analysis-software/issues/160)

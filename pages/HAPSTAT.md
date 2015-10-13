@@ -17,3 +17,5 @@ MS-Windows(XP/2000/NT/98)
 * Lin, Zeng (2006), "Likelihood-based inference on haplotype effects in genetic association studies (with discussion)", Journal of American Statistical Association, 101:89-118.
 * Zeng, Lin, Avery, North, Bray (2006), "Efficient semiparametric estimation of haplotype-disease associations in case-cohort and nested case-control studies", Biostatistics, 7(3):486-502.
 
+
+## [Reviews on HAPSTAT](https://github.com/gaow/genetic-analysis-software/issues/228)

@@ -25,3 +25,5 @@ MS-Windows (2000 &IIS/ME & Personal Webserver)
 ##EXE
 allelix.dll
 
+
+## [Reviews on ALLELIX](https://github.com/gaow/genetic-analysis-software/issues/11)

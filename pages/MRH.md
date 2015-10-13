@@ -17,3 +17,5 @@ MS-Windows, UNIX(Solaris)
 ##Reference
 Qian, Beckmann (2002), "Minimum-recombinant haplotyping in pedigrees", American Journal of Human Genetics, 70(6):1434-1445
 
+
+## [Reviews on MRH](https://github.com/gaow/genetic-analysis-software/issues/349)

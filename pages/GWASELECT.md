@@ -12,3 +12,5 @@ http://www.bios.unc.edu/~lin/software/GWASelect/
 ##Reference
 He, Lin (2010), "A variable selection method for genome-wide association studies", Bioinformatics, 27:1-8.
 
+
+## [Reviews on GWASELECT](https://github.com/gaow/genetic-analysis-software/issues/194)

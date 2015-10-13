@@ -24,3 +24,5 @@ MS-Windows (95/98/ME/NT4.0/2000)
 ##Reference
 JW Van Ooijen, RE Voorrips (2001), "JoinMap (tm) 3.0: Software for the calculation of genetic linkage maps", Plant Research International, Wageningen, Netherlands; Stam (1993), The Plant Journal, 3, 739-744.
 
+
+## [Reviews on JOINMAP](https://github.com/gaow/genetic-analysis-software/issues/253)

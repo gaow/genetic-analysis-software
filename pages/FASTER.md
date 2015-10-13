@@ -17,3 +17,5 @@ http://www.hoschl.cz/faster/
 ##OS
 MS-Windows(9x/Me/2000/XP)
 
+
+## [Reviews on FASTER](https://github.com/gaow/genetic-analysis-software/issues/120)

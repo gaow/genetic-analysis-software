@@ -32,3 +32,5 @@ gh
 ##Related
 ALLEGRO, GENEHUNTER-IMPRINTING, GENEHUNTER-MODSCORE, GENEHUNTER-PLUS, GENEHUNTER-TWOLOCUS
 
+
+## [Reviews on GENEHUNTER](https://github.com/gaow/genetic-analysis-software/issues/149)

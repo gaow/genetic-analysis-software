@@ -18,3 +18,5 @@ Perl
 ##Reference
 Thiele, Nurnberg (2005), "HaploPainter: a tool for drawing pedigrees with complex haplotypes", Bioinformatics, 21(8):1730-1732.
 
+
+## [Reviews on HAPLOPAINTER](https://github.com/gaow/genetic-analysis-software/issues/209)

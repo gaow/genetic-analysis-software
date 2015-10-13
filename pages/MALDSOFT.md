@@ -18,3 +18,5 @@ UNIX, Linux, MS-Windows (DOS/Window...)
 ##Reference
 G Montana, JK Pritchard (2004), "Statistical tests for admixture mapping with case-control and cases-only data", American Journal of Human Genetics, 75(5):771-789
 
+
+## [Reviews on MALDSOFT](https://github.com/gaow/genetic-analysis-software/issues/297)

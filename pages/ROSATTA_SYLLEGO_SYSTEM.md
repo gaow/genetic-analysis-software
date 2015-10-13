@@ -8,3 +8,5 @@ The Rosetta Syllego system is a genetic data management and analysis system desi
 ##URL
 http://www.rosettabio.com/products/syllego/
 
+
+## [Reviews on ROSATTA SYLLEGO SYSTEM](https://github.com/gaow/genetic-analysis-software/issues/478)

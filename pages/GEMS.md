@@ -25,3 +25,5 @@ gems
 ##Reference
 Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am. J. Hum. Genet. suppl 61, A212 (1997)); Bonney, Apprey, Kwagyan (2001), "A computer software for fitting Genetic Epidemiology Models", tech report 2001-02.
 
+
+## [Reviews on GEMS](https://github.com/gaow/genetic-analysis-software/issues/143)

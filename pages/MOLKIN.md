@@ -17,3 +17,5 @@ http://www.ucm.es/info/prodanim/html/JP_Web.htm
 ##Reference
 Gutierrez, Royo, Alvarez, Goyache (2005), "Molkin v2.0: a computer program for genetic analysis of populations using molecular coancestry information", Journal of Heredity, 96:718-721.
 
+
+## [Reviews on MOLKIN](https://github.com/gaow/genetic-analysis-software/issues/345)

@@ -17,3 +17,5 @@ http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software/
 ##Language
 R
 
+
+## [Reviews on R/QTLDESIGN](https://github.com/gaow/genetic-analysis-software/issues/483)

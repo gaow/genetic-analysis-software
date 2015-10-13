@@ -24,3 +24,5 @@ beta
 ##Reference
 Morton (1996), Proceedings of the National Academy of Sciences , 93:3471-3476; Collins, Morton (1996), Proceedings of the National Academy of Sciences , 93:9177-9181; Lio, Morton (1997), Proceedings of the National Academy of Sciences , 94:5344-5348; online manual
 
+
+## [Reviews on BETA](https://github.com/gaow/genetic-analysis-software/issues/38)

@@ -21,3 +21,5 @@ UNIX (Compaq, Solaris, and others), Linux
 ##Related
 BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK
 
+
+## [Reviews on PANGAEA](https://github.com/gaow/genetic-analysis-software/issues/366)

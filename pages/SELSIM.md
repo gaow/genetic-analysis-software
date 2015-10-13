@@ -21,3 +21,5 @@ MS-Windows(XP), Linux
 ##Reference
 Spencer, Coop (2004), "SelSim: a program to simulate population genetic data with natural selection and recombination", Bioinformatics, 20:3673-3675.
 
+
+## [Reviews on SELSIM](https://github.com/gaow/genetic-analysis-software/issues/501)

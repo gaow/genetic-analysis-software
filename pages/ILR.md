@@ -21,3 +21,5 @@ SAS macro
 ##Reference
 Knapp, Strauch (2004), "Affected-sib-pair test for linkage based on constraints for identical-by-descent distributions corresponding to disease models with imprinting", Genetic Epidemiology, 26:273-285 (Erratum: 28:288).
 
+
+## [Reviews on ILR](https://github.com/gaow/genetic-analysis-software/issues/246)

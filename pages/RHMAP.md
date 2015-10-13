@@ -27,3 +27,5 @@ rhmap, rh2pt, rhminbrk, rhmaxlik
 * Lange,Boehnke, Cox, Lunetta (1995), Genome Research, 5:136-150.
 * Lunetta,Boehnke, Lange, Cox (1995), Genome Research, 5:151-163.
 
+
+## [Reviews on RHMAP](https://github.com/gaow/genetic-analysis-software/issues/466)

@@ -14,3 +14,5 @@ R
 ##EXE
 poolscore.R
 
+
+## [Reviews on POOLSCORE](https://github.com/gaow/genetic-analysis-software/issues/411)

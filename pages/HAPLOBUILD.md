@@ -20,3 +20,5 @@ Linux, MS-Windows, MacOS
 ##Reference
 Laramie, Wilk, DeStefano, Myers (2007), "HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies", Bioinformatics, 23(16):2190-2192.
 
+
+## [Reviews on HAPLOBUILD](https://github.com/gaow/genetic-analysis-software/issues/207)

@@ -18,3 +18,5 @@ C++
 ##Reference
 Lin, Sullivan (2009), "Meta-analysis of genome-wide association studies with overlapping subjects", American Journal of Human Genetics, 85(6):862-872.
 
+
+## [Reviews on MAOS](https://github.com/gaow/genetic-analysis-software/issues/300)

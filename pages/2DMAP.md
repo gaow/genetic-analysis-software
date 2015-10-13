@@ -18,3 +18,5 @@ pic-2d, 2d-map, 2d-color
 ##Reference
 Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.
 
+
+## [Reviews on 2DMAP](https://github.com/gaow/genetic-analysis-software/issues/1)

@@ -23,3 +23,5 @@ UNIX, MS-Windows, MacOS
 ##Reference
 A Strand (2002), "Metasim 1.0: an individual-based environment for simulating population genetics of complex population dynamics", Mol Ecol Notes, 2:373-376.
 
+
+## [Reviews on R/METASIM](https://github.com/gaow/genetic-analysis-software/issues/475)

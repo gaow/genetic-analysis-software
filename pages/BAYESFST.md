@@ -18,3 +18,5 @@ C
 * Balding (2003), "Likelihood-based inference for genetic correlation coefficients", Theoretical Population Biology, 63:221-230
 * Beaumont, Balding (2004), "Identifying adaptive genetic divergence among populations from genome scans", Molecular Ecology, 13:969-980.
 
+
+## [Reviews on BAYESFST](https://github.com/gaow/genetic-analysis-software/issues/33)

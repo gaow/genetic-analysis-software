@@ -20,3 +20,5 @@ UNIX
 * Rohde et al, (1995), Human Heredity, 45:337-345.
 * Teare et al, J Med Genet 1994; 31:448-452.
 
+
+## [Reviews on LOH-LINKAGE](https://github.com/gaow/genetic-analysis-software/issues/283)

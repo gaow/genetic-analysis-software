@@ -17,3 +17,5 @@ MS-Windows, Linux
 ##Reference
 Zamer, Tripp, Ellis, Daley (2009), "Path: a tool to facilitate pathway-based genetic association analysis", Bioinformatics, 25(18):2444-2446.
 
+
+## [Reviews on PATH](https://github.com/gaow/genetic-analysis-software/issues/370)

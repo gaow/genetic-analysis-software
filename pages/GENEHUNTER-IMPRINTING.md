@@ -26,3 +26,5 @@ Strauch, Fimmers, Kurz, Deichmann, Wienker, Baur (2000), American Journal of Hum
 ##Related
 ALLEGRO, GENEHUNTER, GENEHUNTER-MODSCORE, GENEHUNTER-PLUS, GENEHUNTER-TWOLOCUS
 
+
+## [Reviews on GENEHUNTER-IMPRINTING](https://github.com/gaow/genetic-analysis-software/issues/148)

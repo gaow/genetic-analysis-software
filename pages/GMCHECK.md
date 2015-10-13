@@ -14,3 +14,5 @@ Java
 ##Reference
 Thomas (2005), "GMCheck: Bayesian error checking for pedigree genotypes and phenotypes", Bioinformatics, 21(14):3187-3189.
 
+
+## [Reviews on GMCHECK](https://github.com/gaow/genetic-analysis-software/issues/183)

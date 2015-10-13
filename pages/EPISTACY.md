@@ -14,3 +14,5 @@ SAS
 ##Reference
 Holland (1998), "EPISTACY: A SAS program for detecting two-locus epistatic interactions using genetic marker information", Journal of Heredity, 89:374-375.
 
+
+## [Reviews on EPISTACY](https://github.com/gaow/genetic-analysis-software/issues/110)

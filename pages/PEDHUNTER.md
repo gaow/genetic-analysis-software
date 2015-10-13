@@ -15,3 +15,5 @@ http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/pedhunter.html
 ##Reference
 Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), "Software for constructing and verifying pedigrees within large genealogies and an application to the Old Order Amish of Lancaster county", Genome Research, 8:211-221.
 
+
+## [Reviews on PEDHUNTER](https://github.com/gaow/genetic-analysis-software/issues/380)

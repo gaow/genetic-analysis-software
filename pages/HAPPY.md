@@ -17,3 +17,5 @@ ANSI C (requires NAG C library)
 ##OS
 UNIX(IRIX,SunOS), Linux
 
+
+## [Reviews on HAPPY](https://github.com/gaow/genetic-analysis-software/issues/224)

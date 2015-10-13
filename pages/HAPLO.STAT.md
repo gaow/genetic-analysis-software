@@ -29,3 +29,5 @@ haplo.em, haplo.glm, haplo.score
 ##Reference
 Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434
 
+
+## [Reviews on HAPLO.STAT](https://github.com/gaow/genetic-analysis-software/issues/213)

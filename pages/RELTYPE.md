@@ -15,3 +15,5 @@ http://hgc.sph.uth.tmc.edu (not available yet)
 * Chakraborty, Jin (1993), "Determination of relatedness between individuals using DNA fingerprinting", Human Biology, 65(6):875-895.
 * Am Soc Hum Genet annual meeting 1996 (Stivers, Zhong, Hanis, Chakraborty, Am J. Hum Genet. suppl 59, A190 (1996)).
 
+
+## [Reviews on RELTYPE](https://github.com/gaow/genetic-analysis-software/issues/457)

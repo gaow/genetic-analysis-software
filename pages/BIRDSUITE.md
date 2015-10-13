@@ -11,3 +11,5 @@ http://www.broadinstitute.org/scientific-community/science/programs/medical-and-
 ##Reference
 Korn, Kuruvilla, McCarroll, Wysoker, Nemesh, Cawley, Hubbell, Veitch, Collins, Darvishi, Lee, Nizzari, Gabriel, Purcell, Daly, Altshuler (2008), "Integrated genotype calling and association analysis of SNPs, common copy number polymorphisms and rare CNVs", Nature Genetics, 40:1253-1260.
 
+
+## [Reviews on BIRDSUITE](https://github.com/gaow/genetic-analysis-software/issues/42)

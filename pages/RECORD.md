@@ -28,3 +28,5 @@ record_win.exe, ord.exe
 * Van Os, Stam, Visser, Van Eck (2005), "RECORD: A novel method for ordering loci on a genetic linkage map", Theoretical and Applied Genetics, 112(1):30-40
 * Van Os, Andrzejewski, Bakker, Barrena, Bryan, Caromel, Ghareeb, Isidore, de Jong, van Koert, Lefebvre, Milbourne, Ritter, van der Voort, Rousselle-Bourgeois, van Vliet, Waugh, Visse, Bakke, Van Eck (2006), "Construction of a 10,000-marker ultradense genetic recombination map of potato: Providing a framework for accelerated gene isolation and a genomewide physical map", Genetics, 173(2):1075-1087
 
+
+## [Reviews on RECORD](https://github.com/gaow/genetic-analysis-software/issues/451)

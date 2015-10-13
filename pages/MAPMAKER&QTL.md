@@ -25,3 +25,5 @@ UNIX, VMS, MS-DOS, MacOS
 * Lander et al (1987), Genomics,1,174-181.
 * online tutorial and reference manual (v1.1, 1993)
 
+
+## [Reviews on MAPMAKER/QTL](https://github.com/gaow/genetic-analysis-software/issues/309)

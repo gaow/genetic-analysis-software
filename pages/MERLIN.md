@@ -27,3 +27,5 @@ merlin, pedstats, pedwipe
 ##Reference
 Abecasis GR, Cherny SS, Cookson WO and Cardon LR (2002), "Merlin-rapid analysis of dense genetic maps using sparse gene flow trees", Nature Genetics, 30:97-101.
 
+
+## [Reviews on MERLIN](https://github.com/gaow/genetic-analysis-software/issues/329)

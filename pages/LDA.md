@@ -23,3 +23,5 @@ MS-Windows, Linux, MacOS
 ##Reference
 Ding, Zhou, He, Shen (2003), "LDA - A java-based linkage disequilibrium analyzer", Bioinformatics, 19:2147-2148.
 
+
+## [Reviews on LDA](https://github.com/gaow/genetic-analysis-software/issues/264)

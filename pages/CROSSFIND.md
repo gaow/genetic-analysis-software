@@ -23,3 +23,5 @@ UNIX(SunOS)
 ##Reference
 Attwood, Povey (1996), Annals of Human Genetics, 60:487-498.
 
+
+## [Reviews on CROSSFIND](https://github.com/gaow/genetic-analysis-software/issues/83)

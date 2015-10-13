@@ -21,3 +21,5 @@ MS-Windows
 ##Reference
 Hu and Xu (2009), "PROC QTL - A SAS procedure for mapping Quantitative Trait Loci", Plant and Animal Genomes XVII Conference. January 10-14, 2009, San Diego, California (http://www.intl-pag.org/17/abstracts/C02_PAGXVII_854.html).
 
+
+## [Reviews on PROC QTL](https://github.com/gaow/genetic-analysis-software/issues/424)

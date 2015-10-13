@@ -14,3 +14,5 @@ Likelihood Under Covariate Assumptions
 ##Reference
 Shin, McNeney, Graham (2007), "Case-control inference of interaction between genetic and nongenetic risk factors under assumptions on their distribution", Statistical Applications in Genetics and Molecular Biology, 6(1):13.
 
+
+## [Reviews on R/LUCA](https://github.com/gaow/genetic-analysis-software/issues/473)

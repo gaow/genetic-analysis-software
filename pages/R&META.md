@@ -14,3 +14,5 @@ http://cran.r-project.org/web/packages/meta/index.html
 ##Language
 R
 
+
+## [Reviews on R/META](https://github.com/gaow/genetic-analysis-software/issues/474)

@@ -34,3 +34,5 @@ UNIX (Compaq-Alpha, Solaris and others), Linux
 ##Related
 PANGAEA
 
+
+## [Reviews on MORGAN](https://github.com/gaow/genetic-analysis-software/issues/346)

@@ -27,3 +27,5 @@ qugene.exe
 ##Reference
 Podlich, Cooper (1998), "QU-GENE: a simulation platform for quantitative analysis of genetic models", Bioinformatics. 14:632-653. Online manual: http://pig.ag.uq.edu.au/qu-gene/manual.htm
 
+
+## [Reviews on QU-GENE](https://github.com/gaow/genetic-analysis-software/issues/442)

@@ -24,3 +24,5 @@ UNIX, Linux, MS-Windows
 ##Reference
 Obreiter, Fischer, Chang-Claude, Beckmann (2005), "SDMinP: a program to control the family wise error rate using step-down minP adjusted p-values", Bioinformatics, 21(14):3183-3184.
 
+
+## [Reviews on SDMINP](https://github.com/gaow/genetic-analysis-software/issues/499)

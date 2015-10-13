@@ -15,3 +15,5 @@ Perl
 ##Reference
 Thornton, Haines (2003), "PowerTrim: an automated decision support algorithm for preprocessing family-based genetic data", American Journal of Human Genetics, 72(5):1280-1281
 
+
+## [Reviews on POWERTRIM](https://github.com/gaow/genetic-analysis-software/issues/417)

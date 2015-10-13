@@ -18,3 +18,5 @@ R
 ##Reference
 Jombart (2008), "adegenet: a R package for the multivariate analysis of genetic markers", Bioinformatics, 24:1403-1405.
 
+
+## [Reviews on R/ADEGENET](https://github.com/gaow/genetic-analysis-software/issues/444)

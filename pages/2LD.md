@@ -18,3 +18,5 @@ C
 * Zhao (2004), "2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis", Bioinformatics, 20(8):1325-1326.
 * Zapata, Carollo, Rodriguez (2001), "Sampling variance and distribution of the D' measure of overall gametic disequlibrium between multiallelic loci", Annals of Human Genetics, 65:395-406.
 
+
+## [Reviews on 2LD](https://github.com/gaow/genetic-analysis-software/issues/2)

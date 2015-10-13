@@ -28,3 +28,5 @@ lamp
 * Li, Boehnke, Abecasis (2006), "Efficient study designs for test of genetic association using sibship data and unrelated cases and controls", American Journal of Human Genetics, 78(5):778-792
 * Li, Boehnke, Abecasis (2005), "Joint Modeling of Linkage and Association: Identifying SNPs Responsible for a Linkage Signal", American Journal of Human Genetics, 76(6):934-949
 
+
+## [Reviews on LAMP](https://github.com/gaow/genetic-analysis-software/issues/261)

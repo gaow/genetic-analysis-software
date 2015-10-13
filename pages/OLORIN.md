@@ -19,3 +19,5 @@ Java
 ##OS
 any platform with Java 1.6 or later
 
+
+## [Reviews on OLORIN](https://github.com/gaow/genetic-analysis-software/issues/361)

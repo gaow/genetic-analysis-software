@@ -24,3 +24,5 @@ cvl.blup.R(), cvl.epi.R(), cvl.jack.R(), cvl.qtl.effect.R(), read.map.R(), read.
 ##Reference
 JO Borevitz, JN Maloof, J Lutes, T Dabi, JL Redfern, GT Trainer, JD Werner, T Asami, CC Berry, D Weigel, J Chory (2002), "Quantitative trait loci controlling light and hormone response in two accessions of Arabidopsis thaliana", Genetics, 160(2):683-696.
 
+
+## [Reviews on BQTL](https://github.com/gaow/genetic-analysis-software/issues/52)

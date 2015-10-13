@@ -24,3 +24,5 @@ UNIX (SunOS/Solaris/HP)
 * Sobel, Lange, O'Connell and Weeks, in "Genetic Mapping and DNA Sequencing" (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).
 * Weeks, Sobel, O'Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507
 
+
+## [Reviews on HAPLO 1](https://github.com/gaow/genetic-analysis-software/issues/203)

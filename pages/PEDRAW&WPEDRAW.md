@@ -24,3 +24,5 @@ MS-DOS, MS-Windows, X-window
 ##Reference
 Curtis (1990), Annals of Human Genetics, 54:365-367.
 
+
+## [Reviews on PEDRAW/WPEDRAW](https://github.com/gaow/genetic-analysis-software/issues/392)

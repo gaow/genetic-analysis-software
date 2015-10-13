@@ -25,3 +25,5 @@ aldh2, apoeapoc, bt, chow.test, fbsize, fsnps, gc.em, gcontrol, genecounting, gi
 * Zhao and Tan (2006), "Integrated analysis of genetic data with R", Human Genomics, 2(4):258-265.
 * reference manual (PDF): http://cran.r-project.org/doc/packages/gap.pdf
 
+
+## [Reviews on R/GAP](https://github.com/gaow/genetic-analysis-software/issues/460)

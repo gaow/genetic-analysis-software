@@ -26,3 +26,5 @@ MS-Windows (95/98/ME/NT4.0/2000)
 ##Reference
 JW Van Ooijen, MP Boer, RC Jansen, C Maliepaard (2002), "MapQTL (tm) 4.0: Software for the calculation of QTL positions on genetic maps", Plant Research International, Wageningen, Netherlands; JW Van Ooijen, C Maliepaard (1996), "MapQTL Version 3.0: Software for the Calculation of QTL Positions on Genetic Maps", Plant Genome IV (1996) ( http://www.intl-pag.org/4/abstracts/p316.html); JW Van Ooijen, C Maliepaard (1996), "MapQTL Version 3.0: Advanced QTL Mapping Software", Plant Genome IV (1996) ( http://www.intl-pag.org/4/abstracts/c9.html).
 
+
+## [Reviews on MAPQTL](https://github.com/gaow/genetic-analysis-software/issues/315)

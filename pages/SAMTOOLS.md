@@ -18,3 +18,5 @@ C, C++, Java, Perl, Python, Ruby, Common LISP, Haskell
 ##Reference
 Li, Handsaker, Wysoker, Fennell, Ruan, Homer, Marth, Abecasis, Durbin, and 1000 Genome Project Data Processing Subgroup (2009), "The sequence alignment/map (SAM) format and SAMtools", Bioinformatics, 25:2078-2079.
 
+
+## [Reviews on SAMTOOLS](https://github.com/gaow/genetic-analysis-software/issues/493)

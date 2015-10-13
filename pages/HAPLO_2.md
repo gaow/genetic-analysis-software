@@ -21,3 +21,5 @@ DEC VAX
 ##Reference
 Hawley, Kidd (1995), "HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes", Journal of Heredity, 86:409-411.
 
+
+## [Reviews on HAPLO 2](https://github.com/gaow/genetic-analysis-software/issues/204)

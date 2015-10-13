@@ -27,3 +27,5 @@ mlinki, linkmapi
 ##Reference
 Shete and Zhou (2005), "Parametric approach to genomic imprinting analysis with applications to Angelman's Syndrome", Human Heredity, 59:26-33.
 
+
+## [Reviews on LINKAGE-IMPRINT](https://github.com/gaow/genetic-analysis-software/issues/276)

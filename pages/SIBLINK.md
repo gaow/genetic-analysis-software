@@ -26,3 +26,5 @@ siblink3.0
 * ER Hauser, M Boehnke, SW Guo, N Risch (1996), Genetics Epidemiology. 13:117-137.
 * ER Hauser, M Boehnke M (1998), Biometrics, 54:1238-1246.
 
+
+## [Reviews on SIBLINK](https://github.com/gaow/genetic-analysis-software/issues/505)

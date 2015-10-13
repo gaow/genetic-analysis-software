@@ -23,3 +23,5 @@ Java, R
 ##Reference
 Fuchsberger, Falchi, Forer, Pramstaller (2007), "PedVizApi: A Java API for the interactive, visual analysis of extended pedigrees", Bioinformatics, 24(2):279-281.
 
+
+## [Reviews on PEDVIZAPI](https://github.com/gaow/genetic-analysis-software/issues/396)

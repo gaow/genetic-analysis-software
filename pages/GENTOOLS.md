@@ -24,3 +24,5 @@ faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unm
 ##Reference
 Weaver, Helms, Mishra, Donis-Keller (1992), "Software for analysis and manipulation of genetic linkage data", American Journal of Human Genetics, 50:1267-1274
 
+
+## [Reviews on GENTOOLS](https://github.com/gaow/genetic-analysis-software/issues/171)
