@@ -2,7 +2,8 @@
 from collections import OrderedDict
 from argparse import ArgumentParser
 import re, os, time, json
- 
+FIELDS = ['FULL_NAME', 'OTHER_NAME', 'VERSION', 'DESCRIPTION', 'YEAR', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE', 'AVAILABILITY', 'RELATED']
+
 class SimpleCfgParser:
     def __init__(self, files):
         self.data = OrderedDict()
@@ -35,7 +36,7 @@ class GasParser:
         for name in self.data.keys():
             with open(os.path.join(self.prefix, self.data[name]['FileName'].replace('.ini', '.md')), 'w') as f:
                 f.write('#{}\n'.format(name))
-                for k in self.data[name]:
+                for k in [x for x in FIELDS if x in self.data[name]] + [x for x in self.data[name] if x not in FIELDS]:
                     if k == 'FileName':
                         continue
                     f.write('##{}\n'.format(' '.join([x.capitalize() for x in k.split('_')]) if k not in ['URL', 'OS', 'EXE'] else k))
