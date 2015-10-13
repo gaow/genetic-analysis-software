@@ -1,7 +1,8 @@
 ## Other genetic analysis software lists
 
 ### Earlier software
-* Some earlier software can be downloaded from [EBI Linkage and Mapping Software Repository](ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping).
+* Some earlier software can be downloaded from EBI Linkage and Mapping Software Repository
+* * ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping
 
 ### List of R software
 * Here is a partial list of [statistical genetics R packages](http://cran.r-project.org/web/views/Genetics.html).
