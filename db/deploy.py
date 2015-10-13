@@ -30,12 +30,13 @@ class GasParser:
         self.data = SimpleCfgParser(files).data
         self.prefix = os.path.join(os.path.split(os.getcwd())[0], 'pages')
         
-    def Print(self):
+    def MakePages(self):
         for name in self.data.keys():
             with open(os.path.join(self.prefix, self.data[name]['FileName'].replace('.ini', '.md')), 'w') as f:
-                del self.data[name]['FileName']
                 f.write('#{}\n'.format(name))
                 for k in self.data[name]:
+                    if k == 'FileName':
+                        continue
                     f.write('##{}\n'.format(' '.join([x.capitalize() for x in k.split('_')]) if k not in ['URL', 'OS', 'EXE'] else k))
                     if len(self.data[name][k]) > 1:
                         for item in self.data[name][k]:
@@ -45,9 +46,23 @@ class GasParser:
                         f.write('{}\n'.format(item))
                     f.write('\n')
 
+    def MakeTocAlphabet(self):
+        categories = []
+        with open(os.path.join(self.prefix, 'toc.md'), 'w') as f:
+            for name in self.data.keys():
+                category = '#' if re.match(r"[-+]?\d+$", name[0]) is not None else name[0].upper()
+                if category not in categories:
+                    categories.append(category)
+                    f.write('## {}\n'.format(category))
+                link_text = self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else '>>'
+                link = 'https://github.com/gaow/genetic-analysis-software/blob/master/pages/' + \
+                  self.data[name]['FileName'].replace('.ini', '.md')
+                f.write('* {}{}[{}]({})\n'.format(name, ' ' if link_text == '>>' else ', ', link_text, link))
+
 def main(args):
     gp = GasParser(args.data)
-    gp.Print()
+    gp.MakePages()
+    gp.MakeTocAlphabet()
 
 if __name__ == '__main__':
     parser = ArgumentParser(description = 'Utility to generate list of genetics software in various fashions',
