@@ -648,6 +648,8 @@
 * [VG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VG.md), Visual Genotype
 * [VH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VH.md), visual haplotype
 * [VITESSE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VITESSE.md), VITESSE (means "speed" in French)
+* [Variant Association Tools](https://github.com/gaow/genetic-analysis-software/blob/master/pages/Variant_Association_Tools.md)
+* [Variant Tools](https://github.com/gaow/genetic-analysis-software/blob/master/pages/Variant_Tools.md)
 
 ## W
 * [WEB-PREPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEB-PREPLINK.md)
