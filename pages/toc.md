@@ -298,7 +298,7 @@
 * [LDSELECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSELECT.md)
 * [LDSUPPORT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSUPPORT.md)
 * [LEA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LEA.md), Likelihood-based Estimation of Admixture
-* [LINKAGE - CEPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-CEPH.md)
+* [LINKAGE - CEPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-CEPH.md),  LINKAGE CEPH (three-generation) pedigrees
 * [LINKAGE-IMPRINT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-IMPRINT.md), LINKAGE allowing for IMPRINITING
 * [LINKAGE - general pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-general_pedigrees.md)
 * [LINKBASE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKBASE.md)

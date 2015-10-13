@@ -1,4 +1,7 @@
 #LINKAGE - CEPH
+##Full Name
+ LINKAGE CEPH (three-generation) pedigrees
+
 ##Version
 5.1, 5.2
 
@@ -25,7 +28,7 @@ cfactor,cilink,clodscore,cmap
 * online user's guide (may 93)
 
 ##Related
-three-generation) pedigrees
+FASTLINK
 
 
 ## [Reviews on LINKAGE - CEPH](https://github.com/gaow/genetic-analysis-software/issues/274)

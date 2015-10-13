@@ -27,7 +27,7 @@ GGT32.EXE
 R Van Berloo (1999),"GGT: Software for the display of graphical genotypes", Journal of Heredity, 90:328-329\. [ full text (PDF) : http://www.dpw.wau.nl/pv/papers/reprint/9903.pdf]
 
 ##Related
-, MAPCOMP
+MAPCOMP
 
 
 ## [Reviews on GGT](https://github.com/gaow/genetic-analysis-software/issues/176)

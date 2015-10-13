@@ -22,7 +22,7 @@ web-based
 CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,
 
 ##Related
-, JPSGCS
+JPSGCS
 
 
 ## [Reviews on GENEPI.JAR](https://github.com/gaow/genetic-analysis-software/issues/154)
