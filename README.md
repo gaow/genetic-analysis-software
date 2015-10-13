@@ -7,7 +7,7 @@
 | [R](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#r) 	| [S](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#s) 	| [T](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#t) 	| [U](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#u) 	| [V](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#v) 	| [W](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#w) 	| [X](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#x) 	| [Y](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#y) 	| [Z](https://github.com/gaow/genetic-analysis-software/blob/master/pages/toc.md#z)  	|
 
 ### Scope
-Computer programs for genetics analysis, including but not limiting to topics of:
+This page, historically known as the "Rockefeller list", is a list of computer programs for genetics analysis, including but not limiting to topics of:
 
 * Genetic linkage analysis for human pedigree data
 * QTL analysis for animal/plant breeding data
@@ -32,3 +32,6 @@ Other genetic software lists can be found [here](https://github.com/gaow/genetic
 
 ### Contribute
 We welcome your input! Please follow the [contribution guidelines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/contribute.md) to participate.
+
+### Leave comments to programs!
+Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a "Review" section for each program so that users can leave comments on the program and suggestions to potential users. Link to "Review" sections are found at the end of program detail pages.

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from collections import OrderedDict
 from argparse import ArgumentParser
-import re, os
+import re, os, time, json
  
 class SimpleCfgParser:
     def __init__(self, files):
@@ -26,9 +26,10 @@ class SimpleCfgParser:
         return name, data
 
 class GasParser:
-    def __init__(self, files):
+    def __init__(self, files, id_file):
         self.data = SimpleCfgParser(files).data
         self.prefix = os.path.join(os.path.split(os.getcwd())[0], 'pages')
+        self.id_file = id_file
         
     def MakePages(self):
         for name in self.data.keys():
@@ -59,13 +60,39 @@ class GasParser:
                   self.data[name]['FileName'].replace('.ini', '.md')
                 f.write('* [{}]({}){}\n'.format(name, link, desc_text))
 
+    def OpenComments(self):
+        with open(self.id_file, 'r') as f:
+            data = json.load(f)
+        start = max(data.values()) + 1
+        for name in self.data.keys():
+            if name in data:
+                continue
+            else:
+                # Open issue
+                category = '0' if re.match(r"[-+]?\d+$", name[0]) is not None else name[0].upper()
+                cmd = 'ghi open -L {0} -m "Comments on {1}"'.format(category, name)
+                os.system(cmd)
+                data[name] = start
+                start += 1
+                time.sleep(5)
+        with open(self.id_file, 'w') as f:
+            json.dump(data, f)
+        # Update comment
+        for name in self.data.keys():
+            with open(os.path.join(self.prefix, self.data[name]['FileName'].replace('.ini', '.md')), 'w') as f:
+                if name in data:
+                    f.write('\n## [Reviews on {}](https://github.com/gaow/genetic-analysis-software/issues/{})'.\
+                            format(name, data[name]))
+
 def main(args):
-    gp = GasParser(args.data)
+    gp = GasParser(args.data, args.id)
     gp.MakePages()
     gp.MakeTocAlphabet()
+    gp.OpenComments()
 
 if __name__ == '__main__':
     parser = ArgumentParser(description = 'Utility to generate list of genetics software in various fashions',
                             epilog = '''2015 by Gao Wang''' )
     parser.add_argument('data', nargs = '+', help = 'Input files')
+    parser.add_argument('--id', required = True, help = 'JSON file of program name and their assigned ID')
     main(parser.parse_args())
