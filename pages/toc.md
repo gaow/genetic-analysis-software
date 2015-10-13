@@ -32,6 +32,7 @@
 * [ASPEX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASPEX.md), Affected Sib Pairs EXclusion map
 * [ASSOCIATIONVIEWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASSOCIATIONVIEWER.md)
 * [AUTOSCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AUTOSCAN.md)
+* [Altrans](https://github.com/gaow/genetic-analysis-software/blob/master/pages/Altrans.md)
 
 ## B
 * [BAMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BAMA.md), Bayesian Analysis of Multilocus Association
@@ -655,9 +656,11 @@
 * [WEB-PREPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEB-PREPLINK.md)
 * [WEBQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEBQTL.md)
 * [WEIGHTED_FDR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEIGHTED_FDR.md)
+* [WGCNA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WGCNA.md), Weighted Gene Co-expression Network Analysis
 * [WHAIT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAIT.md), Weighted Haplotype test And an Imputation-based Test.
 * [WHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAP.md)
 * [WHICHRUN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHICHRUN.md)
 
 ## Z
 * [ZAPLO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ZAPLO.md)
+* [sQTLSeekerR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/sQTLSeekerR.md)
