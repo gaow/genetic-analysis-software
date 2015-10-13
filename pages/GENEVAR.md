@@ -1,5 +1,5 @@
 #GENEVAR
-##Full_name
+##Full Name
 GENe Expression VARiation
 
 ##Description

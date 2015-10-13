@@ -1,5 +1,5 @@
 #VITESSE
-##Full_name
+##Full Name
 VITESSE (means "speed" in French)
 
 ##Version

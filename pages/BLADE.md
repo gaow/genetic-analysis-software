@@ -1,5 +1,5 @@
 #BLADE
-##Full_name
+##Full Name
 Bayesian LinkAge DisEquilibrium mapping
 
 ##Version

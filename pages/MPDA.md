@@ -1,5 +1,5 @@
 #MPDA
-##Full_name
+##Full Name
 Microarray Pooled DNA Analyser
 
 ##Version
@@ -28,7 +28,7 @@ MATLABR
 ##OS
 MS-Windows(Windows98/2000/XP)
 
-##Exe
+##EXE
 mpda
 
 ##Reference

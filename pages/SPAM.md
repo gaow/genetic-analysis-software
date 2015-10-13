@@ -1,5 +1,5 @@
 #SPAM
-##Full_name
+##Full Name
 Statistics Program for Analysing Mixtures
 
 ##Version

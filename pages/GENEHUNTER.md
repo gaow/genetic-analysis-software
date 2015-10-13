@@ -20,7 +20,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 gh
 
 ##Reference

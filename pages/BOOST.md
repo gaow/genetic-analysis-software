@@ -1,5 +1,5 @@
 #BOOST
-##Full_name
+##Full Name
 BOolean Operation based Screening and Testing
 
 ##Author

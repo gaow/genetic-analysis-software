@@ -1,5 +1,5 @@
 #POLYMUTT
-##Full_name
+##Full Name
 POLYmorphism and de novo MUTaTion call in families with sequencing data
 
 ##Description

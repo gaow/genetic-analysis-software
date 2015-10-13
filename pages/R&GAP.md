@@ -1,5 +1,5 @@
 #R/GAP
-##Full_name
+##Full Name
 R/Genetic Analysis Package
 
 ##Version
@@ -18,7 +18,7 @@ http://www.mrc-epid.cam.ac.uk/~jinghua.zhao/r-progs.htm
 ##Language
 R
 
-##Exe
+##EXE
 aldh2, apoeapoc, bt, chow.test, fbsize, fsnps, gc.em, gcontrol, genecounting, gif, hap, hap.em, hap.score, hla, htr, hwe, hwe.hardy, kbyl, kin.morgan, makeped, mia, mtdt, muvar, pbsize, pfc, pgc, s2k, tbyt, whscore
 
 ##Reference

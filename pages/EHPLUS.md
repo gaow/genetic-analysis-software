@@ -14,7 +14,7 @@ C
 ##OS
 UNIX(Solaris/DEC alpha/..), MS-Windows
 
-##Exe
+##EXE
 ehplus
 
 ##Reference

@@ -1,5 +1,5 @@
 #PBAT
-##Full_name
+##Full Name
 Power calculation of family-Based Association Tests
 
 ##Version

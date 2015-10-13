@@ -1,5 +1,5 @@
 #ASPEX
-##Full_name
+##Full Name
 Affected Sib Pairs EXclusion map
 
 ##Version
@@ -21,7 +21,7 @@ C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.telepor
 ##OS
 UNIX (Solaris/SunOS/IRIX/OSF-1), Linux
 
-##Exe
+##EXE
 sib_ibd, sib_tdt, sib_phase, sib_map, sib_kin, sib_clean
 
 ##Reference

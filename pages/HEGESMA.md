@@ -1,5 +1,5 @@
 #HEGESMA
-##Full_name
+##Full Name
 HEterogeneity and GEnome Search Meta Analysis
 
 ##Description

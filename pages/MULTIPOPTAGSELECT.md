@@ -17,7 +17,7 @@ http://droog.gs.washington.edu/multiPopTagSelect.html
 ##Language
 Perl
 
-##Exe
+##EXE
 multiPopTagSelect.pl
 
 ##Reference

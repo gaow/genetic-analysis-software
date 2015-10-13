@@ -1,5 +1,5 @@
 #SPREG
-##Full_name
+##Full Name
 Secondary Phenotype REGression analysis
 
 ##Version

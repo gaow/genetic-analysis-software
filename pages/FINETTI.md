@@ -1,5 +1,5 @@
 #FINETTI
-##Full_name
+##Full Name
 de FINETTI generator
 
 ##Version

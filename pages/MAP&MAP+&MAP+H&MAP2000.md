@@ -1,5 +1,5 @@
 #MAP/MAP+/MAP+H/MAP2000
-##Full_name
+##Full Name
 (MAP+H is the radiation Hybrid module of MAP+)
 
 ##Description
@@ -20,7 +20,7 @@ FORTRAN
 ##OS
 UNIX(SunOS/..)
 
-##Exe
+##EXE
 map
 
 ##Reference

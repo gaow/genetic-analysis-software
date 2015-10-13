@@ -1,5 +1,5 @@
 #PDA
-##Full_name
+##Full Name
 Pooled DNA Analyzer
 
 ##Description

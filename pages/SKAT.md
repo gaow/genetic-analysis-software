@@ -1,5 +1,5 @@
 #SKAT
-##Full_name
+##Full Name
 SNP-set (Sequence) Kernel Association Test
 
 ##Description

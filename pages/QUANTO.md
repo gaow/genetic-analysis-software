@@ -18,7 +18,7 @@ C++
 ##OS
 Window(98/NT/2000/..)
 
-##Exe
+##EXE
 quanto.exe
 
 ##Reference

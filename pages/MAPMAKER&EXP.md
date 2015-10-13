@@ -21,7 +21,7 @@ C
 ##OS
 UNIX, VMS, MS-DOS, MacOS
 
-##Exe
+##EXE
 mapmaker
 
 ##Reference

@@ -1,8 +1,8 @@
 #LSP
-##Full_name
+##Full Name
 Linkage Setup Program
 
-##Other_name
+##Other Name
 LINKAGE/LSP
 
 ##Version

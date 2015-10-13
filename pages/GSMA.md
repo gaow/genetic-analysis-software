@@ -1,5 +1,5 @@
 #GSMA
-##Full_name
+##Full Name
 Genome Search Meta Analysis
 
 ##Description

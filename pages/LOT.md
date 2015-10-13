@@ -1,5 +1,5 @@
 #LOT
-##Full_name
+##Full Name
 Linkage analysis of Ordinal Traits
 
 ##Author

@@ -1,5 +1,5 @@
 #FASTER
-##Full_name
+##Full Name
 FAmily SmarT EliminatoR
 
 ##Version

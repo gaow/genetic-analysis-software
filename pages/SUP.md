@@ -1,5 +1,5 @@
 #SUP
-##Full_name
+##Full Name
 Slink Utility Program
 
 ##Version

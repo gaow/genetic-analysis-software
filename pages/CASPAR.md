@@ -1,5 +1,5 @@
 #CASPAR
-##Full_name
+##Full Name
 Computerized Affected Sibling Pair Analyzer and Reporter
 
 ##Description

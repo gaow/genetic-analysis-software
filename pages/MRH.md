@@ -1,5 +1,5 @@
 #MRH
-##Full_name
+##Full Name
 Minimum Recombinant Haplotype
 
 ##Version

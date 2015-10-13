@@ -1,5 +1,5 @@
 #GWAPOWER
-##Full_name
+##Full Name
 Genome-Wide Association POWER
 
 ##Version

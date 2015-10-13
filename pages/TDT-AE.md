@@ -1,5 +1,5 @@
 #TDT-AE
-##Full_name
+##Full Name
 Transmission Disequilibrium Test Allowing for Errors
 
 ##Version
@@ -22,7 +22,7 @@ C
 ##OS
 MS-Windows (2000/DOS), UNIX(Sun Solaris), LINUX (RedHat)
 
-##Exe
+##EXE
 tdt-ae (PC), tdtae (UNIX and LINUX)
 
 ##Reference

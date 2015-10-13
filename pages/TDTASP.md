@@ -1,5 +1,5 @@
 #TDTASP
-##Full_name
+##Full Name
 Power and Sample-Size Calculations for the TDT and ASP Tests
 
 ##Version
@@ -25,7 +25,7 @@ Fortran95
 ##OS
 UNIX, MS-Windows
 
-##Exe
+##EXE
 tdtasp
 
 ##Reference

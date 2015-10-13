@@ -1,5 +1,5 @@
 #R/SPECTRAL-GEM
-##Full_name
+##Full Name
 SPECTRAL graph approach for GEnetic Matching
 
 ##Version

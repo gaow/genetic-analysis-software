@@ -1,5 +1,5 @@
 #PAP
-##Full_name
+##Full Name
 Pedigree Analysis Package
 
 ##Version
@@ -20,7 +20,7 @@ FORTRAN 77
 ##OS
 UNIX
 
-##Exe
+##EXE
 preped, descstat, prepap,simul, papdr (with 8 options),gpe
 
 ##Reference

@@ -16,7 +16,7 @@ http://www.dkfz.de/en/epidemiologie-krebserkrankungen/software/software.html
 ##Language
 Java 5.0
 
-##Exe
+##EXE
 tomcat1.0.jar
 
 ##Reference

@@ -1,5 +1,5 @@
 #MORGAN
-##Full_name
+##Full Name
 MOnte caRlo Genetic ANalysis
 
 ##Version

@@ -1,5 +1,5 @@
 #BAMA
-##Full_name
+##Full Name
 Bayesian Analysis of Multilocus Association
 
 ##Description

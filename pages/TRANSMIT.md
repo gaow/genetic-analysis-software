@@ -19,7 +19,7 @@ C++
 ##OS
 UNIX
 
-##Exe
+##EXE
 transmit
 
 ##Reference

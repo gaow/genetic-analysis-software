@@ -1,5 +1,5 @@
 #GEVALT
-##Full_name
+##Full Name
 GEnotype Visualization and ALgorithmic Tool
 
 ##Version

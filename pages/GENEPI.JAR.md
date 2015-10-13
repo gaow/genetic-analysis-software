@@ -18,7 +18,7 @@ Java
 ##OS
 web-based
 
-##Exe
+##EXE
 CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,
 
 ##Related

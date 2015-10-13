@@ -1,5 +1,5 @@
 #VAAST
-##Full_name
+##Full Name
 Variant Annotation, Analysis and Search Tool
 
 ##Description

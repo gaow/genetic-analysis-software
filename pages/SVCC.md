@@ -1,5 +1,5 @@
 #SVCC
-##Full_name
+##Full Name
 Semiparametric Variance-Component for Censored data
 
 ##Author

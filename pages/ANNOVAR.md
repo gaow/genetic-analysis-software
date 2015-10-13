@@ -1,5 +1,5 @@
 #ANNOVAR
-##Full_name
+##Full Name
 functional ANNOtation of genetic VARiants
 
 ##Version

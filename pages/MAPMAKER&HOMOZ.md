@@ -1,5 +1,5 @@
 #MAPMAKER/HOMOZ
-##Full_name
+##Full Name
 homozygosity mapping
 
 ##Version

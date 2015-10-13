@@ -1,5 +1,5 @@
 #MERLIN
-##Full_name
+##Full Name
 Multipoint Engine for Rapid Likelihood INference
 
 ##Version
@@ -21,7 +21,7 @@ C++
 ##OS
 UNIX. LINUX
 
-##Exe
+##EXE
 merlin, pedstats, pedwipe
 
 ##Reference

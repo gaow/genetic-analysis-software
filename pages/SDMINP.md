@@ -1,5 +1,5 @@
 #SDMINP
-##Full_name
+##Full Name
 Step-Down MIN P-value
 
 ##Version

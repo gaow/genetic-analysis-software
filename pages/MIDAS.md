@@ -1,5 +1,5 @@
 #MIDAS
-##Full_name
+##Full Name
 Multiallelic Interallelic Disequilibrium Analysis Software
 
 ##Version

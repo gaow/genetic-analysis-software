@@ -14,7 +14,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 sibs
 
 ##Reference

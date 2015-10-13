@@ -1,5 +1,5 @@
 #PAWE-3D
-##Full_name
+##Full Name
 Power for Association With Error in 3D
 
 ##Author

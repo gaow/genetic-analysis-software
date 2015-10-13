@@ -1,5 +1,5 @@
 #MAPCHART
-##Full_name
+##Full Name
 Windows software for the graphical presentation of linkage maps and QTLs
 
 ##Version

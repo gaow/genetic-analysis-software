@@ -1,5 +1,5 @@
 #HAPLO.STAT
-##Other_name
+##Other Name
 HAPLO.SCORE
 
 ##Version
@@ -23,7 +23,7 @@ S-plus 6.1.2, R 1.7.1
 ##OS
 UNIX
 
-##Exe
+##EXE
 haplo.em, haplo.glm, haplo.score
 
 ##Reference

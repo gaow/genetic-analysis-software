@@ -1,5 +1,5 @@
 #POOL_STR
-##Full_name
+##Full Name
 POOLing alleles of Short Tandem Repeat markers
 
 ##Version

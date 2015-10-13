@@ -1,5 +1,5 @@
 #SNP HITLINK
-##Full_name
+##Full Name
 SNP HIgh-Throughput LINKage analysis system
 
 ##Version

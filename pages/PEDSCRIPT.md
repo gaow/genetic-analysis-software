@@ -8,6 +8,6 @@ PedScript is a tool that allows scripting of simple modifications to pedigree fi
 ##URL
 http://genome.sph.umich.edu/wiki/PedScript
 
-##Exe
+##EXE
 anonymize, mendelcheck, nuke, trim, sample
 

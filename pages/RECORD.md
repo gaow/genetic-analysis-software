@@ -1,5 +1,5 @@
 #RECORD
-##Full_name
+##Full Name
 REcombination Counting and ORDering
 
 ##Version
@@ -21,7 +21,7 @@ C++
 ##OS
 MS-Windows (Win98, XP) and MS-DOS
 
-##Exe
+##EXE
 record_win.exe, ord.exe
 
 ##Reference

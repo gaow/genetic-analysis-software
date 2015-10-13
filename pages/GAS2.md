@@ -1,5 +1,5 @@
 #GAS2
-##Full_name
+##Full Name
 statistical significance in Genomewide Association Studies in 2-stage
 
 ##Description

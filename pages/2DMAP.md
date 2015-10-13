@@ -12,7 +12,7 @@ Edward Kort ( edward@episun2.med.utah.edu)
 ##OS
 MS-DOS
 
-##Exe
+##EXE
 pic-2d, 2d-map, 2d-color
 
 ##Reference

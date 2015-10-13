@@ -1,5 +1,5 @@
 #ADMIXMAP
-##Full_name
+##Full Name
 Admixture mapping
 
 ##Version
@@ -24,7 +24,7 @@ C++
 ##OS
 Linux, MS-Windows
 
-##Exe
+##EXE
 admixmap, admixmap.pl, and some R scripts to process the output
 
 ##Reference

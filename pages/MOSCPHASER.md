@@ -1,5 +1,5 @@
 #MOSCPHASER
-##Full_name
+##Full Name
 Mixture Of Cnv-Snp PHASER
 
 ##Description

@@ -1,5 +1,5 @@
 #SIMLA
-##Full_name
+##Full Name
 SIMulation of pedigree data for Linkage and Association studies
 
 ##Version
@@ -22,7 +22,7 @@ C++
 ##OS
 UNIX(Solaris), Linux
 
-##Exe
+##EXE
 simla2.3
 
 ##Reference

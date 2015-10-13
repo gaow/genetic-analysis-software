@@ -19,7 +19,7 @@ Perl v5.8 (program can be provided as PERL script or as a compiled exe for the u
 ##OS
 MS-Windows(2000/XP), Linux
 
-##Exe
+##EXE
 linkage_v5.02.exe
 
 ##Reference

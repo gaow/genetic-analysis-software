@@ -1,5 +1,5 @@
 #BARS
-##Full_name
+##Full Name
 Bayesian Adaptive Regression Splines
 
 ##Description

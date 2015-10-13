@@ -1,5 +1,5 @@
 #GMA
-##Full_name
+##Full Name
 Genetic Mixture Analysis
 
 ##Author

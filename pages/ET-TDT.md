@@ -1,5 +1,5 @@
 #ET-TDT
-##Full_name
+##Full Name
 Evolutionary Tree - Transmission Disequilibrium Test
 
 ##Author
@@ -12,7 +12,7 @@ Kathryn Roeder (Carnegie Mellon, email: roeder@stat.cmu.edu)
 ##OS
 MS-DOS
 
-##Exe
+##EXE
 inferhap.exe, ettdt.exe
 
 ##Reference

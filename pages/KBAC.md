@@ -1,5 +1,5 @@
 #KBAC
-##Full_name
+##Full Name
  Kernal Based Association for Rare Variants
 
 ##Description

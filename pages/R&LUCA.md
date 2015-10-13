@@ -1,5 +1,5 @@
 #R/LUCA
-##Full_name
+##Full Name
 Likelihood Under Covariate Assumptions
 
 ##Author

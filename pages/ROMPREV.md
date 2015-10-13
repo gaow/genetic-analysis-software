@@ -1,5 +1,5 @@
 #ROMPREV
-##Full_name
+##Full Name
 Regression of Offspring on Mid-Parent (REVised)
 
 ##Version

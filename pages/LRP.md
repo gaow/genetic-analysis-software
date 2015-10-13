@@ -1,8 +1,8 @@
 #LRP
-##Full_name
+##Full Name
 Linkage Report Program
 
-##Other_name
+##Other Name
 LINKAGE/LRP
 
 ##Description

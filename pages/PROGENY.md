@@ -1,5 +1,5 @@
 #PROGENY
-##Full_name
+##Full Name
 Progeny Software, LLC
 
 ##Version

@@ -1,5 +1,5 @@
 #MIM
-##Full_name
+##Full Name
 Multipoint Identical-by-descent Method
 
 ##Version

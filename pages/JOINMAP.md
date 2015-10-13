@@ -1,5 +1,5 @@
 #JOINMAP
-##Full_name
+##Full Name
 Software for the calculation of genetic linkage maps
 
 ##Version

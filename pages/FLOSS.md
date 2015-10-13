@@ -1,5 +1,5 @@
 #FLOSS
-##Full_name
+##Full Name
 FLexible Ordered SubSet analysis
 
 ##Version

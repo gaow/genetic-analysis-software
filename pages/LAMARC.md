@@ -1,5 +1,5 @@
 #LAMARC
-##Full_name
+##Full Name
 Likelihood Analysis with Metropolis Algorithm using Random Coalescence
 
 ##Version
@@ -22,6 +22,6 @@ C++
 ##OS
 Linux, MS-Windows, MacOS
 
-##Exe
+##EXE
 lamarc, migrate, coalesce, fluctuate, recombine
 

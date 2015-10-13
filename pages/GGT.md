@@ -1,5 +1,5 @@
 #GGT
-##Full_name
+##Full Name
 Graphical GenoTyping package
 
 ##Version
@@ -20,7 +20,7 @@ Delphi (Pascal)
 ##OS
 MS-Windows (95/98/2000/XP)
 
-##Exe
+##EXE
 GGT32.EXE
 
 ##Reference

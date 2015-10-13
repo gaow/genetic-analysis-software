@@ -1,5 +1,5 @@
 #MAPQTL
-##Full_name
+##Full Name
 Software for the calculation of QTL positions on genetic maps
 
 ##Version

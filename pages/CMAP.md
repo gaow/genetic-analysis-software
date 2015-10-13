@@ -1,5 +1,5 @@
 #CMAP
-##Full_name
+##Full Name
 genetic and comparative maps
 
 ##Version
@@ -23,7 +23,7 @@ Perl
 ##OS
 UNIX (Solaris, FreeBSD), Linux
 
-##Exe
+##EXE
 cmap_admin.pl
 
 ##Reference

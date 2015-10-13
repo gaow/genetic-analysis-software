@@ -1,5 +1,5 @@
 #JPSGCS
-##Full_name
+##Full Name
 Java Programs for Statistical Genetics and Computational Statistics
 
 ##Description
@@ -17,7 +17,7 @@ Java
 ##OS
 Linux, MacOS, MS-Windows,
 
-##Exe
+##EXE
 ApproxGCHap, CheckErrors, CheckFormat, CheckParameters, CheckPedigree, CheckTriplets, Complete, DownCodeAlleles, FitGM, FitGMLD, FitIntervalLD, GCHap, GeneCountAlleles, GeneDrop, GeneDrops, GetPolymorphisms, HGS, HapMapToLinkage, HetCutOff, HetLods, Heterozygosities, HomozygousSGS, LinkageToFastPhase, LinkageToPhase, LocusLogLikelihoods, MakePed, MakeProbands, MaxTwoPointLods, McCheck, McKinship, McLinkage, McMultiPoints, McTLods, ObligateErrors, SGS, SelectKindreds, SelectLoci, SelectPedigrees, SimHGS, SimHomozygousSGS, SimSGS, Triangulate, TrimPed, TwoPointLods, ViewDAG, ViewGraph, ViewLinkPed, ViewPed, ZeroLoopPed, cMorgansToTheta
 
 ##Related

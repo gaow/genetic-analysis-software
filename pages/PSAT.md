@@ -1,5 +1,5 @@
 #PSAT
-##Full_name
+##Full Name
 Population Stratification Association Test
 
 ##Author

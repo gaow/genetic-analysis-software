@@ -1,5 +1,5 @@
 #RHMAP
-##Full_name
+##Full Name
 Radiation Hybrid Map
 
 ##Version
@@ -19,7 +19,7 @@ http://csg.sph.umich.edu/boehnke/rhmap.php
 ##Language
 FORTRAN77
 
-##Exe
+##EXE
 rhmap, rh2pt, rhminbrk, rhmaxlik
 
 ##Reference

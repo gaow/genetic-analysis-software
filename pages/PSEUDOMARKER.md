@@ -19,7 +19,7 @@ C/C++
 ##OS
 Linux
 
-##Exe
+##EXE
 pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknownpseudo
 
 ##Reference

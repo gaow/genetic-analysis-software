@@ -1,5 +1,5 @@
 #FBAT
-##Full_name
+##Full Name
 (haplotype) Family Based Association Test
 
 ##Version
@@ -19,7 +19,7 @@ http://www.biostat.harvard.edu/~fbat/fbat.htm
 ##OS
 UNIX(Solaris, Linux, MS-Windows, Mac(MacOS X/Darwin)
 
-##Exe
+##EXE
 fbat, pbat, powerfbat, xwxw, xdt
 
 ##Reference

@@ -17,7 +17,7 @@ ONEMAP is an environment for constructing linkage maps in outcrossing plant spec
 ##Language
 R
 
-##Exe
+##EXE
 load.onemap, read.outcross, extract.group, remove.marker, arbitr.rf.2pts, est.rf.2pts, modigy.rf.2pts, group, map, make.map, est.rf.3pts
 
 ##Reference

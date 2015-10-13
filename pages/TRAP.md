@@ -1,5 +1,5 @@
 #TRAP
-##Full_name
+##Full Name
 Tiled Regression Analysis Package
 
 ##Version

@@ -1,5 +1,5 @@
 #CCREL
-##Full_name
+##Full Name
 Case-Control association analysis with RELlated individuals
 
 ##Version

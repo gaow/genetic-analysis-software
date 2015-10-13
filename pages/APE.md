@@ -1,5 +1,5 @@
 #APE
-##Full_name
+##Full Name
 Allelic Path Explorer
 
 ##Version

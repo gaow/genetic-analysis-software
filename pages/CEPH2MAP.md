@@ -8,6 +8,6 @@ http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ceph2map
 ##Language
 C
 
-##Exe
+##EXE
 ceph2map
 

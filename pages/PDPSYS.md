@@ -1,5 +1,5 @@
 #PDPSYS
-##Full_name
+##Full Name
 Pedigree Data Processing SYStem
 
 ##Version
@@ -20,6 +20,6 @@ Visual Basic, MS-Access
 ##OS
 MS-Windows (95)
 
-##Exe
+##EXE
 pdpsys
 

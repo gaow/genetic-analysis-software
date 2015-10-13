@@ -1,5 +1,5 @@
 #SNPSTATS
-##Full_name
+##Full Name
 SNP STATisticS
 
 ##Description

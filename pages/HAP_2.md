@@ -1,5 +1,5 @@
 #HAP 2
-##Full_name
+##Full Name
 HAPlotype analysis of polymorphic markers
 
 ##Author

@@ -17,6 +17,6 @@ C and Perl
 ##OS
 UNIX, MS-Windows
 
-##Exe
+##EXE
 haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
 

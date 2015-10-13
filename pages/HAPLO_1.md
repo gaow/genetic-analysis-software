@@ -1,5 +1,5 @@
 #HAPLO 1
-##Full_name
+##Full Name
 * Haplotyping with computation of conditional probabilities
 * version 1.00 (feb 5, 1996)
 

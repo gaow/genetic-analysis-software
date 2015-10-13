@@ -1,5 +1,5 @@
 #BIOIDE
-##Full_name
+##Full Name
 BIOmedical Integrated Discovery Environment
 
 ##Description

@@ -11,6 +11,6 @@ http://www.homepages.ed.ac.uk/pmckeigu/pooling/poolscore.htm
 ##Language
 R
 
-##Exe
+##EXE
 poolscore.R
 

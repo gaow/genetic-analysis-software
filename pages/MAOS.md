@@ -1,5 +1,5 @@
 #MAOS
-##Full_name
+##Full Name
 Meta-Analysis with Overlapping Subjects
 
 ##Description

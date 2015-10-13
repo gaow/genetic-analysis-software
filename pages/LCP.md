@@ -1,8 +1,8 @@
 #LCP
-##Full_name
+##Full Name
 Linkage Control Program
 
-##Other_name
+##Other Name
 LINKAGE
 
 ##Version

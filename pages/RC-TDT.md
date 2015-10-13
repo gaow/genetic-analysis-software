@@ -1,5 +1,5 @@
 #RC-TDT
-##Full_name
+##Full Name
 Reconstruction-Combined Transmission Disequilibrium Test
 
 ##Version

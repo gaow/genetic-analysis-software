@@ -1,5 +1,5 @@
 #BQTL
-##Full_name
+##Full Name
 Bayesian Quantitative Trait Locus mapping
 
 ##Description
@@ -18,7 +18,7 @@ S, C, FORTRAN. The software is engineered to work in conjunction with R.
 ##OS
 UNIX, MS-Windows, MacOS
 
-##Exe
+##EXE
 cvl.blup.R(), cvl.epi.R(), cvl.jack.R(), cvl.qtl.effect.R(), read.map.R(), read.markers.R().
 
 ##Reference

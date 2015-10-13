@@ -13,6 +13,6 @@ Jonathan Marchini (email: marchini@stats.ox.ac.uk)
 ##Language
 R
 
-##Exe
+##EXE
 popdiv, ps, nps, treesim, simMD
 

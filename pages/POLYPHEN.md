@@ -1,5 +1,5 @@
 #POLYPHEN
-##Full_name
+##Full Name
 POLYmorphism PHENotyping
 
 ##Description

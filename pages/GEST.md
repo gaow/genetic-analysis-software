@@ -1,5 +1,5 @@
 #GEST
-##Full_name
+##Full Name
 Gene-Environment interaction and STability
 
 ##Author

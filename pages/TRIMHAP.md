@@ -1,5 +1,5 @@
 #TRIMHAP
-##Full_name
+##Full Name
 TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)
 
 ##Version
@@ -21,7 +21,7 @@ FORTRAN
 ##OS
 UNIX
 
-##Exe
+##EXE
 hal
 
 ##Reference

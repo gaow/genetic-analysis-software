@@ -19,6 +19,6 @@ Pascal
 ##OS
 UNIX (SunOS/Solaris/OSF1..)
 
-##Exe
+##EXE
 analysis (script), analyzeprep, downfreq, extract, (homog), homogpos, homogpre, hrrlamb, hrrlambprep, hrrmult, hrrprep, interpretation, locusorder, pedprepare, polylocus, sib2link, sibpairna, sibprepna, tdtlikena
 

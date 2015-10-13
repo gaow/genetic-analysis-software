@@ -18,7 +18,7 @@ C
 ##OS
 UNIX(SUN..)
 
-##Exe
+##EXE
 beta
 
 ##Reference

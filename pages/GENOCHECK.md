@@ -1,5 +1,5 @@
 #GENOCHECK
-##Full_name
+##Full Name
 GenoCheck
 
 ##Version
@@ -27,7 +27,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 GenoCheck, toaff
 
 ##Reference

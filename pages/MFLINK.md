@@ -1,5 +1,5 @@
 #MFLINK
-##Full_name
+##Full Name
 (nearly) model-free linkage analysis
 
 ##Author

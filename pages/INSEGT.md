@@ -1,5 +1,5 @@
 #INSEGT
-##Full_name
+##Full Name
 INference of SEGregation Types
 
 ##Version

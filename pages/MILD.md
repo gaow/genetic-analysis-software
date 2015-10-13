@@ -1,5 +1,5 @@
 #MILD
-##Full_name
+##Full Name
 MultIallelic Linkage Disequilibrium: a program for adjusted linkage disequilibrium (LD) calculations
 
 ##Version

@@ -17,7 +17,7 @@ C
 ##OS
 UNIX(Solaris), Linux, MacOS X
 
-##Exe
+##EXE
 haploblock_b, haploblock_n
 
 ##Reference

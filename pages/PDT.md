@@ -1,5 +1,5 @@
 #PDT
-##Full_name
+##Full Name
 pedigree disequilibrium test
 
 ##Version

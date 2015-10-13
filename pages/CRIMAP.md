@@ -17,7 +17,7 @@ C
 ##OS
 UNIX, MS-Windows(XP)
 
-##Exe
+##EXE
 crimap
 
 ##Reference

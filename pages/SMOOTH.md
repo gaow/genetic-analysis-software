@@ -18,7 +18,7 @@ Pascal
 ##OS
 MS-DOS
 
-##Exe
+##EXE
 smooth7.exe
 
 ##Reference

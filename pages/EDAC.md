@@ -1,5 +1,5 @@
 #EDAC
-##Full_name
+##Full Name
 power calculator for Extremely Discordant And Concordant sibpairs
 
 ##Author

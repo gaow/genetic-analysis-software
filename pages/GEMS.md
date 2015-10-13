@@ -1,5 +1,5 @@
 #GEMS
-##Full_name
+##Full Name
 Genetic Epidemiology ModelS
 
 ##Version
@@ -19,7 +19,7 @@ http://statgen.genomecenter.howard.edu/gems.htm
 ##OS
 UNIX(DEC-alpha), Linux
 
-##Exe
+##EXE
 gems
 
 ##Reference

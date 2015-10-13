@@ -1,5 +1,5 @@
 #MINSAGE
-##Full_name
+##Full Name
 MINimal SAmple size for GEnotypes
 
 ##Description

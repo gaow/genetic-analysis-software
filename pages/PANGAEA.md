@@ -1,5 +1,5 @@
 #PANGAEA
-##Full_name
+##Full Name
 Pedigree ANalysis for Genetics (And Epidemiological Attributes)
 
 ##Description

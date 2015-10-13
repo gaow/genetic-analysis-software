@@ -1,5 +1,5 @@
 #PED
-##Full_name
+##Full Name
 PEdigree Drawing software
 
 ##Version
@@ -21,7 +21,7 @@ Visual Smalltalk
 ##OS
 MS-Windows (95/98/NT)
 
-##Exe
+##EXE
 ped.exe
 
 ##Reference

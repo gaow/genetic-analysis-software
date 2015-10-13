@@ -1,5 +1,5 @@
 #KING
-##Full_name
+##Full Name
 Kinship-based INference for Gwas
 
 ##Version
@@ -20,7 +20,7 @@ C++
 ##OS
 Linux (64bit), MS-Windows, MS-DOS, MacOS, Ubuntu (32bit)
 
-##Exe
+##EXE
 king
 
 ##Reference

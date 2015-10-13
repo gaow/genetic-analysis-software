@@ -1,5 +1,5 @@
 #LDB/LDB+
-##Full_name
+##Full Name
 Location DataBase
 
 ##Description

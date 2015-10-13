@@ -1,5 +1,5 @@
 #DOLINK
-##Other_name
+##Other Name
 : WDLINK
 
 ##Description

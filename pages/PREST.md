@@ -1,5 +1,5 @@
 #PREST
-##Full_name
+##Full Name
 Pedigree RElationship Statistical Test
 
 ##Version
@@ -22,7 +22,7 @@ C
 ##OS
 Linux, UNIX(Solaris/..)
 
-##Exe
+##EXE
 prest.solaris, prest.linux, altertest.solaris, altertest.linux
 
 ##Reference

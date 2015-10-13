@@ -1,5 +1,5 @@
 #HTR
-##Full_name
+##Full Name
 Haplotype Trend Regression
 
 ##Version
@@ -21,7 +21,7 @@ C++, Bash shell
 ##OS
 Window, UNIX(Solaris)
 
-##Exe
+##EXE
 emgi.exe (fixed number of markers), bash emgi.sh (sliding window)
 
 ##Reference

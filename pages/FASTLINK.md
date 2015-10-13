@@ -1,5 +1,5 @@
 #FASTLINK
-##Full_name
+##Full Name
 faster version of LINKAGE
 
 ##Version

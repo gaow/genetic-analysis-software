@@ -1,5 +1,5 @@
 #PLABQTL
-##Full_name
+##Full Name
 PLAnt Breeding QTL analysis
 
 ##Author

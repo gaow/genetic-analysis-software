@@ -1,5 +1,5 @@
 #PEDVIZAPI
-##Full_name
+##Full Name
 PEDigree VIsualiZation API
 
 ##Version

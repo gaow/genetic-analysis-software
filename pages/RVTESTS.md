@@ -1,5 +1,5 @@
 #RVTESTS
-##Full_name
+##Full Name
 Rare Variants TESTS
 
 ##Author

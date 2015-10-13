@@ -1,5 +1,5 @@
 #SNAP
-##Full_name
+##Full Name
 Suite of Nucleotide Analysis Programs
 
 ##Description

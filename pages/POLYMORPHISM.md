@@ -15,7 +15,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 powerlic
 
 ##Reference

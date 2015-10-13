@@ -1,5 +1,5 @@
 #MAGIC
-##Full_name
+##Full Name
 Marker And Gene Interpolation and Correlation
 
 ##Version

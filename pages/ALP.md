@@ -1,5 +1,5 @@
 #ALP
-##Full_name
+##Full Name
 Automated Linkage Preprocessor
 
 ##Version
@@ -23,7 +23,7 @@ C
 ##OS
 MS-Windows (3.1/95/NT)
 
-##Exe
+##EXE
 alpw.exe
 
 ##Reference

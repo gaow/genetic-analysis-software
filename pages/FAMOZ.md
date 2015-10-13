@@ -1,5 +1,5 @@
 #FAMOZ
-##Full_name
+##Full Name
 FAther/MOther
 
 ##Version

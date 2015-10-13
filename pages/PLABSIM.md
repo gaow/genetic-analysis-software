@@ -1,5 +1,5 @@
 #PLABSIM
-##Full_name
+##Full Name
 PLAnt Breeding SIMulation
 
 ##Version

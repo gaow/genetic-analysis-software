@@ -1,5 +1,5 @@
 #MDR
-##Full_name
+##Full Name
 Multifactor Dimensionality Reduction
 
 ##Version

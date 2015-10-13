@@ -1,5 +1,5 @@
 #ALBERT
-##Full_name
+##Full Name
 A Likelihood Based Estimation of Risk in Trios
 
 ##Version

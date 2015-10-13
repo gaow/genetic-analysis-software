@@ -1,5 +1,5 @@
 #RTDT
-##Full_name
+##Full Name
 Robust Transmission/Disequilibrium Test
 
 ##Version

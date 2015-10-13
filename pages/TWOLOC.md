@@ -17,7 +17,7 @@ FORTRAN77, Pascal, awk
 ##OS
 UNIX(Saloris/DEC UNIX/IRIX/..)
 
-##Exe
+##EXE
 twoloc, calc_alpha, mkp, calc_ibd
 
 ##Reference

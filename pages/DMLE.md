@@ -1,5 +1,5 @@
 #DMLE
-##Full_name
+##Full Name
 Disease Mapping using Linkage disEquilibrium
 
 ##Version

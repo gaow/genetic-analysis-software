@@ -1,5 +1,5 @@
 #CROSSFIND
-##Other_name
+##Other Name
 s: BREAKPOINT, BPT
 
 ##Version

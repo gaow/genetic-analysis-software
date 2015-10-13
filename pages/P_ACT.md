@@ -1,5 +1,5 @@
 #P_ACT
-##Full_name
+##Full Name
 P-values: Adjustment for Correlated Tests
 
 ##Version

@@ -1,5 +1,5 @@
 #WHAIT
-##Full_name
+##Full Name
 Weighted Haplotype test And an Imputation-based Test.
 
 ##Author

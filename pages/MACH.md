@@ -1,5 +1,5 @@
 #MACH
-##Full_name
+##Full Name
 MArkov Chain Haplotyper
 
 ##Version

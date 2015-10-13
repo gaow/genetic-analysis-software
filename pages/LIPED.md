@@ -1,5 +1,5 @@
 #LIPED
-##Full_name
+##Full Name
 Likelihoods in Pedigrees
 
 ##Author

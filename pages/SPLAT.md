@@ -1,5 +1,5 @@
 #SPLAT
-##Full_name
+##Full Name
 Sib Pair Linkage Analysis Testing
 
 ##Version

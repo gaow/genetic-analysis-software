@@ -1,5 +1,5 @@
 #FASTSLINK
-##Full_name
+##Full Name
 faster SLINK
 
 ##Description
@@ -18,7 +18,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 slink
 
 ##Reference

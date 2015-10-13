@@ -1,5 +1,5 @@
 #GCHAP
-##Full_name
+##Full Name
 Gene Counting method for HAPlotype analysis.
 
 ##Description

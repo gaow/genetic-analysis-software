@@ -17,7 +17,7 @@ C
 ##OS
 MS-DOS, MS-Windows, UNIX
 
-##Exe
+##EXE
 relcheck
 
 ##Reference

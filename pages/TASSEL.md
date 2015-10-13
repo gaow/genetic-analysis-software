@@ -1,5 +1,5 @@
 #TASSEL
-##Full_name
+##Full Name
 Trait Analysis by aSSociation, Evolution, and Linkage
 
 ##Version

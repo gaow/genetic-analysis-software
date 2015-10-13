@@ -1,5 +1,5 @@
 #GASSOC
-##Full_name
+##Full Name
 Genetic ASSOCiation analysis software for cases and parent
 
 ##Version

@@ -1,5 +1,5 @@
 #METAL
-##Full_name
+##Full Name
 METa AnaLysis Helper
 
 ##Description

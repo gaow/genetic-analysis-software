@@ -1,5 +1,5 @@
 #SILCLOD
-##Full_name
+##Full Name
 SIgnificance Levels and Critical LODs
 
 ##Description

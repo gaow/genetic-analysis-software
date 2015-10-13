@@ -1,5 +1,5 @@
 #LEA
-##Full_name
+##Full Name
 Likelihood-based Estimation of Admixture
 
 ##Author
@@ -16,7 +16,7 @@ C++
 ##OS
 MS-Windows
 
-##Exe
+##EXE
 lea.exe
 
 ##Reference

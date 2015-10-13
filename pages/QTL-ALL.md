@@ -1,5 +1,5 @@
 #QTL-ALL
-##Full_name
+##Full Name
 QTL Analysis and Linkage Library
 
 ##Description

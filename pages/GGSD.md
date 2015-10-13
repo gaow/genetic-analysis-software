@@ -1,5 +1,5 @@
 #GGSD
-##Full_name
+##Full Name
 Generic Genetic Studies Database
 
 ##Description

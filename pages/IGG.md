@@ -1,5 +1,5 @@
 #IGG
-##Full_name
+##Full Name
 Integrate Genotypes for genome-wide Genetic studies
 
 ##Version

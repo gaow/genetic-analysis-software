@@ -1,5 +1,5 @@
 #PL-EM
-##Full_name
+##Full Name
 Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms
 
 ##Author

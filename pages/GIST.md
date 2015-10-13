@@ -1,5 +1,5 @@
 #GIST
-##Full_name
+##Full Name
 Genotype Ibd Sharing Test
 
 ##Version

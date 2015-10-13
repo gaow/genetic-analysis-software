@@ -1,5 +1,5 @@
 #MEGA2
-##Full_name
+##Full Name
 a Manipulation Environment for Genetic Analyses
 
 ##Version
@@ -24,7 +24,7 @@ C
 ##OS
 UNIX (Solaris, Silicon Graphics, OSF1, MacOS X), Linux, MS-Windows, MacOS(X)
 
-##Exe
+##EXE
 mega2
 
 ##Reference

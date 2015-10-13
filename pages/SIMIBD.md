@@ -16,7 +16,7 @@ C
 ##OS
 UNIX(SunOS/Solaris/HP/DEC-UNIX)
 
-##Exe
+##EXE
 simibd, xslink
 
 ##Reference

@@ -1,5 +1,5 @@
 #THESIAS
-##Full_name
+##Full Name
 Testing Haplotype EffectS In Association Studies
 
 ##Version

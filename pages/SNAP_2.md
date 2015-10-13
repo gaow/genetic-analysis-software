@@ -1,5 +1,5 @@
 #SNAP 2
-##Full_name
+##Full Name
 SNp Annotation and Proxy search
 
 ##Version

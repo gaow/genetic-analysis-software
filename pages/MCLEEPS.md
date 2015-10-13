@@ -1,5 +1,5 @@
 #MCLEEPS
-##Full_name
+##Full Name
 Monte Carlo Likelihood Estimation of Effective Population Size
 
 ##Version

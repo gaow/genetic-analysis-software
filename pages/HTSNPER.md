@@ -1,5 +1,5 @@
 #HTSNPER
-##Full_name
+##Full Name
 Haplotype Tagging SNPer
 
 ##Version

@@ -1,5 +1,5 @@
 #CHECKMATRIX
-##Other_name
+##Other Name
 : PY_MATRIX_2D
 
 ##Version

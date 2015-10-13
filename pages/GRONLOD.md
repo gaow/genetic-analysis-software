@@ -1,5 +1,5 @@
 #GRONLOD
-##Full_name
+##Full Name
 GRONingen university LOR score calculation
 
 ##Description
@@ -14,7 +14,7 @@ PROLOG
 ##OS
 MS-Windows (3.1/95/NT)
 
-##Exe
+##EXE
 gronrec,gronreca,gronlod,groninbr, gronchec,gronped,gronpedc, grontree
 
 ##Reference

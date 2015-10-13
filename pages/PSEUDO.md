@@ -18,7 +18,7 @@ C,C++
 ##OS
 Linux, UNIX, MacOS, MS-Windows
 
-##Exe
+##EXE
 pseudo, scan
 
 ##Reference

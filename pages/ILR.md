@@ -1,5 +1,5 @@
 #ILR
-##Full_name
+##Full Name
 Imprinting Likelihood Ratio
 
 ##Version

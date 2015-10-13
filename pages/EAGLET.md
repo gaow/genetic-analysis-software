@@ -1,5 +1,5 @@
 #EAGLET
-##Full_name
+##Full Name
 Efficient Analysis of Genetic Linkage: Testing and Estimation
 
 ##Version
@@ -20,7 +20,7 @@ Perl, C
 ##OS
 Linux, MacOS
 
-##Exe
+##EXE
 eaglet.pl
 
 ##Reference

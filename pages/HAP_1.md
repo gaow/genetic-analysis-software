@@ -1,5 +1,5 @@
 #HAP 1
-##Full_name
+##Full Name
 haplotype resolution using imperfect phylogeny
 
 ##Version

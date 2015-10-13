@@ -1,5 +1,5 @@
 #MDBLOCKS
-##Full_name
+##Full Name
 Minimum Description length method for haplotype BLOCKS
 
 ##Description

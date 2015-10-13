@@ -14,7 +14,7 @@ SUN FORTRAN (the command "fsplit" is needed)
 ##OS
 UNIX (SunOS/..)
 
-##Exe
+##EXE
 list1,com1, comds (shell script)
 
 ##Reference

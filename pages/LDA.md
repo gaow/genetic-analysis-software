@@ -1,5 +1,5 @@
 #LDA
-##Full_name
+##Full Name
 Linkage Disequilibrium Analyzer
 
 ##Description

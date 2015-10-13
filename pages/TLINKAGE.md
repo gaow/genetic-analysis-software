@@ -1,5 +1,5 @@
 #TLINKAGE
-##Full_name
+##Full Name
 two-locus trait linkage programs
 
 ##Description

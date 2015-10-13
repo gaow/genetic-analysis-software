@@ -1,5 +1,5 @@
 #SOLAR
-##Full_name
+##Full Name
 Sequential Oligogenic Linkage Analysis Routines
 
 ##Version
@@ -24,7 +24,7 @@ FORTRAN, C, C++, TCL
 ##OS
 UNIX(Solaris 7-10/Solaris x86 8-9/Digital Unix 4.0e/SG Irix), Linux, MacOS, MS-Windows
 
-##Exe
+##EXE
 solar, ibdprep, ibdmat, relate, multipnt
 
 ##Reference

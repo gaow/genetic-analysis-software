@@ -19,7 +19,7 @@ Delphi Pascal
 ##OS
 MS-Window (32-bit)
 
-##Exe
+##EXE
 MapComp.exe
 
 ##Related

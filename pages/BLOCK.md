@@ -1,5 +1,5 @@
 #BLOCK
-##Full_name
+##Full Name
 Blocking Gibbs sampler for pedigree analysis
 
 ##Version
@@ -19,7 +19,7 @@ Claus Skaanning Jensen (email: claus@cs.auc.dk) (Aalborg University, Denmark)
 ##OS
 MS-DOS, Linux, UNIX(Solaris, Irix 64, AIX 3.2.5, DEC alpha)
 
-##Exe
+##EXE
 block, theta
 
 ##Reference

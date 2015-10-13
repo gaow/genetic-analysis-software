@@ -1,5 +1,5 @@
 #SIMHAP
-##Full_name
+##Full Name
 SIMulation-based HAPlotypic analysis
 
 ##Version

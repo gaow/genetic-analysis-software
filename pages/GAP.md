@@ -1,5 +1,5 @@
 #GAP
-##Full_name
+##Full Name
 genetic analysis package
 
 ##Version

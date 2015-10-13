@@ -18,6 +18,6 @@ C++, FORTRAN 77, Perl
 ##OS
 UNIX, Linux
 
-##Exe
+##EXE
 kLD, lsqLD, booit.pl
 

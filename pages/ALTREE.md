@@ -12,7 +12,7 @@ ALTREE performs these two phylogeny-based analysis: (1) it tests the association
 ##URL
 http://claire.bardel.free.fr/software.html
 
-##Exe
+##EXE
 altree, altree-convert, altree-add-s
 
 ##Reference

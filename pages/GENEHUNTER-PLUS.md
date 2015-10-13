@@ -15,7 +15,7 @@ http://galton.uchicago.edu/genehunterplus
 ##Language
 C
 
-##Exe
+##EXE
 ghp, xghp,asm
 
 ##Reference

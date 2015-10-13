@@ -19,7 +19,7 @@ C++
 ##OS
 MS-Windows, MS-DOS, UNIX(Solaris)
 
-##Exe
+##EXE
 gf
 
 ##Reference

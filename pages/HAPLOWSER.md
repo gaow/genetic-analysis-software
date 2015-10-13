@@ -1,5 +1,5 @@
 #HAPLOWSER
-##Full_name
+##Full Name
 HAPLotype brOWSER
 
 ##URL

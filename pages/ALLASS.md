@@ -15,7 +15,7 @@ C
 ##OS
 UNIX (SUN..)
 
-##Exe
+##EXE
 allass
 
 ##Reference

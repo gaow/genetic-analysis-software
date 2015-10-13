@@ -1,5 +1,5 @@
 #CHAPLIN
-##Full_name
+##Full Name
 Case-control HAPLotype INference package
 
 ##Version
@@ -22,7 +22,7 @@ FORTRAN90 (CVF 6.6) with IMSL routines
 ##OS
 MS-Windows (2000/XP)
 
-##Exe
+##EXE
 chaplin.exe
 
 ##Reference

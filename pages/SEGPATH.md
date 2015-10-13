@@ -1,5 +1,5 @@
 #SEGPATH
-##Full_name
+##Full Name
 SEGregation analysis and PATH analysis
 
 ##Author

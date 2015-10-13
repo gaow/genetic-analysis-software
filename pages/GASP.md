@@ -1,5 +1,5 @@
 #GASP
-##Full_name
+##Full Name
 Genometric Analysis Simulation Program
 
 ##Version

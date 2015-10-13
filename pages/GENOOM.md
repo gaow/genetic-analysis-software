@@ -1,5 +1,5 @@
 #GENOOM
-##Full_name
+##Full Name
 GENetic Object Oriented Modeling in population genetics
 
 ##Version

@@ -1,5 +1,5 @@
 #TUNA
-##Full_name
+##Full Name
 Testing UNtyped Alleles
 
 ##Version

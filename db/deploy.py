@@ -36,7 +36,7 @@ class GasParser:
                 del self.data[name]['FileName']
                 f.write('#{}\n'.format(name))
                 for k in self.data[name]:
-                    f.write('##{}\n'.format(k.capitalize() if k not in ['URL', 'OS'] else k))
+                    f.write('##{}\n'.format(' '.join([x.capitalize() for x in k.split('_')]) if k not in ['URL', 'OS', 'EXE'] else k))
                     if len(self.data[name][k]) > 1:
                         for item in self.data[name][k]:
                             f.write('* {}\n'.format(item))

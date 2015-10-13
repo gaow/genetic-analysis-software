@@ -11,7 +11,7 @@ http://lab.rockefeller.edu/ott/programs
 ##Language
 Pascal
 
-##Exe
+##EXE
 homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
 
 ##Reference

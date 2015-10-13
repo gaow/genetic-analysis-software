@@ -1,5 +1,5 @@
 #UTIL
-##Full_name
+##Full Name
 statistical genetics UTILity programs
 
 ##Author
@@ -14,7 +14,7 @@ Pascal
 ##OS
 MS-Windows, Linux
 
-##Exe
+##EXE
 multiple, binom, chiprob, conting, equiv, hist, hwe, ibd, mapfun, nocom, norinv, norprob, par, pvalues, relrisk, sexdif, tprob, trend
 
 ##Reference

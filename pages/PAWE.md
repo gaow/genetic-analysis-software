@@ -1,5 +1,5 @@
 #PAWE
-##Full_name
+##Full Name
 Power for Association With Error
 
 ##Version

@@ -1,5 +1,5 @@
 #EPDT
-##Full_name
+##Full Name
 Extended Pedigree Disequilibrium Test
 
 ##Version

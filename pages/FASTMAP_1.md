@@ -1,5 +1,5 @@
 #FASTMAP 1
-##Full_name
+##Full Name
 Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package
 
 ##Version

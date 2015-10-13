@@ -1,5 +1,5 @@
 #EHP
-##Full_name
+##Full Name
 Estimation of Haplotype frequencies from Pooled DNA samples
 
 ##Description

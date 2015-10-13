@@ -17,7 +17,7 @@ C
 ##OS
 UNIX (Solaris/FreeBSD/OpenBSD/MacOS), MS-Windows, Cygwin, Linux,
 
-##Exe
+##EXE
 madeline
 
 ##Reference

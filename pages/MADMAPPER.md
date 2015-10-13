@@ -14,6 +14,6 @@ http://www.atgc.org/XLinkage/MadMapper/
 ##Language
 Python
 
-##Exe
+##EXE
 MadMapper_RECBIT, MadMapper_XDELTA
 

@@ -18,7 +18,7 @@ pedigree drawing
 ##OS
 MacOS
 
-##Exe
+##EXE
 PedDraw
 
 ##Reference

@@ -1,5 +1,5 @@
 #GLIDERS
-##Full_name
+##Full Name
 Genome-wide LInkage DisEquilibrium Repository and Search engine
 
 ##Description

@@ -1,5 +1,5 @@
 #SIFT
-##Full_name
+##Full Name
 Sorting Intolerant From Tolerant
 
 ##Description

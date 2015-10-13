@@ -1,5 +1,5 @@
 #SOAP
-##Full_name
+##Full Name
 Short Oligonucleotide Analysis Package
 
 ##Description

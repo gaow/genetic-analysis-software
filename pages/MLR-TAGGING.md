@@ -1,5 +1,5 @@
 #MLR-TAGGING
-##Full_name
+##Full Name
 Multivariate Linear Regression TAGGING
 
 ##Version

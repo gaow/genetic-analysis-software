@@ -1,5 +1,5 @@
 #LINKAGE-IMPRINT
-##Full_name
+##Full Name
 LINKAGE allowing for IMPRINITING
 
 ##Version
@@ -21,7 +21,7 @@ C, Pascal
 ##OS
 UNIX (Solaris)
 
-##Exe
+##EXE
 mlinki, linkmapi
 
 ##Reference

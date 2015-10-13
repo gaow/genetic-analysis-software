@@ -1,5 +1,5 @@
 #OSA
-##Full_name
+##Full Name
 Ordered Subset Analysis
 
 ##Version
@@ -22,7 +22,7 @@ C++
 ##OS
 UNIX(Solaris), Linux
 
-##Exe
+##EXE
 osa2.0
 
 ##Reference

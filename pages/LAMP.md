@@ -1,5 +1,5 @@
 #LAMP
-##Full_name
+##Full Name
 Linkage and Association Modeling in Pedigrees
 
 ##Version
@@ -21,7 +21,7 @@ C++
 ##OS
 UNIX, LINUX, MS-Windows, MacOS
 
-##Exe
+##EXE
 lamp
 
 ##Reference

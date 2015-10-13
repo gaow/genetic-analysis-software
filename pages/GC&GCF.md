@@ -1,5 +1,5 @@
 #GC/GCF
-##Full_name
+##Full Name
 Genomic Control
 
 ##Description

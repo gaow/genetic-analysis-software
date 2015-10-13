@@ -1,5 +1,5 @@
 #GENESPRING GT
-##Other_name
+##Other Name
 VARIA
 
 ##Version

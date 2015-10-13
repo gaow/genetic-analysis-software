@@ -1,5 +1,5 @@
 #SAGE
-##Full_name
+##Full Name
 Statistical Analysis for Genetic Epidemiology
 
 ##Version
@@ -25,6 +25,6 @@ C [version 4.0 will be in C++]
 ##OS
 UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux
 
-##Exe
+##EXE
 assoc, fcor, freq, genibd, lodlink, lodpal, markerinfo, mlod, pedinfo, reltest, segreg, sibpal, tdtex
 

@@ -1,5 +1,5 @@
 #ALLELIX
-##Full_name
+##Full Name
 Allelix - Paternity Linkage Analysis Online
 
 ##Version
@@ -22,6 +22,6 @@ C++, Java Script
 ##OS
 MS-Windows (2000 &IIS/ME & Personal Webserver)
 
-##Exe
+##EXE
 allelix.dll
 

@@ -18,7 +18,7 @@ C,C++
 ##OS
 MS-Windows, Linux
 
-##Exe
+##EXE
 pedigraph
 
 ##Reference

@@ -1,5 +1,5 @@
 #HAPLORE
-##Full_name
+##Full Name
 HAPLOtype REconstruction in pedigrees
 
 ##Description

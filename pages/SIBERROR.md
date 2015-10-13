@@ -1,5 +1,5 @@
 #SIBERROR
-##Full_name
+##Full Name
 SibError
 
 ##Version
@@ -18,7 +18,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 siberror
 
 ##Reference

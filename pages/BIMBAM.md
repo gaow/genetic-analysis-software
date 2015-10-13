@@ -1,5 +1,5 @@
 #BIMBAM
-##Full_name
+##Full Name
 Bayesian IMputation-Based Association Mapping
 
 ##Version

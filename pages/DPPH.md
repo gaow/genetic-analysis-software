@@ -1,5 +1,5 @@
 #DPPH
-##Full_name
+##Full Name
 Direct method for Perfect Phylogeney Haplotyping
 
 ##Description

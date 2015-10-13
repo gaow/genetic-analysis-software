@@ -1,5 +1,5 @@
 #CRIMAP-PVM
-##Full_name
+##Full Name
 CRIMAP with Parallel Virtual Machine
 
 ##Description

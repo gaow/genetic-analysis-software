@@ -1,5 +1,5 @@
 #APL-OSA
-##Full_name
+##Full Name
 Association in the Presence of Linkage with Ordered Subset Analysis
 
 ##Description

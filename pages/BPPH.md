@@ -1,5 +1,5 @@
 #BPPH
-##Full_name
+##Full Name
 Berkeley method for Perfect Phylogeney Haplotyping
 
 ##Version

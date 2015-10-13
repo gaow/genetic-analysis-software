@@ -1,5 +1,5 @@
 #JLIN
-##Full_name
+##Full Name
 a Java based LINkage disequilibrium plotter
 
 ##Version
@@ -22,7 +22,7 @@ Java
 ##OS
 Any with Java 1.5 support
 
-##Exe
+##EXE
 Java-based installer available from website
 
 ##Reference

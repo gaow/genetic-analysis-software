@@ -1,5 +1,5 @@
 #GDA
-##Full_name
+##Full Name
 Genetic Data Analysis
 
 ##Version

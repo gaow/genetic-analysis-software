@@ -1,5 +1,5 @@
 #MAMA
-##Full_name
+##Full Name
 Multivariate Association Mapping Algorithms
 
 ##URL

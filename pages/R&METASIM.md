@@ -1,5 +1,5 @@
 #R/METASIM
-##Full_name
+##Full Name
 METApopulation SIMulation
 
 ##Version

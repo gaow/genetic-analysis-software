@@ -1,5 +1,5 @@
 #HAPAR
-##Full_name
+##Full Name
 HAplotype inference by PARsimony
 
 ##Description

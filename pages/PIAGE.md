@@ -1,5 +1,5 @@
 #PIAGE
-##Full_name
+##Full Name
 Power of Indirect Association Studies of Gene-Environment Interactions
 
 ##Version

@@ -1,5 +1,5 @@
 #PRT
-##Full_name
+##Full Name
 Pedigree Reconstruction Tools
 
 ##Version
@@ -17,7 +17,7 @@ http://www.urmc.rochester.edu/smd/biostat/Projects/Help/PC/Software_Listings.htm
 ##OS
 MS-Windows
 
-##Exe
+##EXE
 msg_proj
 
 ##Reference

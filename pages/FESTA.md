@@ -1,5 +1,5 @@
 #FESTA
-##Full_name
+##Full Name
 Fragmented Exhaustive Seearch for TAgsnps
 
 ##Version

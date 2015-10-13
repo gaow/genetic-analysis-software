@@ -17,7 +17,7 @@ C++
 ##OS
 UNIX, MS-Windows(95)
 
-##Exe
+##EXE
 mld.x
 
 ##Reference

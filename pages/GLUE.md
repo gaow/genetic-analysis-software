@@ -1,5 +1,5 @@
 #GLUE
-##Full_name
+##Full Name
 Genetic Linkage User Environment
 
 ##Version

@@ -1,5 +1,5 @@
 #BEAM
-##Full_name
+##Full Name
 Bayesian Epistasis Association Mapping
 
 ##Description

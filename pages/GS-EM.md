@@ -1,5 +1,5 @@
 #GS-EM
-##Full_name
+##Full Name
 GenoSpectrum Expectation-Maximuzation
 
 ##URL

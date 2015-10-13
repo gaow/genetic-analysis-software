@@ -1,5 +1,5 @@
 #SNPEM
-##Full_name
+##Full Name
 SNP Expectation Maximization
 
 ##Description

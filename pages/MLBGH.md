@@ -1,5 +1,5 @@
 #MLBGH
-##Full_name
+##Full Name
 Maximum-Likelihood-Binomial analysis of affected sib-pair and sibship data extended from the GENEHUNTER program
 
 ##Version
@@ -23,7 +23,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 mlbgh
 
 ##Reference

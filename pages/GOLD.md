@@ -1,5 +1,5 @@
 #GOLD
-##Full_name
+##Full Name
 Graphical Overview of Linkage Disequilibrium
 
 ##Version

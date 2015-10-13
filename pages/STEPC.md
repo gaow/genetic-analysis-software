@@ -1,5 +1,5 @@
 #STEPC
-##Full_name
+##Full Name
 STatistical Explanation for Positional Cloning
 
 ##Author

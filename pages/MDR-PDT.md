@@ -1,5 +1,5 @@
 #MDR-PDT
-##Full_name
+##Full Name
 Multifactor Dimensionality Reduction and genotype Pedigree Disequilibrium Test
 
 ##Version

@@ -1,5 +1,5 @@
 #EH
-##Full_name
+##Full Name
 Estimating Haplotype-frequencies
 
 ##Author
@@ -15,7 +15,7 @@ Pascal
 ##OS
 MS-DOS, UNIX
 
-##Exe
+##EXE
 eh
 
 ##Reference

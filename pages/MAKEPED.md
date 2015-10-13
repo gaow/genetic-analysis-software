@@ -1,8 +1,8 @@
 #MAKEPED
-##Full_name
+##Full Name
 MAKE PEDfiles
 
-##Other_name
+##Other Name
 LINKAGE/MAKEPED
 
 ##Version

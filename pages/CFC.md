@@ -1,5 +1,5 @@
 #CFC
-##Full_name
+##Full Name
 Contribution, Inbreeding (F) and Coancestry
 
 ##Version

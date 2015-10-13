@@ -1,5 +1,5 @@
 #ARIEL
-##Full_name
+##Full Name
 Accumulation of Rare variants Integrated and Extended Locus-specific test
 
 ##Description

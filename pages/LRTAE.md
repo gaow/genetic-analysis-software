@@ -1,5 +1,5 @@
 #LRTAE
-##Full_name
+##Full Name
 Likelihood Ratio Test Allowing for Errors
 
 ##Version

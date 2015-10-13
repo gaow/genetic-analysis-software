@@ -1,5 +1,5 @@
 #TDT-PC
-##Full_name
+##Full Name
 Transmission Disequilibrium Test Power Calculator
 
 ##Version

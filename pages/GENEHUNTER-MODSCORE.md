@@ -17,7 +17,7 @@ C
 ##OS
 UNIX(SUNOS,Solaris,OSF,HPUX,AIX,Ultrix), Linux, MS-Windows
 
-##Exe
+##EXE
 ghm
 
 ##Reference

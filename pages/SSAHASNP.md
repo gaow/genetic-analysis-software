@@ -1,5 +1,5 @@
 #SSAHASNP
-##Full_name
+##Full Name
 Sequence Search and Alignment by Hashing Algorithm for SNP detection
 
 ##Description

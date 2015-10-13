@@ -1,5 +1,5 @@
 #ERPA
-##Full_name
+##Full Name
 Extended Relative Pair Analysis
 
 ##Description

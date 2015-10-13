@@ -1,5 +1,5 @@
 #HAPBLOCK
-##Full_name
+##Full Name
 a dynamical programming algorithm for haplotype block partitioning
 
 ##Version

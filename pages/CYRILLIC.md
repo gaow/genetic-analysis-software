@@ -1,5 +1,5 @@
 #CYRILLIC
-##Full_name
+##Full Name
 version 3 (October 1999)
 
 ##Description

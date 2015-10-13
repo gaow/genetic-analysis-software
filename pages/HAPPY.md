@@ -1,5 +1,5 @@
 #HAPPY
-##Full_name
+##Full Name
 reconstructing HAPlotYpes
 
 ##Description

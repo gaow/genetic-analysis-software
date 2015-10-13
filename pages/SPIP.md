@@ -1,5 +1,5 @@
 #SPIP
-##Full_name
+##Full Name
 Simulate Pedigree In Population
 
 ##Description

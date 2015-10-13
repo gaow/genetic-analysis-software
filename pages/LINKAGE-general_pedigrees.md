@@ -18,7 +18,7 @@ http://lab.rockefeller.edu/ott/programs
 ##OS
 MS-DOS, OS2, UNIX, VMS
 
-##Exe
+##EXE
 5.1, 5.2: unknown, mlink, ilink, lodscore, linkmap; 6.0: linkage
 
 ##Reference

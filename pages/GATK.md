@@ -1,5 +1,5 @@
 #GATK
-##Full_name
+##Full Name
 Genome Analysis ToolKit
 
 ##Description

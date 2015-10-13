@@ -12,6 +12,6 @@ detecting association between haplotypes and phenotypes
 ##URL
 http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm
 
-##Exe
+##EXE
 ehap.exe, haplinmod.exe
 

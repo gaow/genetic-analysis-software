@@ -1,5 +1,5 @@
 #MAPL
-##Full_name
+##Full Name
 MAPping and QTL analysis
 
 ##Version

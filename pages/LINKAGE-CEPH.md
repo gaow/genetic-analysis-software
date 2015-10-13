@@ -17,7 +17,7 @@ Pascal
 ##OS
 MS-DOS, OS2, UNIX,VMS
 
-##Exe
+##EXE
 cfactor,cilink,clodscore,cmap
 
 ##Reference

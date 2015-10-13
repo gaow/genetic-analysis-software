@@ -1,5 +1,5 @@
 #SVA
-##Full_name
+##Full Name
 Sequence Variant Analyzer
 
 ##Version

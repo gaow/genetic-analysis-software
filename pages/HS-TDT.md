@@ -1,5 +1,5 @@
 #HS-TDT
-##Full_name
+##Full Name
 Haplotype Sharing Transmission Disequilibrium Test
 
 ##Description

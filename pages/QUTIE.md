@@ -1,5 +1,5 @@
 #QUTIE
-##Full_name
+##Full Name
 Case-Control RAre Variant Analysis Tool
 
 ##Description

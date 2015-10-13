@@ -1,5 +1,5 @@
 #PYPOP
-##Full_name
+##Full Name
 PYthon for POPulation genetics
 
 ##Version

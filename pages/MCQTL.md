@@ -1,5 +1,5 @@
 #MCQTL
-##Full_name
+##Full Name
 Multi-Cross QTL mapping
 
 ##Version

@@ -1,5 +1,5 @@
 #GAS
-##Full_name
+##Full Name
 Genetic Analysis System
 
 ##Version

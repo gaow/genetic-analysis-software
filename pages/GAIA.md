@@ -1,5 +1,5 @@
 #GAIA
-##Full_name
+##Full Name
 Genetic Association Interaction Analysis
 
 ##Version

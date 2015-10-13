@@ -12,7 +12,7 @@ Pascal
 ##OS
 MS-DOS
 
-##Exe
+##EXE
 slink, isim, lsim, msim
 
 ##Reference

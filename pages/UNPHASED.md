@@ -18,7 +18,7 @@ C++, Java
 ##OS
 UNIX(SOlaris), Linux, MS-Windows
 
-##Exe
+##EXE
 unphased, tdtphase, cocaphase, pdtphase, qpdtphase
 
 ##Reference

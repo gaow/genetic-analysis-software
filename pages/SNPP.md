@@ -1,5 +1,5 @@
 #SNPP
-##Full_name
+##Full Name
 Single Nucleotide Polymorphism Processor
 
 ##Version

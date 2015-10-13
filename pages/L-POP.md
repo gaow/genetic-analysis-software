@@ -17,6 +17,6 @@ http://statgen.iop.kcl.ac.uk/lpop/
 ##OS
 MS-DOS
 
-##Exe
+##EXE
 lpop
 

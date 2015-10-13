@@ -1,5 +1,5 @@
 #SNPMSTAT
-##Full_name
+##Full Name
 SNP Missing data STATistics
 
 ##Version

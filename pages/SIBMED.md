@@ -1,5 +1,5 @@
 #SIBMED
-##Full_name
+##Full Name
 SIBling Mutation and Error Detection
 
 ##Version
@@ -21,7 +21,7 @@ FORTRAN 77
 ##OS
 MS-Windows, UNIX
 
-##Exe
+##EXE
 sibmed.exe
 
 ##Reference

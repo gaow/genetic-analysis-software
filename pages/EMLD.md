@@ -1,5 +1,5 @@
 #EMLD
-##Full_name
+##Full Name
 EM estimation of haplotype frequencies and LD calculation
 
 ##Version
@@ -20,6 +20,6 @@ Java
 ##OS
 UNIX, MS-Windows
 
-##Exe
+##EXE
 emld
 

@@ -1,5 +1,5 @@
 #MECPM
-##Full_name
+##Full Name
 Maximum Entropy Conditional Probability Moldeling
 
 ##URL

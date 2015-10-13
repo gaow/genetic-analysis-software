@@ -16,7 +16,7 @@ C++, Postscript
 ##OS
 UNIX(Sparc-Solaris 2.5/DEC UNIX 4.0/x86-Solaris 2.6)
 
-##Exe
+##EXE
 pedplot
 
 ##Reference

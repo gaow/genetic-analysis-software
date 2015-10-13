@@ -1,5 +1,5 @@
 #HIT
-##Full_name
+##Full Name
 Haplotype Inference Technique
 
 ##Author

@@ -1,5 +1,5 @@
 #RISCALW
-##Full_name
+##Full Name
 RISk CALculation in Windows
 
 ##Description

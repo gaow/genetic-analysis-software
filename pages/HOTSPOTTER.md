@@ -14,7 +14,7 @@ http://www.biostat.umn.edu/~nali/SoftwareListing.html
 ##Language
 C++
 
-##Exe
+##EXE
 rholike, hotspot, fullopt
 
 ##Reference

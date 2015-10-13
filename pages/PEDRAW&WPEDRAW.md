@@ -1,5 +1,5 @@
 #PEDRAW/WPEDRAW
-##Full_name
+##Full Name
 Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)
 
 ##Version

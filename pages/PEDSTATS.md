@@ -18,7 +18,7 @@ C,C++
 ##OS
 Linux, UNIX, MS-Windows
 
-##Exe
+##EXE
 pedstats
 
 ##Reference

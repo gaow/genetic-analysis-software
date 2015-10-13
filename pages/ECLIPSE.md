@@ -1,5 +1,5 @@
 #ECLIPSE
-##Full_name
+##Full Name
 Error Correcting Likelihoods In Pedigree Structure Estimation.
 
 ##Version
@@ -21,7 +21,7 @@ C++
 ##OS
 Tested on Unix (Compaq Tru64 V5.0A)
 
-##Exe
+##EXE
 prepro, eclipse2, eclipse3
 
 ##Related

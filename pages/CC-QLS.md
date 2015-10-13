@@ -1,5 +1,5 @@
 #CC-QLS
-##Full_name
+##Full Name
 Case-Control Quasi-Likelihood Score test
 
 ##Version

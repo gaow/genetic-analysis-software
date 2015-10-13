@@ -1,5 +1,5 @@
 #SAMTOOLS
-##Full_name
+##Full Name
 Sequence Alignment/Map TOOLS
 
 ##Description

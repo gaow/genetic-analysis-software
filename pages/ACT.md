@@ -1,5 +1,5 @@
 #ACT
-##Full_name
+##Full Name
 Analysis of Complex Traits
 
 ##Version
@@ -22,7 +22,7 @@ FORTRAN77, C++
 ##OS
 UNIX(Solaris 2.4/..)
 
-##Exe
+##EXE
 ibd, ml, ql, he, ibdn, multic
 
 ##Reference

@@ -1,5 +1,5 @@
 #FASTEHPLUS
-##Full_name
+##Full Name
 faster EH-PLUS
 
 ##Author

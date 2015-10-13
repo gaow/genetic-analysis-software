@@ -1,5 +1,5 @@
 #SIMPLE
-##Full_name
+##Full Name
 Sequential Imputation for MultiPoint Linkage Estimation
 
 ##Description
@@ -19,7 +19,7 @@ C
 ##OS
 UNIX(Solaris)
 
-##Exe
+##EXE
 simple, scan
 
 ##Reference

@@ -1,5 +1,5 @@
 #CASAVA
-##Full_name
+##Full Name
 Consensus Assessment of Sequence And VAriation
 
 ##Version

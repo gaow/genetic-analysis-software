@@ -1,5 +1,5 @@
 #PEDAGREE
-##Full_name
+##Full Name
 1.00 (February 2002)
 
 ##Description
@@ -17,6 +17,6 @@ C, C++
 ##OS
 UNIX, Linux, MS-Windows, MS-DOS,
 
-##Exe
+##EXE
 pedagree
 

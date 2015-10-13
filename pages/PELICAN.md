@@ -1,5 +1,5 @@
 #PELICAN
-##Full_name
+##Full Name
 Pedigree Editor for LInkage Computer ANalysis
 
 ##Description

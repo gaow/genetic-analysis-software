@@ -18,7 +18,7 @@ A program to map quantitative traits sing a map of molecular markers.
 ##OS
 UNIX, MS-Windows, MacOS
 
-##Exe
+##EXE
 rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, qtlcart
 
 ##Reference

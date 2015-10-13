@@ -1,5 +1,5 @@
 #APM
-##Full_name
+##Full Name
 Affected Pedigree-Member Method
 
 ##Version
@@ -18,7 +18,7 @@ C and Pascal and FORTRAN
 ##OS
 UNIX, VMS, MS-DOS
 
-##Exe
+##EXE
 apm, sim, apmmult, simmult, chapm, hist
 
 ##Reference

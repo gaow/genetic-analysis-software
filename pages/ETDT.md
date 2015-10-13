@@ -1,5 +1,5 @@
 #ETDT
-##Full_name
+##Full Name
 extended transmission/disequilibrium test
 
 ##Description

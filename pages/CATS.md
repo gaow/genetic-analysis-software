@@ -1,5 +1,5 @@
 #CATS
-##Full_name
+##Full Name
 power Calculator for Association with Two Stage design
 
 ##Version
@@ -20,7 +20,7 @@ C++
 ##OS
 UNIX, Linux, MS-Windows, MacOS
 
-##Exe
+##EXE
 cats (graphical interface for MS-Windows, MacOS, and Linux), cats-test (Linux command line)
 
 ##Reference

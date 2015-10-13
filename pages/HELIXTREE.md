@@ -1,5 +1,5 @@
 #HELIXTREE
-##Full_name
+##Full Name
 HelixTree Genetic Association Software
 
 ##Version
@@ -27,7 +27,7 @@ C++
 ##OS
 MS-Windows, Linux, MacOS X
 
-##Exe
+##EXE
 helixtree.exe
 
 ##Reference

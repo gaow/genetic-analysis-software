@@ -18,7 +18,7 @@ Fortran 90/95
 ##OS
 MS-Windows,Linux
 
-##Exe
+##EXE
 locusmap
 
 ##Reference

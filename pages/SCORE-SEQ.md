@@ -1,5 +1,5 @@
 #SCORE-SEQ
-##Full_name
+##Full Name
 SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies
 
 ##Description

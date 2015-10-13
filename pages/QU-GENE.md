@@ -1,5 +1,5 @@
 #QU-GENE
-##Full_name
+##Full Name
 QUantitative GENEtics
 
 ##Version
@@ -21,7 +21,7 @@ Fortran
 ##OS
 MS-Windows
 
-##Exe
+##EXE
 qugene.exe
 
 ##Reference

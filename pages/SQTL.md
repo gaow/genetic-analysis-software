@@ -1,5 +1,5 @@
 #SQTL
-##Full_name
+##Full Name
 Semiparametric QTL mapping in general pedigrees
 
 ##Author

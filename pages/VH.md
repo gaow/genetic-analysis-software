@@ -1,5 +1,5 @@
 #VH
-##Full_name
+##Full Name
 visual haplotype
 
 ##Version

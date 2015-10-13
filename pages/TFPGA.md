@@ -1,5 +1,5 @@
 #TFPGA
-##Full_name
+##Full Name
 Tools For Population Genetic Analyses
 
 ##Description

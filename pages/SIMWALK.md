@@ -1,5 +1,5 @@
 #SIMWALK
-##Other_name
+##Other Name
 SIMWALK/SIMCROSS
 
 ##Version

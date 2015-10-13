@@ -1,5 +1,5 @@
 #CAROL
-##Full_name
+##Full Name
 Combined Annotation scoRing toOL
 
 ##Description

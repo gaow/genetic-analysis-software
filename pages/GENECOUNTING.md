@@ -17,7 +17,7 @@ C
 ##OS
 MS-Windows, UNIX(Solaris), Linux
 
-##Exe
+##EXE
 gc, gcp, gcx, pgc., RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS
 
 ##Reference

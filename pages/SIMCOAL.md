@@ -1,5 +1,5 @@
 #SIMCOAL
-##Full_name
+##Full Name
 SIMulate COAlescence
 
 ##Version
@@ -17,7 +17,7 @@ C++
 ##OS
 MS-Windows(9X/NT)
 
-##Exe
+##EXE
 simcoal, sim_coal
 
 ##Reference

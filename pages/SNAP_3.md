@@ -1,5 +1,5 @@
 #SNAP 3
-##Full_name
+##Full Name
 Simulation of sNp haplotype data And Phenotypic traits
 
 ##Description

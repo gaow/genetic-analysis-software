@@ -1,5 +1,5 @@
 #SPLINK
-##Full_name
+##Full Name
 affected Sib Pairs LINKage analysis
 
 ##Version
@@ -22,7 +22,7 @@ c++
 ##OS
 UNIX(SunOS/..), MS-DOS
 
-##Exe
+##EXE
 splink, ped2spl
 
 ##Reference

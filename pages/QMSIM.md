@@ -1,5 +1,5 @@
 #QMSIM
-##Full_name
+##Full Name
 Qtl and Marker SIMulator
 
 ##Version

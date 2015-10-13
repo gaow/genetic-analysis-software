@@ -21,7 +21,7 @@ Java 1.6
 ##OS
 web-based
 
-##Exe
+##EXE
 PedGenie, hapMC, hapConstructor
 
 ##Reference

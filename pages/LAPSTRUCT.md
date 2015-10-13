@@ -1,5 +1,5 @@
 #LAPSTRUCT
-##Full_name
+##Full Name
 LAPlacian eigenfunctions learn population STRUCTure
 
 ##Description

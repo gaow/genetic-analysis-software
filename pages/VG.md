@@ -1,5 +1,5 @@
 #VG
-##Full_name
+##Full Name
 Visual Genotype
 
 ##Version

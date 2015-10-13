@@ -19,7 +19,7 @@ C/C++/Perl
 ##OS
 Linux, MacOS (should compile on most UNIX systems with gcc)
 
-##Exe
+##EXE
 gpcommand, gpextract, gpanalyze
 
 ##Reference

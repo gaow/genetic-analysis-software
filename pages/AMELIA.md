@@ -1,5 +1,5 @@
 #AMELIA
-##Full_name
+##Full Name
 Allele Matching Empirical Locus-specific Integrated Association test
 
 ##Description

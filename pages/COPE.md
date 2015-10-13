@@ -1,5 +1,5 @@
 #COPE
-##Full_name
+##Full Name
 COllaborative Pedigree drawing Environment
 
 ##Description

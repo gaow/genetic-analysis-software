@@ -1,5 +1,5 @@
 #QTDT
-##Full_name
+##Full Name
 Quantitative (Trait) Transmission/Disequilibrium Test
 
 ##Version
@@ -20,7 +20,7 @@ C++
 ##OS
 UNIX(Solaris), Linux, MS-Windows
 
-##Exe
+##EXE
 qtdt, prelude, finale, pedstats
 
 ##Reference

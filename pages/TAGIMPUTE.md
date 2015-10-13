@@ -1,5 +1,5 @@
 #TAGIMPUTE
-##Full_name
+##Full Name
 TAGging-snp based IMPUTATE
 
 ##Version

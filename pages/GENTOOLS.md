@@ -18,7 +18,7 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unmerge2
 
 ##Reference

@@ -18,7 +18,7 @@ C and UNIX-shell (Bourne)
 ##OS
 UNIX (Solaris/DEC-UNIX)
 
-##Exe
+##EXE
 autostart, autoscan10.sh
 
 ##Reference

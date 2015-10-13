@@ -1,5 +1,5 @@
 #GRR
-##Full_name
+##Full Name
 Graphical Representation of Relationships
 
 ##Version

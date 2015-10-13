@@ -1,5 +1,5 @@
 #DHSMAP
-##Full_name
+##Full Name
 Decay of Haplotype Sharing MAPping software
 
 ##Version
@@ -22,7 +22,7 @@ C++
 ##OS
 UNIX(Solaris/..), Linux
 
-##Exe
+##EXE
 dhsmap.solaris, dhsmap.linux
 
 ##Reference

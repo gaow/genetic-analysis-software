@@ -1,5 +1,5 @@
 #TDT/S-TDT
-##Full_name
+##Full Name
 Transmission Disequilibrium Test and Sib Transmission Disequilibrium Test
 
 ##Version

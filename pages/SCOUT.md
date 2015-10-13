@@ -18,7 +18,7 @@ Fortran (CVF 6.6) with IMSL routines
 ##OS
 MS-Windows(2000/XP)
 
-##Exe
+##EXE
 scout_cl.exe, scout_gui.exe
 
 ##Reference

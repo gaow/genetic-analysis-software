@@ -1,5 +1,5 @@
 #PEDJAVA
-##Full_name
+##Full Name
 PedJava
 
 ##Version
@@ -21,7 +21,7 @@ JDK
 ##OS
 no restriction for client, server WIN 95/NT
 
-##Exe
+##EXE
 pedJava, pedJavaServer
 
 ##Reference

@@ -19,7 +19,7 @@ C++
 ##OS
 UNIX(Solaris), Linux
 
-##Exe
+##EXE
 siblink3.0
 
 ##Reference

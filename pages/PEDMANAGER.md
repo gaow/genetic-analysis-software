@@ -1,5 +1,5 @@
 #PEDMANAGER
-##Other_name
+##Other Name
 MAPMAKER/PEDMANAGER
 
 ##Version
@@ -17,6 +17,6 @@ C
 ##OS
 UNIX
 
-##Exe
+##EXE
 pedprep
 
