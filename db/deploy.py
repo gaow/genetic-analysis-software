@@ -54,10 +54,10 @@ class GasParser:
                 if category not in categories:
                     categories.append(category)
                     f.write('\n## {}\n'.format(category))
-                link_text = self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else '...'
+                desc_text = ', ' + self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else ''
                 link = 'https://github.com/gaow/genetic-analysis-software/blob/master/pages/' + \
                   self.data[name]['FileName'].replace('.ini', '.md')
-                f.write('* {}{}[{}]({})\n'.format(name, ' ' if link_text == '...' else ', ', link_text, link))
+                f.write('* [{}]({}){}\n'.format(name, link, desc_text))
 
 def main(args):
     gp = GasParser(args.data)

@@ -1,659 +1,659 @@
 
 ## 0
-* 2DMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2DMAP.md)
-* 2LD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2LD.md)
-* 2SNP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2SNP.md)
+* [2DMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2DMAP.md)
+* [2LD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2LD.md)
+* [2SNP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/2SNP.md)
 
 ## A
-* ACT, [Analysis of Complex Traits](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ACT.md)
-* ADEGENET [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ADEGENET.md)
-* ADMIXMAP, [Admixture mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ADMIXMAP.md)
-* AGEINF [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AGEINF.md)
-* ALBERT, [A Likelihood Based Estimation of Risk in Trios](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALBERT.md)
-* ALLASS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLASS.md)
-* ALLEGRO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLEGRO.md)
-* ALLELIX, [Allelix - Paternity Linkage Analysis Online](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLELIX.md)
-* ALOHOMORA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALOHOMORA.md)
-* ALP, [Automated Linkage Preprocessor](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALP.md)
-* ALTREE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALTREE.md)
-* AMELIA, [Allele Matching Empirical Locus-specific Integrated Association test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AMELIA.md)
-* ANALYZE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANALYZE.md)
-* ANCESTRY [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANCESTRY.md)
-* ANCESTRYMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANCESTRYMAP.md)
-* ANNOVAR, [functional ANNOtation of genetic VARiants](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANNOVAR.md)
-* ANTMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANTMAP.md)
-* APE, [Allelic Path Explorer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APE.md)
-* APL-OSA, [Association in the Presence of Linkage with Ordered Subset Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APL-OSA.md)
-* APM, [Affected Pedigree-Member Method](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APM.md)
-* ARIEL, [Accumulation of Rare variants Integrated and Extended Locus-specific test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARIEL.md)
-* ARLEQUIN, [French translation of "Arlecchino"](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARLEQUIN.md)
-* ARP.GEE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARP.GEE.md)
-* ASP/ASPSHARE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASP&ASPSHARE.md)
-* ASPEX, [Affected Sib Pairs EXclusion map](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASPEX.md)
-* ASSOCIATIONVIEWER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASSOCIATIONVIEWER.md)
-* AUTOSCAN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AUTOSCAN.md)
+* [ACT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ACT.md), Analysis of Complex Traits
+* [ADEGENET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ADEGENET.md)
+* [ADMIXMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ADMIXMAP.md), Admixture mapping
+* [AGEINF](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AGEINF.md)
+* [ALBERT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALBERT.md), A Likelihood Based Estimation of Risk in Trios
+* [ALLASS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLASS.md)
+* [ALLEGRO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLEGRO.md)
+* [ALLELIX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALLELIX.md), Allelix - Paternity Linkage Analysis Online
+* [ALOHOMORA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALOHOMORA.md)
+* [ALP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALP.md), Automated Linkage Preprocessor
+* [ALTREE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ALTREE.md)
+* [AMELIA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AMELIA.md), Allele Matching Empirical Locus-specific Integrated Association test
+* [ANALYZE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANALYZE.md)
+* [ANCESTRY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANCESTRY.md)
+* [ANCESTRYMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANCESTRYMAP.md)
+* [ANNOVAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANNOVAR.md), functional ANNOtation of genetic VARiants
+* [ANTMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ANTMAP.md)
+* [APE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APE.md), Allelic Path Explorer
+* [APL-OSA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APL-OSA.md), Association in the Presence of Linkage with Ordered Subset Analysis
+* [APM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/APM.md), Affected Pedigree-Member Method
+* [ARIEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARIEL.md), Accumulation of Rare variants Integrated and Extended Locus-specific test
+* [ARLEQUIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARLEQUIN.md), French translation of "Arlecchino"
+* [ARP.GEE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ARP.GEE.md)
+* [ASP/ASPSHARE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASP&ASPSHARE.md)
+* [ASPEX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASPEX.md), Affected Sib Pairs EXclusion map
+* [ASSOCIATIONVIEWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ASSOCIATIONVIEWER.md)
+* [AUTOSCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/AUTOSCAN.md)
 
 ## B
-* BAMA, [Bayesian Analysis of Multilocus Association](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BAMA.md)
-* BARS, [Bayesian Adaptive Regression Splines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BARS.md)
-* BAYESFST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BAYESFST.md)
-* BDGEN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BDGEN.md)
-* BEAGLECALL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAGLECALL.md)
-* BEAGLE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAGLE.md)
-* BEAM, [Bayesian Epistasis Association Mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAM.md)
-* BETA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BETA.md)
-* BIMBAM, [Bayesian IMputation-Based Association Mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIMBAM.md)
-* BIOIDE, [BIOmedical Integrated Discovery Environment](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIOIDE.md)
-* BIOLAD-DB [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIOLAD-DB.md)
-* BIRDSUITE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIRDSUITE.md)
-* BLADE, [Bayesian LinkAge DisEquilibrium mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BLADE.md)
-* BLOCK, [Blocking Gibbs sampler for pedigree analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BLOCK.md)
-* BMAPBUILDER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BMAPBUILDER.md)
-* BOOLD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOLD.md)
-* BOOST, [BOolean Operation based Screening and Testing](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOST.md)
-* BOOSTRAPPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOSTRAPPER.md)
-* BOREL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOREL.md)
-* BOTTLENECK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOTTLENECK.md)
-* BPPH, [Berkeley method for Perfect Phylogeney Haplotyping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BPPH.md)
-* BQTL, [Bayesian Quantitative Trait Locus mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BQTL.md)
-* BREAKDANCER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BREAKDANCER.md)
+* [BAMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BAMA.md), Bayesian Analysis of Multilocus Association
+* [BARS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BARS.md), Bayesian Adaptive Regression Splines
+* [BAYESFST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BAYESFST.md)
+* [BDGEN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BDGEN.md)
+* [BEAGLECALL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAGLECALL.md)
+* [BEAGLE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAGLE.md)
+* [BEAM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BEAM.md), Bayesian Epistasis Association Mapping
+* [BETA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BETA.md)
+* [BIMBAM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIMBAM.md), Bayesian IMputation-Based Association Mapping
+* [BIOIDE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIOIDE.md), BIOmedical Integrated Discovery Environment
+* [BIOLAD-DB](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIOLAD-DB.md)
+* [BIRDSUITE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BIRDSUITE.md)
+* [BLADE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BLADE.md), Bayesian LinkAge DisEquilibrium mapping
+* [BLOCK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BLOCK.md), Blocking Gibbs sampler for pedigree analysis
+* [BMAPBUILDER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BMAPBUILDER.md)
+* [BOOLD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOLD.md)
+* [BOOST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOST.md), BOolean Operation based Screening and Testing
+* [BOOSTRAPPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOOSTRAPPER.md)
+* [BOREL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOREL.md)
+* [BOTTLENECK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BOTTLENECK.md)
+* [BPPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BPPH.md), Berkeley method for Perfect Phylogeney Haplotyping
+* [BQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BQTL.md), Bayesian Quantitative Trait Locus mapping
+* [BREAKDANCER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/BREAKDANCER.md)
 
 ## C
-* CAROL, [Combined Annotation scoRing toOL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CAROL.md)
-* CARTHAGENE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CARTHAGENE.md)
-* CASAVA, [Consensus Assessment of Sequence And VAriation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CASAVA.md)
-* CASPAR, [Computerized Affected Sibling Pair Analyzer and Reporter](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CASPAR.md)
-* CATS, [power Calculator for Association with Two Stage design](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CATS.md)
-* CC-QLS, [Case-Control Quasi-Likelihood Score test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CC-QLS.md)
-* CCRAVAT, [Case-Control RAre Variant Analysis Tool](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CCRAVAT.md)
-* CCREL, [Case-Control association analysis with RELlated individuals](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CCREL.md)
-* CEPH2CRI [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CEPH2CRI.md)
-* CEPH2MAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CEPH2MAP.md)
-* CFC, [Contribution, Inbreeding (F) and Coancestry](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CFC.md)
-* CHAPLIN, [Case-control HAPLotype INference package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHAPLIN.md)
-* CHECKHET [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHECKHET.md)
-* CHECKMATRIX [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHECKMATRIX.md)
-* CHIAMO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHIAMO.md)
-* CHIP2SPELL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHIP2SPELL.md)
-* CHROMOSCAN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMOSCAN.md)
-* CHROMOSEG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMOSEG.md)
-* CHROMSCAN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMSCAN.md)
-* CLUMP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CLUMP.md)
-* CLUSTAG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CLUSTAG.md)
-* CMAP, [genetic and comparative maps](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CMAP.md)
-* COMBIN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMBIN.md)
-* COMDS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMDS.md)
-* COMPOSITELD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMPOSITELD.md)
-* COPE, [COllaborative Pedigree drawing Environment](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COPE.md)
-* COVIBD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COVIBD.md)
-* CRIMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CRIMAP.md)
-* CRIMAP-PVM, [CRIMAP with Parallel Virtual Machine](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CRIMAP-PVM.md)
-* CROSSFIND [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CROSSFIND.md)
-* CYRILLIC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CYRILLIC.md)
+* [CAROL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CAROL.md), Combined Annotation scoRing toOL
+* [CARTHAGENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CARTHAGENE.md)
+* [CASAVA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CASAVA.md), Consensus Assessment of Sequence And VAriation
+* [CASPAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CASPAR.md), Computerized Affected Sibling Pair Analyzer and Reporter
+* [CATS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CATS.md), power Calculator for Association with Two Stage design
+* [CC-QLS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CC-QLS.md), Case-Control Quasi-Likelihood Score test
+* [CCRAVAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CCRAVAT.md), Case-Control RAre Variant Analysis Tool
+* [CCREL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CCREL.md), Case-Control association analysis with RELlated individuals
+* [CEPH2CRI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CEPH2CRI.md)
+* [CEPH2MAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CEPH2MAP.md)
+* [CFC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CFC.md), Contribution, Inbreeding (F) and Coancestry
+* [CHAPLIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHAPLIN.md), Case-control HAPLotype INference package
+* [CHECKHET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHECKHET.md)
+* [CHECKMATRIX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHECKMATRIX.md)
+* [CHIAMO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHIAMO.md)
+* [CHIP2SPELL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHIP2SPELL.md)
+* [CHROMOSCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMOSCAN.md)
+* [CHROMOSEG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMOSEG.md)
+* [CHROMSCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CHROMSCAN.md)
+* [CLUMP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CLUMP.md)
+* [CLUSTAG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CLUSTAG.md)
+* [CMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CMAP.md), genetic and comparative maps
+* [COMBIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMBIN.md)
+* [COMDS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMDS.md)
+* [COMPOSITELD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COMPOSITELD.md)
+* [COPE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COPE.md), COllaborative Pedigree drawing Environment
+* [COVIBD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/COVIBD.md)
+* [CRIMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CRIMAP.md)
+* [CRIMAP-PVM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CRIMAP-PVM.md), CRIMAP with Parallel Virtual Machine
+* [CROSSFIND](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CROSSFIND.md)
+* [CYRILLIC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/CYRILLIC.md)
 
 ## D
-* DCHIP LINKAGE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DCHIP_LINKAGE.md)
-* DGENE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DGENE.md)
-* DHSMAP, [Decay of Haplotype Sharing MAPping software](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DHSMAP.md)
-* DINDEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DINDEL.md)
-* DISENTANGLER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DISENTANGLER.md)
-* DMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DMAP.md)
-* DMLE, [Disease Mapping using Linkage disEquilibrium](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DMLE.md)
-* DNABASER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DNABASER.md)
-* DOLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DOLINK.md)
-* DPPH, [Direct method for Perfect Phylogeney Haplotyping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DPPH.md)
+* [DCHIP LINKAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DCHIP_LINKAGE.md)
+* [DGENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DGENE.md)
+* [DHSMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DHSMAP.md), Decay of Haplotype Sharing MAPping software
+* [DINDEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DINDEL.md)
+* [DISENTANGLER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DISENTANGLER.md)
+* [DMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DMAP.md)
+* [DMLE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DMLE.md), Disease Mapping using Linkage disEquilibrium
+* [DNABASER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DNABASER.md)
+* [DOLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DOLINK.md)
+* [DPPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/DPPH.md), Direct method for Perfect Phylogeney Haplotyping
 
 ## E
-* EAGLET, [Efficient Analysis of Genetic Linkage: Testing and Estimation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EAGLET.md)
-* EASYLINKAGE/EASYLINKAGE-PLUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EASYLINKAGE&EASYLINKAGE-PLUS.md)
-* EASYPOP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EASYPOP.md)
-* ECLIPSE, [Error Correcting Likelihoods In Pedigree Structure Estimation.](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ECLIPSE.md)
-* EDAC, [power calculator for Extremely Discordant And Concordant sibpairs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EDAC.md)
-* EHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHAP.md)
-* EH, [Estimating Haplotype-frequencies](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EH.md)
-* EHP, [Estimation of Haplotype frequencies from Pooled DNA samples](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHP.md)
-* EHPLUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHPLUS.md)
-* EIGENSOFT/EIGENSTRAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EIGENSOFT&EIGENSTRAT.md)
-* EM-DECODER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EM-DECODER.md)
-* EMLD, [EM estimation of haplotype frequencies and LD calculation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EMLD.md)
-* ENDOG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ENDOG.md)
-* ENTROPY BLOCKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ENTROPY_BLOCKER.md)
-* EPDT, [Extended Pedigree Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EPDT.md)
-* EPISTACY [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EPISTACY.md)
-* EQTL EXPLORER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EQTL_EXPLORER.md)
-* ERPA, [Extended Relative Pair Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ERPA.md)
-* ETDT, [extended transmission/disequilibrium test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ETDT.md)
-* ET-TDT, [Evolutionary Tree - Transmission Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ET-TDT.md)
-* EVOKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EVOKER.md)
-* EXOMEPICKS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EXOMEPICKS.md)
+* [EAGLET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EAGLET.md), Efficient Analysis of Genetic Linkage: Testing and Estimation
+* [EASYLINKAGE/EASYLINKAGE-PLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EASYLINKAGE&EASYLINKAGE-PLUS.md)
+* [EASYPOP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EASYPOP.md)
+* [ECLIPSE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ECLIPSE.md), Error Correcting Likelihoods In Pedigree Structure Estimation.
+* [EDAC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EDAC.md), power calculator for Extremely Discordant And Concordant sibpairs
+* [EHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHAP.md)
+* [EH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EH.md), Estimating Haplotype-frequencies
+* [EHP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHP.md), Estimation of Haplotype frequencies from Pooled DNA samples
+* [EHPLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EHPLUS.md)
+* [EIGENSOFT/EIGENSTRAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EIGENSOFT&EIGENSTRAT.md)
+* [EM-DECODER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EM-DECODER.md)
+* [EMLD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EMLD.md), EM estimation of haplotype frequencies and LD calculation
+* [ENDOG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ENDOG.md)
+* [ENTROPY BLOCKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ENTROPY_BLOCKER.md)
+* [EPDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EPDT.md), Extended Pedigree Disequilibrium Test
+* [EPISTACY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EPISTACY.md)
+* [EQTL EXPLORER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EQTL_EXPLORER.md)
+* [ERPA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ERPA.md), Extended Relative Pair Analysis
+* [ETDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ETDT.md), extended transmission/disequilibrium test
+* [ET-TDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ET-TDT.md), Evolutionary Tree - Transmission Disequilibrium Test
+* [EVOKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EVOKER.md)
+* [EXOMEPICKS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/EXOMEPICKS.md)
 
 ## F
-* FAMHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FAMHAP.md)
-* FAMOZ, [FAther/MOther](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FAMOZ.md)
-* FASTEHPLUS, [faster EH-PLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTEHPLUS.md)
-* FASTER, [FAmily SmarT EliminatoR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTER.md)
-* FASTLINK, [faster version of LINKAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTLINK.md)
-* FASTMAP 1, [Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTMAP_1.md)
-* FASTMAP 2 [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTMAP_2.md)
-* FASTSLINK, [faster SLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTSLINK.md)
-* FBAT, [(haplotype) Family Based Association Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FBAT.md)
-* FESTA, [Fragmented Exhaustive Seearch for TAgsnps](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FESTA.md)
-* FEST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FEST.md)
-* FINESSE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FINESSE.md)
-* FINETTI, [de FINETTI generator](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FINETTI.md)
-* FIRSTORD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FIRSTORD.md)
-* FISHER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FISHER.md)
-* FLOSS, [FLexible Ordered SubSet analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FLOSS.md)
+* [FAMHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FAMHAP.md)
+* [FAMOZ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FAMOZ.md), FAther/MOther
+* [FASTEHPLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTEHPLUS.md), faster EH-PLUS
+* [FASTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTER.md), FAmily SmarT EliminatoR
+* [FASTLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTLINK.md), faster version of LINKAGE
+* [FASTMAP 1](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTMAP_1.md), Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package
+* [FASTMAP 2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTMAP_2.md)
+* [FASTSLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FASTSLINK.md), faster SLINK
+* [FBAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FBAT.md), (haplotype) Family Based Association Test
+* [FESTA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FESTA.md), Fragmented Exhaustive Seearch for TAgsnps
+* [FEST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FEST.md)
+* [FINESSE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FINESSE.md)
+* [FINETTI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FINETTI.md), de FINETTI generator
+* [FIRSTORD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FIRSTORD.md)
+* [FISHER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FISHER.md)
+* [FLOSS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/FLOSS.md), FLexible Ordered SubSet analysis
 
 ## G
-* GAIA, [Genetic Association Interaction Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAIA.md)
-* GAP, [genetic analysis package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAP.md)
-* GAS2, [statistical significance in Genomewide Association Studies in 2-stage](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAS2.md)
-* GAS, [Genetic Analysis System](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAS.md)
-* GASP, [Genometric Analysis Simulation Program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GASP.md)
-* GASSOC, [Genetic ASSOCiation analysis software for cases and parent](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GASSOC.md)
-* GATK, [Genome Analysis ToolKit](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GATK.md)
-* GC/GCF, [Genomic Control](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GC&GCF.md)
-* GCHAP, [Gene Counting method for HAPlotype analysis.](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GCHAP.md)
-* GDA, [Genetic Data Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GDA.md)
-* GEMS, [Genetic Epidemiology ModelS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEMS.md)
-* GENABEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENABEL.md)
-* GENECLASS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENECLASS.md)
-* GENECOUNTING [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENECOUNTING.md)
-* GENEFINDER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEFINDER.md)
-* GENEHUNTER-IMPRINTING [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-IMPRINTING.md)
-* GENEHUNTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER.md)
-* GENEHUNTER-MODSCORE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-MODSCORE.md)
-* GENEHUNTER-PLUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-PLUS.md)
-* GENEHUNTER++SAD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER++SAD.md)
-* GENEHUNTER-TWOLOCUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-TWOLOCUS.md)
-* GENEPI.JAR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPI.JAR.md)
-* GENEPOOL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPOOL.md)
-* GENEPOP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPOP.md)
-* GENERECON [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENERECON.md)
-* GENESPRING GT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENESPRING_GT.md)
-* GENETIC POWER CALCULATOR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENETIC_POWER_CALCULATOR.md)
-* GENETSIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENETSIM.md)
-* GENEVAR, [GENe Expression VARiation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEVAR.md)
-* GENEWEAVER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEWEAVER.md)
-* GENIE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENIE.md)
-* GENOCHECK, [GenoCheck](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOCHECK.md)
-* GENOGRAM-MAKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOGRAM-MAKER.md)
-* GENOME [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOME.md)
-* GENOMESIMLA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOMESIMLA.md)
-* GENOMIZER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOMIZER.md)
-* GENOOM, [GENetic Object Oriented Modeling in population genetics](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOOM.md)
-* GENOPROOF [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOPROOF.md)
-* GENTOOLS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENTOOLS.md)
-* GERMLINE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GERMLINE.md)
-* GEST, [Gene-Environment interaction and STability](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEST.md)
-* GEVALT, [GEnotype Visualization and ALgorithmic Tool](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEVALT.md)
-* GGSD, [Generic Genetic Studies Database](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GGSD.md)
-* GGT, [Graphical GenoTyping package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GGT.md)
-* GHOST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GHOST.md)
-* GIST, [Genotype Ibd Sharing Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GIST.md)
-* GLFSINGLE/GLFTRIO/GLFMULTIPLES [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLFSINGLE&GLFTRIO&GLFMULTIPLES.md)
-* GLIDERS, [Genome-wide LInkage DisEquilibrium Repository and Search engine](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLIDERS.md)
-* GLUE, [Genetic Linkage User Environment](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLUE.md)
-* GMA, [Genetic Mixture Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GMA.md)
-* GMCHECK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GMCHECK.md)
-* G-MENDEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/G-MENDEL.md)
-* GOLD, [Graphical Overview of Linkage Disequilibrium](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GOLD.md)
-* GREGOR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GREGOR.md)
-* GRIDQTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRIDQTL.md)
-* GRONLOD, [GRONingen university LOR score calculation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRONLOD.md)
-* GRR, [Graphical Representation of Relationships](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRR.md)
-* GS-EM, [GenoSpectrum Expectation-Maximuzation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GS-EM.md)
-* GSMA, [Genome Search Meta Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GSMA.md)
-* GTOOL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GTOOL.md)
-* GWAPOWER, [Genome-Wide Association POWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GWAPOWER.md)
-* GWASELECT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GWASELECT.md)
+* [GAIA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAIA.md), Genetic Association Interaction Analysis
+* [GAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAP.md), genetic analysis package
+* [GAS2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAS2.md), statistical significance in Genomewide Association Studies in 2-stage
+* [GAS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GAS.md), Genetic Analysis System
+* [GASP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GASP.md), Genometric Analysis Simulation Program
+* [GASSOC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GASSOC.md), Genetic ASSOCiation analysis software for cases and parent
+* [GATK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GATK.md), Genome Analysis ToolKit
+* [GC/GCF](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GC&GCF.md), Genomic Control
+* [GCHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GCHAP.md), Gene Counting method for HAPlotype analysis.
+* [GDA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GDA.md), Genetic Data Analysis
+* [GEMS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEMS.md), Genetic Epidemiology ModelS
+* [GENABEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENABEL.md)
+* [GENECLASS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENECLASS.md)
+* [GENECOUNTING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENECOUNTING.md)
+* [GENEFINDER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEFINDER.md)
+* [GENEHUNTER-IMPRINTING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-IMPRINTING.md)
+* [GENEHUNTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER.md)
+* [GENEHUNTER-MODSCORE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-MODSCORE.md)
+* [GENEHUNTER-PLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-PLUS.md)
+* [GENEHUNTER++SAD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER++SAD.md)
+* [GENEHUNTER-TWOLOCUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEHUNTER-TWOLOCUS.md)
+* [GENEPI.JAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPI.JAR.md)
+* [GENEPOOL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPOOL.md)
+* [GENEPOP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEPOP.md)
+* [GENERECON](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENERECON.md)
+* [GENESPRING GT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENESPRING_GT.md)
+* [GENETIC POWER CALCULATOR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENETIC_POWER_CALCULATOR.md)
+* [GENETSIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENETSIM.md)
+* [GENEVAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEVAR.md), GENe Expression VARiation
+* [GENEWEAVER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENEWEAVER.md)
+* [GENIE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENIE.md)
+* [GENOCHECK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOCHECK.md), GenoCheck
+* [GENOGRAM-MAKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOGRAM-MAKER.md)
+* [GENOME](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOME.md)
+* [GENOMESIMLA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOMESIMLA.md)
+* [GENOMIZER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOMIZER.md)
+* [GENOOM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOOM.md), GENetic Object Oriented Modeling in population genetics
+* [GENOPROOF](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENOPROOF.md)
+* [GENTOOLS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GENTOOLS.md)
+* [GERMLINE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GERMLINE.md)
+* [GEST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEST.md), Gene-Environment interaction and STability
+* [GEVALT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GEVALT.md), GEnotype Visualization and ALgorithmic Tool
+* [GGSD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GGSD.md), Generic Genetic Studies Database
+* [GGT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GGT.md), Graphical GenoTyping package
+* [GHOST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GHOST.md)
+* [GIST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GIST.md), Genotype Ibd Sharing Test
+* [GLFSINGLE/GLFTRIO/GLFMULTIPLES](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLFSINGLE&GLFTRIO&GLFMULTIPLES.md)
+* [GLIDERS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLIDERS.md), Genome-wide LInkage DisEquilibrium Repository and Search engine
+* [GLUE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GLUE.md), Genetic Linkage User Environment
+* [GMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GMA.md), Genetic Mixture Analysis
+* [GMCHECK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GMCHECK.md)
+* [G-MENDEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/G-MENDEL.md)
+* [GOLD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GOLD.md), Graphical Overview of Linkage Disequilibrium
+* [GREGOR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GREGOR.md)
+* [GRIDQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRIDQTL.md)
+* [GRONLOD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRONLOD.md), GRONingen university LOR score calculation
+* [GRR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GRR.md), Graphical Representation of Relationships
+* [GS-EM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GS-EM.md), GenoSpectrum Expectation-Maximuzation
+* [GSMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GSMA.md), Genome Search Meta Analysis
+* [GTOOL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GTOOL.md)
+* [GWAPOWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GWAPOWER.md), Genome-Wide Association POWER
+* [GWASELECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/GWASELECT.md)
 
 ## H
-* HAP 1, [haplotype resolution using imperfect phylogeny](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP_1.md)
-* HAP 2, [HAPlotype analysis of polymorphic markers](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP_2.md)
-* HAPAR, [HAplotype inference by PARsimony](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPAR.md)
-* HAPASSOC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPASSOC.md)
-* HAPBLOCK 2 [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPBLOCK_2.md)
-* HAPBLOCK, [a dynamical programming algorithm for haplotype block partitioning](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPBLOCK.md)
-* HAPGEN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPGEN.md)
-* HAPINFERX [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPINFERX.md)
-* HAPLO 1, [Haplotyping with computation of conditional probabilities](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO_1.md)
-* HAPLO 2 [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO_2.md)
-* HAPLOBLOCKFINDER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBLOCKFINDER.md)
-* HAPLOBLOCK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBLOCK.md)
-* HAPLOBUILD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBUILD.md)
-* HAPLOCLUSTERS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOCLUSTERS.md)
-* HAPLOPAINTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOPAINTER.md)
-* HAPLOPOOL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOPOOL.md)
-* HAPLOREC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOREC.md)
-* HAPLORE, [HAPLOtype REconstruction in pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLORE.md)
-* HAPLO.STAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO.STAT.md)
-* HAPLOT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOT.md)
-* HAPLOTTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTTER.md)
-* HAPLOTYPE ESTIMATION [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTYPE_ESTIMATION.md)
-* HAPLOTYPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTYPER.md)
-* HAPLOVIEW [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOVIEW.md)
-* HAPLOVISUAL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOVISUAL.md)
-* HAPLOWSER, [HAPLotype brOWSER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOWSER.md)
-* HAPMINER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMINER.md)
-* HAPMIX [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMIX.md)
-* HAPMIXMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMIXMAP.md)
-* HAPPY, [reconstructing HAPlotYpes](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPPY.md)
-* HAP-SAMPLE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP-SAMPLE.md)
-* HAPSCOPE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSCOPE.md)
-* HAPSIMU [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSIMU.md)
-* HAPSTAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSTAT.md)
-* HARDY [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HARDY.md)
-* HCLUST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HCLUST.md)
-* HEGESMA, [HEterogeneity and GEnome Search Meta Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HEGESMA.md)
-* HELIXTREE, [HelixTree Genetic Association Software](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HELIXTREE.md)
-* HIT, [Haplotype Inference Technique](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HIT.md)
-* HOMOG/HOMOGM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOMOG&HOMOGM.md)
-* HOMOZYGOSITYMAPPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOMOZYGOSITYMAPPER.md)
-* HOTSPOTTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOTSPOTTER.md)
-* HPLUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HPLUS.md)
-* HS-TDT, [Haplotype Sharing Transmission Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HS-TDT.md)
-* HTR, [Haplotype Trend Regression](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HTR.md)
-* HTSNPER, [Haplotype Tagging SNPer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HTSNPER.md)
-* HWESTRATA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HWESTRATA.md)
-* HWMET [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HWMET.md)
+* [HAP 1](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP_1.md), haplotype resolution using imperfect phylogeny
+* [HAP 2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP_2.md), HAPlotype analysis of polymorphic markers
+* [HAPAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPAR.md), HAplotype inference by PARsimony
+* [HAPASSOC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPASSOC.md)
+* [HAPBLOCK 2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPBLOCK_2.md)
+* [HAPBLOCK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPBLOCK.md), a dynamical programming algorithm for haplotype block partitioning
+* [HAPGEN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPGEN.md)
+* [HAPINFERX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPINFERX.md)
+* [HAPLO 1](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO_1.md), Haplotyping with computation of conditional probabilities
+* [HAPLO 2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO_2.md)
+* [HAPLOBLOCKFINDER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBLOCKFINDER.md)
+* [HAPLOBLOCK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBLOCK.md)
+* [HAPLOBUILD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOBUILD.md)
+* [HAPLOCLUSTERS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOCLUSTERS.md)
+* [HAPLOPAINTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOPAINTER.md)
+* [HAPLOPOOL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOPOOL.md)
+* [HAPLOREC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOREC.md)
+* [HAPLORE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLORE.md), HAPLOtype REconstruction in pedigrees
+* [HAPLO.STAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLO.STAT.md)
+* [HAPLOT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOT.md)
+* [HAPLOTTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTTER.md)
+* [HAPLOTYPE ESTIMATION](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTYPE_ESTIMATION.md)
+* [HAPLOTYPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOTYPER.md)
+* [HAPLOVIEW](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOVIEW.md)
+* [HAPLOVISUAL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOVISUAL.md)
+* [HAPLOWSER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPLOWSER.md), HAPLotype brOWSER
+* [HAPMINER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMINER.md)
+* [HAPMIX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMIX.md)
+* [HAPMIXMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPMIXMAP.md)
+* [HAPPY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPPY.md), reconstructing HAPlotYpes
+* [HAP-SAMPLE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAP-SAMPLE.md)
+* [HAPSCOPE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSCOPE.md)
+* [HAPSIMU](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSIMU.md)
+* [HAPSTAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HAPSTAT.md)
+* [HARDY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HARDY.md)
+* [HCLUST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HCLUST.md)
+* [HEGESMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HEGESMA.md), HEterogeneity and GEnome Search Meta Analysis
+* [HELIXTREE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HELIXTREE.md), HelixTree Genetic Association Software
+* [HIT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HIT.md), Haplotype Inference Technique
+* [HOMOG/HOMOGM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOMOG&HOMOGM.md)
+* [HOMOZYGOSITYMAPPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOMOZYGOSITYMAPPER.md)
+* [HOTSPOTTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HOTSPOTTER.md)
+* [HPLUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HPLUS.md)
+* [HS-TDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HS-TDT.md), Haplotype Sharing Transmission Disequilibrium Test
+* [HTR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HTR.md), Haplotype Trend Regression
+* [HTSNPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HTSNPER.md), Haplotype Tagging SNPer
+* [HWESTRATA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HWESTRATA.md)
+* [HWMET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/HWMET.md)
 
 ## I
-* IBDREG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IBDREG.md)
-* IGG, [Integrate Genotypes for genome-wide Genetic studies](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IGG.md)
-* ILLUMINUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ILLUMINUS.md)
-* ILR, [Imprinting Likelihood Ratio](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ILR.md)
-* IMPUTE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IMPUTE.md)
-* INSEGT, [INference of SEGregation Types](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INSEGT.md)
-* INTEGRAYEDMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INTEGRAYEDMAP.md)
-* INTERSNP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INTERSNP.md)
+* [IBDREG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IBDREG.md)
+* [IGG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IGG.md), Integrate Genotypes for genome-wide Genetic studies
+* [ILLUMINUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ILLUMINUS.md)
+* [ILR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ILR.md), Imprinting Likelihood Ratio
+* [IMPUTE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/IMPUTE.md)
+* [INSEGT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INSEGT.md), INference of SEGregation Types
+* [INTEGRAYEDMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INTEGRAYEDMAP.md)
+* [INTERSNP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/INTERSNP.md)
 
 ## J
-* JENTI [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JENTI.md)
-* JLIN, [a Java based LINkage disequilibrium plotter](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JLIN.md)
-* JOINMAP, [Software for the calculation of genetic linkage maps](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JOINMAP.md)
-* JPSGCS, [Java Programs for Statistical Genetics and Computational Statistics](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JPSGCS.md)
-* J/QTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/J&QTL.md)
+* [JENTI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JENTI.md)
+* [JLIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JLIN.md), a Java based LINkage disequilibrium plotter
+* [JOINMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JOINMAP.md), Software for the calculation of genetic linkage maps
+* [JPSGCS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/JPSGCS.md), Java Programs for Statistical Genetics and Computational Statistics
+* [J/QTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/J&QTL.md)
 
 ## K
-* KBAC, [ Kernal Based Association for Rare Variants](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KBAC.md)
-* KING, [Kinship-based INference for Gwas](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KING.md)
-* KIN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KIN.md)
+* [KBAC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KBAC.md),  Kernal Based Association for Rare Variants
+* [KING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KING.md), Kinship-based INference for Gwas
+* [KIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/KIN.md)
 
 ## L
-* LAMARC, [Likelihood Analysis with Metropolis Algorithm using Random Coalescence](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMARC.md)
-* LAMBDAA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMBDAA.md)
-* LAMP, [Linkage and Association Modeling in Pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMP.md)
-* LAPSTRUCT, [LAPlacian eigenfunctions learn population STRUCTure](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAPSTRUCT.md)
-* LCP, [Linkage Control Program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LCP.md)
-* LDA, [Linkage Disequilibrium Analyzer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDA.md)
-* LDB/LDB+, [Location DataBase](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDB&LDB+.md)
-* LDGROUP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDGROUP.md)
-* LDHAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDHAT.md)
-* LDHEATMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDHEATMAP.md)
-* LDMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDMAP.md)
-* LDMET [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDMET.md)
-* LDSELECT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSELECT.md)
-* LDSUPPORT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSUPPORT.md)
-* LEA, [Likelihood-based Estimation of Admixture](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LEA.md)
-* LINKAGE - CEPH [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-CEPH.md)
-* LINKAGE - general pedigrees [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-general_pedigrees.md)
-* LINKAGE-IMPRINT, [LINKAGE allowing for IMPRINITING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-IMPRINT.md)
-* LINKBASE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKBASE.md)
-* LIPED, [Likelihoods in Pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LIPED.md)
-* LNKTOCRI [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LNKTOCRI.md)
-* LOCUSMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOCUSMAP.md)
-* LOCUSZOOM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOCUSZOOM.md)
-* LOGINSERM_ESTIHAPLO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOGINSERM_ESTIHAPLO.md)
-* LOH-LINKAGE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOH-LINKAGE.md)
-* LOKI [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOKI.md)
-* LOT, [Linkage analysis of Ordinal Traits](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOT.md)
-* L-POP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/L-POP.md)
-* LRP, [Linkage Report Program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LRP.md)
-* LRTAE, [Likelihood Ratio Test Allowing for Errors](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LRTAE.md)
-* LSP, [Linkage Setup Program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LSP.md)
-* LTSOFT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LTSOFT.md)
+* [LAMARC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMARC.md), Likelihood Analysis with Metropolis Algorithm using Random Coalescence
+* [LAMBDAA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMBDAA.md)
+* [LAMP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAMP.md), Linkage and Association Modeling in Pedigrees
+* [LAPSTRUCT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LAPSTRUCT.md), LAPlacian eigenfunctions learn population STRUCTure
+* [LCP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LCP.md), Linkage Control Program
+* [LDA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDA.md), Linkage Disequilibrium Analyzer
+* [LDB/LDB+](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDB&LDB+.md), Location DataBase
+* [LDGROUP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDGROUP.md)
+* [LDHAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDHAT.md)
+* [LDHEATMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDHEATMAP.md)
+* [LDMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDMAP.md)
+* [LDMET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDMET.md)
+* [LDSELECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSELECT.md)
+* [LDSUPPORT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LDSUPPORT.md)
+* [LEA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LEA.md), Likelihood-based Estimation of Admixture
+* [LINKAGE - CEPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-CEPH.md)
+* [LINKAGE - general pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-general_pedigrees.md)
+* [LINKAGE-IMPRINT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKAGE-IMPRINT.md), LINKAGE allowing for IMPRINITING
+* [LINKBASE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LINKBASE.md)
+* [LIPED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LIPED.md), Likelihoods in Pedigrees
+* [LNKTOCRI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LNKTOCRI.md)
+* [LOCUSMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOCUSMAP.md)
+* [LOCUSZOOM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOCUSZOOM.md)
+* [LOGINSERM_ESTIHAPLO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOGINSERM_ESTIHAPLO.md)
+* [LOH-LINKAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOH-LINKAGE.md)
+* [LOKI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOKI.md)
+* [LOT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LOT.md), Linkage analysis of Ordinal Traits
+* [L-POP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/L-POP.md)
+* [LRP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LRP.md), Linkage Report Program
+* [LRTAE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LRTAE.md), Likelihood Ratio Test Allowing for Errors
+* [LSP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LSP.md), Linkage Setup Program
+* [LTSOFT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/LTSOFT.md)
 
 ## M
-* MACH, [MArkov Chain Haplotyper](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MACH.md)
-* MADELINE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MADELINE.md)
-* MADMAPPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MADMAPPER.md)
-* MAGIC, [Marker And Gene Interpolation and Correlation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAGIC.md)
-* MAIA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAIA.md)
-* MAKEPED, [MAKE PEDfiles](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAKEPED.md)
-* MALDSOFT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MALDSOFT.md)
-* MAMA, [Multivariate Association Mapping Algorithms](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAMA.md)
-* MANTEL-STRUCT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MANTEL-STRUCT.md)
-* MAOS, [Meta-Analysis with Overlapping Subjects](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAOS.md)
-* MAPCHART, [Windows software for the graphical presentation of linkage maps and QTLs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPCHART.md)
-* MAPCREATOR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPCREATOR.md)
-* MAPDISTO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPDISTO.md)
-* MAPDRAW [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPDRAW.md)
-* MAPINSPECT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPINSPECT.md)
-* MAPL, [MAPping and QTL analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPL.md)
-* MAPMAKER/EXP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&EXP.md)
-* MAPMAKER/HOMOZ, [homozygosity mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&HOMOZ.md)
-* MAPMAKER/QTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&QTL.md)
-* MAPMAKER/SIBS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&SIBS.md)
-* MAP MANAGER QT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP_MANAGER_QT.md)
-* MAP MANAGER QTX [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP_MANAGER_QTX.md)
-* MAP/MAP+/MAP+H/MAP2000, [(MAP+H is the radiation Hybrid module of MAP+)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP&MAP+&MAP+H&MAP2000.md)
-* MAPPOP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPPOP.md)
-* MAPQTL, [Software for the calculation of QTL positions on genetic maps](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPQTL.md)
-* MAREYMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAREYMAP.md)
-* MARGARITA [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MARGARITA.md)
-* MATLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MATLINK.md)
-* MCLEEPS, [Monte Carlo Likelihood Estimation of Effective Population Size](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MCLEEPS.md)
-* MCQTL, [Multi-Cross QTL mapping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MCQTL.md)
-* MDBLOCKS, [Minimum Description length method for haplotype BLOCKS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDBLOCKS.md)
-* MDR, [Multifactor Dimensionality Reduction](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDR.md)
-* MDR-PDT, [Multifactor Dimensionality Reduction and genotype Pedigree Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDR-PDT.md)
-* MECPM, [Maximum Entropy Conditional Probability Moldeling](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MECPM.md)
-* MEGA2, [a Manipulation Environment for Genetic Analyses](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MEGA2.md)
-* MEGASNPHUNTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MEGASNPHUNTER.md)
-* MENDEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MENDEL.md)
-* MENDELSOFT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MENDELSOFT.md)
-* MERLIN, [Multipoint Engine for Rapid Likelihood INference](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MERLIN.md)
-* METAL, [METa AnaLysis Helper](https://github.com/gaow/genetic-analysis-software/blob/master/pages/METAL.md)
-* MFLINK, [(nearly) model-free linkage analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MFLINK.md)
-* MGA-MAPF2 [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MGA-MAPF2.md)
-* MIDAS, [Multiallelic Interallelic Disequilibrium Analysis Software](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIDAS.md)
-* MILD, [MultIallelic Linkage Disequilibrium: a program for adjusted linkage disequilibrium (LD) calculations](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MILD.md)
-* MIM, [Multipoint Identical-by-descent Method](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIM.md)
-* MINIMAC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MINIMAC.md)
-* MINSAGE, [MINimal SAmple size for GEnotypes](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MINSAGE.md)
-* MITPENE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MITPENE.md)
-* MIXSCORE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIXSCORE.md)
-* MKGST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MKGST.md)
-* MLBGH, [Maximum-Likelihood-Binomial analysis of affected sib-pair and sibship data extended from the GENEHUNTER program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLBGH.md)
-* MLD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLD.md)
-* MLR-TAGGING, [Multivariate Linear Regression TAGGING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLR-TAGGING.md)
-* MMDRAWER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MMDRAWER.md)
-* MOLKIN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MOLKIN.md)
-* MORGAN, [MOnte caRlo Genetic ANalysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MORGAN.md)
-* MOSCPHASER, [Mixture Of Cnv-Snp PHASER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MOSCPHASER.md)
-* MPDA, [Microarray Pooled DNA Analyser](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MPDA.md)
-* MRH, [Minimum Recombinant Haplotype](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MRH.md)
-* MULTIDISEQ [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIDISEQ.md)
-* MULTIMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAP.md)
-* MULTIMAPPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAPPER.md)
-* MULTIMAPPER/OUTBRED [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAPPER&OUTBRED.md)
-* MULTIPOPTAGSELECT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIPOPTAGSELECT.md)
-* MULTIQTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIQTL.md)
-* MULTISIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTISIM.md)
-* MUTAGENESYS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MUTAGENESYS.md)
+* [MACH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MACH.md), MArkov Chain Haplotyper
+* [MADELINE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MADELINE.md)
+* [MADMAPPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MADMAPPER.md)
+* [MAGIC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAGIC.md), Marker And Gene Interpolation and Correlation
+* [MAIA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAIA.md)
+* [MAKEPED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAKEPED.md), MAKE PEDfiles
+* [MALDSOFT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MALDSOFT.md)
+* [MAMA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAMA.md), Multivariate Association Mapping Algorithms
+* [MANTEL-STRUCT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MANTEL-STRUCT.md)
+* [MAOS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAOS.md), Meta-Analysis with Overlapping Subjects
+* [MAPCHART](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPCHART.md), Windows software for the graphical presentation of linkage maps and QTLs
+* [MAPCREATOR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPCREATOR.md)
+* [MAPDISTO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPDISTO.md)
+* [MAPDRAW](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPDRAW.md)
+* [MAPINSPECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPINSPECT.md)
+* [MAPL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPL.md), MAPping and QTL analysis
+* [MAPMAKER/EXP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&EXP.md)
+* [MAPMAKER/HOMOZ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&HOMOZ.md), homozygosity mapping
+* [MAPMAKER/QTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&QTL.md)
+* [MAPMAKER/SIBS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPMAKER&SIBS.md)
+* [MAP MANAGER QT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP_MANAGER_QT.md)
+* [MAP MANAGER QTX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP_MANAGER_QTX.md)
+* [MAP/MAP+/MAP+H/MAP2000](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAP&MAP+&MAP+H&MAP2000.md), (MAP+H is the radiation Hybrid module of MAP+)
+* [MAPPOP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPPOP.md)
+* [MAPQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAPQTL.md), Software for the calculation of QTL positions on genetic maps
+* [MAREYMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MAREYMAP.md)
+* [MARGARITA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MARGARITA.md)
+* [MATLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MATLINK.md)
+* [MCLEEPS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MCLEEPS.md), Monte Carlo Likelihood Estimation of Effective Population Size
+* [MCQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MCQTL.md), Multi-Cross QTL mapping
+* [MDBLOCKS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDBLOCKS.md), Minimum Description length method for haplotype BLOCKS
+* [MDR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDR.md), Multifactor Dimensionality Reduction
+* [MDR-PDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MDR-PDT.md), Multifactor Dimensionality Reduction and genotype Pedigree Disequilibrium Test
+* [MECPM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MECPM.md), Maximum Entropy Conditional Probability Moldeling
+* [MEGA2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MEGA2.md), a Manipulation Environment for Genetic Analyses
+* [MEGASNPHUNTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MEGASNPHUNTER.md)
+* [MENDEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MENDEL.md)
+* [MENDELSOFT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MENDELSOFT.md)
+* [MERLIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MERLIN.md), Multipoint Engine for Rapid Likelihood INference
+* [METAL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/METAL.md), METa AnaLysis Helper
+* [MFLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MFLINK.md), (nearly) model-free linkage analysis
+* [MGA-MAPF2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MGA-MAPF2.md)
+* [MIDAS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIDAS.md), Multiallelic Interallelic Disequilibrium Analysis Software
+* [MILD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MILD.md), MultIallelic Linkage Disequilibrium: a program for adjusted linkage disequilibrium (LD) calculations
+* [MIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIM.md), Multipoint Identical-by-descent Method
+* [MINIMAC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MINIMAC.md)
+* [MINSAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MINSAGE.md), MINimal SAmple size for GEnotypes
+* [MITPENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MITPENE.md)
+* [MIXSCORE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MIXSCORE.md)
+* [MKGST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MKGST.md)
+* [MLBGH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLBGH.md), Maximum-Likelihood-Binomial analysis of affected sib-pair and sibship data extended from the GENEHUNTER program
+* [MLD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLD.md)
+* [MLR-TAGGING](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MLR-TAGGING.md), Multivariate Linear Regression TAGGING
+* [MMDRAWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MMDRAWER.md)
+* [MOLKIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MOLKIN.md)
+* [MORGAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MORGAN.md), MOnte caRlo Genetic ANalysis
+* [MOSCPHASER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MOSCPHASER.md), Mixture Of Cnv-Snp PHASER
+* [MPDA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MPDA.md), Microarray Pooled DNA Analyser
+* [MRH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MRH.md), Minimum Recombinant Haplotype
+* [MULTIDISEQ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIDISEQ.md)
+* [MULTIMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAP.md)
+* [MULTIMAPPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAPPER.md)
+* [MULTIMAPPER/OUTBRED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIMAPPER&OUTBRED.md)
+* [MULTIPOPTAGSELECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIPOPTAGSELECT.md)
+* [MULTIQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTIQTL.md)
+* [MULTISIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MULTISIM.md)
+* [MUTAGENESYS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/MUTAGENESYS.md)
 
 ## N
-* NOCOM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NOCOM.md)
-* NOPAR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NOPAR.md)
-* NUCULAR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NUCULAR.md)
+* [NOCOM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NOCOM.md)
+* [NOPAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NOPAR.md)
+* [NUCULAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/NUCULAR.md)
 
 ## O
-* OLORIN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OLORIN.md)
-* ONEMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ONEMAP.md)
-* OSA, [Ordered Subset Analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OSA.md)
-* OSIRIS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OSIRIS.md)
+* [OLORIN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OLORIN.md)
+* [ONEMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ONEMAP.md)
+* [OSA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OSA.md), Ordered Subset Analysis
+* [OSIRIS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/OSIRIS.md)
 
 ## P
-* P_ACT, [P-values: Adjustment for Correlated Tests](https://github.com/gaow/genetic-analysis-software/blob/master/pages/P_ACT.md)
-* PANGAEA, [Pedigree ANalysis for Genetics (And Epidemiological Attributes)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PANGAEA.md)
-* PAP, [Pedigree Analysis Package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAP.md)
-* PARENTE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PARENTE.md)
-* PASS PEDIGREE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PASS_PEDIGREE.md)
-* PATH [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PATH.md)
-* PAWE-3D, [Power for Association With Error in 3D](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAWE-3D.md)
-* PAWE, [Power for Association With Error](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAWE.md)
-* PBAT, [Power calculation of family-Based Association Tests](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PBAT.md)
-* PDA, [Pooled DNA Analyzer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDA.md)
-* PDPSYS, [Pedigree Data Processing SYStem](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDPSYS.md)
-* PDT, [pedigree disequilibrium test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDT.md)
-* PEDAGREE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDAGREE.md)
-* PEDCHECK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDCHECK.md)
-* PEDFIDDLER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDFIDDLER.md)
-* PEDHUNTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDHUNTER.md)
-* PEDIGRAPH [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGRAPH.md)
-* PEDIGREE/DRAW [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREE&DRAW.md)
-* PEDIGREEQUERY [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREEQUERY.md)
-* PEDIGREE-VISUALIZER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREE-VISUALIZER.md)
-* PED, [PEdigree Drawing software](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PED.md)
-* PEDJAVA, [PedJava](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDJAVA.md)
-* PEDMANAGER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDMANAGER.md)
-* PEDPACK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPACK.md)
-* PEDPEEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPEEL.md)
-* PEDPHASE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPHASE.md)
-* PEDPLOT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPLOT.md)
-* PEDRAW/WPEDRAW, [Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDRAW&WPEDRAW.md)
-* PEDSCRIPT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSCRIPT.md)
-* PEDSTATS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSTATS.md)
-* PEDSYS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSYS.md)
-* PEDVIZAPI, [PEDigree VIsualiZation API](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDVIZAPI.md)
-* PEER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEER.md)
-* PELICAN, [Pedigree Editor for LInkage Computer ANalysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PELICAN.md)
-* PHASE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PHASE.md)
-* PIAGE, [Power of Indirect Association Studies of Gene-Environment Interactions](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PIAGE.md)
-* PLABQTL, [PLAnt Breeding QTL analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLABQTL.md)
-* PLABSIM, [PLAnt Breeding SIMulation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLABSIM.md)
-* PLAYPUS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLAYPUS.md)
-* PL-EM, [Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PL-EM.md)
-* PLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLINK.md)
-* PLINK/SEQ [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLINK&SEQ.md)
-* POINTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POINTER.md)
-* POLYMORPHISM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYMORPHISM.md)
-* POLYMUTT, [POLYmorphism and de novo MUTaTion call in families with sequencing data](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYMUTT.md)
-* POLYPHEN, [POLYmorphism PHENotyping](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYPHEN.md)
-* POOLSCORE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POOLSCORE.md)
-* POOL_STR, [POOLing alleles of Short Tandem Repeat markers](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POOL_STR.md)
-* POPDIST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POPDIST.md)
-* POPGEN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POPGEN.md)
-* POWER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWER.md)
-* POWERMARKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWERMARKER.md)
-* POWERTRIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWERTRIM.md)
-* POWQ [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWQ.md)
-* POWTEST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWTEST.md)
-* PREPLINK, [MAKE PEDfiles](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PREPLINK.md)
-* PREST, [Pedigree RElationship Statistical Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PREST.md)
-* PRESTO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PRESTO.md)
-* PROBMAX [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROBMAX.md)
-* PROC QTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROC_QTL.md)
-* PROFILER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROFILER.md)
-* PROGENY, [Progeny Software, LLC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROGENY.md)
-* PRT, [Pedigree Reconstruction Tools](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PRT.md)
-* PSAT, [Population Stratification Association Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSAT.md)
-* PSEUDO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDO.md)
-* PSEUDOMARKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDOMARKER.md)
-* PSEUDOMARKER.M [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDOMARKER.M.md)
-* PYPOP, [PYthon for POPulation genetics](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PYPOP.md)
+* [P_ACT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/P_ACT.md), P-values: Adjustment for Correlated Tests
+* [PANGAEA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PANGAEA.md), Pedigree ANalysis for Genetics (And Epidemiological Attributes)
+* [PAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAP.md), Pedigree Analysis Package
+* [PARENTE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PARENTE.md)
+* [PASS PEDIGREE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PASS_PEDIGREE.md)
+* [PATH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PATH.md)
+* [PAWE-3D](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAWE-3D.md), Power for Association With Error in 3D
+* [PAWE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PAWE.md), Power for Association With Error
+* [PBAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PBAT.md), Power calculation of family-Based Association Tests
+* [PDA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDA.md), Pooled DNA Analyzer
+* [PDPSYS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDPSYS.md), Pedigree Data Processing SYStem
+* [PDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PDT.md), pedigree disequilibrium test
+* [PEDAGREE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDAGREE.md)
+* [PEDCHECK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDCHECK.md)
+* [PEDFIDDLER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDFIDDLER.md)
+* [PEDHUNTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDHUNTER.md)
+* [PEDIGRAPH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGRAPH.md)
+* [PEDIGREE/DRAW](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREE&DRAW.md)
+* [PEDIGREEQUERY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREEQUERY.md)
+* [PEDIGREE-VISUALIZER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDIGREE-VISUALIZER.md)
+* [PED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PED.md), PEdigree Drawing software
+* [PEDJAVA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDJAVA.md), PedJava
+* [PEDMANAGER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDMANAGER.md)
+* [PEDPACK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPACK.md)
+* [PEDPEEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPEEL.md)
+* [PEDPHASE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPHASE.md)
+* [PEDPLOT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDPLOT.md)
+* [PEDRAW/WPEDRAW](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDRAW&WPEDRAW.md), Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)
+* [PEDSCRIPT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSCRIPT.md)
+* [PEDSTATS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSTATS.md)
+* [PEDSYS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDSYS.md)
+* [PEDVIZAPI](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEDVIZAPI.md), PEDigree VIsualiZation API
+* [PEER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PEER.md)
+* [PELICAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PELICAN.md), Pedigree Editor for LInkage Computer ANalysis
+* [PHASE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PHASE.md)
+* [PIAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PIAGE.md), Power of Indirect Association Studies of Gene-Environment Interactions
+* [PLABQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLABQTL.md), PLAnt Breeding QTL analysis
+* [PLABSIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLABSIM.md), PLAnt Breeding SIMulation
+* [PLAYPUS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLAYPUS.md)
+* [PL-EM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PL-EM.md), Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms
+* [PLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLINK.md)
+* [PLINK/SEQ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PLINK&SEQ.md)
+* [POINTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POINTER.md)
+* [POLYMORPHISM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYMORPHISM.md)
+* [POLYMUTT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYMUTT.md), POLYmorphism and de novo MUTaTion call in families with sequencing data
+* [POLYPHEN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POLYPHEN.md), POLYmorphism PHENotyping
+* [POOLSCORE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POOLSCORE.md)
+* [POOL_STR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POOL_STR.md), POOLing alleles of Short Tandem Repeat markers
+* [POPDIST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POPDIST.md)
+* [POPGEN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POPGEN.md)
+* [POWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWER.md)
+* [POWERMARKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWERMARKER.md)
+* [POWERTRIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWERTRIM.md)
+* [POWQ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWQ.md)
+* [POWTEST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/POWTEST.md)
+* [PREPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PREPLINK.md), MAKE PEDfiles
+* [PREST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PREST.md), Pedigree RElationship Statistical Test
+* [PRESTO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PRESTO.md)
+* [PROBMAX](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROBMAX.md)
+* [PROC QTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROC_QTL.md)
+* [PROFILER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROFILER.md)
+* [PROGENY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PROGENY.md), Progeny Software, LLC
+* [PRT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PRT.md), Pedigree Reconstruction Tools
+* [PSAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSAT.md), Population Stratification Association Test
+* [PSEUDO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDO.md)
+* [PSEUDOMARKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDOMARKER.md)
+* [PSEUDOMARKER.M](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PSEUDOMARKER.M.md)
+* [PYPOP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/PYPOP.md), PYthon for POPulation genetics
 
 ## Q
-* QGENE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QGENE.md)
-* QMSIM, [Qtl and Marker SIMulator](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QMSIM.md)
-* QTDT, [Quantitative (Trait) Transmission/Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTDT.md)
-* QTL-ALL, [QTL Analysis and Linkage Library](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL-ALL.md)
-* QTL CAFE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_CAFE.md)
-* QTL Cartographer [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_Cartographer.md)
-* QTL EXPRESS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_EXPRESS.md)
-* QTLNETWORK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTLNETWORK.md)
-* QUANTO [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QUANTO.md)
-* QU-GENE, [QUantitative GENEtics](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QU-GENE.md)
-* QUTIE, [Case-Control RAre Variant Analysis Tool](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QUTIE.md)
+* [QGENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QGENE.md)
+* [QMSIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QMSIM.md), Qtl and Marker SIMulator
+* [QTDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTDT.md), Quantitative (Trait) Transmission/Disequilibrium Test
+* [QTL-ALL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL-ALL.md), QTL Analysis and Linkage Library
+* [QTL CAFE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_CAFE.md)
+* [QTL Cartographer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_Cartographer.md)
+* [QTL EXPRESS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTL_EXPRESS.md)
+* [QTLNETWORK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QTLNETWORK.md)
+* [QUANTO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QUANTO.md)
+* [QU-GENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QU-GENE.md), QUantitative GENEtics
+* [QUTIE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/QUTIE.md), Case-Control RAre Variant Analysis Tool
 
 ## R
-* R/ADEGENET [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ADEGENET.md)
-* R/ARP.GEE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ARP.GEE.md)
-* R/BARS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&BARS.md)
-* R/COMPOSITELD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&COMPOSITELD.md)
-* R/COVIBD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&COVIBD.md)
-* RC-TDT, [Reconstruction-Combined Transmission Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RC-TDT.md)
-* REAPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/REAPER.md)
-* RECORD, [REcombination Counting and ORDering](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RECORD.md)
-* R/EHP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&EHP.md)
-* RELATIVEFINDER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELATIVEFINDER.md)
-* RELATIVE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELATIVE.md)
-* RELCHECK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELCHECK.md)
-* RELPAIR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELPAIR.md)
-* RELTYPE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELTYPE.md)
-* R/ENTROPY_BLOCKER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ENTROPY_BLOCKER.md)
-* R/FEST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&FEST.md)
-* R/GAP, [R/Genetic Analysis Package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GAP.md)
-* R/GC R/GCF [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GC_R&GCF.md)
-* R/GENABEL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GENABEL.md)
-* R/GWAPOWER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GWAPOWER.md)
-* R/HAPASSOC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&HAPASSOC.md)
-* R/HCLUST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&HCLUST.md)
-* RHMAP, [Radiation Hybrid Map](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RHMAP.md)
-* RHMAPPER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RHMAPPER.md)
-* R/IBDREG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&IBDREG.md)
-* RISCALW, [RISk CALculation in Windows](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RISCALW.md)
-* R/LAPSTRUCT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LAPSTRUCT.md)
-* R/LDGROUP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LDGROUP.md)
-* R/LDHEATMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LDHEATMAP.md)
-* R/LUCA, [Likelihood Under Covariate Assumptions](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LUCA.md)
-* R/META [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&META.md)
-* R/METASIM, [METApopulation SIMulation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&METASIM.md)
-* ROMPREV, [Regression of Offspring on Mid-Parent (REVised)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ROMPREV.md)
-* R/ONEMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ONEMAP.md)
-* ROSATTA SYLLEGO SYSTEM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ROSATTA_SYLLEGO_SYSTEM.md)
-* R/PIAGE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&PIAGE.md)
-* R/POOLSCORE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&POOLSCORE.md)
-* R/POPGEN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&POPGEN.md)
-* R/QTLBIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTLBIM.md)
-* R/QTLDESIGN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTLDESIGN.md)
-* R/QTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTL.md)
-* R/SNP.PLOTTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&SNP.PLOTTER.md)
-* R/SPECTRAL-GEM, [SPECTRAL graph approach for GEnetic Matching](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&SPECTRAL-GEM.md)
-* R/STEPWISE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&STEPWISE.md)
-* R/TDTHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&TDTHAP.md)
-* RTDT, [Robust Transmission/Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RTDT.md)
-* RVTESTS, [Rare Variants TESTS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RVTESTS.md)
-* R/WEIGHTED_FDR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&WEIGHTED_FDR.md)
+* [R/ADEGENET](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ADEGENET.md)
+* [R/ARP.GEE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ARP.GEE.md)
+* [R/BARS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&BARS.md)
+* [R/COMPOSITELD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&COMPOSITELD.md)
+* [R/COVIBD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&COVIBD.md)
+* [RC-TDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RC-TDT.md), Reconstruction-Combined Transmission Disequilibrium Test
+* [REAPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/REAPER.md)
+* [RECORD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RECORD.md), REcombination Counting and ORDering
+* [R/EHP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&EHP.md)
+* [RELATIVEFINDER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELATIVEFINDER.md)
+* [RELATIVE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELATIVE.md)
+* [RELCHECK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELCHECK.md)
+* [RELPAIR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELPAIR.md)
+* [RELTYPE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RELTYPE.md)
+* [R/ENTROPY_BLOCKER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ENTROPY_BLOCKER.md)
+* [R/FEST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&FEST.md)
+* [R/GAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GAP.md), R/Genetic Analysis Package
+* [R/GC R/GCF](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GC_R&GCF.md)
+* [R/GENABEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GENABEL.md)
+* [R/GWAPOWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&GWAPOWER.md)
+* [R/HAPASSOC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&HAPASSOC.md)
+* [R/HCLUST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&HCLUST.md)
+* [RHMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RHMAP.md), Radiation Hybrid Map
+* [RHMAPPER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RHMAPPER.md)
+* [R/IBDREG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&IBDREG.md)
+* [RISCALW](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RISCALW.md), RISk CALculation in Windows
+* [R/LAPSTRUCT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LAPSTRUCT.md)
+* [R/LDGROUP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LDGROUP.md)
+* [R/LDHEATMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LDHEATMAP.md)
+* [R/LUCA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&LUCA.md), Likelihood Under Covariate Assumptions
+* [R/META](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&META.md)
+* [R/METASIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&METASIM.md), METApopulation SIMulation
+* [ROMPREV](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ROMPREV.md), Regression of Offspring on Mid-Parent (REVised)
+* [R/ONEMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&ONEMAP.md)
+* [ROSATTA SYLLEGO SYSTEM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ROSATTA_SYLLEGO_SYSTEM.md)
+* [R/PIAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&PIAGE.md)
+* [R/POOLSCORE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&POOLSCORE.md)
+* [R/POPGEN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&POPGEN.md)
+* [R/QTLBIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTLBIM.md)
+* [R/QTLDESIGN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTLDESIGN.md)
+* [R/QTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&QTL.md)
+* [R/SNP.PLOTTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&SNP.PLOTTER.md)
+* [R/SPECTRAL-GEM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&SPECTRAL-GEM.md), SPECTRAL graph approach for GEnetic Matching
+* [R/STEPWISE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&STEPWISE.md)
+* [R/TDTHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&TDTHAP.md)
+* [RTDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RTDT.md), Robust Transmission/Disequilibrium Test
+* [RVTESTS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/RVTESTS.md), Rare Variants TESTS
+* [R/WEIGHTED_FDR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/R&WEIGHTED_FDR.md)
 
 ## S
-* SAGE, [Statistical Analysis for Genetic Epidemiology](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAGE.md)
-* SAMTOOLS, [Sequence Alignment/Map TOOLS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAMTOOLS.md)
-* SASGENE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SASGENE.md)
-* SAS/GENETICS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAS&GENETICS.md)
-* SASQUANT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SASQUANT.md)
-* SCORE-SEQ, [SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SCORE-SEQ.md)
-* SCOUT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SCOUT.md)
-* SDMINP, [Step-Down MIN P-value](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SDMINP.md)
-* SEGPATH, [SEGregation analysis and PATH analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SEGPATH.md)
-* SELSIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SELSIM.md)
-* SEQUENCE LD/SEQUENCE LDHOT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SEQUENCE_LD&SEQUENCE_LDHOT.md)
-* SGS [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SGS.md)
-* SIBERROR, [SibError](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBERROR.md)
-* SIBLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBLINK.md)
-* SIBMED, [SIBling Mutation and Error Detection](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBMED.md)
-* SIB-PAIR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIB-PAIR.md)
-* SIBSIM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBSIM.md)
-* SIFT, [Sorting Intolerant From Tolerant](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIFT.md)
-* SILCLOD, [SIgnificance Levels and Critical LODs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SILCLOD.md)
-* SIMCOAL, [SIMulate COAlescence](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMCOAL.md)
-* SIMHAP, [SIMulation-based HAPlotypic analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMHAP.md)
-* SIMIBD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMIBD.md)
-* SIMLA 3 [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLA_3.md)
-* SIMLA, [SIMulation of pedigree data for Linkage and Association studies](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLA.md)
-* SIMLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLINK.md)
-* SIMM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMM.md)
-* SIMPED [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMPED.md)
-* SIMPLE, [Sequential Imputation for MultiPoint Linkage Estimation](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMPLE.md)
-* SIMULAPLOT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMULAPLOT.md)
-* SIMULATE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMULATE.md)
-* SIMUPOP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMUPOP.md)
-* SIMWALK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMWALK.md)
-* S [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/S.md)
-* SKAT, [SNP-set (Sequence) Kernel Association Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SKAT.md)
-* SLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SLINK.md)
-* SMOOTH [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SMOOTH.md)
-* SNAP 2, [SNp Annotation and Proxy search](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP_2.md)
-* SNAP 3, [Simulation of sNp haplotype data And Phenotypic traits](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP_3.md)
-* SNAP, [Suite of Nucleotide Analysis Programs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP.md)
-* SNIPPEEP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNIPPEEP.md)
-* SNPALYZE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPALYZE.md)
-* SNP ASSISTANT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_ASSISTANT.md)
-* SNP CHART [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_CHART.md)
-* SNPEM, [SNP Expectation Maximization](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPEM.md)
-* SNPFILE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPFILE.md)
-* SNPHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPHAP.md)
-* SNPHARVESTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPHARVESTER.md)
-* SNP HITLINK, [SNP HIgh-Throughput LINKage analysis system](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_HITLINK.md)
-* SNP-HWE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP-HWE.md)
-* SNPLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPLINK.md)
-* SNPMSTAT, [SNP Missing data STATistics](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPMSTAT.md)
-* SNPP, [Single Nucleotide Polymorphism Processor](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPP.md)
-* SNP.PLOTTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP.PLOTTER.md)
-* SNPSTATS, [SNP STATisticS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPSTATS.md)
-* SNPTEST [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPTEST.md)
-* SOAP, [Short Oligonucleotide Analysis Package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SOAP.md)
-* SOLAR, [Sequential Oligogenic Linkage Analysis Routines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SOLAR.md)
-* SPAM, [Statistics Program for Analysing Mixtures](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPAM.md)
-* SPECTRAL-GEM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPECTRAL-GEM.md)
-* SPERM [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPERM.md)
-* SPERMSEG [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPERMSEG.md)
-* SPIP, [Simulate Pedigree In Population](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPIP.md)
-* SPLAT, [Sib Pair Linkage Analysis Testing](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPLAT.md)
-* SPLINK, [affected Sib Pairs LINKage analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPLINK.md)
-* SPREG, [Secondary Phenotype REGression analysis](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPREG.md)
-* SQTDT/SPDT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SQTDT&SPDT.md)
-* SQTL, [Semiparametric QTL mapping in general pedigrees](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SQTL.md)
-* SSAHASNP, [Sequence Search and Alignment by Hashing Algorithm for SNP detection](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SSAHASNP.md)
-* START [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/START.md)
-* STEPC, [STatistical Explanation for Positional Cloning](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STEPC.md)
-* STEPWISE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STEPWISE.md)
-* STRAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STRAT.md)
-* STRUCTURE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STRUCTURE.md)
-* SUMSTAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUMSTAT.md)
-* SUPERLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUPERLINK.md)
-* SUP, [Slink Utility Program](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUP.md)
-* SVA, [Sequence Variant Analyzer](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SVA.md)
-* SVCC, [Semiparametric Variance-Component for Censored data](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SVCC.md)
-* SWEEP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SWEEP.md)
-* SYZYGY [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SYZYGY.md)
+* [SAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAGE.md), Statistical Analysis for Genetic Epidemiology
+* [SAMTOOLS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAMTOOLS.md), Sequence Alignment/Map TOOLS
+* [SASGENE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SASGENE.md)
+* [SAS/GENETICS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SAS&GENETICS.md)
+* [SASQUANT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SASQUANT.md)
+* [SCORE-SEQ](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SCORE-SEQ.md), SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies
+* [SCOUT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SCOUT.md)
+* [SDMINP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SDMINP.md), Step-Down MIN P-value
+* [SEGPATH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SEGPATH.md), SEGregation analysis and PATH analysis
+* [SELSIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SELSIM.md)
+* [SEQUENCE LD/SEQUENCE LDHOT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SEQUENCE_LD&SEQUENCE_LDHOT.md)
+* [SGS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SGS.md)
+* [SIBERROR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBERROR.md), SibError
+* [SIBLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBLINK.md)
+* [SIBMED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBMED.md), SIBling Mutation and Error Detection
+* [SIB-PAIR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIB-PAIR.md)
+* [SIBSIM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIBSIM.md)
+* [SIFT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIFT.md), Sorting Intolerant From Tolerant
+* [SILCLOD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SILCLOD.md), SIgnificance Levels and Critical LODs
+* [SIMCOAL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMCOAL.md), SIMulate COAlescence
+* [SIMHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMHAP.md), SIMulation-based HAPlotypic analysis
+* [SIMIBD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMIBD.md)
+* [SIMLA 3](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLA_3.md)
+* [SIMLA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLA.md), SIMulation of pedigree data for Linkage and Association studies
+* [SIMLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMLINK.md)
+* [SIMM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMM.md)
+* [SIMPED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMPED.md)
+* [SIMPLE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMPLE.md), Sequential Imputation for MultiPoint Linkage Estimation
+* [SIMULAPLOT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMULAPLOT.md)
+* [SIMULATE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMULATE.md)
+* [SIMUPOP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMUPOP.md)
+* [SIMWALK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SIMWALK.md)
+* [S](https://github.com/gaow/genetic-analysis-software/blob/master/pages/S.md)
+* [SKAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SKAT.md), SNP-set (Sequence) Kernel Association Test
+* [SLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SLINK.md)
+* [SMOOTH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SMOOTH.md)
+* [SNAP 2](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP_2.md), SNp Annotation and Proxy search
+* [SNAP 3](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP_3.md), Simulation of sNp haplotype data And Phenotypic traits
+* [SNAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNAP.md), Suite of Nucleotide Analysis Programs
+* [SNIPPEEP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNIPPEEP.md)
+* [SNPALYZE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPALYZE.md)
+* [SNP ASSISTANT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_ASSISTANT.md)
+* [SNP CHART](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_CHART.md)
+* [SNPEM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPEM.md), SNP Expectation Maximization
+* [SNPFILE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPFILE.md)
+* [SNPHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPHAP.md)
+* [SNPHARVESTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPHARVESTER.md)
+* [SNP HITLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP_HITLINK.md), SNP HIgh-Throughput LINKage analysis system
+* [SNP-HWE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP-HWE.md)
+* [SNPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPLINK.md)
+* [SNPMSTAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPMSTAT.md), SNP Missing data STATistics
+* [SNPP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPP.md), Single Nucleotide Polymorphism Processor
+* [SNP.PLOTTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNP.PLOTTER.md)
+* [SNPSTATS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPSTATS.md), SNP STATisticS
+* [SNPTEST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SNPTEST.md)
+* [SOAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SOAP.md), Short Oligonucleotide Analysis Package
+* [SOLAR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SOLAR.md), Sequential Oligogenic Linkage Analysis Routines
+* [SPAM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPAM.md), Statistics Program for Analysing Mixtures
+* [SPECTRAL-GEM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPECTRAL-GEM.md)
+* [SPERM](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPERM.md)
+* [SPERMSEG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPERMSEG.md)
+* [SPIP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPIP.md), Simulate Pedigree In Population
+* [SPLAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPLAT.md), Sib Pair Linkage Analysis Testing
+* [SPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPLINK.md), affected Sib Pairs LINKage analysis
+* [SPREG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SPREG.md), Secondary Phenotype REGression analysis
+* [SQTDT/SPDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SQTDT&SPDT.md)
+* [SQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SQTL.md), Semiparametric QTL mapping in general pedigrees
+* [SSAHASNP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SSAHASNP.md), Sequence Search and Alignment by Hashing Algorithm for SNP detection
+* [START](https://github.com/gaow/genetic-analysis-software/blob/master/pages/START.md)
+* [STEPC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STEPC.md), STatistical Explanation for Positional Cloning
+* [STEPWISE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STEPWISE.md)
+* [STRAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STRAT.md)
+* [STRUCTURE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/STRUCTURE.md)
+* [SUMSTAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUMSTAT.md)
+* [SUPERLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUPERLINK.md)
+* [SUP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SUP.md), Slink Utility Program
+* [SVA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SVA.md), Sequence Variant Analyzer
+* [SVCC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SVCC.md), Semiparametric Variance-Component for Censored data
+* [SWEEP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SWEEP.md)
+* [SYZYGY](https://github.com/gaow/genetic-analysis-software/blob/master/pages/SYZYGY.md)
 
 ## T
-* TAGGER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGGER.md)
-* TAGIMPUTE, [TAGging-snp based IMPUTATE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGIMPUTE.md)
-* TAGSNP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGSNP.md)
-* TAGSTER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGSTER.md)
-* TASSEL, [Trait Analysis by aSSociation, Evolution, and Linkage](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TASSEL.md)
-* TDT-AE, [Transmission Disequilibrium Test Allowing for Errors](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT-AE.md)
-* TDTASP, [Power and Sample-Size Calculations for the TDT and ASP Tests](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTASP.md)
-* TDTHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTHAP.md)
-* TDT-PC, [Transmission Disequilibrium Test Power Calculator](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT-PC.md)
-* TDTPOWER [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTPOWER.md)
-* TDT/S-TDT, [Transmission Disequilibrium Test and Sib Transmission Disequilibrium Test](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT&S-TDT.md)
-* NAME [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/template.md)
-* TFPGA, [Tools For Population Genetic Analyses](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TFPGA.md)
-* THESIAS, [Testing Haplotype EffectS In Association Studies](https://github.com/gaow/genetic-analysis-software/blob/master/pages/THESIAS.md)
-* TKMAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TKMAP.md)
-* TLINKAGE, [two-locus trait linkage programs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TLINKAGE.md)
-* TOMCAT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TOMCAT.md)
-* TRANSMIT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRANSMIT.md)
-* TRAP, [Tiled Regression Analysis Package](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRAP.md)
-* TREELD [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREELD.md)
-* TREESCAN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREESCAN.md)
-* TREESELECT [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREESELECT.md)
-* TRIMHAP, [TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRIMHAP.md)
-* TUNA, [Testing UNtyped Alleles](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TUNA.md)
-* TWOLOC [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TWOLOC.md)
+* [TAGGER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGGER.md)
+* [TAGIMPUTE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGIMPUTE.md), TAGging-snp based IMPUTATE
+* [TAGSNP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGSNP.md)
+* [TAGSTER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TAGSTER.md)
+* [TASSEL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TASSEL.md), Trait Analysis by aSSociation, Evolution, and Linkage
+* [TDT-AE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT-AE.md), Transmission Disequilibrium Test Allowing for Errors
+* [TDTASP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTASP.md), Power and Sample-Size Calculations for the TDT and ASP Tests
+* [TDTHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTHAP.md)
+* [TDT-PC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT-PC.md), Transmission Disequilibrium Test Power Calculator
+* [TDTPOWER](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDTPOWER.md)
+* [TDT/S-TDT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TDT&S-TDT.md), Transmission Disequilibrium Test and Sib Transmission Disequilibrium Test
+* [NAME](https://github.com/gaow/genetic-analysis-software/blob/master/pages/template.md)
+* [TFPGA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TFPGA.md), Tools For Population Genetic Analyses
+* [THESIAS](https://github.com/gaow/genetic-analysis-software/blob/master/pages/THESIAS.md), Testing Haplotype EffectS In Association Studies
+* [TKMAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TKMAP.md)
+* [TLINKAGE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TLINKAGE.md), two-locus trait linkage programs
+* [TOMCAT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TOMCAT.md)
+* [TRANSMIT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRANSMIT.md)
+* [TRAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRAP.md), Tiled Regression Analysis Package
+* [TREELD](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREELD.md)
+* [TREESCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREESCAN.md)
+* [TREESELECT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TREESELECT.md)
+* [TRIMHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TRIMHAP.md), TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)
+* [TUNA](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TUNA.md), Testing UNtyped Alleles
+* [TWOLOC](https://github.com/gaow/genetic-analysis-software/blob/master/pages/TWOLOC.md)
 
 ## U
-* UMAKE [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UMAKE.md)
-* UNKNOWN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UNKNOWN.md)
-* UNPHASED [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UNPHASED.md)
-* UTIL, [statistical genetics UTILity programs](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UTIL.md)
+* [UMAKE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UMAKE.md)
+* [UNKNOWN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UNKNOWN.md)
+* [UNPHASED](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UNPHASED.md)
+* [UTIL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/UTIL.md), statistical genetics UTILity programs
 
 ## V
-* VAAST, [Variant Annotation, Analysis and Search Tool](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VAAST.md)
-* VARSCAN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VARSCAN.md)
-* VG, [Visual Genotype](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VG.md)
-* VH, [visual haplotype](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VH.md)
-* VITESSE, [VITESSE (means "speed" in French)](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VITESSE.md)
+* [VAAST](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VAAST.md), Variant Annotation, Analysis and Search Tool
+* [VARSCAN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VARSCAN.md)
+* [VG](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VG.md), Visual Genotype
+* [VH](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VH.md), visual haplotype
+* [VITESSE](https://github.com/gaow/genetic-analysis-software/blob/master/pages/VITESSE.md), VITESSE (means "speed" in French)
 
 ## W
-* WEB-PREPLINK [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEB-PREPLINK.md)
-* WEBQTL [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEBQTL.md)
-* WEIGHTED_FDR [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEIGHTED_FDR.md)
-* WHAIT, [Weighted Haplotype test And an Imputation-based Test.](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAIT.md)
-* WHAP [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAP.md)
-* WHICHRUN [...](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHICHRUN.md)
+* [WEB-PREPLINK](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEB-PREPLINK.md)
+* [WEBQTL](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEBQTL.md)
+* [WEIGHTED_FDR](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WEIGHTED_FDR.md)
+* [WHAIT](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAIT.md), Weighted Haplotype test And an Imputation-based Test.
+* [WHAP](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHAP.md)
+* [WHICHRUN](https://github.com/gaow/genetic-analysis-software/blob/master/pages/WHICHRUN.md)
