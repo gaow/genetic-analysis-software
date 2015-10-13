@@ -19,8 +19,7 @@ sibs
 
 ##Reference
 * Kruglyak, Lander (1995), "Complete multipoint sib-pair analysis of qualitative and quantitative traits", American Journal of Human Genetics, 57(2):439-454
-* the changes from version 1.1 to 2.0 .
-* manual (in postscript)
+* manual (in postscript) the changes from version 1.1 to 2.0 .
 
 ##Related
 GENEHUNTER

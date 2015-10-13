@@ -9,7 +9,9 @@ May 1995
 calculates multipoint lod scores in pedigrees with inbreeding loops
 
 ##Author
-Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
+* Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
+* Mark Daly (email: mjdaly@genome.wi.mit.edu)
+* Eric Lander (email: lander@genome.wi.mit.edu)
 
 ##URL
 ftp://ftp-genome.wi.mit.edu/distribution/software/homoz

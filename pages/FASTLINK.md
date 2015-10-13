@@ -11,6 +11,8 @@ faster version of LINKAGE
 * Idury
 * Schaffer ( schaffer@helix.nih.gov)
 * Shriram
+* Ann Becker (collaborators for version 4)
+* Dan Geiger (collaborators for version 4)
 
 ##URL
 * http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html

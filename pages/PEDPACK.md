@@ -6,7 +6,9 @@ Version 2.2, July 1996
 Programs for pedigree analysis, including segregation analysis, gene extinction, and pedigree graphics.
 
 ##Author
-A.W. Thomas (Versions 1.0, 3.0, 3.1)
+* A.W. Thomas (Versions 1.0, 3.0, 3.1)
+* E.A. Thompson (University of Washington, email: thompson@stat.washington.edu)
+* C.J. Geyer (University of Minnesota, email: charlie@stat.umn.edu)
 
 ##URL
 http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml

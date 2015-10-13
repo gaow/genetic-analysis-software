@@ -6,9 +6,7 @@ July 1996
 Markov chain Monte Carlo program for association in two-dimensional contingency tables, and for testing Hardy-Weinberg equilibrium.
 
 ##Author
-* Sun-Wei Guo
-* U. Minnesota
-* guo_s@epivax.epi.umn.edu
+Sun-Wei Guo (U. Minnesota, guo_s@epivax.epi.umn.edu, E.A. Thompson (Univ Washington)
 
 ##URL
 http://www.stat.washington.edu/thompson/Genepi/Hardy.shtml

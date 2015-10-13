@@ -8,6 +8,9 @@
 * J. Lalouel
 * C. Julier
 * Jurg Ott;
+* 6.0: Alan Young
+* Daniel Weeks
+* Mark Lathrop
 
 ##URL
 http://lab.rockefeller.edu/ott/programs

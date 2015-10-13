@@ -6,7 +6,9 @@
 multiple pairwise linkage analysis under interference
 
 ##Author
-A Collins (email: arc@southampton.ac.uk)
+* A Collins (email: arc@southampton.ac.uk)
+* D. Shields
+* NE Morton (University of Southampton, UK)
 
 ##URL
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map
