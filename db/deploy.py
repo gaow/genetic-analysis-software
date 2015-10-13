@@ -7,13 +7,13 @@ EXCLUDE = ['template.ini']
 
 class SimpleCfgParser:
     def __init__(self, files):
-        self.data = OrderedDict()
+        self.data = {}
         for f in files:
             if f in EXCLUDE:
                 continue
             name, data = self.parse(f)
             self.data[name] = data
-
+        self.data = OrderedDict(sorted(self.data.items(), key=lambda i: i[0].lower()))
     def parse(self, f):
         data = OrderedDict()
         lines = [x.strip() for x in open(f).readlines()]
