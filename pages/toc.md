@@ -659,4 +659,3 @@
 
 ## Z
 * [ZAPLO](https://github.com/gaow/genetic-analysis-software/blob/master/pages/ZAPLO.md)
-* [NAME](https://github.com/gaow/genetic-analysis-software/blob/master/pages/template.md)

@@ -3,11 +3,14 @@ from collections import OrderedDict
 from argparse import ArgumentParser
 import re, os, time, json
 FIELDS = ['FULL_NAME', 'OTHER_NAME', 'VERSION', 'DESCRIPTION', 'YEAR', 'AUTHOR', 'URL', 'LANGUAGE', 'OS', 'EXE', 'REFERENCE', 'AVAILABILITY', 'RELATED']
+EXCLUDE = ['template.ini']
 
 class SimpleCfgParser:
     def __init__(self, files):
         self.data = OrderedDict()
         for f in files:
+            if f in EXCLUDE:
+                continue
             name, data = self.parse(f)
             self.data[name] = data
 
