@@ -30,6 +30,9 @@ More and more packages are now written in R. To be consistent, any R package in 
 ### Other lists
 Other genetic software lists can be found [here](https://github.com/gaow/genetic-analysis-software/blob/master/pages/other-lists.md).
 
+### Search this repository
+You can find github's search bar on the top of the page where you can search contents in this repository. Type in the keywords you care and see what you can find in this list! The formated pages are `markdown` files so you may want to filter your search results to `markdown` format (you can customize your search filter after you run a search).
+
 ### Contribute
 We welcome your input! Please follow the [contribution guidelines](https://github.com/gaow/genetic-analysis-software/blob/master/pages/contribute.md) to participate.
 
