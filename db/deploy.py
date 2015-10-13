@@ -50,14 +50,14 @@ class GasParser:
         categories = []
         with open(os.path.join(self.prefix, 'toc.md'), 'w') as f:
             for name in self.data.keys():
-                category = '#' if re.match(r"[-+]?\d+$", name[0]) is not None else name[0].upper()
+                category = '0' if re.match(r"[-+]?\d+$", name[0]) is not None else name[0].upper()
                 if category not in categories:
                     categories.append(category)
                     f.write('\n## {}\n'.format(category))
-                link_text = self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else '>>'
+                link_text = self.data[name]['FULL_NAME'][0] if 'FULL_NAME' in self.data[name] else '...'
                 link = 'https://github.com/gaow/genetic-analysis-software/blob/master/pages/' + \
                   self.data[name]['FileName'].replace('.ini', '.md')
-                f.write('* {}{}[{}]({})\n'.format(name, ' ' if link_text == '>>' else ', ', link_text, link))
+                f.write('* {}{}[{}]({})\n'.format(name, ' ' if link_text == '...' else ', ', link_text, link))
 
 def main(args):
     gp = GasParser(args.data)

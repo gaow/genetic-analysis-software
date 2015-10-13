@@ -1,5 +1,5 @@
 #PEDAGREE
-##Full Name
+##Version
 1.00 (February 2002)
 
 ##Description

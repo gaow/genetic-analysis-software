@@ -1,6 +1,7 @@
 #ARLEQUIN
 ##Full Name
-(French translation of "Arlecchino", a character of the Italian "Commedia dell'Arte". He has many aspects, but can switch among them very easily according to needs and necessities. Similarly, this software is about the study of genetic polymorphism.)
+* French translation of "Arlecchino"
+* French translation of "Arlecchino", a character of the Italian "Commedia dell'Arte". He has many aspects, but can switch among them very easily according to needs and necessities. Similarly, this software is about the study of genetic polymorphism.
 
 ##Version
 3.1 (September 2006)
