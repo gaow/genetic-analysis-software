@@ -9,7 +9,7 @@
 data_dir = 'pages'
 disqus_tpl = '''
 <!DOCTYPE html>
-<html >
+<html>
 
 <head>
 
@@ -30,12 +30,7 @@ disqus_tpl = '''
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<script src="../libs/jquery-2.2.3/jquery.min.js"></script>
-<link href="../libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="../libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="../libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="../libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="../libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="../style.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -119,6 +114,7 @@ with open('alphabet.md', 'w') as f, open('/tmp/gas.md', 'w') as f2:
 [default_3]
 # Compile pages via bookdown
 run:
+  cd gh-pages; git pull; cd -
   cat Home.md alphabet.md /tmp/gas.md Others.md > /tmp/software.md
   labnotes bind -t 'An Alphabetic List of Genetic Analysis Software' -a 'Gao Wang / Ott lab' --description 'This page, historically known as the Rockefeller list, is a list of computer programs for genetics analysis' -o gh-pages --md /tmp/software.md --no_section_number --split_by chapter
 
