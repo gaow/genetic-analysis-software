@@ -1,27 +1,26 @@
-#PDPSYS
-##Full Name
+##PDPSYS
+###Full Name
 Pedigree Data Processing SYStem
 
-##Version
+###Version
 1.0 (November 1998)
 
-##Description
+###Description
 PDPSys is a Windows-based system designed for pedigree data management, providing a graphical interface for pedigree construction and output.
 
-##Author
+###Author
 Fil Quiaoit (Fred Hutchinson Cancer Research Center, email: fquiaoit@fhcrc.org)
 
-##URL
+###URL
 http://cougar.fhcrc.org/software.php
 
-##Language
+###Language
 Visual Basic, MS-Access
 
-##OS
+###OS
 MS-Windows (95)
 
-##EXE
+###EXE
 pdpsys
 
 
-## [Reviews on PDPSYS](https://github.com/gaow/genetic-analysis-software/issues/375)

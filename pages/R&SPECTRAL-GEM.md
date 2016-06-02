@@ -1,25 +1,24 @@
-#R/SPECTRAL-GEM
-##Full Name
+##R/SPECTRAL-GEM
+###Full Name
 SPECTRAL graph approach for GEnetic Matching
 
-##Version
+###Version
 1 (July 2009)
 
-##Author
+###Author
 * Ann Lee
 * Diana Luca
 * Lambertus Klei
 * Bernie Devlin
 * Kathryn Roeder
 
-##URL
+###URL
 http://wpicr.wpic.pitt.edu/WPICCompGen/
 
-##Language
+###Language
 R
 
-##Reference
+###Reference
 Lee, Luca, Klei, Devlin, Roeder (2010), "Discovering genetic ancestry using spectral graph theory", Genetic Epidemiology, 34(1):51-59.
 
 
-## [Reviews on R/SPECTRAL-GEM](https://github.com/gaow/genetic-analysis-software/issues/486)

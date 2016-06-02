@@ -1,19 +1,18 @@
-#ARP.GEE
-##Version
+##ARP.GEE
+###Version
 0.1.0 (April 2005)
 
-##Description
+###Description
 Simultaneously estimate a trait-locus position and its genetic effects for affected relative pairs (ARP) by one of two methods. Either allow a different trait-locus effect for each ARP type, or constrain the trait-locus effects according to the marginal effect of a single susceptibility locus. We include a goodness of fit statistic for the constrained model.
 
-##Author
+###Author
 * Daniel Schaid
 * Jason Sinnwell (Mayo Clinic)
 
-##URL
+###URL
 http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
 
-##Language
+###Language
 R/S-PLUS
 
 
-## [Reviews on ARP.GEE](https://github.com/gaow/genetic-analysis-software/issues/26)

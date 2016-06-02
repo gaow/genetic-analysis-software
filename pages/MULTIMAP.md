@@ -1,24 +1,23 @@
-#MULTIMAP
-##Description
+##MULTIMAP
+###Description
 program for automated construction of genetic maps
 
-##Author
+###Author
 * Tara Matise (email: matise@biology.rutgers.edu)
 * Mark Perlin
 * Aravinda Chakravarti
 
-##URL
+###URL
 * http://compgen.rutgers.edu/Multimap/
 * http://compgen.rutgers.edu/multimap/multimapdist.html
 
-##Language
+###Language
 LISP
 
-##OS
+###OS
 UNIX (Sun/Compaq-Alpha/HP..)
 
-##Reference
+###Reference
 Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);
 
 
-## [Reviews on MULTIMAP](https://github.com/gaow/genetic-analysis-software/issues/351)

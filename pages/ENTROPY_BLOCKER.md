@@ -1,18 +1,17 @@
-#ENTROPY BLOCKER
-##Version
+##ENTROPY BLOCKER
+###Version
 1.7
 
-##Description
+###Description
 aiming at identifying "haplotype blocks". The likelihood of the data is calculated minus the model complexity. The resulting blocks have very low diversity and the linkage disequilibrium with SNP's outside the blocks is low.
 
-##URL
+###URL
 http://wpicr.wpic.pitt.edu/WPICCompGen/blocks.htm
 
-##Language
+###Language
 R
 
-##OS
+###OS
 MS-Windows, Linux
 
 
-## [Reviews on ENTROPY BLOCKER](https://github.com/gaow/genetic-analysis-software/issues/108)

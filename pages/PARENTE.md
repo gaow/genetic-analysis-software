@@ -1,18 +1,17 @@
-#PARENTE
-##Version
+##PARENTE
+###Version
 1.2 (February 2003)
 
-##Description
+###Description
 parentage inference using molecular data from diploid codominant markers
 
-##Author
+###Author
 Stephanie Blanc-Manel (email: stephanie.manel@ujf-grenoble.fr)
 
-##URL
+###URL
 http://www2.ujf-grenoble.fr/leca/membres/manel.html
 
-##Reference
+###Reference
 Cercueil, Bellemain, Manel (2002), "PARENTE: computer program for parentage analysis", Journal of Heredity, 93:458-459.
 
 
-## [Reviews on PARENTE](https://github.com/gaow/genetic-analysis-software/issues/368)

@@ -1,15 +1,14 @@
-#HAPLOWSER
-##Full Name
+##HAPLOWSER
+###Full Name
 HAPLotype brOWSER
 
-##URL
+###URL
 http://embio.yonsei.ac.kr/haplowser/
 
-##Language
+###Language
 Java
 
-##Reference
+###Reference
 Kim, Kim, Waterman, Park, Li (2009), "HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome", Bioinformatics, 25(18):2430-2431.
 
 
-## [Reviews on HAPLOWSER](https://github.com/gaow/genetic-analysis-software/issues/220)

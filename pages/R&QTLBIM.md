@@ -1,15 +1,14 @@
-#R/QTLBIM
-##Version
+##R/QTLBIM
+###Version
 1.7.7 (April 2008)
 
-##Description
+###Description
 QTLBIM, a library for QTL Bayesian Interval Mapping, provides a Bayesian model selection approach to map multiple interacting QTL. It works on experimentally inbred lines and performs a genome-wide search to locate multiple potential QTL. The package can handle continuous, binary and ordinal traits.
 
-##URL
+###URL
 http://www.qtlbim.org/
 
-##Language
+###Language
 R
 
 
-## [Reviews on R/QTLBIM](https://github.com/gaow/genetic-analysis-software/issues/482)

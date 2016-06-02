@@ -1,22 +1,21 @@
-#HAPLOPAINTER
-##Version
+##HAPLOPAINTER
+###Version
 0.027b
 
-##Description
+###Description
 A pedigree drawing program, suitable in processing haplotype outputs from GENEHUNTER, ALLEGRO, MERLIN, and SIMWALK
 
-##Author
+###Author
 * Holger Thiele
 * Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).
 
-##URL
+###URL
 http://haplopainter.sourceforge.net/html/ManualIndex.htm
 
-##Language
+###Language
 Perl
 
-##Reference
+###Reference
 Thiele, Nurnberg (2005), "HaploPainter: a tool for drawing pedigrees with complex haplotypes", Bioinformatics, 21(8):1730-1732.
 
 
-## [Reviews on HAPLOPAINTER](https://github.com/gaow/genetic-analysis-software/issues/209)

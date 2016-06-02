@@ -1,18 +1,17 @@
-#DMAP
-##Description
+##DMAP
+###Description
 fine-scale disequilibrium mapping of a rare allele
 
-##Author
+###Author
 Jinko Graham
 
-##URL
+###URL
 http://www.math.sfu.ca/~jgraham/Papers/Programs/DisequilibriumMapping/
 
-##Language
+###Language
 C
 
-##Reference
+###Reference
 Graham, Thompson (1998), "Disequilibrium likelihoods for fine-scale mapping of a rare allele", American Journal of Human Genetics, 63(5):1517-1530
 
 
-## [Reviews on DMAP](https://github.com/gaow/genetic-analysis-software/issues/90)

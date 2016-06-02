@@ -1,30 +1,29 @@
-#CATS
-##Full Name
+##CATS
+###Full Name
 power Calculator for Association with Two Stage design
 
-##Version
+###Version
 0.0.1
 
-##Description
+###Description
 CATS calculates the power and other useful quantities for two-stage genome-wide association studies
 
-##Author
+###Author
 Andrew Skol (email: askol@umich.edu)
 
-##URL
+###URL
 http://www.sph.umich.edu/csg/abecasis/CaTS/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX, Linux, MS-Windows, MacOS
 
-##EXE
+###EXE
 cats (graphical interface for MS-Windows, MacOS, and Linux), cats-test (Linux command line)
 
-##Reference
+###Reference
 Skol, Scott, Abecasis, Boehnke (2006), "Joint analysis is more efficient than replication-based analysis for two-stage genome-wide association studies", Nature Genetics, 38:209-213.
 
 
-## [Reviews on CATS](https://github.com/gaow/genetic-analysis-software/issues/58)

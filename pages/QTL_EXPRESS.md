@@ -1,28 +1,27 @@
-#QTL EXPRESS
-##Version
+##QTL EXPRESS
+###Version
 August 2005
 
-##Description
+###Description
 A web-based user-friendly package to map Quantitative Trait Loci in outbred populations. Population structures catered for are line crosses, halfsib families, nuclear families and sibpairs. Permutation tests to determine empirical significance levels and bootstrapping to estimate empirical confidence intervals of QTL locations are optional. Fixed effects/covariates can be fitted and models may include single or multiple QTL. Results are presented in tabular and graphical format.
 
-##Author
+###Author
 * George Seaton (email: george.seaton@ed.ac.uk)
 * Chris Haley
 * Sara Knott
 * Xijiang Yu
 * Peter Visscher (Institute of Cell, Animal, Population Biology, Univ. Edingbergh)
 
-##URL
+###URL
 http://qtl.cap.ed.ac.uk/
 
-##Language
+###Language
 Java
 
-##OS
+###OS
 web-based
 
-##Reference
+###Reference
 G Seaton, CS Haley, SA Knott, M Kearsey, PM Visscher (2002), "QTL Express: mapping quantitative trait loci in simple and complex pedigrees", Bioinformatics, 18:339-340
 
 
-## [Reviews on QTL EXPRESS](https://github.com/gaow/genetic-analysis-software/issues/439)

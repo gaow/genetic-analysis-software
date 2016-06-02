@@ -1,21 +1,20 @@
-#SNPSTATS
-##Full Name
+##SNPSTATS
+###Full Name
 SNP STATisticS
 
-##Description
+###Description
 SNPStats is a simple, ready-to-use software which has been designed to analyze genetic-epidemiology studies of association using SNPs.
 
-##Author
+###Author
 Victor Moreno (email: v.moreno@ico.scs.es) Xavier Sole (email: x.sole@ico.scs.es)
 
-##URL
+###URL
 http://bioinfo.iconcologia.net/snpstats/
 
-##OS
+###OS
 web-based
 
-##Reference
+###Reference
 Sole, Guino, Valls, Iniesta, Moreno (2006), "SNPStats: a web tool for the analysis of association studies", Bioinformatics, 22(15):1928-1929.
 
 
-## [Reviews on SNPSTATS](https://github.com/gaow/genetic-analysis-software/issues/545)

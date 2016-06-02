@@ -1,24 +1,23 @@
-#INSEGT
-##Full Name
+##INSEGT
+###Full Name
 INference of SEGregation Types
 
-##Version
+###Version
 1.1 (September 1999)
 
-##Description
+###Description
 the program constructs feasible haplotype configurations and the corresponding segregation types on pedigrees. the haplotype configuration minimizes recombinations on the pedigree.
 
-##Author
+###Author
 Jochen Kumm (email: jochen@u.washington.edu)
 
-##URL
+###URL
 http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 
-##Language
+###Language
 C++ (the standard template library, STL, is used)
 
-##Related
+###Related
 PANGAEA
 
 
-## [Reviews on INSEGT](https://github.com/gaow/genetic-analysis-software/issues/248)

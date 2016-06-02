@@ -1,21 +1,20 @@
-#PDA
-##Full Name
+##PDA
+###Full Name
 Pooled DNA Analyzer
 
-##Description
+###Description
 a tool for analyses of pooled DNA data
 
-##Author
+###Author
 * Hsin-Chou Yang
 * Chia-Ching Pan
 * Chin-Yu Lin
 * Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)
 
-##URL
+###URL
 http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
 
-##Reference
+###Reference
 Yang, Pan, Lin, Fann (2006), "PDA: pooled DNA analyzer", BMC Bioinformatics, 7:233.
 
 
-## [Reviews on PDA](https://github.com/gaow/genetic-analysis-software/issues/374)

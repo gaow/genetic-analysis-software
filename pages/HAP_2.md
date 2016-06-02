@@ -1,21 +1,20 @@
-#HAP 2
-##Full Name
+##HAP 2
+###Full Name
 HAPlotype analysis of polymorphic markers
 
-##Author
+###Author
 (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
 
-##URL
+###URL
 http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 MS-Windows, UNIX(Solaris), Linux
 
-##Reference
+###Reference
 Zhao (2004), "2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis", Bioinformatics, 20:1325-1326.
 
 
-## [Reviews on HAP 2](https://github.com/gaow/genetic-analysis-software/issues/196)

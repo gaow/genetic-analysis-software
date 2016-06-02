@@ -1,27 +1,26 @@
-#SUP
-##Full Name
+##SUP
+###Full Name
 Slink Utility Program
 
-##Version
+###Version
 060629
 
-##Description
+###Description
 an extension to SLINK/FastSLINK to allow more marker loci to be simulated in pedigrees conditional on trait values and in linkage equilibrium or disequilibrium with a trait locus.
 
-##Author
+###Author
 Mathieu Lemire (email: mlemire@sdf.lonestar.org)
 
-##URL
+###URL
 http://mlemire.freeshell.org/software.html
 
-##Language
+###Language
 C,C++
 
-##OS
+###OS
 UNIX, LINUX, CYGWIN
 
-##Reference
+###Reference
 Lemire (2006), "SUP: An extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values", BMC Genetics, 7:40.
 
 
-## [Reviews on SUP](https://github.com/gaow/genetic-analysis-software/issues/567)

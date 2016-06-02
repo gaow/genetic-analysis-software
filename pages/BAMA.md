@@ -1,25 +1,24 @@
-#BAMA
-##Full Name
+##BAMA
+###Full Name
 Bayesian Analysis of Multilocus Association
 
-##Description
+###Description
 This is a program to select a trait-associated subset of markers among many candidates. The program is based on Bayesian modeling/estimation and it suits for both quantitative and qualitative traits. It can handle bi- and multiallelic markers as well as applied in situations where part of the marker genotypes may be missing. As an output of the program, one obtains posterior estimate of number and positions of trait-associated markers.
 
-##Author
+###Author
 * Mikko J Sillanpaa
 * Riika Kilpikari
 
-##URL
+###URL
 http://www.rni.helsinki.fi/~mjs/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 Linux
 
-##Reference
+###Reference
 R Kilpikari, MJ Sillanpaa (2003), "Bayesian analysis of multilocus association in quantitative and qualitative traits", Genetic Epidemiology, 25:122-135.
 
 
-## [Reviews on BAMA](https://github.com/gaow/genetic-analysis-software/issues/31)

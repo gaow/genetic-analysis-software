@@ -1,34 +1,33 @@
-#MAP/MAP+/MAP+H/MAP2000
-##Full Name
+##MAP/MAP+/MAP+H/MAP2000
+###Full Name
 (MAP+H is the radiation Hybrid module of MAP+)
 
-##Description
+###Description
 multiple pairwise linkage analysis under interference
 
-##Author
+###Author
 * A Collins (email: arc@southampton.ac.uk)
 * D. Shields
 * NE Morton (University of Southampton, UK)
 
-##URL
+###URL
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+h
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map2000
 
-##Language
+###Language
 FORTRAN
 
-##OS
+###OS
 UNIX(SunOS/..)
 
-##EXE
+###EXE
 map
 
-##Reference
+###Reference
 * Morton, Andrew (1989), Annals of Human Genetics, 53:263-269.
 * Morton, Collins (1990), Annals of Human Genetics, 54:103-106.
 * Shields, Collins, Buetow, Morton (1991), Proceedings of the National Academy of Sciences , 88:6501-6505.
 
 
-## [Reviews on MAP/MAP+/MAP+H/MAP2000](https://github.com/gaow/genetic-analysis-software/issues/313)

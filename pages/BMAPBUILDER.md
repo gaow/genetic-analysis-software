@@ -1,18 +1,17 @@
-#BMAPBUILDER
-##Version
+##BMAPBUILDER
+###Version
 2.1(beta)
 
-##URL
+###URL
 http://bios.ugr.es/BMapBuilder/
 
-##Language
+###Language
 Java
 
-##OS
+###OS
 MS-Windows, MacOS, UNIX, Linux
 
-##Reference
+###Reference
 Abad-Grau, Montes, Sebastiani (2006), "Building chromosome-wide LD maps", Bioinformatics, 22(16):1933-1934.
 
 
-## [Reviews on BMAPBUILDER](https://github.com/gaow/genetic-analysis-software/issues/45)

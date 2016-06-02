@@ -1,11 +1,11 @@
-#RHMAP
-##Full Name
+##RHMAP
+###Full Name
 Radiation Hybrid Map
 
-##Version
+###Version
 3.0 (Sept 1996)
 
-##Author
+###Author
 * Michael Boehnke (Univ Michigan, boehnke@sph.umich.edu)
 * E. Hauser
 * K. Lange
@@ -13,19 +13,18 @@ Radiation Hybrid Map
 * J. Uro
 * J. VanderStoep
 
-##URL
+###URL
 http://csg.sph.umich.edu/boehnke/rhmap.php
 
-##Language
+###Language
 FORTRAN77
 
-##EXE
+###EXE
 rhmap, rh2pt, rhminbrk, rhmaxlik
 
-##Reference
+###Reference
 * Boehnke,Lange,Cox (1991), "Statistical methods for multipoint radiation hybrid mapping", American Journal of Human Genetics, 49(6):1174-1188
 * Lange,Boehnke, Cox, Lunetta (1995), Genome Research, 5:136-150.
 * Lunetta,Boehnke, Lange, Cox (1995), Genome Research, 5:151-163.
 
 
-## [Reviews on RHMAP](https://github.com/gaow/genetic-analysis-software/issues/466)

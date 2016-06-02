@@ -1,18 +1,17 @@
-#GENEWEAVER
-##Version
+##GENEWEAVER
+###Version
 1.1 (2003)
 
-##Description
+###Description
 software for charting family medical/health history
 
-##URL
+###URL
 http://www.geneweaveronline.com/
 
-##OS
+###OS
 MS-Windows (95/98/2000/NT/XP)
 
-##Availability
+###Availability
 commercialUS$39.95
 
 
-## [Reviews on GENEWEAVER](https://github.com/gaow/genetic-analysis-software/issues/162)

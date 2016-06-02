@@ -1,21 +1,20 @@
-#R/QTLDESIGN
-##Version
+##R/QTLDESIGN
+###Version
 v0.91 (May 2007)
 
-##Description
+###Description
 R/qtlDesign is software to help plan quantitative trait locus (QTL) experiments.
 
-##Author
+###Author
 * Saunak Sen
 * Jaya Satagopan
 * Karl Broman
 * Gary Churchill
 
-##URL
+###URL
 http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software/
 
-##Language
+###Language
 R
 
 
-## [Reviews on R/QTLDESIGN](https://github.com/gaow/genetic-analysis-software/issues/483)

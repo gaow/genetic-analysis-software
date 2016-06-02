@@ -1,19 +1,18 @@
-#SPERM
-##Description
+##SPERM
+###Description
 analysis of sperm typing data.
 
-##Author
+###Author
 * Kenneth Lange (UCLA)
 * Laura Lazzeroni
 
-##URL
+###URL
 registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 
-##Language
+###Language
 FORTRAN77
 
-##Reference
+###Reference
 Lazzeroni, Arnheim, Schmitt, Lange (1994), "Multipoint mapping calculations for sperm-typing data", American Journal of Human Genetics, 55(3):431-436
 
 
-## [Reviews on SPERM](https://github.com/gaow/genetic-analysis-software/issues/551)

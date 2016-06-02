@@ -1,24 +1,23 @@
-#STRAT
-##Version
+##STRAT
+###Version
 1.1
 
-##Description
+###Description
 a companion program to structure. This is a structured association method, for use in association mapping, enabling valid case-control studies even in the presence of population structure.
 
-##Author
+###Author
 Jonathan Pritchard (email: pritch@genetics.uchicago.edu)
 
-##URL
+###URL
 http://pritch.bsd.uchicago.edu/software/STRAT.html
 
-##OS
+###OS
 MS-DOS, MS-Windows,UNIX(Solaris), Linux
 
-##Reference
+###Reference
 JK Pritchard, M Stephens, NA Rosenberg, P Donnelly (2000), "Association mapping in structured populations", American Journal of Human Genetics, 67(1):170-181\. [ html]
 
-##Related
+###Related
 STRUCTURE
 
 
-## [Reviews on STRAT](https://github.com/gaow/genetic-analysis-software/issues/563)

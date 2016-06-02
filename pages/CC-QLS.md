@@ -1,11 +1,11 @@
-#CC-QLS
-##Full Name
+##CC-QLS
+###Full Name
 Case-Control Quasi-Likelihood Score test
 
-##Version
+###Version
 1.3 (March 2006)
 
-##Author
+###Author
 * Catherine Bourgain
 * Sabine Hoffjan
 * Raluca Nicolae
@@ -16,14 +16,13 @@ Case-Control Quasi-Likelihood Score test
 * Carole Ober
 * Mary Sara McPeek
 
-##URL
+###URL
 http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/
 
-##OS
+###OS
 UNIX
 
-##Reference
+###Reference
 Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), "Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus", American Journal of Human Genetics, 73(3):612-626
 
 
-## [Reviews on CC-QLS](https://github.com/gaow/genetic-analysis-software/issues/59)

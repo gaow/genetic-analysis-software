@@ -1,0 +1,61 @@
+#!/usr/bin/env sos-runner
+#vim: set filetype=python: set expandtab : ts=4:
+#fileformat=SOS1.0
+
+# This script compiles all `*.md` files in `pages` folder via bookdown
+# and pushes the book to `gh-pages` branch
+
+[parameters]
+data_dir = 'pages'
+
+[default_1]
+# Update alphabetic TOC 
+python:
+import os, glob, re
+from collections import OrderedDict
+def get_meta(files):
+    data = {}
+    for f in files:
+        if os.path.basename(f) == 'README.md':
+           continue
+        lines = [x.strip() for x in open(f).readlines() if x.strip()]
+        data[f] = {}
+        if not lines[0].startswith('##') or lines[0].startswith('###'):
+            raise ValueError('The first line of document "{}" must start with "##" followed by software name'.format(f))
+        data[f]['name'] = lines[0][2:].strip()
+        try:
+          data[f]['full_name'] = lines[[x.lower() for x in lines].index('###full name') + 1]
+        except:
+          try:
+            data[f]['full_name'] = lines[[x.lower() for x in lines].index('### full name') + 1]
+          except:
+            pass
+    return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower())) 
+
+meta = get_meta(glob.glob('${data_dir}/*'))
+categories = []
+with open('alphabet.md', 'w') as f, open('/tmp/gas.md', 'w') as f2:
+     f.write('\n# Alphabetic List')
+     for k in meta:
+         category = '\\#' if re.match(r"[-+]?\d+$", meta[k]['name'][0]) is not None else meta[k]['name'][0].upper()
+         if category not in categories:
+            categories.append(category)
+            f.write('\n## {}\n'.format(category))
+            f2.write('\n# {}\n\n---\n\n'.format(category))
+         desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
+         link = '{}-1.html#{}'.format(category.lower(), "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower())
+         f.write('* [{}]({}){}\n'.format(meta[k]['name'], link, desc_text))
+         f2.write(open(k).read() + '\n---\n\n')
+
+[default_2]
+# Download gh-pages branch
+output: 'gh-pages/.gitignore'
+run:
+rm -rf gh-pages
+git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
+
+[default_3]
+# Compile pages via bookdown
+run:
+  cat Home.md alphabet.md /tmp/gas.md Others.md > /tmp/software.md
+  labnotes bind -t 'An Alphabetic List of Genetic Analysis Software' -a 'Gao Wang / Jurg Ott lab' -o gh-pages --md /tmp/software.md --no_section_number --split_by chapter

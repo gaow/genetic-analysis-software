@@ -1,18 +1,17 @@
-#GENOMESIMLA
-##Version
+##GENOMESIMLA
+###Version
 beta
 
-##Description
+###Description
 genomeSIMLA is a forward-time population simulation method that can simulate realistic patterns of LD in both family-based and case-control datasets.
 
-##Author
+###Author
 Marylyn Ritchie (email: genomesimla@chgr.mc.vanderbilt.edu)
 
-##URL
+###URL
 http://chgr.mc.vanderbilt.edu/genomeSIMLA/
 
-##Reference
+###Reference
 Dudek, Motsinger, Velez, Williams, Ritchie (2006), "Data simulation software for whole-genome association and other studies in human genetics", Pacific Symposium on Biocomputing, 499-510.
 
 
-## [Reviews on GENOMESIMLA](https://github.com/gaow/genetic-analysis-software/issues/167)

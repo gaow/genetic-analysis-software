@@ -1,21 +1,20 @@
-#POOL_STR
-##Full Name
+##POOL_STR
+###Full Name
 POOLing alleles of Short Tandem Repeat markers
 
-##Version
+###Version
 1.1
 
-##Author
+###Author
 * Yurii Aulchenko
 * Aida Bertoli-Avella
 * Cornelia van Duijn (Erasmus University Medical School, The Netherlands)
 
-##URL
+###URL
 * http://www.geneticepi.com/Research/software/software.html
 * http://www.geneticepi.com/Research/software/pool_str-1.1.tar.gz
 
-##Reference
+###Reference
 Aulchenko, Beroli-Avella, van Duijn (2005), "A method for pooling alleles from different genotyping experiments", Annals of Human Genetics, 69(2):233-238.
 
 
-## [Reviews on POOL_STR](https://github.com/gaow/genetic-analysis-software/issues/412)

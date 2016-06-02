@@ -1,19 +1,18 @@
-#Altrans
-##Description
+##Altrans
+###Description
 Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads
 
-##Year
+###Year
 2015
 
-##Author
+###Author
 * Ongen H.
 * Dermitzakis E.T.
 
-##Reference
+###Reference
 Ongen H., Dermitzakis E.T. (2015) submitted
 
-##Tag
+###Tag
 splicing
 
 
-## [Reviews on Altrans](https://github.com/gaow/genetic-analysis-software/issues/615)

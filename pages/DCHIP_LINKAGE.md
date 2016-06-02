@@ -1,21 +1,20 @@
-#DCHIP LINKAGE
-##Author
+##DCHIP LINKAGE
+###Author
 * Igor Leykin
 * Cheng Li (Harvard University)
 
-##URL
+###URL
 * http://www.biostat.harvard.edu/complab/dchip/snp.htm
 * http://www.biostat.harvard.edu/~ileykin/accessory.htm
 * http://groups.yahoo.com/group/dchip/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 MS-Windows
 
-##Reference
+###Reference
 Leykin et al. (2005), "Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data", BMC Genetics, 6:7.
 
 
-## [Reviews on DCHIP LINKAGE](https://github.com/gaow/genetic-analysis-software/issues/85)

@@ -1,18 +1,17 @@
-#COMPOSITELD
-##Version
+##COMPOSITELD
+###Version
 0.2.1 (December 2006)
 
-##Description
+###Description
 A method to compute composite measures of linkage disequilibrium, their variances and covariances, and statistical tests, for all pairs of alleles from two loci when linkage phase is unkown. An extension of Weir and Cockerham (1989) to apply to multi-allelic loci.
 
-##Author
+###Author
 Daniel Schaid (Mayo Clinic)
 
-##URL
+###URL
 http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
 
-##Language
+###Language
 R/S-PLUS
 
 
-## [Reviews on COMPOSITELD](https://github.com/gaow/genetic-analysis-software/issues/78)

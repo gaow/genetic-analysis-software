@@ -1,28 +1,27 @@
-#SLINK
-##Author
+##SLINK
+###Author
 * Daniel E. Weeks
 * Jurg Ott
 
-##URL
+###URL
 http://lab.rockefeller.edu/ott/programs
 
-##Language
+###Language
 Pascal
 
-##OS
+###OS
 MS-DOS
 
-##EXE
+###EXE
 slink, isim, lsim, msim
 
-##Reference
+###Reference
 * Ott (1989), Proceedings of the National Academy of Sciences , 86:4175-4178.
 * Weeks, Ott, Lathrop (1990), American Journal of Human Genetics, 47(suppl):A204.
 * online documentation
 * FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/20.html
 
-##Related
+###Related
 FASTSLINK
 
 
-## [Reviews on SLINK](https://github.com/gaow/genetic-analysis-software/issues/526)

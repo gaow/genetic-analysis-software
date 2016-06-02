@@ -1,27 +1,26 @@
-#TLINKAGE
-##Full Name
+##TLINKAGE
+###Full Name
 two-locus trait linkage programs
 
-##Description
+###Description
 these are extensions of the LINKAGE programs that allow the disease phenotype to be under the control of disease two loci.
 
-##Author
+###Author
 * Lathrop
 * Schork
 * Boehnke
 * Terwilliger
 * Ott
 
-##Language
+###Language
 Pascal
 
-##OS
+###OS
 MS-DOS
 
-##Reference
+###Reference
 * Lathrop, Ott (1990), American Journal of Human Genetics, 47(supp):A188.
 * Schork, Boehnke, Terwilliger, Ott (1993), "Two-trait-locus linkage analysis: a powerful strategy for mapping complex genetic traits", American Journal of Human Genetics, 53(5):1127-1136
 * online documentation
 
 
-## [Reviews on TLINKAGE](https://github.com/gaow/genetic-analysis-software/issues/587)

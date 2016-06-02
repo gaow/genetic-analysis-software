@@ -1,27 +1,26 @@
-#SIMCOAL
-##Full Name
+##SIMCOAL
+###Full Name
 SIMulate COAlescence
 
-##Version
+###Version
 1.0
 
-##Author
+###Author
 Laurent Excoffier (email: laurent.excoffier@zoo.unibe.ch)
 
-##URL
+###URL
 http://cmpg.unibe.ch/software/simcoal/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 MS-Windows(9X/NT)
 
-##EXE
+###EXE
 simcoal, sim_coal
 
-##Reference
+###Reference
 Excoffier, Novembre, Schneider (2000), "SIMCOAL: a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography", Journal of Heredity, 91:506-509.
 
 
-## [Reviews on SIMCOAL](https://github.com/gaow/genetic-analysis-software/issues/511)

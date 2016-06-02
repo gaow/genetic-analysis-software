@@ -1,25 +1,24 @@
-#PEDFIDDLER
-##Version
+##PEDFIDDLER
+###Version
 0.5 (August 2005)
 
-##Description
+###Description
 This suite of six programs can be used as a stand-alone extension of the pedigree drawing facilities found in the publicly available version of PEDPACK.
 
-##Author
+###Author
 * J C. Loredo-Osti (email: josti@bagel.epi.mcgill.ca)
 * Kenneth Morgan (email: ken@bagel.epi.mcgill.ca); Window version adapted by Michael Li (email:lina@u.washington.edu).
 
-##URL
+###URL
 http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml
 
-##Language
+###Language
 C,C++
 
-##OS
+###OS
 UNIX (OSF1, and Solaris 2.7, AlphaLinux) MS-Windows (XP Home/Win32/Win95), Linux
 
-##Related
+###Related
 PEDPACK in PANGAEA
 
 
-## [Reviews on PEDFIDDLER](https://github.com/gaow/genetic-analysis-software/issues/379)

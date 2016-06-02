@@ -1,29 +1,28 @@
-#MCLEEPS
-##Full Name
+##MCLEEPS
+###Full Name
 Monte Carlo Likelihood Estimation of Effective Population Size
 
-##Version
+###Version
 1.1 (September 2001)
 
-##Author
+###Author
 * Eric Anderson (email: eriq@cqs.washington.edu , University of Washington)
 * Ellen Williamson (University of California at Berkeley)
 
-##URL
+###URL
 * http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 * http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX, MacOS
 
-##Reference
+###Reference
 Anderson, Williamson, Thompson (2000), "Monte Carlo evaluation of the likelihood for Ne from temporally spaced samples", Genetics, 156:2109-2118.
 
-##Related
+###Related
 PANGAEA
 
 
-## [Reviews on MCLEEPS](https://github.com/gaow/genetic-analysis-software/issues/319)

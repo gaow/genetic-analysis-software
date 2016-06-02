@@ -1,20 +1,19 @@
-#LNKTOCRI
-##Description
+##LNKTOCRI
+###Description
 Conversion of LINKAGE format data files to CRI-MAP format
 
-##Author
+###Author
 * Jillian Blaschak
 * Tara Cox Matise (email: matise@biology.rutgers.edu)
 
-##URL
+###URL
 * http://compgen.rutgers.edu/multimap/
 * http://compgen.rutgers.edu/multimap/src/other/lnktocri.p
 
-##Language
+###Language
 Pascal
 
-##OS
+###OS
 UNIX, MS-DOS
 
 
-## [Reviews on LNKTOCRI](https://github.com/gaow/genetic-analysis-software/issues/279)

@@ -1,15 +1,14 @@
-#MATLINK
-##Description
+##MATLINK
+###Description
 A MATLAB utility for estimating genetic linkage in exotic line-cross mating designs
 
-##Author
+###Author
 J Clare Nelson (Kansas State University)
 
-##URL
+###URL
 http://coding.plantpath.ksu.edu/~jcn/MatLink.html
 
-##Language
+###Language
 MATLAB
 
 
-## [Reviews on MATLINK](https://github.com/gaow/genetic-analysis-software/issues/318)

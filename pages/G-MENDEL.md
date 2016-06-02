@@ -1,19 +1,18 @@
-#G-MENDEL
-##Version
+##G-MENDEL
+###Version
 3.0 (May 1994)
 
-##Description
+###Description
 a tool for construction of genetic linkage maps and analyzing Mendelian phenotypes.
 
-##Author
+###Author
 * J.L Holloway
 * S.J. Knapp (Department of Crop, Soil Science, Oregon State University)
 
-##URL
+###URL
 http://cropandsoil.oregonstate.edu/G-mendel
 
-##OS
+###OS
 UNIX, MS-Windows
 
 
-## [Reviews on G-MENDEL](https://github.com/gaow/genetic-analysis-software/issues/184)

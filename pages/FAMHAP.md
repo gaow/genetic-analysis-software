@@ -1,24 +1,24 @@
-#FAMHAP
-##Version
+##FAMHAP
+###Version
 16
 
-##Description
+###Description
 FAMHAP is a tool for haplotype association analysis of unphased genotype data. It can be used both for population data (case-control) and nuclear family data. The program is optimized for haplotype frequency estimation with the EM-algorithm for many markers. FAMHAP provides a method which searches for potential genotyping errors and several tests for haplotype-based association analysis. Particular emphasis is on Monte-Carlo simulations, which are necessary in the context of haplotype association, where asymptotic theory often fails, and in the context of multiple testing problems.
 
-##Author
+###Author
 * Tim Becker (email: tim.becker@ukb.uni-bonn.de)
 * Michael Knapp
 
-##URL
+###URL
 http://www.uni-bonn.de/~umt70e/becker.html
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX, MS-Windows, MacOS
 
-##Reference
+###Reference
 * Becker, Knapp (2004), "Maximum-likelihood estimation of haplotype frequencies in nuclear families", Genetic Epidemiology, 27;21-32.
 * Becker, Knapp (2004), "A powerful strategy to account for multiple testing in the context of haplotype analysis", American Journal of Human Genetics, 75:561-570
 * Becker, Knapp (2005), "Impact of missing genotype data on Monte-carlo simulation based haplotype analysis", Human Heredity, 59:185-189.
@@ -28,4 +28,3 @@ UNIX, MS-Windows, MacOS
 * Becker, Baur, Knapp (2006), "Detection of parent-of-origin effects using haplotype analysis", Human Heredity, 62:64-76
 
 
-## [Reviews on FAMHAP](https://github.com/gaow/genetic-analysis-software/issues/117)

@@ -1,22 +1,21 @@
-#MALDSOFT
-##Version
+##MALDSOFT
+###Version
 1.0
 
-##Description
+###Description
 MALDSoft is a program for admixture mapping of complex trait loci, using case-control data. The samples should come from a recently-admixed population; additional 'learning' samples from the parental populations are helpful.
 
-##Author
+###Author
 * Giovanni Montana
 * Jonathan Pritchard (email: jpritcha@genetics.uchicago.edu)
 
-##URL
+###URL
 http://pritch.bsd.uchicago.edu/software/maldsoft_download.html
 
-##OS
+###OS
 UNIX, Linux, MS-Windows (DOS/Window...)
 
-##Reference
+###Reference
 G Montana, JK Pritchard (2004), "Statistical tests for admixture mapping with case-control and cases-only data", American Journal of Human Genetics, 75(5):771-789
 
 
-## [Reviews on MALDSOFT](https://github.com/gaow/genetic-analysis-software/issues/297)

@@ -1,36 +1,35 @@
-#Variant Tools
-##Version
+##Variant Tools
+###Version
 2.6.1
 
-##Description
+###Description
 Variant tools is a software tool for the manipulation, annotation, selection, simulation, and analysis of variants in the context of next-gen sequencing analysis. Unlike some other tools used for Next-Gen sequencing analysis, variant tools is project based and provides a whole set of tools to manipulate and analyze genetic variants.
 
-##Year
+###Year
 2012
 
-##Author
+###Author
 * Anthony San Lucas
 * Gao Wang
 * Paul Scheet
 * Bo Peng
 
-##URL
+###URL
 http://varianttools.sourceforge.net
 
-##Language
+###Language
 C++, Python
 
-##OS
+###OS
 Linux, MacOS
 
-##EXE
+###EXE
 vtools
 
-##Reference
+###Reference
 F. Anthony San Lucas, Gao Wang, Paul Scheet, and Bo Peng (2012) Integrated annotation and analysis of genetic variants from next-generation sequencing studies with variant tools, Bioinformatics 28 (3): 421-422.
 
-##Tag
+###Tag
 NGS variant filtering, annotation
 
 
-## [Reviews on Variant Tools](https://github.com/gaow/genetic-analysis-software/issues/614)

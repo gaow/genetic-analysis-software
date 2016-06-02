@@ -1,16 +1,15 @@
-#2SNP
-##Version
+##2SNP
+###Version
 1.5 (Aug 4, 2006)
 
-##Author
+###Author
 * Alexander Zelikovsky (email: alexz@cs.gsu.edu)
 * Dumitru Brinza (email: dima@cs.gsu.edu)
 
-##URL
+###URL
 http://alla.cs.gsu.edu/~software/2SNP/
 
-##Reference
+###Reference
 Brinza and Zelikovsky (2006), "2SNP: scalable phasing based on 2-SNP haplotypes", Bioinformatics, 22(3):371-373.
 
 
-## [Reviews on 2SNP](https://github.com/gaow/genetic-analysis-software/issues/3)

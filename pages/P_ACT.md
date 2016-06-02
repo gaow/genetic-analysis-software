@@ -1,18 +1,17 @@
-#P_ACT
-##Full Name
+##P_ACT
+###Full Name
 P-values: Adjustment for Correlated Tests
 
-##Version
+###Version
 1.2
 
-##Description
+###Description
 P_ACT is an R program that adjusts sets of up to 1000 p-values from association tests between correlated traits and SNPs for multiple testing, accounting for the correlation between tests.
 
-##URL
+###URL
 http://csg.sph.umich.edu/boehnke/p_act.php
 
-##Reference
+###Reference
 Conneely, Boehnke (2007), "So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests", American Journal of Human Genetics, 81(6):1158-1168
 
 
-## [Reviews on P_ACT](https://github.com/gaow/genetic-analysis-software/issues/365)

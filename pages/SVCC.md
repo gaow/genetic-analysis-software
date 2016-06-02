@@ -1,19 +1,18 @@
-#SVCC
-##Full Name
+##SVCC
+###Full Name
 Semiparametric Variance-Component for Censored data
 
-##Author
+###Author
 * Guoqing Diao (email: gdiao@gmu.edu)
 * Danyu Lin
 
-##URL
+###URL
 http://www.bios.unc.edu/~lin/software/SVCC/
 
-##OS
+###OS
 Linux
 
-##Reference
+###Reference
 Diao, Lin (2006), "Semiparametric variance-component models for linkage and association analyses of censored trait data", Genetic Epidemiology, 30:570-581.
 
 
-## [Reviews on SVCC](https://github.com/gaow/genetic-analysis-software/issues/569)

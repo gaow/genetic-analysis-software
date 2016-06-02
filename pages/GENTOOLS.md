@@ -1,28 +1,27 @@
-#GENTOOLS
-##Description
+##GENTOOLS
+###Description
 software for analysis and manipulation of genetic linkage data of genetic linkage data, including conversions of pedigree files between CRI-MAP and LINKAGE format.
 
-##Author
+###Author
 * Raymond Weaver
 * Cynthia Helms
 * Santosh Mishra
 * Helen Donis-Keller (Washington University School of Medicine, St. Lious)
 
-##URL
+###URL
 * http://www.genlink.wustl.edu/software/index.html
 * ftp://mapper.wustl.edu/pub/gentools
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX
 
-##EXE
+###EXE
 faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unmerge2
 
-##Reference
+###Reference
 Weaver, Helms, Mishra, Donis-Keller (1992), "Software for analysis and manipulation of genetic linkage data", American Journal of Human Genetics, 50:1267-1274
 
 
-## [Reviews on GENTOOLS](https://github.com/gaow/genetic-analysis-software/issues/171)

@@ -1,21 +1,20 @@
-#ZAPLO
-##Version
+##ZAPLO
+###Version
 Oct 5, 2005
 
-##Description
+###Description
 zero recombinant haplotyping
 
-##Author
+###Author
 Jeff O'Connell (email: joconnel@medicine.umaryland.edu, zaplo@molecular-haplotype.org)
 
-##URL
+###URL
 http://www.molecular-haplotype.org/zaplo/zaplo_index.html
 
-##OS
+###OS
 Linux, UNIX(Solaris)
 
-##Reference
+###Reference
 O'Connell (2000), "Zero-recombinant haplotyping: applications to fine mapping using SNPs,", Genetic Epidemiology, 19:S64-S70.
 
 
-## [Reviews on ZAPLO](https://github.com/gaow/genetic-analysis-software/issues/612)

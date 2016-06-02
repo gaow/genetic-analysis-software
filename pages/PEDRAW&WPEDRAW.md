@@ -1,28 +1,27 @@
-#PEDRAW/WPEDRAW
-##Full Name
+##PEDRAW/WPEDRAW
+###Full Name
 Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)
 
-##Version
+###Version
 2.5
 
-##Description
+###Description
 a pedigree drawing program using LINKAGE data files
 
-##Author
+###Author
 Dave Curtis (email: dcurtis@hgmp.mrc.ac.uk)
 
-##URL
+###URL
 * http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
 * ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 MS-DOS, MS-Windows, X-window
 
-##Reference
+###Reference
 Curtis (1990), Annals of Human Genetics, 54:365-367.
 
 
-## [Reviews on PEDRAW/WPEDRAW](https://github.com/gaow/genetic-analysis-software/issues/392)

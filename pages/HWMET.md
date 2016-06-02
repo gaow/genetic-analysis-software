@@ -1,15 +1,14 @@
-#HWMET
-##Description
+##HWMET
+###Description
 Bayesian estimation of the population inbreeding coefficient f
 
-##Author
+###Author
 KL Ayres (email: k.l.ayres@reading.ac.uk)
 
-##URL
+###URL
 http://www.reading.ac.uk/Statistics/genetics/software.html
 
-##Language
+###Language
 C
 
 
-## [Reviews on HWMET](https://github.com/gaow/genetic-analysis-software/issues/242)

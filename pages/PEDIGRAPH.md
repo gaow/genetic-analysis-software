@@ -1,28 +1,27 @@
-#PEDIGRAPH
-##Version
+##PEDIGRAPH
+###Version
 2.3
 
-##Description
+###Description
 A pedigree visualization program specifically designed to draw large, complex pedigrees.
 
-##Author
+###Author
 * John Garbe (University of Minnesota, email: jgarbe@umn.edu)
 * Yang Da (University of Minnesota, email: yda@umn.edu)
 
-##URL
+###URL
 http://animalgene.umn.edu/pedigraph/
 
-##Language
+###Language
 C,C++
 
-##OS
+###OS
 MS-Windows, Linux
 
-##EXE
+###EXE
 pedigraph
 
-##Reference
+###Reference
 J Garbe, Y Da (2003), Pedigraph user manual Version 1.1\. Department of Animal Science, University of Minnesota.
 
 
-## [Reviews on PEDIGRAPH](https://github.com/gaow/genetic-analysis-software/issues/381)

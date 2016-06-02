@@ -1,18 +1,17 @@
-#SPERMSEG
-##Description
+##SPERMSEG
+###Description
 analysis of segregation in single-sperm data
 
-##Author
+###Author
 MS McPeek ( mcpeek@galton.uchicago.eduUniv Chicago)
 
-##URL
+###URL
 http://galton.uchicago.edu/~mcpeek/software/spermseg
 
-##Language
+###Language
 C
 
-##Reference
+###Reference
 MS McPeek (1999), "SPERMSEG: analysis of segregation distortion in single-sperm data", American Journal of Human Genetics, 65(4):1195-1197\. [ html]
 
 
-## [Reviews on SPERMSEG](https://github.com/gaow/genetic-analysis-software/issues/552)

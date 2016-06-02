@@ -1,24 +1,23 @@
-#LDHAT
-##Version
+##LDHAT
+###Version
 2.0
 
-##Description
+###Description
 a package for the analysis of recombination rates from population genetic data
 
-##Author
+###Author
 Gil McVean (email: mcvean@stats.ox.ac.uk)
 
-##URL
+###URL
 http://www.stats.ox.ac.uk/~mcvean/LDhat/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 DOS
 
-##Reference
+###Reference
 McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), "The fine-scale structure of recombination rate variation in the human genome", Science, 304:581-584.
 
 
-## [Reviews on LDHAT](https://github.com/gaow/genetic-analysis-software/issues/267)

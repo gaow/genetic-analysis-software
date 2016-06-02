@@ -1,21 +1,20 @@
-#MMDRAWER
-##Version
+##MMDRAWER
+###Version
 0.2.0.0 (April 2003)
 
-##Description
+###Description
 draw chromosome maps from the output of MAPMAKER/EXP. The output format is a Enhanced Metafile, which can be imported into most Windows-based presentation or document editing programs.
 
-##Author
+###Author
 Michael Brown
 
-##URL
+###URL
 http://www.emboss.co.nz/products.php?pid=2
 
-##Language
+###Language
 Delphi
 
-##OS
+###OS
 MS-Windows
 
 
-## [Reviews on MMDRAWER](https://github.com/gaow/genetic-analysis-software/issues/344)

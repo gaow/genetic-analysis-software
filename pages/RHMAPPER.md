@@ -1,24 +1,23 @@
-#RHMAPPER
-##Version
+##RHMAPPER
+###Version
 1.22 (1998)
 
-##Description
+###Description
 an interactive program for radiation hybrid mapping
 
-##Author
+###Author
 Lincoln Stein (Whitehead Institute, lstein@genome.wi.mit.edu)
 
-##URL
+###URL
 * http://www-genome.wi.mit.edu/ftp/pub/software/rhmapper/
 * ftp://ftp-genome.wi.mit.edu/pub/software/rhmapper
 
-##Language
+###Language
 Perl
 
-##Reference
+###Reference
 * Hudson, Stein, et al. (1995), Science, 270:1945-1954.
 * Slonim, Stein, Kruglyak, Lander (1996), in preparation.
 * online user's guide
 
 
-## [Reviews on RHMAPPER](https://github.com/gaow/genetic-analysis-software/issues/467)

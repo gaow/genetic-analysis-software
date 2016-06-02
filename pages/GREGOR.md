@@ -1,20 +1,19 @@
-#GREGOR
-##Description
+##GREGOR
+###Description
 the program allows students and scientists to explore potential manifestations of genetic models and stochastic processes. It also provides a means to evaluate the effectiveness of statistical procedures such as linkage analysis or QTL detection.
 
-##Author
+###Author
 * Nick Tinker ( tinker@agr.gc.ca)
 * Diane Mather (grain crops breeding, genetic research, McGill Univ, mather@agradm.lan.mcgill.ca)
 
-##URL
+###URL
 * http://gnome.agrenv.mcgill.ca/tinker/gregor.htm
 * ftp://gnome.agrenv.mcgill.ca/software/GREGOR/
 
-##OS
+###OS
 MS-DOS
 
-##Reference
+###Reference
 Tinker and Mather, Journal of Heredity, 84, 237 (1993)
 
 
-## [Reviews on GREGOR](https://github.com/gaow/genetic-analysis-software/issues/186)

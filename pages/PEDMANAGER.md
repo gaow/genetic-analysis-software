@@ -1,24 +1,23 @@
-#PEDMANAGER
-##Other Name
+##PEDMANAGER
+###Other Name
 MAPMAKER/PEDMANAGER
 
-##Version
+###Version
 0.9 (1997)
 
-##Author
+###Author
 Mary Pat Daly (previously Mary Pat Reeve) (MIT/Whitehead)
 
-##URL
+###URL
 http://www-genome.wi.mit.edu/ftp/distribution/software/pedmanager/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX
 
-##EXE
+###EXE
 pedprep
 
 
-## [Reviews on PEDMANAGER](https://github.com/gaow/genetic-analysis-software/issues/387)

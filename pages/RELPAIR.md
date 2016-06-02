@@ -1,25 +1,24 @@
-#RELPAIR
-##Version
+##RELPAIR
+###Version
 2.01 (June 2004)
 
-##Description
+###Description
 A program that infers the relationships of pairs of individuals based on genetic marker data, either within families or across an entire sample.
 
-##Author
+###Author
 * Michael Boehnke
 * William Duren (Biostat, U Michigan)
 
-##URL
+###URL
 http://csg.sph.umich.edu/boehnke/relpair.php
 
-##Language
+###Language
 FORTRAN77
 
-##OS
+###OS
 MS-Windows (95), UNIX
 
-##Reference
+###Reference
 Am Soc Hum Genet annual meeting 1997 (Duren,Cox,Hauser,Boehnke, Am J. Hum Genet. suppl 61, A273(1997)).
 
 
-## [Reviews on RELPAIR](https://github.com/gaow/genetic-analysis-software/issues/456)

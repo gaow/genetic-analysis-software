@@ -1,20 +1,19 @@
-#BLADE
-##Full Name
+##BLADE
+###Full Name
 Bayesian LinkAge DisEquilibrium mapping
 
-##Version
+###Version
 v2
 
-##Author
+###Author
 Jun Liu (Harvard Univ) (email: jliu@stat.harvard.edu)
 
-##URL
+###URL
 * http://www.people.fas.harvard.edu/~junliu/index1.html
 * http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz
 
-##Reference
+###Reference
 * Liu, Sabatti, Teng, Keats, Risch (2001), "Bayesian analysis of haplotypes for linkage disequilibrium mapping", Genome Research, 11:1716-1724.
 * Lu, Niu, Liu (2003), "Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms", Genome Research, 13:2112-2117.
 
 
-## [Reviews on BLADE](https://github.com/gaow/genetic-analysis-software/issues/43)

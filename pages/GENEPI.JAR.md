@@ -1,28 +1,27 @@
-#GENEPI.JAR
-##Version
+##GENEPI.JAR
+###Version
 September 2006
 
-##Description
+###Description
 a set of Java programs for genetic epidemiology analysis
 
-##Author
+###Author
 Alun Thomas (University of Utah)
 
-##URL
+###URL
 * http://bioinformatics.med.utah.edu/~alun/software/index.html
 * http://balance.med.utah.edu/wiki/index.php/JPSGCS
 
-##Language
+###Language
 Java
 
-##OS
+###OS
 web-based
 
-##EXE
+###EXE
 CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,
 
-##Related
+###Related
 JPSGCS
 
 
-## [Reviews on GENEPI.JAR](https://github.com/gaow/genetic-analysis-software/issues/154)

@@ -1,28 +1,27 @@
-#PSEUDO
-##Version
+##PSEUDO
+###Version
 0.3.5
 
-##Description
+###Description
 Pseudo estimates genomewide empirical p-values for Kong and Cox tests of linkage using the replicate pool method, which for many data sets, improves upon the computational efficiency of conventional gene-dropping methods by several orders of magnitude. This allows Pseudo to handle data sets with large families and makes it particularly applicable to those situations where p-value estimation by standard methods is computationally prohibitive. Pseudo also estimates variance for reported p-values, produces graphical and text summaries of results, and is able to assess significance of multiple correlated outcomes. Pseudo is designed to work with the Merlin package and includes utilities for generating input files from standard Merlin output.
 
-##Author
+###Author
 * Janis Wigginton (email:wiggie@umich.edu)
 * Goncalo Abecasis
 
-##URL
+###URL
 http://www.sph.umich.edu/csg/abecasis/pseudo/download
 
-##Language
+###Language
 C,C++
 
-##OS
+###OS
 Linux, UNIX, MacOS, MS-Windows
 
-##EXE
+###EXE
 pseudo, scan
 
-##Reference
+###Reference
 Wigginton, Abecasis (2006), "An evaluation of the replicate pool method: quick estimation of genome-wide linkage peak p-values", Genetic Epidemiology, 30(4):320-332.
 
 
-## [Reviews on PSEUDO](https://github.com/gaow/genetic-analysis-software/issues/429)

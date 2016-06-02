@@ -1,21 +1,20 @@
-#SNPLINK
-##Description
+##SNPLINK
+###Description
 Multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal. SNPLINK requires these other programs installed on the system: MERLIN (used for nonparametric analysis), ALLEGRO (used for parametric analysis), R and PERL, all are freely available.
 
-##Author
+###Author
 Emily Webb (The Institute for Cancer Research, email: emily.webb@icr.ac.uk)
 
-##URL
+###URL
 http://www.icr.ac.uk/cancgen/molgen/MolPopGen_Bioinformatics.htm
 
-##Language
+###Language
 Perl
 
-##OS
+###OS
 UNIX
 
-##Reference
+###Reference
 Webb, Sellick, Houlston (2005), "SNPLINK: multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal", Bioinformatics, 21:3060-3061.
 
 
-## [Reviews on SNPLINK](https://github.com/gaow/genetic-analysis-software/issues/541)

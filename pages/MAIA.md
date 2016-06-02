@@ -1,15 +1,14 @@
-#MAIA
-##Version
+##MAIA
+###Version
 1.0 (Jan 2000)
 
-##Description
+###Description
 complex segregaton analysis in animal pedigrees
 
-##Author
+###Author
 Yurii Aulchenko (email: yurii@bionet.nsc.ru)
 
-##URL
+###URL
 http://mga.bionet.nsc.ru/soft/maia-1.0/
 
 
-## [Reviews on MAIA](https://github.com/gaow/genetic-analysis-software/issues/295)

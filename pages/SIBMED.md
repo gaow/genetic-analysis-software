@@ -1,31 +1,30 @@
-#SIBMED
-##Full Name
+##SIBMED
+###Full Name
 SIBling Mutation and Error Detection
 
-##Version
+###Version
 1.0
 
-##Description
+###Description
 SIBMED identifies likely genotyping errors and mutations for a sib pair in the context of multipoint mapping.
 
-##Author
+###Author
 * Julie A Douglas
 * Michael Boehnke (Univ Michigan)
 
-##URL
+###URL
 http://csg.sph.umich.edu/boehnke/sibmed.php
 
-##Language
+###Language
 FORTRAN 77
 
-##OS
+###OS
 MS-Windows, UNIX
 
-##EXE
+###EXE
 sibmed.exe
 
-##Reference
+###Reference
 Douglas, Boehnke, Lange (2000), "A multipoint method for detecting genotyping errors and mutations in sibling-pair linkage data", American Journal of Human Genetics, 66(4):1287-1297\. [ html]
 
 
-## [Reviews on SIBMED](https://github.com/gaow/genetic-analysis-software/issues/506)

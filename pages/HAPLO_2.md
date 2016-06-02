@@ -1,25 +1,24 @@
-#HAPLO 2
-##Version
+##HAPLO 2
+###Version
 2.5 (1998)
 
-##Description
+###Description
 Estimates frequencies of multi-site haplotypes using the EM algorithm
 
-##Author
+###Author
 * ME Hawley
 * KK Kidd
 
-##URL
+###URL
 http://krunch.med.yale.edu/haplo/
 
-##Language
+###Language
 FORTRAN
 
-##OS
+###OS
 DEC VAX
 
-##Reference
+###Reference
 Hawley, Kidd (1995), "HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes", Journal of Heredity, 86:409-411.
 
 
-## [Reviews on HAPLO 2](https://github.com/gaow/genetic-analysis-software/issues/204)

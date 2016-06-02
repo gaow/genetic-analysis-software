@@ -1,22 +1,21 @@
-#EQTL EXPLORER
-##Version
+##EQTL EXPLORER
+###Version
 5.0
 
-##Description
+###Description
 EQTL EXPORER is an eQTL visualization tool that allows users to mine and understand data from a repository of genetical genomics experiments
 
-##Author
+###Author
 * Michael Mueller
 * Jonathan Mangion (Imperial College, UK)
 
-##URL
+###URL
 http://web.bioinformatics.ic.ac.uk/eqtlexplorer/
 
-##Language
+###Language
 Java
 
-##Reference
+###Reference
 Mueller, Goel, Thimma, Dickens, Aitman, Mangion (2006), "eQTL Explorer: integrated mining of combined genetic linkage and expression experiments", Bioinformatics, 22(4):509-511.
 
 
-## [Reviews on EQTL EXPLORER](https://github.com/gaow/genetic-analysis-software/issues/111)

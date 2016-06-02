@@ -1,24 +1,23 @@
-#LOH-LINKAGE
-##Description
+##LOH-LINKAGE
+###Description
 a program using loss of heterozygosity data to enhance the power to detect linkage in cancer families.
 
-##Author
+###Author
 * Klaus Rohde (Max Delbruck Center for Molecular Medicine, Germany) (rohde@mdc-berlin.de)
 * Mauro F. Santibanez Koref
 * M Dawn Teare
 
-##URL
+###URL
 http://www.bioinf.mdc-berlin.de/~rohde/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX
 
-##Reference
+###Reference
 * Rohde et al, (1995), Human Heredity, 45:337-345.
 * Teare et al, J Med Genet 1994; 31:448-452.
 
 
-## [Reviews on LOH-LINKAGE](https://github.com/gaow/genetic-analysis-software/issues/283)

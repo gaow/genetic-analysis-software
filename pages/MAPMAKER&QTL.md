@@ -1,8 +1,8 @@
-#MAPMAKER/QTL
-##Version
+##MAPMAKER/QTL
+###Version
 new version in April 1995
 
-##Author
+###Author
 * Eric Lander
 * Phil Green
 * J. Abrahamson
@@ -11,19 +11,18 @@ new version in April 1995
 * Steve Lincoln
 * L. Newburg (Whitehead Institute)
 
-##URL
+###URL
 * http://www-genome.wi.mit.edu/genome_software
 * ftp://ftp-genome.wi.mit.edu/distribution/software/newqtl" and ftp://ftp-genome.wi.mit.edu/distribution/software/mapmaker3
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX, VMS, MS-DOS, MacOS
 
-##Reference
+###Reference
 * Lander et al (1987), Genomics,1,174-181.
 * online tutorial and reference manual (v1.1, 1993)
 
 
-## [Reviews on MAPMAKER/QTL](https://github.com/gaow/genetic-analysis-software/issues/309)

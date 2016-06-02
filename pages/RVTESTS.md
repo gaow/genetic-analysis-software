@@ -1,17 +1,16 @@
-#RVTESTS
-##Full Name
+##RVTESTS
+###Full Name
 Rare Variants TESTS
 
-##Author
+###Author
 * X Zhan
 * Youna Hu
 * G Abecasis (Univ Michigan)
 
-##URL
+###URL
 http://genome.sph.umich.edu/wiki/RvTests
 
-##Language
+###Language
 C++
 
 
-## [Reviews on RVTESTS](https://github.com/gaow/genetic-analysis-software/issues/490)

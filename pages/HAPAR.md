@@ -1,23 +1,22 @@
-#HAPAR
-##Full Name
+##HAPAR
+###Full Name
 HAplotype inference by PARsimony
 
-##Description
+###Description
 HAPAR is a program to infer haplotype from genotype data. It uses the parsimony principle, i.e. try to find the minimum number of haplotypes that can reconstruct the input genotypes.
 
-##Author
+###Author
 * Lusheng Wang (City University of Hong Kong)
 * Ying Xu (Stanford Univ)
 
-##URL
+###URL
 * http://theory.stanford.edu/~xuying/hapar/
 * http://www.cs.cityu.edu.hk/~lwang/hapar/index.html
 
-##OS
+###OS
 MS-Window, UNIX(Solaris/..)
 
-##Reference
+###Reference
 Wang, Xu (2003), "Haplotype inference by maximum parsimony", Bioinformatics, 19(14):1773-1780.
 
 
-## [Reviews on HAPAR](https://github.com/gaow/genetic-analysis-software/issues/197)

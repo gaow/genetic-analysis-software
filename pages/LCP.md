@@ -1,27 +1,26 @@
-#LCP
-##Full Name
+##LCP
+###Full Name
 Linkage Control Program
 
-##Other Name
+###Other Name
 LINKAGE
 
-##Version
+###Version
 This is a 16 bit program and will not run on 64 bit PCs, see [http://www.jurgott.org/linkage/LinkagePC.html](http://www.jurgott.org/linkage/LinkagePC.html)
 
-##Description
+###Description
 part of the LINKAGE auxiliary programs
 
-##Author
+###Author
 Peter Cartwright (Univ Utah, now Cimarron Software [pc@cimsoft.com](mailto:pc@cimsoft.com))
 
-##URL
+###URL
 http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 
-##Language
+###Language
 C and Pascal
 
-##OS
+###OS
 UNIX, VMS, MS-DOS, OS2
 
 
-## [Reviews on LCP](https://github.com/gaow/genetic-analysis-software/issues/263)

@@ -1,16 +1,15 @@
-#J/QTL
-##Description
+##J/QTL
+###Description
 J/QTL is a Java GUI for the popular QTL data analysis software R/QTL. It provides a flexible and powerful working environment for users to perform a variety of tasks.
 
-##Author
+###Author
 * Hao Wu
 * Lei Wu (Jackson Lab) (email: jqtl@jax.com)
 
-##URL
+###URL
 http://www.jax.org/staff/churchill/labsite/software/Jqtl/index.html
 
-##Language
+###Language
 Java
 
 
-## [Reviews on J/QTL](https://github.com/gaow/genetic-analysis-software/issues/255)

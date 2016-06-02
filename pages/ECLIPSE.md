@@ -1,31 +1,30 @@
-#ECLIPSE
-##Full Name
+##ECLIPSE
+###Full Name
 Error Correcting Likelihoods In Pedigree Structure Estimation.
 
-##Version
+###Version
 1.1 (October 2003)
 
-##Description
+###Description
 A set of three programs, preproc, eclipse2 and eclipse3 which analyze genetic marker data for genotypic errors and pedigree errors. Using a single preprocessing program (preproc), eclipse2 analyzes data on pairs of individuals, and eclise3 analyzes data jointly on trios.
 
-##Author
+###Author
 Solveig Sieberts (email: solly@stat.washington.edu) based on some earlier prototype routines by Jochen Kumm.
 
-##URL
+###URL
 * http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 * http://www.stat.washington.edu/thompson/Genepi/Eclipse.shtml
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 Tested on Unix (Compaq Tru64 V5.0A)
 
-##EXE
+###EXE
 prepro, eclipse2, eclipse3
 
-##Related
+###Related
 PANGAEA
 
 
-## [Reviews on ECLIPSE](https://github.com/gaow/genetic-analysis-software/issues/98)

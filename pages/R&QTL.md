@@ -1,25 +1,24 @@
-#R/QTL
-##Version
+##R/QTL
+###Version
 1.05-2 (November 2006)
 
-##Description
+###Description
 Program for mapping quantitative trait loci in experimental crosses.
 
-##Author
+###Author
 * Karl W. Broman (Johns Hopkins Univ, kbroman@jhsph.edu)
 * Hao Wu (The Jackson Laboratory)
 
-##URL
+###URL
 http://www.rqtl.org
 
-##Language
+###Language
 C and R
 
-##OS
+###OS
 UNIX, MS-Windows, MacOS
 
-##Reference
+###Reference
 Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890\. [Medline]
 
 
-## [Reviews on R/QTL](https://github.com/gaow/genetic-analysis-software/issues/484)

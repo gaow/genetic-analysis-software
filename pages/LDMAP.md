@@ -1,24 +1,23 @@
-#LDMAP
-##Version
+##LDMAP
+###Version
 1.0 (November 2004)
 
-##Description
+###Description
 LDMAP is a program for constructing linkage disequilibrium (LD) maps.
 
-##Author
+###Author
 Andy Collins (email: a.r.collins@soton.ac.uk)
 
-##URL
+###URL
 http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX(Solaris)
 
-##Reference
+###Reference
 online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.html
 
 
-## [Reviews on LDMAP](https://github.com/gaow/genetic-analysis-software/issues/269)

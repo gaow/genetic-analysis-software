@@ -1,23 +1,22 @@
-#ANCESTRYMAP
-##Version
+##ANCESTRYMAP
+###Version
 2.0
 
-##Description
+###Description
 ANCESTRYMAP screens through the genome in a recently mixed population such as African Americans, searching for segments with increased ancestry from one of the ancestral populations, which can indicate the position of disease genes
 
-##Author
+###Author
 * Arti Tandon (email: atandon@broad.mit.edu)
 * Nick Patterson (email: nickp@broad.mit.edu)
 * David Reich.
 
-##URL
+###URL
 http://genepath.med.harvard.edu/~reich/Software.htm
 
-##OS
+###OS
 UNIX, Linux
 
-##Reference
+###Reference
 Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O'Brien, Altshuler, Daly, Reich (2004), "Methods for high-density admixture mapping of disease genes", American Journal of Human Genetics, 74(5):97-1000
 
 
-## [Reviews on ANCESTRYMAP](https://github.com/gaow/genetic-analysis-software/issues/18)

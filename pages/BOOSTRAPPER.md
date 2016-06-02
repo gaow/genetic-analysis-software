@@ -1,15 +1,14 @@
-#BOOSTRAPPER
-##Version
+##BOOSTRAPPER
+###Version
 1.0
 
-##Description
+###Description
 Robust haploblock border reliability estimation tool is implemented for LD based haploblock detection method. The most important new features are bootstrapping and overlapping block borders.
 
-##URL
+###URL
 http://bioinfo.ebc.ee/download/
 
-##OS
+###OS
 MS-Window, Linux
 
 
-## [Reviews on BOOSTRAPPER](https://github.com/gaow/genetic-analysis-software/issues/48)

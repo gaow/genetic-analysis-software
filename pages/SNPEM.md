@@ -1,15 +1,14 @@
-#SNPEM
-##Full Name
+##SNPEM
+###Full Name
 SNP Expectation Maximization
 
-##Description
+###Description
 EM algorithm estimations of SNP haplotypes
 
-##URL
+###URL
 http://polymorphism.ucsd.edu/snpem/
 
-##OS
+###OS
 web-based
 
 
-## [Reviews on SNPEM](https://github.com/gaow/genetic-analysis-software/issues/535)

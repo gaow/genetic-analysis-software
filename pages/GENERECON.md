@@ -1,21 +1,20 @@
-#GENERECON
-##Description
+##GENERECON
+###Description
 GeneRecon is a software package for linkage disequilibrium mapping using coalescent theory. It is based on a Bayesian Markov-chain Monte Carlo (MCMC) method for fine-scale linkage-disequilibrium gene mapping using high-density marker maps. GeneRecon explicitly models the genealogy of a sample of the case chromosomes in the vicinity of a disease locus. Given case and control data in the form of genotype or haplotype information, it estimates a number of parameters, most importantly, the disease position.
 
-##Author
+###Author
 Thomas Mailund (email: mailund@birc.au.dk) (Univ of Oxford, UK, Univ of Aarhus, Denmark)
 
-##URL
+###URL
 http://www.daimi.au.dk/~mailund/GeneRecon/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX, Linux, MacOS, MS-Windows
 
-##Reference
+###Reference
 Mailund, Schierup, Pedersen, Madsen, Hein, Schauser (2006), "GeneRecon -- A coalescent based tool for fine-scale association mapping", Bioinformatics, 22(18):2317-2318.
 
 
-## [Reviews on GENERECON](https://github.com/gaow/genetic-analysis-software/issues/157)

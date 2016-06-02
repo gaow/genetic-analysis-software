@@ -1,18 +1,17 @@
-#MILD
-##Full Name
+##MILD
+###Full Name
 MultIallelic Linkage Disequilibrium: a program for adjusted linkage disequilibrium (LD) calculations
 
-##Version
+###Version
 2.1 (2002)
 
-##Author
+###Author
 Yuril S Aulchenko (email: aulchenko@epib.fgg.eur.nl) (Erasmus University Medical School, The Netherlands)
 
-##URL
+###URL
 http://www.geneticepi.com/Research/software/software.html
 
-##OS
+###OS
 UNIX, Linux
 
 
-## [Reviews on MILD](https://github.com/gaow/genetic-analysis-software/issues/334)

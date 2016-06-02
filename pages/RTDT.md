@@ -1,18 +1,17 @@
-#RTDT
-##Full Name
+##RTDT
+###Full Name
 Robust Transmission/Disequilibrium Test
 
-##Version
+###Version
 1.0
 
-##URL
+###URL
 http://bios.ugr.es/~mabad/rTDT/index.html
 
-##Language
+###Language
 Matlab, C++
 
-##Reference
+###Reference
 Sebastiani, Abad, Alpargu, Ramoni (2004), "Robust Transmission/Disequilibrium Test for incomplete family genotypes", Genetics, 168:2329-2337.
 
 
-## [Reviews on RTDT](https://github.com/gaow/genetic-analysis-software/issues/489)

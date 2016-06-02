@@ -1,32 +1,31 @@
-#DHSMAP
-##Full Name
+##DHSMAP
+###Full Name
 Decay of Haplotype Sharing MAPping software
 
-##Version
+###Version
 2.0 (October 18, 2001)
 
-##Description
+###Description
 DHSMAP is a program for fine-mapping of qualitative traits by linkage disequilibrium. Given a set of marker haplotypes or genotypes from affected individuals, haplotypes or genotypes from appropriately selected controls, and a genetic map of the markers at which both sets of individuals are typed, DHSMAP estimates the location of the trait-associated variant by maximum likelihood or maximum quasi-likelihood.
 
-##Author
+###Author
 * Andrew Strahs
 * Kenneth Wilder
 * Mary Sara McPeek (University of Chicago)
 
-##URL
+###URL
 http://galton.uchicago.edu/~mcpeek/software/dhsmap/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX(Solaris/..), Linux
 
-##EXE
+###EXE
 dhsmap.solaris, dhsmap.linux
 
-##Reference
+###Reference
 McPeek and Strahs (1999), "Assessment of linkage disequilibrium by the decay of haplotype sharing, with application to fine-scale genetic mapping", American Journal of Human Genetics, 65(3):858-875
 
 
-## [Reviews on DHSMAP](https://github.com/gaow/genetic-analysis-software/issues/87)

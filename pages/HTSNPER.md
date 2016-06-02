@@ -1,28 +1,27 @@
-#HTSNPER
-##Full Name
+##HTSNPER
+###Full Name
 Haplotype Tagging SNPer
 
-##Version
+###Version
 1.0 (Dec 2003)
 
-##Description
+###Description
 htSNPer is a Java program for characterizing the haplotype block structure and selecting haplotype tagging SNP
 
-##Author
+###Author
 * Keyue Ding
 * Jing Zhang (email: zhjing98@mails.tsinghua.edu.cn)
 * Kaixin Zhou
 * Yan Shen
 * Xuegong Zhang (Tsinghua University, China)
 
-##URL
+###URL
 http://www.chgb.org.cn/htSNPer/htSNPer.html
 
-##Language
+###Language
 C++, JVM
 
-##OS
+###OS
 MS-Windows, Linux
 
 
-## [Reviews on HTSNPER](https://github.com/gaow/genetic-analysis-software/issues/240)

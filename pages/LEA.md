@@ -1,26 +1,25 @@
-#LEA
-##Full Name
+##LEA
+###Full Name
 Likelihood-based Estimation of Admixture
 
-##Author
+###Author
 * Olivier Langella
 * Lounes Chikhi
 * Mark Beaumont
 
-##URL
+###URL
 http://www.cnrs-gif.fr/pge/bioinfo/lea/index.php?lang=en
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 MS-Windows
 
-##EXE
+###EXE
 lea.exe
 
-##Reference
+###Reference
 Langella, Chikhi, Beaumont (2001), "LEA (Likelihood-based estimation of admixture): a program to simultaneously estimate admixture and the time since admixture", Molecular Ecology Notes, 1(4):357-358.
 
 
-## [Reviews on LEA](https://github.com/gaow/genetic-analysis-software/issues/273)

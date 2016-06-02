@@ -1,15 +1,14 @@
-#PROFILER
-##Description
+##PROFILER
+###Description
 A flexible tool to generate the probability distribution of joint multilocus genotypes defined by sets of individuals within the pedigree and sets of markers within the framework map.
 
-##Author
+###Author
 Jeff O'Connell
 
-##URL
+###URL
 http://www.molecular-haplotype.org/profiler/profiler_intro.htm
 
-##OS
+###OS
 Linux, UNIX(Solaris)
 
 
-## [Reviews on PROFILER](https://github.com/gaow/genetic-analysis-software/issues/425)

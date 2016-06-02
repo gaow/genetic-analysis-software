@@ -1,27 +1,26 @@
-#R/METASIM
-##Full Name
+##R/METASIM
+###Full Name
 METApopulation SIMulation
 
-##Version
+###Version
 1.01
 
-##Description
+###Description
 an R package that uses an individual-based approach to simulate distributions of genotypes that result from arbitrary within and among population demographies (including extinction/recolonization). These distributions can be used to test new or existing population-genetics summary statistics or develop "null" distributions under various demographies.
 
-##Author
+###Author
 Allan Strand (email: stranda@cofc.edu)
 
-##URL
+###URL
 http://linum.cofc.edu/software.html
 
-##Language
+###Language
 R, C++
 
-##OS
+###OS
 UNIX, MS-Windows, MacOS
 
-##Reference
+###Reference
 A Strand (2002), "Metasim 1.0: an individual-based environment for simulating population genetics of complex population dynamics", Mol Ecol Notes, 2:373-376.
 
 
-## [Reviews on R/METASIM](https://github.com/gaow/genetic-analysis-software/issues/475)

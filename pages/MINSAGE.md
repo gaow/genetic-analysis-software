@@ -1,21 +1,20 @@
-#MINSAGE
-##Full Name
+##MINSAGE
+###Full Name
 MINimal SAmple size for GEnotypes
 
-##Description
+###Description
 calculate the sample size of genotypes minimally required to ensure that all alleles with a specified frequency at one locus are detected with a given confidence
 
-##Author
+###Author
 Andreas Ziegler (email: koenigir@imbs.uni-luebeck.de)
 
-##URL
+###URL
 http://www.imbs.uni-luebeck.de/pub/minsage/index.html
 
-##OS
+###OS
 MS-Windows
 
-##Reference
+###Reference
 HG Gregorius (1980), "The probability of losing an allele when diploid genotypes are sampled", Biometrics, 36:643-652.
 
 
-## [Reviews on MINSAGE](https://github.com/gaow/genetic-analysis-software/issues/337)

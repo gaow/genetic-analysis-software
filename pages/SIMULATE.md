@@ -1,22 +1,21 @@
-#SIMULATE
-##Description
+##SIMULATE
+###Description
 a program to simulate genotypes in family members for a map of linked markers unlinked to a given affection status locus. the output is ready for analysis with UNKNOWN, ISIM, LSIM, or MSIM of the SLINK package.
 
-##Author
+###Author
 * Joseph Terwilliger
 * http://linkage.cpmc.columbia.edu/
 
-##URL
+###URL
 http://www.helsinki.fi/~tsjuntun/linkage/analyze/
 
-##Language
+###Language
 Pascal
 
-##OS
+###OS
 MS-DOS, VMS, UNIX
 
-##Reference
+###Reference
 online documentation
 
 
-## [Reviews on SIMULATE](https://github.com/gaow/genetic-analysis-software/issues/521)

@@ -1,33 +1,32 @@
-#SIMLA
-##Full Name
+##SIMLA
+###Full Name
 SIMulation of pedigree data for Linkage and Association studies
 
-##Version
+###Version
 2.3 (Oct 2003)
 
-##Description
+###Description
 SIMLA is a SIMulation program that generates data sets of families for use in Linkage and Association studies. It allows the user flexibility in specifying marker and disease placement, locus heterogeneity, disequilibrium between markers and between markers and disease loci. Output is in the form of a LINKAGE pedigree file and is easily utilized, either directly or with minimal reformatting, as input for various genetic analysis packages
 
-##Author
+###Author
 * Elizabeth Hauser
 * Eden Martin
 * Meredyth Bass
 
-##URL
+###URL
 http://wwwchg.duhs.duke.edu/software/simla.html
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX(Solaris), Linux
 
-##EXE
+###EXE
 simla2.3
 
-##Reference
+###Reference
 * MP Bass, ER Martin, ER Hauser(2002), Am J Hum Genet, suppl 71:569.
 * MP Bass, ER Martin, ER Hauser (2004), "Pedigree generation for analysis of genetic linkage and association", Proceedings of the Pacific Symposium on Biocomputing, pp.93-103.
 
 
-## [Reviews on SIMLA](https://github.com/gaow/genetic-analysis-software/issues/515)

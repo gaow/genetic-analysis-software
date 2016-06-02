@@ -1,18 +1,17 @@
-#POWERMARKER
-##Version
+##POWERMARKER
+###Version
 3.25 (February 2006)
 
-##Description
+###Description
 PowerMarker is a comprehensive set of statistical methods for genetic marker data analysis, designed especially for SSR/SNP data analysis. PowerMarker builds a powerful user interface around both new and traditional statistical methods for population genetic analysis. See analysis to check out the versatility of PowerMarker. PowerMarker is also a 2D Viewer - which was used intensively for visualizing linkage disequilibria results.
 
-##Author
+###Author
 Jack Liu
 
-##URL
+###URL
 http://statgen.ncsu.edu/powermarker/
 
-##Reference
+###Reference
 Liu, Muse (2005), "PowerMarker: an integrated analysis environment for genetic marker analysis", Bioinformatics, 21(9):2128-2129.
 
 
-## [Reviews on POWERMARKER](https://github.com/gaow/genetic-analysis-software/issues/416)

@@ -1,8 +1,8 @@
-#MAPMAKER/EXP
-##Version
+##MAPMAKER/EXP
+###Version
 3.0 (1992)
 
-##Author
+###Author
 * Eric Lander
 * Phil Green
 * J. Abrahamson
@@ -11,25 +11,24 @@
 * Steve Lincoln
 * L. Newburg (Whitehead Institute)
 
-##URL
+###URL
 * http://www.broad.mit.edu/ftp/distribution/software/mapmaker3/
 * http://www-genome.wi.mit.edu/genome_software
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX, VMS, MS-DOS, MacOS
 
-##EXE
+###EXE
 mapmaker
 
-##Reference
+###Reference
 * Lander et al (1987), Genomics,1,174-181.
 * online tutorial (version 3.0, 1987-1993)
 
-##Related
+###Related
 MMDRAWER
 
 
-## [Reviews on MAPMAKER/EXP](https://github.com/gaow/genetic-analysis-software/issues/307)

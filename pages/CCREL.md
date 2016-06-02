@@ -1,27 +1,26 @@
-#CCREL
-##Full Name
+##CCREL
+###Full Name
 Case-Control association analysis with RELlated individuals
 
-##Version
+###Version
 0.3 (December 2005)
 
-##Description
+###Description
 CCREL is a program for case-control genetic analysis that takes relatedness between individuals into account. It will perform single-marker and haplotypic tests, however it will only work with SNP or other biallelic markers.
 
-##Author
+###Author
 Sharon R. Browning (e-mail: browning@stat.auckland.ac.nz)
 
-##URL
+###URL
 http://www.stat.auckland.ac.nz/~browning/ccrel/ccrel.htm
 
-##Language
+###Language
 R with Perl and C
 
-##OS
+###OS
 Unix/Linux
 
-##Reference
+###Reference
 Browning, Briley, Briley, Chandra, Charnecki, Ehm, Johansson, Jones, Karter, Yarnall, Wagner (2005), "Case-control single marker and haplotypic association analysis of pedigree data", Genetic Epidemiology, 28:110-122.
 
 
-## [Reviews on CCREL](https://github.com/gaow/genetic-analysis-software/issues/61)

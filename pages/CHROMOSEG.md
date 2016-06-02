@@ -1,15 +1,14 @@
-#CHROMOSEG
-##Version
+##CHROMOSEG
+###Version
 1.0
 
-##Description
+###Description
 A simulation program that simulates and plots (in real time) ancestral recombination graphs. This is currently primarily a teaching/educational tool.
 
-##Author
+###Author
 Eric C Anderson (email: eric.anderson@stanfordalumni.org)
 
-##URL
+###URL
 http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm
 
 
-## [Reviews on CHROMOSEG](https://github.com/gaow/genetic-analysis-software/issues/71)

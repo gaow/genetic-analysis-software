@@ -1,18 +1,17 @@
-#SILCLOD
-##Full Name
+##SILCLOD
+###Full Name
 SIgnificance Levels and Critical LODs
 
-##Description
+###Description
 calculate nominal significance levels and critical LOD scores depending on the length of the investigated region, number of chromosomes, and the cross-over rate. The global significance level as well as the precision of the calculation have to be specified.
 
-##Author
+###Author
 Andreas Ziegler (email: koenigir@imbs.uni-luebeck.de)
 
-##URL
+###URL
 http://www.imbs.uni-luebeck.de/pub/silcLOD/index.html
 
-##Reference
+###Reference
 E Lander, L Kruglyak (1995), "Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results", Nature Genetics, 11:241-247.
 
 
-## [Reviews on SILCLOD](https://github.com/gaow/genetic-analysis-software/issues/510)

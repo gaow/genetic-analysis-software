@@ -1,24 +1,23 @@
-#CRIMAP-PVM
-##Full Name
+##CRIMAP-PVM
+###Full Name
 CRIMAP with Parallel Virtual Machine
 
-##Description
+###Description
 a parallel version of CRIMAP
 
-##Author
+###Author
 * Tara Matise (email: matise@biology.rutgers.edu)
 * Mark Schroeder
 * Donald Chiarulli
 * Daniel E. Weeks
 
-##URL
+###URL
 http://compgen.rutgers.edu/multimap/crimappvm.html
 
-##Language
+###Language
 C, PVM
 
-##Reference
+###Reference
 Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.
 
 
-## [Reviews on CRIMAP-PVM](https://github.com/gaow/genetic-analysis-software/issues/82)

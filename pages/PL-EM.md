@@ -1,17 +1,16 @@
-#PL-EM
-##Full Name
+##PL-EM
+###Full Name
 Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms
 
-##Author
+###Author
 * Jun Liu
 * Steve Qin
 * Tianhua Niu (Harvard Univ)
 
-##URL
+###URL
 http://www.people.fas.harvard.edu/~junliu/plem/
 
-##Reference
+###Reference
 Qin, Niu, Liu (2002), "Partition-ligation-expectation-maximization algorithm for haplotype inference with single-nucleotide polymorphisms", American Journal of Human Genetics, (letter), 71(5):1242-1247-?
 
 
-## [Reviews on PL-EM](https://github.com/gaow/genetic-analysis-software/issues/404)

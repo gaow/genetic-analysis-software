@@ -1,21 +1,20 @@
-#SIB-PAIR
-##Version
+##SIB-PAIR
+###Version
 1.00a (January 2007)
 
-##Description
+###Description
 Program SIB-PAIR performs a number of simple analyses of family data that tend to be "nonparametric" or "robust" in nature, includes IBD and IBS based APM, Haseman-Elston sib pair, TDT and association analyses.
 
-##Author
+###Author
 David Duffy (Queensland Institute of Med Res, Australia, davidd@qimr.edu.au)
 
-##URL
+###URL
 http://www2.qimr.edu.au/davidD
 
-##Language
+###Language
 Fortran77
 
-##Reference
+###Reference
 Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.J. Hum. Genet. suppl. 61, A197 (1997)); online manual page
 
 
-## [Reviews on SIB-PAIR](https://github.com/gaow/genetic-analysis-software/issues/507)

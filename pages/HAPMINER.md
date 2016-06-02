@@ -1,21 +1,20 @@
-#HAPMINER
-##Version
+##HAPMINER
+###Version
 1.1 (2006)
 
-##Description
+###Description
 HapMiner is a computer program for association mapping based on directly mining the haplotypes from case-control data via a density-based clustering algorithm. HapMiner can be applied to whole-genome screens, as well as candidate-gene studies in small genomic regions.
 
-##Author
+###Author
 Jing Li (email:jingli@eecs.case.edu)
 
-##URL
+###URL
 http://vorlon.case.edu/~jxl175/HapMiner.html
 
-##OS
+###OS
 MS-Windows, Linux
 
-##Reference
+###Reference
 Li and Jiang (2005), "Haplotype-based linkage disequilibrium mapping via direct data mining", Bioinformatics, 21(24):4384-4393.
 
 
-## [Reviews on HAPMINER](https://github.com/gaow/genetic-analysis-software/issues/221)

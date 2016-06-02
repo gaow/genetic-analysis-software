@@ -1,25 +1,24 @@
-#DOLINK
-##Other Name
+##DOLINK
+###Other Name
 : WDLINK
 
-##Description
+###Description
 manage genetic data
 
-##Author
+###Author
 Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
 
-##URL
+###URL
 * http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
 * ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 MS-DOS, MS-Windows
 
-##Reference
+###Reference
 Cook, Gurling, Curtis (1993), "DOLINK: a computer program to facilitate management of genetic data and analyses", Annals of Human Genetics, 57:307-310.
 
 
-## [Reviews on DOLINK](https://github.com/gaow/genetic-analysis-software/issues/93)

@@ -1,29 +1,28 @@
-#TRANSMIT
-##Version
+##TRANSMIT
+###Version
 2.5.4
 
-##Description
+###Description
 TRANSMIT tests for association between genetic marker and disease by examining the transmission of markers from parents to affected offspring. The main features which differ from other similar programs are: (1) It can deal with transmission of multi-locus haplotypes, even if phase is unknown, and (2) Parental genotypes may be unknown.
 
-##Author
+###Author
 * David Clayton
 * Cambridge Institute
 * david.clayton@cimr.cam.ac.uk
 
-##URL
+###URL
 http://www-gene.cimr.cam.ac.uk/clayton/software/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX
 
-##EXE
+###EXE
 transmit
 
-##Reference
+###Reference
 online documentation
 
 
-## [Reviews on TRANSMIT](https://github.com/gaow/genetic-analysis-software/issues/589)

@@ -1,18 +1,17 @@
-#R/META
-##Version
+##R/META
+###Version
 1.6 (June 2010)
 
-##Description
+###Description
 Fixed and random effects meta-analysis. Functions for tests of bias, forest and funnel plot.
 
-##Author
+###Author
 Guido Schwarzer (email: sc@imbi.uni-freiburg.de)
 
-##URL
+###URL
 http://cran.r-project.org/web/packages/meta/index.html
 
-##Language
+###Language
 R
 
 
-## [Reviews on R/META](https://github.com/gaow/genetic-analysis-software/issues/474)

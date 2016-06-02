@@ -1,25 +1,24 @@
-#FASTEHPLUS
-##Full Name
+##FASTEHPLUS
+###Full Name
 faster EH-PLUS
 
-##Author
+###Author
 * Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
 * Pak Sham (King's College London, UK)
 
-##URL
+###URL
 http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 MS-Windows, UNIX (DEC,OSF,Solaris)
 
-##Reference
+###Reference
 Zhao, Sham (2002), "Faster allelic association analysis using unrelated subjects", Human Heredity, 53(1):36-41.
 
-##Related
+###Related
 EH, EHPLUS
 
 
-## [Reviews on FASTEHPLUS](https://github.com/gaow/genetic-analysis-software/issues/119)

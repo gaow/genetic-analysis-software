@@ -1,24 +1,23 @@
-#HAPLOBLOCKFINDER
-##Version
+##HAPLOBLOCKFINDER
+###Version
 0.7
 
-##Description
+###Description
 HaploBlockFinder is a package for haplotype block identification, visualization and htSNP selection. It can also compare the haplotype block structure with local LD pattern. The program can be either run as a web service, or standalone executables on local machine.
 
-##Author
+###Author
 Kun Zhang (kun.zhang@uth.tmc.edu)
 
-##URL
+###URL
 http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi
 
-##Language
+###Language
 C and Perl
 
-##OS
+###OS
 UNIX, MS-Windows
 
-##EXE
+###EXE
 haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
 
 
-## [Reviews on HAPLOBLOCKFINDER](https://github.com/gaow/genetic-analysis-software/issues/205)

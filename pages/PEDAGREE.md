@@ -1,24 +1,23 @@
-#PEDAGREE
-##Version
+##PEDAGREE
+###Version
 1.00 (February 2002)
 
-##Description
+###Description
 a program for detecting autosomal marker Mendelian incompatibilities in pedigree data
 
-##Author
+###Author
 Christine Couillault (email: kristin.c@free.fr)
 
-##URL
+###URL
 http://pedagree.free.fr/
 
-##Language
+###Language
 C, C++
 
-##OS
+###OS
 UNIX, Linux, MS-Windows, MS-DOS,
 
-##EXE
+###EXE
 pedagree
 
 
-## [Reviews on PEDAGREE](https://github.com/gaow/genetic-analysis-software/issues/377)

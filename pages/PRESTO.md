@@ -1,24 +1,23 @@
-#PRESTO
-##Version
+##PRESTO
+###Version
 1.0.1 (October 2007)
 
-##Description
+###Description
 PRESTO performs permutation testing and computes empirical distributions of order statistics for one and two stage association studies with stratified or unstratified data.
 
-##Author
+###Author
 Brian L Browning (email: b.browning@auckland.ac.nz)
 
-##URL
+###URL
 http://faculty.washington.edu/browning/presto/presto.html
 
-##Language
+###Language
 Java
 
-##OS
+###OS
 MS-Windows, UNIX (Solaris/..), Linux, MacOS
 
-##Reference
+###Reference
 Browning (2008), "PRESTO: Rapid calculation of order statistic distributions and multiple-testing adjusted P-values via permutation for one and two-stage genetic association studies", BMC Bioinformatics, 9:309.
 
 
-## [Reviews on PRESTO](https://github.com/gaow/genetic-analysis-software/issues/422)

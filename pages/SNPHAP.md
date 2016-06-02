@@ -1,20 +1,19 @@
-#SNPHAP
-##Version
+##SNPHAP
+###Version
 1.3.1
 
-##Description
+###Description
 a program for estimating frequencies of haplotypes of large numbers of diallelic markers from unphased genotype data from unrelated subjects
 
-##Author
+###Author
 * David Clayton
 * Cambridge Institute
 * david.clayton@cimr.cam.ac.uk
 
-##URL
+###URL
 http://www-gene.cimr.cam.ac.uk/clayton/software/
 
-##Language
+###Language
 C,C++
 
 
-## [Reviews on SNPHAP](https://github.com/gaow/genetic-analysis-software/issues/537)

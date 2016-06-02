@@ -1,24 +1,23 @@
-#SNAP 3
-##Full Name
+##SNAP 3
+###Full Name
 Simulation of sNp haplotype data And Phenotypic traits
 
-##Description
+###Description
 The SNaP program can be used to generate SNP haplotype sequence data of unrelated individuals and nuclear families with a fixed or random number of children.
 
-##Author
+###Author
 Michael Nothnagel (email: nothnagel@medinfo.uni-kiel.de)
 
-##URL
+###URL
 http://capella.uni-kiel.de/snap/snap.htm
 
-##Language
+###Language
 C
 
-##OS
+###OS
 Linux, UNIX(Solaris), MS-Windows
 
-##Reference
+###Reference
 Am Soc Hum Genet annual meeting (2002) Nothnagel (2002), "Simulation of LD block-structured SNP haplotype data and its use for the analysis of case-control data by supervised learning methods", Am J. Hum Genet, 71(4)(suppl), A2363.
 
 
-## [Reviews on SNAP 3](https://github.com/gaow/genetic-analysis-software/issues/529)

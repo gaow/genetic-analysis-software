@@ -1,8 +1,8 @@
-#LINKAGE - general pedigrees
-##Version
+##LINKAGE - general pedigrees
+###Version
 5.1, 5.2, 6.0 (testing)
 
-##Author
+###Author
 * 5.1
 * 5.2: Mark Lathrop
 * J. Lalouel
@@ -12,19 +12,19 @@
 * Daniel Weeks
 * Mark Lathrop
 
-##URL
+###URL
 http://lab.rockefeller.edu/ott/programs
 
-##Language
+###Language
 5.1, 5.2: Pascal ; 6.0: C
 
-##OS
+###OS
 MS-DOS, OS2, UNIX, VMS
 
-##EXE
+###EXE
 5.1, 5.2: unknown, mlink, ilink, lodscore, linkmap; 6.0: linkage
 
-##Reference
+###Reference
 * Lathrop, Lalouel, Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.
 * Lathrop, Lalouel (1984), "Easy calculations of lod scores and genetic risks on small computers", American Journal of Human Genetics, 36(2):460-465
 * Lathrop, Lalouel, White (1986), Genetic Epidemiology, 3:39-52.
@@ -33,8 +33,7 @@ MS-DOS, OS2, UNIX, VMS
 * see also: the mystery of (the) unknown.
 * see also: pedigree traversal
 
-##Related
+###Related
 FASTLINK
 
 
-## [Reviews on LINKAGE - general pedigrees](https://github.com/gaow/genetic-analysis-software/issues/275)

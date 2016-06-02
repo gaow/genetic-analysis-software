@@ -1,23 +1,22 @@
-#GENOME
-##Description
+##GENOME
+###Description
 GENOME is a program to simulate sequences drawn from a population under the Wright-Fisher neutral model. The purpose of this program is to simulate sequences on the whole genome scale within practical time.
 
-##Author
+###Author
 * Liming Liang (email: lianglim@umich.edu)
 * Sebastian Zollner
 * Goncalo Abecasis (University of Michigan)
 
-##URL
+###URL
 http://www.sph.umich.edu/csg/liang/genome/
 
-##Language
+###Language
 C++
 
-##OS
+###OS
 UNIX(Solaris), Linux, MS-Windows
 
-##Reference
+###Reference
 Liang, Zollner, Abecasis (2006), "GENOME: a rapid coalescent-based whole genome simulator", ASHG Annual Meeting.
 
 
-## [Reviews on GENOME](https://github.com/gaow/genetic-analysis-software/issues/166)

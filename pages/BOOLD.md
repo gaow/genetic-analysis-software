@@ -1,25 +1,24 @@
-#BOOLD
-##Version
+##BOOLD
+###Version
 1.1 (July 2002)
 
-##Description
+###Description
 a set of programs for calculations under different linkage disequilibrium (LD) distribution models
 
-##Author
+###Author
 YS Aulchenko (email: aulchenko@epib.fgg.eur.nl) (Erasmus University Medical School. The Netherlands)
 
-##URL
+###URL
 * http://www.geneticepi.com/Research/software/software.html
 * http://www.geneticepi.com/Research/software/booLD-1.1.tar.gz
 
-##Language
+###Language
 C++, FORTRAN 77, Perl
 
-##OS
+###OS
 UNIX, Linux
 
-##EXE
+###EXE
 kLD, lsqLD, booit.pl
 
 
-## [Reviews on BOOLD](https://github.com/gaow/genetic-analysis-software/issues/46)

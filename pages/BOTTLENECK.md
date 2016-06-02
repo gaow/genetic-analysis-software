@@ -1,21 +1,20 @@
-#BOTTLENECK
-##Version
+##BOTTLENECK
+###Version
 1.2.02
 
-##Description
+###Description
 a program for detecting recent effective population size reductions from allele data frequencies
 
-##Author
+###Author
 Sylvian Piry
 
-##URL
+###URL
 http://www.montpellier.inra.fr/URLB/bottleneck/bottleneck.html
 
-##OS
+###OS
 MS-Windows (95)
 
-##Reference
+###Reference
 Piry, Luikart, Cornuet (1999), "BOTTLENECK: a computer program for detecting recent reductions in the effective size using allele frequency data", Journal of Heredity, 90:502-503.
 
 
-## [Reviews on BOTTLENECK](https://github.com/gaow/genetic-analysis-software/issues/50)

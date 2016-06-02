@@ -1,15 +1,14 @@
-#POWQ
-##Description
+##POWQ
+###Description
 A user-friendly, graphical package for power evaluation and enhancement planning through variance component linkage analysis in a multipoint framework.
 
-##Author
+###Author
 Mario Falchi (email: mario.falchi@kcl.ac.uk) Cesare Cappio Borlino
 
-##URL
+###URL
 http://www.twin-research.ac.uk/WebPowQ/PowQ.htm
 
-##Reference
+###Reference
 Falchi and Borlino (2006), "PowQ: a user-friendly package for the design of variance component multipoint linkage analysis studies", Bioinformatics, 22(11):1404-1405.
 
 
-## [Reviews on POWQ](https://github.com/gaow/genetic-analysis-software/issues/418)

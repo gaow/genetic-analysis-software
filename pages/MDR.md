@@ -1,22 +1,21 @@
-#MDR
-##Full Name
+##MDR
+###Full Name
 Multifactor Dimensionality Reduction
 
-##Version
+###Version
 2.0 beta 6
 
-##Description
+###Description
 MDR is a data mining strategy for detecting and characterizing nonlinear interactions among discrete attributes (e.g. SNPs, smoking, gender, etc.) that are predictive of a discrete outcome (e.g. case-control status). The MDR software combines attribute selection, attribute construction and classification with cross-validation to provide a powerful approach to modeling interactions.
 
-##Author
+###Author
 Jason Moore (email:jason.h.moore@dartmouth.edu)
 
-##URL
+###URL
 http://www.multifactordimensionalityreduction.org/
 
-##Reference
+###Reference
 * Ritchie, Hahn, Roodi, Bailey, Dupont, Parl, Moore (2001), "Multifactorial dimensionality reduction reveals high-order interactions among estrogen metabolism genes in sporadic breat cancer", American Journal of Human Genetics, 69:138-147.
 * Moore, Gilbert, Tsai, Chiang, Holden, Barney, White (2006), "A flexible computational framework for detecting, characterizing, and interpreting statistical patterns of epistasis in genetic studies of human disease susceptibility", Journal of Theoretical Biology, 241:252-261.
 
 
-## [Reviews on MDR](https://github.com/gaow/genetic-analysis-software/issues/322)

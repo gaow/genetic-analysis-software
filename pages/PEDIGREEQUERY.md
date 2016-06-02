@@ -1,16 +1,15 @@
-#PEDIGREEQUERY
-##Description
+##PEDIGREEQUERY
+###Description
 allows drawing pedigrees with a difficult structure, those containing consanguinity loops, and those individuals with multiple mates or several related families
 
-##Author
+###Author
 A Kirichenko
 
-##URL
+###URL
 * http://mga.bionet.nsc.ru/soft/index.html
 * http://mga.bionet.nsc.ru/PedigreeQuery/PedigreeQuery.html (in Russian)
 
-##Reference
+###Reference
 A Kirichenko (2003), "PedigreeQuery - software for pedigree drawing" (abstract), American Journal of Human Genetics, suppl
 
 
-## [Reviews on PEDIGREEQUERY](https://github.com/gaow/genetic-analysis-software/issues/383)

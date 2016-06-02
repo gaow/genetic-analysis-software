@@ -1,27 +1,26 @@
-#CROSSFIND
-##Other Name
+##CROSSFIND
+###Other Name
 s: BREAKPOINT, BPT
 
-##Version
+###Version
 October 1995
 
-##Description
+###Description
 software for detecting and displaying well-characterized meiotic breakpoints in human family data. another program, CRIMAP, is used.
 
-##Author
+###Author
 J. Attwood (Sanger Centre, email: ja1@sanger.ac.uk)
 
-##URL
+###URL
 http://www.gene.ucl.ac.uk/public-files/packages/jattwood/
 
-##Language
+###Language
 C
 
-##OS
+###OS
 UNIX(SunOS)
 
-##Reference
+###Reference
 Attwood, Povey (1996), Annals of Human Genetics, 60:487-498.
 
 
-## [Reviews on CROSSFIND](https://github.com/gaow/genetic-analysis-software/issues/83)
