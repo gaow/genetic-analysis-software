@@ -33,8 +33,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-
-<link rel="next" href="alphabetic-list.html">
+<link rel="prev" href="r-1.html">
+<link rel="next" href="t-1.html">
 
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -5047,90 +5047,2478 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">An Alphabetic List of Genetic Analysis Software</h1>
-<h4 class="author"><em>© Gao Wang / Jurg Ott lab</em></h4>
-<h4 class="date"><em>2016-06-01</em></h4>
-</div>
-<div id="about" class="section level1">
-<h1>About</h1>
-<table>
-<tbody>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#0">#</a></td>
-<td align="center"><a href="alphabetic-list.html#a">A</a></td>
-<td align="center"><a href="alphabetic-list.html#b">B</a></td>
-<td align="center"><a href="alphabetic-list.html#c">C</a></td>
-<td align="center"><a href="alphabetic-list.html#d">D</a></td>
-<td align="center"><a href="alphabetic-list.html#e">E</a></td>
-<td align="center"><a href="alphabetic-list.html#f">F</a></td>
-<td align="center"><a href="alphabetic-list.html#g">G</a></td>
-<td align="center"><a href="alphabetic-list.html#h">H</a></td>
-</tr>
-<tr class="even">
-<td align="center"><a href="alphabetic-list.html#i">I</a></td>
-<td align="center"><a href="alphabetic-list.html#j">J</a></td>
-<td align="center"><a href="alphabetic-list.html#k">K</a></td>
-<td align="center"><a href="alphabetic-list.html#l">L</a></td>
-<td align="center"><a href="alphabetic-list.html#m">M</a></td>
-<td align="center"><a href="alphabetic-list.html#n">N</a></td>
-<td align="center"><a href="alphabetic-list.html#o">O</a></td>
-<td align="center"><a href="alphabetic-list.html#p">P</a></td>
-<td align="center"><a href="alphabetic-list.html#q">Q</a></td>
-</tr>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#r">R</a></td>
-<td align="center"><a href="alphabetic-list.html#s">S</a></td>
-<td align="center"><a href="alphabetic-list.html#t">T</a></td>
-<td align="center"><a href="alphabetic-list.html#u">U</a></td>
-<td align="center"><a href="alphabetic-list.html#v">V</a></td>
-<td align="center"><a href="alphabetic-list.html#w">W</a></td>
-<td align="center"><a href="alphabetic-list.html#x">X</a></td>
-<td align="center"><a href="alphabetic-list.html#y">Y</a></td>
-<td align="center"><a href="alphabetic-list.html#z">Z</a></td>
-</tr>
-</tbody>
-</table>
-<div id="scope" class="section level2">
-<h2>Scope</h2>
-<p>This page, historically known as the “Rockefeller list”, is a list of computer programs for genetics analysis, including but not limiting to topics of:</p>
-<ul>
-<li>Genetic linkage analysis for human pedigree data</li>
-<li>QTL analysis for animal/plant breeding data</li>
-<li>Genetic marker ordering</li>
-<li>Genetic association analysis</li>
-<li>Haplotype construction</li>
-<li>Population genetics</li>
-<li>Genetic data visualization</li>
-</ul>
-<p>This list is initially offered as a service to the gene mapping community. The inclusion of a program should not be interpreted as an endorsement from us.</p>
-<p>In the last few years, new technology has been producing new types of genetic data, and the scope of genetic analyses changes dramatically. It is no longer obvious whether a program should be included or excluded from this list. Topics such as next-generation-sequencing (NGS), gene expression, genomics annotation, etc. can all be relevant to a genetic study, but we’ll have to decide on a case-by-case basis whether to include a program.</p>
-</div>
-<div id="history" class="section level2">
-<h2>History</h2>
-<p>This list was created by Dr. <a href="https://scholar.google.com/citations?user=XsMM0oQAAAAJ&amp;hl=en">Wentian Li</a> when he was at Columbia University (1995-1996). It was later moved to Rockefeller University (1996-2002) and then to the North Shore LIJ Research Institute (2002-2013), maintained by <a href="http://www.jurgott.org/">Jurg Ott</a>, who then passed it on to his former student <a href="http://tigerwang.org/profile">Gao Wang</a> in 2015. More than 240 programs were listed by December 2004, close to 400 programs by December 2006, close to 480 programs by November 2008, and over 600 programs by October 2012. Since 2015, the list takes its home on <a href="https://github.com/gaow/genetic-analysis-software">github</a> to facilicate potential contributions from the community.</p>
-</div>
-<div id="r-packages" class="section level2">
-<h2>R packages</h2>
-<p>More and more packages are now written in R. To be consistent, any R package in CRAN has been renamed from [package-name] to R/[package-name]. If an R package is not submitted to CRAN, its original name has been kept.</p>
-</div>
-<div id="other-lists" class="section level2">
-<h2>Other lists</h2>
-<p>Other genetic software lists can be found <a href="other-genetic-analysis-software-lists.html">here</a>.</p>
-</div>
-<div id="search-this-repository" class="section level2">
-<h2>Search this repository</h2>
-<p>You can use github’s search bar on the top of <a href="https://github.com/gaow/genetic-analysis-software">the repository</a>, or the search icon at the top of this HTML site. Type in the keywords you care and see what you can find in this list!</p>
-</div>
-<div id="contribute" class="section level2">
-<h2>Contribute</h2>
-<p>We welcome your input! To contribute, please provide information of the software in <a href="https://guides.github.com/features/mastering-markdown">markdown</a> format by <a href="https://raw.githubusercontent.com/gaow/genetic-analysis-software/master/Template.md">this template</a>. You may include less properties of the software than the template suggests (for example it may not have a version number or executable names), or more properties as you see fit. Once you have completed the <code>*.md</code> file, you may either fork this repository, add the <code>*.md</code> file to <code>pages</code> folder, commit and send a github pull request, or you can simply email the <code>*.md</code> file to <a href="mailto:gaow@uchicago.edu">gaow@uchicago.edu</a> preferably with the phrase “Rockefeller List” in your email subject.</p>
-<p>You are welcome to both add new software and make improvement to contents on existing software on the list.</p>
-</div>
-<div id="comments" class="section level2">
-<h2>Comments</h2>
-<p>Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a “Review” section for each program so that users can review the program and make recommendations to potential users. Link to “Review” sections are found at the end of program detail pages. Please also use this section to leave suggestions you have to pages on this list (please do not open any new issues for this).</p>
+<div id="s-1" class="section level1">
+<h1>S</h1>
 <hr />
+<div id="sage" class="section level2">
+<h2>SAGE</h2>
+<div id="full-name-196" class="section level3">
+<h3>Full Name</h3>
+<p>Statistical Analysis for Genetic Epidemiology</p>
+</div>
+<div id="version-297" class="section level3">
+<h3>Version</h3>
+<p>5.3</p>
+</div>
+<div id="description-404" class="section level3">
+<h3>Description</h3>
+<p>The S.A.G.E. software provides researchers with the tools necessary for various types of statistical genetic analysis of human family data.</p>
+</div>
+<div id="author-427" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>R Elston</li>
+<li>J Bailey-Wilson</li>
+<li>G Bonney</li>
+<li>L. Tran</li>
+<li>B. Keats</li>
+<li>A. Wilson</li>
+</ul>
+</div>
+<div id="url-464" class="section level3">
+<h3>URL</h3>
+<p><a href="http://darwin.cwru.edu/sage/" class="uri">http://darwin.cwru.edu/sage/</a></p>
+</div>
+<div id="language-305" class="section level3">
+<h3>Language</h3>
+<p>C [version 4.0 will be in C++]</p>
+</div>
+<div id="os-272" class="section level3">
+<h3>OS</h3>
+<p>UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux</p>
+</div>
+<div id="exe-107" class="section level3">
+<h3>EXE</h3>
+<p>assoc, fcor, freq, genibd, lodlink, lodpal, markerinfo, mlod, pedinfo, reltest, segreg, sibpal, tdtex</p>
+<hr />
+</div>
+</div>
+<div id="samtools" class="section level2">
+<h2>SAMTOOLS</h2>
+<div id="full-name-197" class="section level3">
+<h3>Full Name</h3>
+<p>Sequence Alignment/Map TOOLS</p>
+</div>
+<div id="description-405" class="section level3">
+<h3>Description</h3>
+<p>SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format. The parts that relevant to genetic analysis include SNP and indel callings.</p>
+</div>
+<div id="author-428" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Heng Li (Broad Institute)</li>
+<li>Richard Durbin (Wellcome Trust Sanger Institute) et al.</li>
+</ul>
+</div>
+<div id="url-465" class="section level3">
+<h3>URL</h3>
+<p><a href="http://samtools.sourceforge.net/" class="uri">http://samtools.sourceforge.net/</a></p>
+</div>
+<div id="language-306" class="section level3">
+<h3>Language</h3>
+<p>C, C++, Java, Perl, Python, Ruby, Common LISP, Haskell</p>
+</div>
+<div id="reference-349" class="section level3">
+<h3>Reference</h3>
+<p>Li, Handsaker, Wysoker, Fennell, Ruan, Homer, Marth, Abecasis, Durbin, and 1000 Genome Project Data Processing Subgroup (2009), “The sequence alignment/map (SAM) format and SAMtools”, Bioinformatics, 25:2078-2079.</p>
+<hr />
+</div>
+</div>
+<div id="sasgenetics" class="section level2">
+<h2>SAS/GENETICS</h2>
+<div id="version-298" class="section level3">
+<h3>Version</h3>
+<p>add-on to the SAS System, Release 8.2</p>
+</div>
+<div id="description-406" class="section level3">
+<h3>Description</h3>
+<p>Software for summarizing marker properties (allele &amp; genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests</p>
+</div>
+<div id="author-429" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>W Czika</li>
+<li>X Yu</li>
+</ul>
+</div>
+<div id="language-307" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-273" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, UNIX(HPUX/AIXR/Solaris/..), MVS</p>
+</div>
+<div id="reference-350" class="section level3">
+<h3>Reference</h3>
+<p>introduction</p>
+</div>
+<div id="availability-12" class="section level3">
+<h3>Availability</h3>
+<p>please contact <a href="mailto:shannon.conners@jmp.com">shannon.conners@jmp.com</a> for details</p>
+<hr />
+</div>
+</div>
+<div id="sasgene" class="section level2">
+<h2>SASGENE</h2>
+<div id="version-299" class="section level3">
+<h3>Version</h3>
+<p>1.2 (March 1999)</p>
+</div>
+<div id="description-407" class="section level3">
+<h3>Description</h3>
+<p>a SAS computer program for gene segregation and linkage analysis in breeding population</p>
+</div>
+<div id="author-430" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Jinsheng Liu</li>
+<li>Todd Wehner</li>
+<li>Sandy Donaghy</li>
+</ul>
+</div>
+<div id="url-466" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html" class="uri">http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html</a></p>
+</div>
+<div id="language-308" class="section level3">
+<h3>Language</h3>
+<p>SAS</p>
+</div>
+<div id="reference-351" class="section level3">
+<h3>Reference</h3>
+<p>Liu, Wehner, Donaghy (1997), “SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage”, Journal of Heredity, 88:253-254.</p>
+<hr />
+</div>
+</div>
+<div id="sasquant" class="section level2">
+<h2>SASQUANT</h2>
+<div id="version-300" class="section level3">
+<h3>Version</h3>
+<p>1.1 (May 2005)</p>
+</div>
+<div id="description-408" class="section level3">
+<h3>Description</h3>
+<p>a SAS software program to estimate genetic effects and heritabilities of quantitative traits in breeding populations consisting of six related generations</p>
+</div>
+<div id="author-431" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Gabriele Gusmini</li>
+<li>Todd Wehner</li>
+<li>Sandy B. Donaghy</li>
+</ul>
+</div>
+<div id="url-467" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html" class="uri">http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html</a></p>
+</div>
+<div id="language-309" class="section level3">
+<h3>Language</h3>
+<p>SAS</p>
+</div>
+<div id="reference-352" class="section level3">
+<h3>Reference</h3>
+<p>Gusmini, Wehner, Donaghy (2007), “SASQuant: A SAS software program to estimate genetic effects and heritabilities of quantitative traits in populations consisting of six related generations”, Journal of Heredity, 98(4):345-350.</p>
+<hr />
+</div>
+</div>
+<div id="score-seq" class="section level2">
+<h2>SCORE-SEQ</h2>
+<div id="full-name-198" class="section level3">
+<h3>Full Name</h3>
+<p>SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies</p>
+</div>
+<div id="description-409" class="section level3">
+<h3>Description</h3>
+<p>SCORE-Seq is a command-line program for detecting disease associations with rare variants in sequencing studies. The mutation information is aggregated across multiple variant sites of a gene through a weighted linear combination and then related to disease phenotypes through appropriate regression models. The weights can be constant or dependent on allele frequencies and phenotypes. The association testing is based on score-type statistics. The allele-frequency threshold can be fixed or variable. Statistical significance can be assessed by using asymptotic normal approximation or resampling. The current release covers binary and continuous traits with arbitrary covariates under case-control and cross-sectional sampling.</p>
+</div>
+<div id="author-432" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Danyu Lin</li>
+<li>Zheng-Zheng Tang (Univ North Carolina)</li>
+</ul>
+</div>
+<div id="url-468" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SCORE-Seq/" class="uri">http://www.bios.unc.edu/~lin/software/SCORE-Seq/</a></p>
+</div>
+<div id="reference-353" class="section level3">
+<h3>Reference</h3>
+<p>Lin, Tang (2011), “A general framework for detecting disease associations with rare variants in sequencing studies”, American Journal of Human Genetics, 89:354-367.</p>
+<hr />
+</div>
+</div>
+<div id="scout" class="section level2">
+<h2>SCOUT</h2>
+<div id="version-301" class="section level3">
+<h3>Version</h3>
+<p>1.00 (Jan 2006)</p>
+</div>
+<div id="description-410" class="section level3">
+<h3>Description</h3>
+<p>Scout is a software program for conducting combined association analysis of triads and unrelated subjects</p>
+</div>
+<div id="author-433" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Richard Duncan</li>
+<li>Michael Epstein (Emory University, email: <a href="mailto:statgen@genetics.emory.edu">statgen@genetics.emory.edu</a>)</li>
+</ul>
+</div>
+<div id="url-469" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.genetics.emory.edu/labs/epstein/software/scout/index.html" class="uri">http://www.genetics.emory.edu/labs/epstein/software/scout/index.html</a></p>
+</div>
+<div id="language-310" class="section level3">
+<h3>Language</h3>
+<p>Fortran (CVF 6.6) with IMSL routines</p>
+</div>
+<div id="os-274" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows(2000/XP)</p>
+</div>
+<div id="exe-108" class="section level3">
+<h3>EXE</h3>
+<p>scout_cl.exe, scout_gui.exe</p>
+</div>
+<div id="reference-354" class="section level3">
+<h3>Reference</h3>
+<p>Epstein, Veal, Trembath, Barker, Li, Satten (2005), “Genetic association analysis using data from triads and unrelated subjects”, American Journal of Human Genetics, 76(4):592-608. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="sdminp" class="section level2">
+<h2>SDMINP</h2>
+<div id="full-name-199" class="section level3">
+<h3>Full Name</h3>
+<p>Step-Down MIN P-value</p>
+</div>
+<div id="version-302" class="section level3">
+<h3>Version</h3>
+<p>1.0 (December 2005)</p>
+</div>
+<div id="description-411" class="section level3">
+<h3>Description</h3>
+<p>SDMinP is an easy-to-use program for fast calculation of empirical and adjusted p-values for correlated and uncorrelated hypotheses in multiple testing experiments. It is based on the Free Step-Down Resampling Method for controlling the Family Wise Error Rate, originally proposed by Westfall and Young (1993), and implements a variation of the efficient algorithm of Ge et al. (2003), in which the originally necessary re-sampling effort was reduced considerably and the method made computationally more feasible. The program is independent of the underlying test statistic and works with provided observed and permutation test statistics.</p>
+</div>
+<div id="author-434" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Markus Obreiter</li>
+<li>Lars Beckmann (email: <a href="mailto:l.beckmann@dkfz.de">l.beckmann@dkfz.de</a>)</li>
+</ul>
+</div>
+<div id="url-470" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.dkfz.de/SDMinP/" class="uri">http://www.dkfz.de/SDMinP/</a></p>
+</div>
+<div id="language-311" class="section level3">
+<h3>Language</h3>
+<p>Python 2.3.5</p>
+</div>
+<div id="os-275" class="section level3">
+<h3>OS</h3>
+<p>UNIX, Linux, MS-Windows</p>
+</div>
+<div id="reference-355" class="section level3">
+<h3>Reference</h3>
+<p>Obreiter, Fischer, Chang-Claude, Beckmann (2005), “SDMinP: a program to control the family wise error rate using step-down minP adjusted p-values”, Bioinformatics, 21(14):3183-3184.</p>
+<hr />
+</div>
+</div>
+<div id="segpath" class="section level2">
+<h2>SEGPATH</h2>
+<div id="full-name-200" class="section level3">
+<h3>Full Name</h3>
+<p>SEGregation analysis and PATH analysis</p>
+</div>
+<div id="author-435" class="section level3">
+<h3>Author</h3>
+<p>Michael A. Province (email: <a href="mailto:mike@wubios.wustl.edu">mike@wubios.wustl.edu</a>)</p>
+</div>
+<div id="url-471" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.biostat.wustl.edu/~mike/segpath/" class="uri">http://www.biostat.wustl.edu/~mike/segpath/</a></p>
+</div>
+<div id="reference-356" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Province, Rao (1995), “General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications”, Genetic Epidemiology, 12(2):203-219.</li>
+<li>Province, Rice, Borecki, Gu, Kraja, Rao (2003), “Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH”, Genetic Epidemiology, 24(2):128-138.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="selsim" class="section level2">
+<h2>SELSIM</h2>
+<div id="version-303" class="section level3">
+<h3>Version</h3>
+<p>2.1 (June 2005)</p>
+</div>
+<div id="description-412" class="section level3">
+<h3>Description</h3>
+<p>When designing methods which provide the necessary power to detect regions of the genome which have experience historical selective pressures it is important to consider which patterns of genetic diversity are indicative of particular forms of natural selection. SELSIM is a program which can simulate population genetic data in which a single site has experienced natural selection.</p>
+</div>
+<div id="author-436" class="section level3">
+<h3>Author</h3>
+<p>Chris Spencer (Univ of Oxford, email: <a href="mailto:spencer@stats.ox.ac.uk">spencer@stats.ox.ac.uk</a>)</p>
+</div>
+<div id="url-472" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.stats.ox.ac.uk/mathgen/software.html" class="uri">http://www.stats.ox.ac.uk/mathgen/software.html</a></li>
+<li><a href="http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html" class="uri">http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html</a></li>
+</ul>
+</div>
+<div id="language-312" class="section level3">
+<h3>Language</h3>
+<p>C,C++</p>
+</div>
+<div id="os-276" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows(XP), Linux</p>
+</div>
+<div id="reference-357" class="section level3">
+<h3>Reference</h3>
+<p>Spencer, Coop (2004), “SelSim: a program to simulate population genetic data with natural selection and recombination”, Bioinformatics, 20:3673-3675.</p>
+<hr />
+</div>
+</div>
+<div id="sequence-ldsequence-ldhot" class="section level2">
+<h2>SEQUENCE LD/SEQUENCE LDHOT</h2>
+<div id="description-413" class="section level3">
+<h3>Description</h3>
+<p>The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets). The program sequenceLDhot is a method for detecting recombination hotspots from population genetic data. It takes as input phased (i.e. haplotype) data, together with an estimate of the background recombination rate within the region (this is allowed to vary across the region). Then sequenceLDhot considers a grid of putative hotspot positions, and for each putative hotspot calculates a likelihood ratio statistics for the presence of a hotspot.</p>
+</div>
+<div id="author-437" class="section level3">
+<h3>Author</h3>
+<p>Paul Fearnhead (Department of Mathematics, Statistics, Lancaster University, UK)</p>
+</div>
+<div id="url-473" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.maths.lancs.ac.uk/~fearnhea/Software.html" class="uri">http://www.maths.lancs.ac.uk/~fearnhea/Software.html</a></p>
+</div>
+<div id="reference-358" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Fearnhead, Donnelly (2002), “Approximate likelihood methods for estimating local recombination rates”, Journal of the Royal Statistical Society series B, 64:657-680.</li>
+<li>Fearnhead (2006), “SequenceLDhot: detecting recombination hotspots”, Bioinformatics, 22:3061-3066.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="sgs" class="section level2">
+<h2>SGS</h2>
+<div id="version-304" class="section level3">
+<h3>Version</h3>
+<p>1.0d</p>
+</div>
+<div id="author-438" class="section level3">
+<h3>Author</h3>
+<p>Bernd Degen</p>
+</div>
+<div id="url-474" class="section level3">
+<h3>URL</h3>
+<p><a href="http://software.bfh-inst2.de/download3.html" class="uri">http://software.bfh-inst2.de/download3.html</a></p>
+</div>
+<div id="language-313" class="section level3">
+<h3>Language</h3>
+<p>VisualBasic</p>
+</div>
+<div id="os-277" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (95/98/00/NT)</p>
+</div>
+<div id="reference-359" class="section level3">
+<h3>Reference</h3>
+<p>Degen, Petit, Kremer (2001), “SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations”, Journal of Heredity, 92(5):447-448.</p>
+<hr />
+</div>
+</div>
+<div id="sib-pair" class="section level2">
+<h2>SIB-PAIR</h2>
+<div id="version-305" class="section level3">
+<h3>Version</h3>
+<p>1.00a (January 2007)</p>
+</div>
+<div id="description-414" class="section level3">
+<h3>Description</h3>
+<p>Program SIB-PAIR performs a number of simple analyses of family data that tend to be “nonparametric” or “robust” in nature, includes IBD and IBS based APM, Haseman-Elston sib pair, TDT and association analyses.</p>
+</div>
+<div id="author-439" class="section level3">
+<h3>Author</h3>
+<p>David Duffy (Queensland Institute of Med Res, Australia, <a href="mailto:davidd@qimr.edu.au">davidd@qimr.edu.au</a>)</p>
+</div>
+<div id="url-475" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www2.qimr.edu.au/davidD" class="uri">http://www2.qimr.edu.au/davidD</a></p>
+</div>
+<div id="language-314" class="section level3">
+<h3>Language</h3>
+<p>Fortran77</p>
+</div>
+<div id="reference-360" class="section level3">
+<h3>Reference</h3>
+<p>Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.J. Hum. Genet. suppl. 61, A197 (1997)); online manual page</p>
+<hr />
+</div>
+</div>
+<div id="siberror" class="section level2">
+<h2>SIBERROR</h2>
+<div id="full-name-201" class="section level3">
+<h3>Full Name</h3>
+<p>SibError</p>
+</div>
+<div id="version-306" class="section level3">
+<h3>Version</h3>
+<p>1.0 (November 20, 1997)</p>
+</div>
+<div id="description-415" class="section level3">
+<h3>Description</h3>
+<p>SibError is an algorithm that identifies pedigree errors in sibship data. Examples include half siblings, unrelated individuals, identical twins, and parental exclusions. The test statistic is based on the summation of the number of alleles shared by a pair of relatives for a large number of markers and the number of alleles and allele frequencies for those markers.</p>
+</div>
+<div id="author-440" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Drs. Meg Gelder Ehm (<a href="mailto:mge37216@glaxowellcome.com">mge37216@glaxowellcome.com</a>)</li>
+<li>Michael Wagner ( <a href="mailto:mw29911@glaxowellcome.com">mw29911@glaxowellcome.com</a>) (Glaxo Wellcome, Inc.)</li>
+</ul>
+</div>
+<div id="language-315" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-278" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="exe-109" class="section level3">
+<h3>EXE</h3>
+<p>siberror</p>
+</div>
+<div id="reference-361" class="section level3">
+<h3>Reference</h3>
+<p>Ehm, Wagner (1998), “Test statistic to detect errors in sib-pair relationship”, American Journal of Human Genetics, 62(1):181-188</p>
+<hr />
+</div>
+</div>
+<div id="siblink" class="section level2">
+<h2>SIBLINK</h2>
+<div id="version-307" class="section level3">
+<h3>Version</h3>
+<p>3.0</p>
+</div>
+<div id="description-416" class="section level3">
+<h3>Description</h3>
+<p>SIBLINK allows the user to perform multipoint linkage analysis based on estimated IBD sharing between affected sibpairs. IBD sharing is inferred from IBS status, given marker genotypes, frequencies, and locations. Resulting LOD scores are maximized across a grid of possible disease locations and IBD sharing vectors.</p>
+</div>
+<div id="author-441" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Elizabeth Hauser</li>
+<li>Mike Boehnke</li>
+<li>William Duren</li>
+</ul>
+</div>
+<div id="url-476" class="section level3">
+<h3>URL</h3>
+<p><a href="http://wwwchg.duhs.duke.edu/software/siblink.html" class="uri">http://wwwchg.duhs.duke.edu/software/siblink.html</a></p>
+</div>
+<div id="language-316" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-279" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux</p>
+</div>
+<div id="exe-110" class="section level3">
+<h3>EXE</h3>
+<p>siblink3.0</p>
+</div>
+<div id="reference-362" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>ER Hauser, M Boehnke, SW Guo, N Risch (1996), Genetics Epidemiology. 13:117-137.</li>
+<li>ER Hauser, M Boehnke M (1998), Biometrics, 54:1238-1246.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="sibmed" class="section level2">
+<h2>SIBMED</h2>
+<div id="full-name-202" class="section level3">
+<h3>Full Name</h3>
+<p>SIBling Mutation and Error Detection</p>
+</div>
+<div id="version-308" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="description-417" class="section level3">
+<h3>Description</h3>
+<p>SIBMED identifies likely genotyping errors and mutations for a sib pair in the context of multipoint mapping.</p>
+</div>
+<div id="author-442" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Julie A Douglas</li>
+<li>Michael Boehnke (Univ Michigan)</li>
+</ul>
+</div>
+<div id="url-477" class="section level3">
+<h3>URL</h3>
+<p><a href="http://csg.sph.umich.edu/boehnke/sibmed.php" class="uri">http://csg.sph.umich.edu/boehnke/sibmed.php</a></p>
+</div>
+<div id="language-317" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN 77</p>
+</div>
+<div id="os-280" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, UNIX</p>
+</div>
+<div id="exe-111" class="section level3">
+<h3>EXE</h3>
+<p>sibmed.exe</p>
+</div>
+<div id="reference-363" class="section level3">
+<h3>Reference</h3>
+<p>Douglas, Boehnke, Lange (2000), “A multipoint method for detecting genotyping errors and mutations in sibling-pair linkage data”, American Journal of Human Genetics, 66(4):1287-1297. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="sibsim" class="section level2">
+<h2>SIBSIM</h2>
+<div id="version-309" class="section level3">
+<h3>Version</h3>
+<p>2.1.2 (November 2005)</p>
+</div>
+<div id="description-418" class="section level3">
+<h3>Description</h3>
+<p>Simulates either genotype and/or quantitative phenotype data in family structures in a modern, easy to use and highly scalable way. It is based on XML, completely written in C++ and published under the GNU General Public License.</p>
+</div>
+<div id="author-443" class="section level3">
+<h3>Author</h3>
+<p>Daniel Franke (University Hospital Schleswig-Holstein)</p>
+</div>
+<div id="url-478" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.imbs.uni-luebeck.de/pub/sibsim/index.html" class="uri">http://www.imbs.uni-luebeck.de/pub/sibsim/index.html</a></p>
+</div>
+<div id="language-318" class="section level3">
+<h3>Language</h3>
+<p>C++, XML</p>
+</div>
+<div id="os-281" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="reference-364" class="section level3">
+<h3>Reference</h3>
+<p>D Franke, A Kleensang and A Ziegler (2006), “SIBSIM, quantitative phenotype simulation in extended pedigrees”, GMS Med Inform Biom Epidemiol, 2(1):Doc04.</p>
+<hr />
+</div>
+</div>
+<div id="sift" class="section level2">
+<h2>SIFT</h2>
+<div id="full-name-203" class="section level3">
+<h3>Full Name</h3>
+<p>Sorting Intolerant From Tolerant</p>
+</div>
+<div id="description-419" class="section level3">
+<h3>Description</h3>
+<p>SIFT predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids. SIFT can be applied to naturally occurring nonsynonymous polymorphisms and laboratory-induced missense mutations.</p>
+</div>
+<div id="author-444" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Pauling Ng (Genome Institute of Singapore)</li>
+<li>Steven Henikoff (Fred Hutchinson Cancer Research Institute)</li>
+</ul>
+</div>
+<div id="url-479" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://sift.bii.a-star.edu.sg/" class="uri">http://sift.bii.a-star.edu.sg/</a></li>
+<li><a href="http://sift.jcvi.org/" class="uri">http://sift.jcvi.org/</a></li>
+<li><a href="http://blocks.fhcrc.org/sift/SIFT.html" class="uri">http://blocks.fhcrc.org/sift/SIFT.html</a></li>
+</ul>
+</div>
+<div id="reference-365" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Ng, Henikoff (2001), “Predicting deleterious amino acid substitutions”, Genome Research, 11:863-874.</li>
+<li>Ng, Henikoff (2002), “Accounting for human polymorphisms predicted to affect protein function”, Genome Research, 12:436-446.</li>
+<li>Ng, Henikoff (2003), “SIFT: Predicting amino acid changes that affect protein function”, Nucleic Acids Research, 31:3812-3814.</li>
+<li>Kumar, Henikoff, Ng (2009), “Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm”, Nature Protocols, 4:1073-1081.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="silclod" class="section level2">
+<h2>SILCLOD</h2>
+<div id="full-name-204" class="section level3">
+<h3>Full Name</h3>
+<p>SIgnificance Levels and Critical LODs</p>
+</div>
+<div id="description-420" class="section level3">
+<h3>Description</h3>
+<p>calculate nominal significance levels and critical LOD scores depending on the length of the investigated region, number of chromosomes, and the cross-over rate. The global significance level as well as the precision of the calculation have to be specified.</p>
+</div>
+<div id="author-445" class="section level3">
+<h3>Author</h3>
+<p>Andreas Ziegler (email: <a href="mailto:koenigir@imbs.uni-luebeck.de">koenigir@imbs.uni-luebeck.de</a>)</p>
+</div>
+<div id="url-480" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.imbs.uni-luebeck.de/pub/silcLOD/index.html" class="uri">http://www.imbs.uni-luebeck.de/pub/silcLOD/index.html</a></p>
+</div>
+<div id="reference-366" class="section level3">
+<h3>Reference</h3>
+<p>E Lander, L Kruglyak (1995), “Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results”, Nature Genetics, 11:241-247.</p>
+<hr />
+</div>
+</div>
+<div id="simcoal" class="section level2">
+<h2>SIMCOAL</h2>
+<div id="full-name-205" class="section level3">
+<h3>Full Name</h3>
+<p>SIMulate COAlescence</p>
+</div>
+<div id="version-310" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="author-446" class="section level3">
+<h3>Author</h3>
+<p>Laurent Excoffier (email: <a href="mailto:laurent.excoffier@zoo.unibe.ch">laurent.excoffier@zoo.unibe.ch</a>)</p>
+</div>
+<div id="url-481" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cmpg.unibe.ch/software/simcoal/" class="uri">http://cmpg.unibe.ch/software/simcoal/</a></p>
+</div>
+<div id="language-319" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-282" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows(9X/NT)</p>
+</div>
+<div id="exe-112" class="section level3">
+<h3>EXE</h3>
+<p>simcoal, sim_coal</p>
+</div>
+<div id="reference-367" class="section level3">
+<h3>Reference</h3>
+<p>Excoffier, Novembre, Schneider (2000), “SIMCOAL: a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography”, Journal of Heredity, 91:506-509.</p>
+<hr />
+</div>
+</div>
+<div id="simhap" class="section level2">
+<h2>SIMHAP</h2>
+<div id="full-name-206" class="section level3">
+<h3>Full Name</h3>
+<p>SIMulation-based HAPlotypic analysis</p>
+</div>
+<div id="version-311" class="section level3">
+<h3>Version</h3>
+<p>1.0.2 (January 2009)</p>
+</div>
+<div id="description-421" class="section level3">
+<h3>Description</h3>
+<p>SimHap uses biallelic SNP genotype data to impute haplotype frequencies at the individual level. SimHap also tests for haplotype associations with outcomes of interest while incorporating the uncertainty around inferred haplotypes into the modelling procedure. SimHap allows epidemiological (ie, non-genetic) and both single SNP and haplotype association analyses of quantitative Normal, binary, longitudinal and right-censored outcomes under a range of genetic models. SimHap can accommodate large data sets, and can model genetic and environmental effects, including complex haplotype:environment interactions. SimHap features cross-platform functionality via Java, and a sophisticated graphical user interface (GUI). SimHap will also perform association analysis on more simple epidemiological models, with or without the inclusion of genetic covariates.</p>
+</div>
+<div id="author-447" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Pamela A. McCaskie (Univ. of Western Australia)</li>
+<li>Kim W Carter</li>
+<li>Lyle J Palmer</li>
+</ul>
+</div>
+<div id="url-482" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.genepi.org.au/simhap" class="uri">http://www.genepi.org.au/simhap</a></p>
+</div>
+<div id="language-320" class="section level3">
+<h3>Language</h3>
+<p>Java (1.5)</p>
+</div>
+<div id="os-283" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-368" class="section level3">
+<h3>Reference</h3>
+<p>Carter, McCaskie, Palmer (2008), “SimHap GUI: An intuitive graphical user interface for genetic association analysis”, BMC Bioinformatics, 9:557</p>
+<hr />
+</div>
+</div>
+<div id="simibd" class="section level2">
+<h2>SIMIBD</h2>
+<div id="version-312" class="section level3">
+<h3>Version</h3>
+<p>1.21 (Jan 1997)</p>
+</div>
+<div id="author-448" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Sean Davis ( <a href="mailto:davis@moriarty.hgen.pitt.edu">davis@moriarty.hgen.pitt.edu</a>)</li>
+<li>Daniel E. Weeks</li>
+</ul>
+</div>
+<div id="url-483" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://watson.hgen.pitt.edu/register/soft_doc.html" class="uri">http://watson.hgen.pitt.edu/register/soft_doc.html</a>, <a href="http://watson.hgen.pitt.edu/~davis/" class="uri">http://watson.hgen.pitt.edu/~davis/</a></li>
+<li><a href="http://watson.hgen.pitt.edu/register" class="uri">http://watson.hgen.pitt.edu/register</a></li>
+</ul>
+</div>
+<div id="language-321" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-284" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SunOS/Solaris/HP/DEC-UNIX)</p>
+</div>
+<div id="exe-113" class="section level3">
+<h3>EXE</h3>
+<p>simibd, xslink</p>
+</div>
+<div id="reference-369" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Davis, Schroeder, Goldin, Weeks (1996), “Nonparametric simulation-based statistics for detecting linkage in general pedigrees”, American Journal of Human Genetics, 58(4):867-880</li>
+<li>online README file</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="simla" class="section level2">
+<h2>SIMLA</h2>
+<div id="full-name-207" class="section level3">
+<h3>Full Name</h3>
+<p>SIMulation of pedigree data for Linkage and Association studies</p>
+</div>
+<div id="version-313" class="section level3">
+<h3>Version</h3>
+<p>2.3 (Oct 2003)</p>
+</div>
+<div id="description-422" class="section level3">
+<h3>Description</h3>
+<p>SIMLA is a SIMulation program that generates data sets of families for use in Linkage and Association studies. It allows the user flexibility in specifying marker and disease placement, locus heterogeneity, disequilibrium between markers and between markers and disease loci. Output is in the form of a LINKAGE pedigree file and is easily utilized, either directly or with minimal reformatting, as input for various genetic analysis packages</p>
+</div>
+<div id="author-449" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Elizabeth Hauser</li>
+<li>Eden Martin</li>
+<li>Meredyth Bass</li>
+</ul>
+</div>
+<div id="url-484" class="section level3">
+<h3>URL</h3>
+<p><a href="http://wwwchg.duhs.duke.edu/software/simla.html" class="uri">http://wwwchg.duhs.duke.edu/software/simla.html</a></p>
+</div>
+<div id="language-322" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-285" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux</p>
+</div>
+<div id="exe-114" class="section level3">
+<h3>EXE</h3>
+<p>simla2.3</p>
+</div>
+<div id="reference-370" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>MP Bass, ER Martin, ER Hauser(2002), Am J Hum Genet, suppl 71:569.</li>
+<li>MP Bass, ER Martin, ER Hauser (2004), “Pedigree generation for analysis of genetic linkage and association”, Proceedings of the Pacific Symposium on Biocomputing, pp.93-103.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="simla-3" class="section level2">
+<h2>SIMLA 3</h2>
+<div id="version-314" class="section level3">
+<h3>Version</h3>
+<p>3.2, 3.3 with graphic user interface</p>
+</div>
+<div id="description-423" class="section level3">
+<h3>Description</h3>
+<p>SIMLA is a simulation program that generates data sets of families for use in linkage and association studies. SIMLA_3.2 is a major upgrade to versions 2.3 and 3.0 that provides the ability to simulate two disease loci and two environmental covariates. Gene-gene and gene-environment interactions may also be simulated which jointly determine the disease risk of all pedigree members. The SIMLA3.3 with Graphical User Interface (GUI) is designed for users to set up the SIMLA parameters conveniently. The GUI assists in creating a SIMLA control file based on the parameters specified on the GUI panels. It includes the SIMLA 3.2 program version.</p>
+</div>
+<div id="author-450" class="section level3">
+<h3>Author</h3>
+<p>email: <a href="mailto:simla@chg.duhs.duke.edu">simla@chg.duhs.duke.edu</a></p>
+</div>
+<div id="url-485" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.chg.duke.edu/research/simla30.html" class="uri">http://www.chg.duke.edu/research/simla30.html</a></li>
+<li><a href="http://wwwchg.duhs.duke.edu/research/simla3_3gui.html" class="uri">http://wwwchg.duhs.duke.edu/research/simla3_3gui.html</a></li>
+</ul>
+</div>
+<div id="language-323" class="section level3">
+<h3>Language</h3>
+<p>Java, R</p>
+</div>
+<div id="os-286" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux, MS-Windows</p>
+</div>
+<div id="reference-371" class="section level3">
+<h3>Reference</h3>
+<p>Schmidt, Hauser, Martin, Schmidt (2005), “Extension of the SIMLA package for generating pedigrees with complex inheritance patterns: Environmental covariates, gene-gene and gene-environment interaction”, Statistical Applications in Genetics and Molecular Biology, 4(1):15.</p>
+<hr />
+</div>
+</div>
+<div id="simlink" class="section level2">
+<h2>SIMLINK</h2>
+<div id="version-315" class="section level3">
+<h3>Version</h3>
+<p>4.12 (April 1997)</p>
+</div>
+<div id="description-424" class="section level3">
+<h3>Description</h3>
+<p>a computer program to estimate the probability (“power”) of detecting linkage given family history information on a set of identified pedigrees.</p>
+</div>
+<div id="author-451" class="section level3">
+<h3>Author</h3>
+<p>Michael Boehnke ( <a href="mailto:boehnke@sph.umich.edu">boehnke@sph.umich.edu</a>)</p>
+</div>
+<div id="url-486" class="section level3">
+<h3>URL</h3>
+<p><a href="http://csg.sph.umich.edu/boehnke/simlink.php" class="uri">http://csg.sph.umich.edu/boehnke/simlink.php</a></p>
+</div>
+<div id="language-324" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN</p>
+</div>
+<div id="os-287" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS, UNIX(SunOS/..), VMS</p>
+</div>
+<div id="reference-372" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Boehnke (1986), “Estimating the power of a proposed linkage study: a practical computer simulation approach”, American Journal of Human Genetics, 39(4):513-527</li>
+<li>Ploughman, Boehnke (1989), “Estimating the power of a proposed linkage study for a complex genetic trait”, American Journal of Human Genetics, 44(4):543-551</li>
+<li>online documentation (version 4.1, april 1990)</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="simm" class="section level2">
+<h2>SIMM</h2>
+<div id="description-425" class="section level3">
+<h3>Description</h3>
+<p>A gene dropping simulation software</p>
+</div>
+<div id="author-452" class="section level3">
+<h3>Author</h3>
+<p>Mathieu Lemire (email:<a href="mailto:mlemire@sdf.lonestar.org">mlemire@sdf.lonestar.org</a>)</p>
+</div>
+<div id="url-487" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mlemire.freeshell.org/software.html" class="uri">http://mlemire.freeshell.org/software.html</a></p>
+</div>
+<div id="reference-373" class="section level3">
+<h3>Reference</h3>
+<p>Lemire, Roslin, Laprise, Hudson, Morgan (2004), “Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3”, American Journal of Human Genetics, 75:571-586.</p>
+<hr />
+</div>
+</div>
+<div id="simped" class="section level2">
+<h2>SIMPED</h2>
+<div id="description-426" class="section level3">
+<h3>Description</h3>
+<p>SimPed is a program that quickly generates haplotypes and/or genotype data for a large number of marker loci (&gt;20,000) for pedigrees of virtually any size and complexity. Haplotypes and/or genotypes are generated using user specified genetic map distances and haplotypes and/or allele frequencies.</p>
+</div>
+<div id="author-453" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>SM Leal</li>
+<li>K Yan</li>
+<li>B Müller-Myhsok</li>
+</ul>
+</div>
+<div id="url-488" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.hgsc.bcm.tmc.edu/genemapping" class="uri">http://www.hgsc.bcm.tmc.edu/genemapping</a></p>
+</div>
+<div id="language-325" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-288" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Window, Linux</p>
+</div>
+<div id="reference-374" class="section level3">
+<h3>Reference</h3>
+<p>Leal, Yan, Muller-Myhsok (2005), “SimPed: a simulation program to generate haplotype and genotype data for pedigree structures”, Human Heredity, 60(2):119-122.</p>
+<hr />
+</div>
+</div>
+<div id="simple" class="section level2">
+<h2>SIMPLE</h2>
+<div id="full-name-208" class="section level3">
+<h3>Full Name</h3>
+<p>Sequential Imputation for MultiPoint Linkage Estimation</p>
+</div>
+<div id="description-427" class="section level3">
+<h3>Description</h3>
+<p>Calculates linkage statistics, such as lod scores and NPL statistics by Sequential Imputation.</p>
+</div>
+<div id="author-454" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>S Lin</li>
+<li>Z Skrivanek</li>
+<li>M Irwin (Ohio State Univ)</li>
+</ul>
+</div>
+<div id="url-489" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stat.ohio-state.edu/~statgen/SOFTWARE/SIMPLE/" class="uri">http://www.stat.ohio-state.edu/~statgen/SOFTWARE/SIMPLE/</a></p>
+</div>
+<div id="language-326" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-289" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris)</p>
+</div>
+<div id="exe-115" class="section level3">
+<h3>EXE</h3>
+<p>simple, scan</p>
+</div>
+<div id="reference-375" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>M Irwin, N Cox, A Kong (1994), “Sequential imputation for multilocus linkage analysis”, Proceedings of the National Academy of Sciences , 91:1684-1688</li>
+<li>Z Skrivanek, S Lin, ME Irwin (2003), “Linkage Analysis with Sequential Imputation”, Genetic Epidemiology, 25:25-35.</li>
+<li>S Lin, Z Skrivanek, M Irwin (2003), “Haplotyping using SIMPLE - caution on ignoring interference”, Genetic Epidemiology, 25:384-387.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="simulaplot" class="section level2">
+<h2>SIMULAPLOT</h2>
+<div id="version-316" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="description-428" class="section level3">
+<h3>Description</h3>
+<p>SIMLAPLOT is a tool designed to help visualize the joint effect of genes and continuous environmental covariates on complex human disease simulation models. SIMLAPLOT takes as input the set of genetic model parameters used to generate the data, including risk ratios for genotypes (G), a normally distributed environmental covariate (E) and their interaction (GxE), or the risk ratio for a continuous covariate that is itself influenced by a quantitative trait locus (QTL) and thus follows a mixture normal distribution. It is also possible to use SIMLAPLOT to plot observed data distributions, if estimates of these parameters can be provided.</p>
+</div>
+<div id="url-490" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.chg.duke.edu/research/simlaplot.html" class="uri">http://www.chg.duke.edu/research/simlaplot.html</a></p>
+</div>
+<div id="language-327" class="section level3">
+<h3>Language</h3>
+<p>R</p>
+<hr />
+</div>
+</div>
+<div id="simulate" class="section level2">
+<h2>SIMULATE</h2>
+<div id="description-429" class="section level3">
+<h3>Description</h3>
+<p>a program to simulate genotypes in family members for a map of linked markers unlinked to a given affection status locus. the output is ready for analysis with UNKNOWN, ISIM, LSIM, or MSIM of the SLINK package.</p>
+</div>
+<div id="author-455" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Joseph Terwilliger</li>
+<li><a href="http://linkage.cpmc.columbia.edu/" class="uri">http://linkage.cpmc.columbia.edu/</a></li>
+</ul>
+</div>
+<div id="url-491" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.helsinki.fi/~tsjuntun/linkage/analyze/" class="uri">http://www.helsinki.fi/~tsjuntun/linkage/analyze/</a></p>
+</div>
+<div id="language-328" class="section level3">
+<h3>Language</h3>
+<p>Pascal</p>
+</div>
+<div id="os-290" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS, VMS, UNIX</p>
+</div>
+<div id="reference-376" class="section level3">
+<h3>Reference</h3>
+<p>online documentation</p>
+<hr />
+</div>
+</div>
+<div id="simupop" class="section level2">
+<h2>SIMUPOP</h2>
+<div id="version-317" class="section level3">
+<h3>Version</h3>
+<p>0.6.0 (Jan 2005)</p>
+</div>
+<div id="description-430" class="section level3">
+<h3>Description</h3>
+<p>simuPOP is a forward-based population genetics simulation program. It is capable of simulating very complex evolution processes on large (think of millions) populations. Major features include variable population size; many built-in and hybrid (write in python) mutation, migration, selection models. simuPOP can be extended in Python so there is no limit on what you can do with it.</p>
+</div>
+<div id="author-456" class="section level3">
+<h3>Author</h3>
+<p>Bo Peng (email:<a href="mailto:bpeng@rice.edu">bpeng@rice.edu</a>)</p>
+</div>
+<div id="url-492" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://bp6.stat.rice.edu:8080/simuPOP/" class="uri">http://bp6.stat.rice.edu:8080/simuPOP/</a></li>
+<li><a href="http://simupop.sourceforge.net/" class="uri">http://simupop.sourceforge.net/</a></li>
+</ul>
+</div>
+<div id="language-329" class="section level3">
+<h3>Language</h3>
+<p>C++ (provided as Python libraries)</p>
+</div>
+<div id="reference-377" class="section level3">
+<h3>Reference</h3>
+<p>Peng, Kimmel (2005), “simuPOP: a forward-time population genetics simulation environment”, Bioinformatics, 21(18):3686-3687.</p>
+<hr />
+</div>
+</div>
+<div id="simwalk" class="section level2">
+<h2>SIMWALK</h2>
+<div id="other-name-11" class="section level3">
+<h3>Other Name</h3>
+<p>SIMWALK/SIMCROSS</p>
+</div>
+<div id="version-318" class="section level3">
+<h3>Version</h3>
+<p>SIMCROSS: June 1995; SIMWALK2: 2.91 (December 2004)</p>
+</div>
+<div id="description-431" class="section level3">
+<h3>Description</h3>
+<p>programs for generating optimal haplotype configurations on general pedigrees using a likelihood-based approach to correctly take intermarker recombination fractions into account. simcross ignores untyped parts of the pedigree, and it uses simulated annealing. simwalk combines simulated annealing with random walk method.</p>
+</div>
+<div id="author-457" class="section level3">
+<h3>Author</h3>
+<p>Eric Sobel (UCLA. email: <a href="mailto:simwalk@genetics.ucla.edu">simwalk@genetics.ucla.edu</a> (in collaboration with Kenneth Lange, Jeffrey O’Connell,, Daniel E. Weeks)</p>
+</div>
+<div id="url-493" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.genetics.ucla.edu/software/simwalk" class="uri">http://www.genetics.ucla.edu/software/simwalk</a></li>
+<li>registration page at: <a href="http://www.genetics.ucla.edu/software/registration" class="uri">http://www.genetics.ucla.edu/software/registration</a> or, <a href="http://watson.hgen.pitt.edu/register/" class="uri">http://watson.hgen.pitt.edu/register/</a></li>
+</ul>
+</div>
+<div id="language-330" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN77</p>
+</div>
+<div id="os-291" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SunOS/Solaris)</p>
+</div>
+<div id="reference-378" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Weeks, Sobel, O’Connell, Lange (1995), “Computer programs for multilocus haplotyping of general pedigrees”, American Journal of Human Genetics, 56(6):1506-1507</li>
+<li>Sobel, Lange, O’Connell, Weeks (1996), in Genetic Mapping and DNA Sequencing , Vol 81 in The IMA Volumes in Mathematics and its Applications, eds TP Speed, MS Waterman (Springer-Verlag), pages 49-63.</li>
+<li>Sobel, Lange (1996), “Descent graphs in pedigree analysis: applications to haplotyping, location scores, and marker sharing statistics”, American Journal of Human Genetics, 58(6):1323-1337</li>
+<li>Sobel, Sengul, Weeks (2001), Human Heredity, 52:121-131.</li>
+<li>Sobel, Papp, Lange (2002), “Detection and integration of genotyping errors in statistical genetics”, American Journal of Human Genetics, 70(2):496-508. [ html]</li>
+<li>SIMWALK manual</li>
+<li>FAQ-O-MATIC: <a href="http://watson.hgen.pitt.edu/fom-serve/cache/20.html" class="uri">http://watson.hgen.pitt.edu/fom-serve/cache/20.html</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="skat" class="section level2">
+<h2>SKAT</h2>
+<div id="full-name-209" class="section level3">
+<h3>Full Name</h3>
+<p>SNP-set (Sequence) Kernel Association Test</p>
+</div>
+<div id="description-432" class="section level3">
+<h3>Description</h3>
+<p>SKAT is a SNP-set (e.g., a gene or a region) level test for association between a set of rare (or common) variants and dichotomous or quantitative phenotypes. SKAT aggregates individual score test statistics of SNPs in a SNP set and efficiently computes SNP-set level p-values, e.g. a gene or a region level p-value, while adjusting for covariates, such as principal components to account for population stratification. SKAT also allows for power/sample size calculations for designing for sequence association studies.</p>
+</div>
+<div id="author-458" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Xihong Lin</li>
+<li>Seunggeun Lee (Harvard Univ)</li>
+</ul>
+</div>
+<div id="url-494" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.hsph.harvard.edu/research/skat/index.html" class="uri">http://www.hsph.harvard.edu/research/skat/index.html</a></p>
+</div>
+<div id="reference-379" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Wu, Lee, Cai, Li, Boehnke, Lin (2011), “Rare variant association testing for sequencing data using the sequence kernel association test (SKAT)”, American Journal of Human Genetics, 89:82-93.</li>
+<li>Wu, Kraft, Epstein, Taylor, Chanock, Hunter, Lin (2010), “Powerful SNP set analysis for case-control genomeWide association studies”, American Journal of Human Genetics , 86:929-942.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="slink" class="section level2">
+<h2>SLINK</h2>
+<div id="author-459" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Daniel E. Weeks</li>
+<li>Jurg Ott</li>
+</ul>
+</div>
+<div id="url-495" class="section level3">
+<h3>URL</h3>
+<p><a href="http://lab.rockefeller.edu/ott/programs" class="uri">http://lab.rockefeller.edu/ott/programs</a></p>
+</div>
+<div id="language-331" class="section level3">
+<h3>Language</h3>
+<p>Pascal</p>
+</div>
+<div id="os-292" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS</p>
+</div>
+<div id="exe-116" class="section level3">
+<h3>EXE</h3>
+<p>slink, isim, lsim, msim</p>
+</div>
+<div id="reference-380" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Ott (1989), Proceedings of the National Academy of Sciences , 86:4175-4178.</li>
+<li>Weeks, Ott, Lathrop (1990), American Journal of Human Genetics, 47(suppl):A204.</li>
+<li>online documentation</li>
+<li>FAQ-O-MATIC: <a href="http://watson.hgen.pitt.edu/fom-serve/cache/20.html" class="uri">http://watson.hgen.pitt.edu/fom-serve/cache/20.html</a></li>
+</ul>
+</div>
+<div id="related-60" class="section level3">
+<h3>Related</h3>
+<p>FASTSLINK</p>
+<hr />
+</div>
+</div>
+<div id="smooth" class="section level2">
+<h2>SMOOTH</h2>
+<div id="version-319" class="section level3">
+<h3>Version</h3>
+<p>2008</p>
+</div>
+<div id="description-433" class="section level3">
+<h3>Description</h3>
+<p>The construction of accurate linkage maps is not so much depending on the quality of the mapping software, but mostly on the marker data quality. Missing values and scoring errors can severely influence the calculated marker order. The software tool SMOOTH recognises and removes the most unrealistic data points. This software was used to construct the 10,000 marker potato map. The removal of improbable data point is a good medicine for linkage maps, that is not easily overdosed. One error is more harmfull than ten missing values. The software was never intended as user-friendly software. In these days it would be more useful to re-do the programming of the pascal source code into a perl script. Anyone who takes the initiative to generate such a script is welcomed to contact the authors. SMOOTH works best in close cooperation with mapping algorithm RECORD</p>
+</div>
+<div id="author-460" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Hans van Os</li>
+<li>Herman van Eck (Laboratory for Plant Breeding, Wageningen University, email: <a href="mailto:herman.vaneck@wur.nl">herman.vaneck@wur.nl</a>)</li>
+</ul>
+</div>
+<div id="url-496" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.plantbreeding.wur.nl/UK/software_smooth.html" class="uri">http://www.plantbreeding.wur.nl/UK/software_smooth.html</a></p>
+</div>
+<div id="language-332" class="section level3">
+<h3>Language</h3>
+<p>Pascal</p>
+</div>
+<div id="os-293" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS</p>
+</div>
+<div id="exe-117" class="section level3">
+<h3>EXE</h3>
+<p>smooth7.exe</p>
+</div>
+<div id="reference-381" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Van Os, Stam, Visser, Van Eck (2005), “SMOOTH: a statistical method for successful removal of genotyping errors from high-density genetic linkage data”, Theoretical and Applied Genetics, 112(1):187-194</li>
+<li>Van Os, Stam, Visser, Van Eck (2005), “RECORD: A novel method for ordering loci on a genetic linkage map”, Theoretical and Applied Genetics, 112(1):30-40</li>
+<li>Van Os, Andrzejewski, Bakker, Barrena, Bryan, Caromel, Ghareeb, Isidore, de Jong, van Koert, Lefebvre, Milbourne, Ritter, van der Voort, Rousselle-Bourgeois, van Vliet, Waugh, Visse, Bakke, Van Eck (2006), “Construction of a 10,000-marker ultradense genetic recombination map of potato: Providing a framework for accelerated gene isolation and a genomewide physical map”, Genetics, 173(2):1075-1087</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="snap" class="section level2">
+<h2>SNAP</h2>
+<div id="full-name-210" class="section level3">
+<h3>Full Name</h3>
+<p>Suite of Nucleotide Analysis Programs</p>
+</div>
+<div id="description-434" class="section level3">
+<h3>Description</h3>
+<p>The exploration of DNA sequence variation for making inferences on evolutionary processes in populations requires the coordinated implementation of a Suite of Nucleotide Analysis Programs (SNAP), each bound by specific assumptions and limitations. We have developed a workbench tool to make existing population genetic software more accessible and to facilitate the integration of new tools for analyzing patterns of DNA sequence variation, within a phylogenetic context. Collectively, SNAP tools can serve as a bridge between theoretical and applied population genetic analysis.</p>
+</div>
+<div id="author-461" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>David Aylor</li>
+<li>Eric Price</li>
+<li>Ignazio Carbone (North Carolina State Univ)</li>
+</ul>
+</div>
+<div id="url-497" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.cals.ncsu.edu/plantpath/people/faculty/carbone/snap.html" class="uri">http://www.cals.ncsu.edu/plantpath/people/faculty/carbone/snap.html</a></p>
+</div>
+<div id="reference-382" class="section level3">
+<h3>Reference</h3>
+<p>Aylor, Price, Carbone (2006), “SNAP: Combine and Map modules for multilocus population genetic analysis”, Bioinformatics, 22(11):1399-1401.</p>
+<hr />
+</div>
+</div>
+<div id="snap-2" class="section level2">
+<h2>SNAP 2</h2>
+<div id="full-name-211" class="section level3">
+<h3>Full Name</h3>
+<p>SNp Annotation and Proxy search</p>
+</div>
+<div id="version-320" class="section level3">
+<h3>Version</h3>
+<p>1.0 (August 2008)</p>
+</div>
+<div id="description-435" class="section level3">
+<h3>Description</h3>
+<p>SNAP finds proxy SNPs based on linkage disequilibrium, physical distance and/or membership in more than 15 selected commercial genotyping arrays. Pair-wise linkage disequilibrium is pre-calculated based on phased genotype data from the International HapMap Project . Information about the genotyping arrays is based on data published by the vendors. SNAP also optionally returns current gene and SNP annotations, and can be used to generate graphical plots of LD structure, recombination rate and gene annotation.</p>
+</div>
+<div id="author-462" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Robert Handsaker (email: <a href="mailto:handsake@broad.mit.edu">handsake@broad.mit.edu</a>)</li>
+<li>Andrew Johnson (email: <a href="mailto:johnsonad2@nhlbi.nih.gov">johnsonad2@nhlbi.nih.gov</a>)</li>
+<li>Sara Pulit</li>
+<li>Marcia Nizzari</li>
+<li>Chris O’Donnell</li>
+<li>Paul de Bakker (email: <a href="mailto:debakker@broad.mit.edu">debakker@broad.mit.edu</a>)</li>
+</ul>
+</div>
+<div id="url-498" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broad.mit.edu/mpg/snap/" class="uri">http://www.broad.mit.edu/mpg/snap/</a></p>
+</div>
+<div id="language-333" class="section level3">
+<h3>Language</h3>
+<p>R, Oracle</p>
+<hr />
+</div>
+</div>
+<div id="snap-3" class="section level2">
+<h2>SNAP 3</h2>
+<div id="full-name-212" class="section level3">
+<h3>Full Name</h3>
+<p>Simulation of sNp haplotype data And Phenotypic traits</p>
+</div>
+<div id="description-436" class="section level3">
+<h3>Description</h3>
+<p>The SNaP program can be used to generate SNP haplotype sequence data of unrelated individuals and nuclear families with a fixed or random number of children.</p>
+</div>
+<div id="author-463" class="section level3">
+<h3>Author</h3>
+<p>Michael Nothnagel (email: <a href="mailto:nothnagel@medinfo.uni-kiel.de">nothnagel@medinfo.uni-kiel.de</a>)</p>
+</div>
+<div id="url-499" class="section level3">
+<h3>URL</h3>
+<p><a href="http://capella.uni-kiel.de/snap/snap.htm" class="uri">http://capella.uni-kiel.de/snap/snap.htm</a></p>
+</div>
+<div id="language-334" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-294" class="section level3">
+<h3>OS</h3>
+<p>Linux, UNIX(Solaris), MS-Windows</p>
+</div>
+<div id="reference-383" class="section level3">
+<h3>Reference</h3>
+<p>Am Soc Hum Genet annual meeting (2002) Nothnagel (2002), “Simulation of LD block-structured SNP haplotype data and its use for the analysis of case-control data by supervised learning methods”, Am J. Hum Genet, 71(4)(suppl), A2363.</p>
+<hr />
+</div>
+</div>
+<div id="snippeep" class="section level2">
+<h2>SNIPPEEP</h2>
+<div id="description-437" class="section level3">
+<h3>Description</h3>
+<p>SnipPeep is an interactive graphic interface to visualise results from whole genome genotyping. It allows one to visualise single subjects and groups of subjects, and provides a direct connection with the UCSC Genome Browser.</p>
+</div>
+<div id="author-464" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Roberto Toro</li>
+<li>(email: <a href="mailto:rto@pasteur.fr">rto@pasteur.fr</a>)</li>
+<li>Thomas Bourgeron (email: <a href="mailto:thomasb@pasteur.fr">thomasb@pasteur.fr</a>)</li>
+</ul>
+</div>
+<div id="url-500" class="section level3">
+<h3>URL</h3>
+<p><a href="http://snippeep.sourceforge.net/" class="uri">http://snippeep.sourceforge.net/</a></p>
+</div>
+<div id="language-335" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+<hr />
+</div>
+</div>
+<div id="snp-assistant" class="section level2">
+<h2>SNP ASSISTANT</h2>
+<div id="version-321" class="section level3">
+<h3>Version</h3>
+<p>1.0.11 (April 2004)</p>
+</div>
+<div id="description-438" class="section level3">
+<h3>Description</h3>
+<p>SNP data managing, import &amp; export from linkage format, data validation, pairwise LD calculation and visualisation, case-control and TDT tests, visual comparison of two datasets, relationships testing. Suitable for large projects.</p>
+</div>
+<div id="author-465" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Biodata Ltd.</li>
+<li>Estonia (<a href="mailto:snpassistant@biodata.ee">snpassistant@biodata.ee</a>)</li>
+</ul>
+</div>
+<div id="url-501" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.biodata.ee/SNPassistant.htm" class="uri">http://www.biodata.ee/SNPassistant.htm</a> (30 days trial version)</p>
+</div>
+<div id="language-336" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-295" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows(95 and newer)</p>
+</div>
+<div id="reference-384" class="section level3">
+<h3>Reference</h3>
+<p>online manual: <a href="http://www.biodata.ee/sa/SNP_Assistant_Manual_1.0.7.pdf" class="uri">http://www.biodata.ee/sa/SNP_Assistant_Manual_1.0.7.pdf</a></p>
+<hr />
+</div>
+</div>
+<div id="snp-chart" class="section level2">
+<h2>SNP CHART</h2>
+<div id="description-439" class="section level3">
+<h3>Description</h3>
+<p>The purpose of this software is to generate visual patterns that can be easily interpreted as a single specific Single Nucleotide Polymorphism (SNP) genotype, based on reiterative pattern recognition from validated SNP data</p>
+</div>
+<div id="author-466" class="section level3">
+<h3>Author</h3>
+<p>Scott Tebbutt (email: <a href="mailto:scott.tebbutt@hli.ubc.ca">scott.tebbutt@hli.ubc.ca</a>)</p>
+</div>
+<div id="url-502" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.flintbox.com/public/project/500/" class="uri">http://www.flintbox.com/public/project/500/</a></p>
+</div>
+<div id="language-337" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="os-296" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-385" class="section level3">
+<h3>Reference</h3>
+<p>Tebbutt, Opushnyev, Tripp, Kassamali, Alexander, Andersen (2005), “SNP Chart: an integrated platform for visualization and interpretation of microarray genotyping data”, Bioinformatics, 21(1):124-127.</p>
+<hr />
+</div>
+</div>
+<div id="snp-hitlink" class="section level2">
+<h2>SNP HITLINK</h2>
+<div id="full-name-213" class="section level3">
+<h3>Full Name</h3>
+<p>SNP HIgh-Throughput LINKage analysis system</p>
+</div>
+<div id="version-322" class="section level3">
+<h3>Version</h3>
+<p>5.1 (May 2010)</p>
+</div>
+<div id="description-440" class="section level3">
+<h3>Description</h3>
+<p>SNP HiTLink is a computer program providing a useful pipeline to directly connect SNP data and linkage analysis program. SNP HiTLink currently supports the data from SNP chips provided by Affymetrix (Mapping 100k/500k array set, Genome-Wide Human SNP array 5.0/6.0) and Illumina (recently supported), carrying out typical linkage analysis programs of MLINK (FASTLINK/ LINKAGE package), Superlink, Merlin and Allegro.</p>
+</div>
+<div id="author-467" class="section level3">
+<h3>Author</h3>
+<p><a href="mailto:info@dynacom.co.jp">info@dynacom.co.jp</a></p>
+</div>
+<div id="url-503" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.dynacom.co.jp/u-tokyo.ac.jp/snphitlink/" class="uri">http://www.dynacom.co.jp/u-tokyo.ac.jp/snphitlink/</a></p>
+</div>
+<div id="reference-386" class="section level3">
+<h3>Reference</h3>
+<p>Fukuda, Nakahara, Date, Takahashi, Goto, Miyashita, Kuwano, Adachi, Nakamura, Tsuji (2009), “SNP HiTLink: a high-throughput linkage analysis system employing dense SNP data”, BMC Bioinformatics, 10:121.</p>
+<hr />
+</div>
+</div>
+<div id="snp-hwe" class="section level2">
+<h2>SNP-HWE</h2>
+<div id="description-441" class="section level3">
+<h3>Description</h3>
+<p>a fast exact Hardy-Weinberg Equilibrium test for SNPs</p>
+</div>
+<div id="author-468" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Janis Wigginton (email: “a href=”<a href="mailto:wiggie@umich.edu">mailto:wiggie@umich.edu</a>“&gt; <a href="mailto:wiggie@umich.edu">wiggie@umich.edu</a>)</li>
+<li>Goncalo Abecasis</li>
+</ul>
+</div>
+<div id="url-504" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sph.umich.edu/csg/abecasis/Exact/index.html" class="uri">http://www.sph.umich.edu/csg/abecasis/Exact/index.html</a></p>
+</div>
+<div id="language-338" class="section level3">
+<h3>Language</h3>
+<p>Fortran, C,C++, R</p>
+</div>
+<div id="reference-387" class="section level3">
+<h3>Reference</h3>
+<p>Wigginton, Cutler, Abecasis (2005), “A note on exact tests of Hardy-Weinberg equilibrium”, American Journal of Human Genetics, 76(5):887-893. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="snp.plotter" class="section level2">
+<h2>SNP.PLOTTER</h2>
+<div id="related-61" class="section level3">
+<h3>Related</h3>
+<p>R/SNP.PLOTTER</p>
+<hr />
+</div>
+</div>
+<div id="snpalyze" class="section level2">
+<h2>SNPALYZE</h2>
+<div id="version-323" class="section level3">
+<h3>Version</h3>
+<p>6.0 (December 2006)</p>
+</div>
+<div id="author-469" class="section level3">
+<h3>Author</h3>
+<p>dynacom.co.jp</p>
+</div>
+<div id="url-505" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.dynacom.co.jp/e/products/package/snpalyze/index.html" class="uri">http://www.dynacom.co.jp/e/products/package/snpalyze/index.html</a></p>
+</div>
+<div id="os-297" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (98/Me/NT4.0/2000/XP)</p>
+</div>
+<div id="reference-388" class="section level3">
+<h3>Reference</h3>
+<p>Shimo-Onoda, Tanaka, Furushima, Nakajima, Toh, Harata, Yone, Komiya, Adachi, Nakamura, Fujimiya, Inoue(2002), “Akaike’s information criterion for a measure of linkage disequilibrium”, J Hum Genet, 47(12): 649-655.</p>
+<hr />
+</div>
+</div>
+<div id="snpem" class="section level2">
+<h2>SNPEM</h2>
+<div id="full-name-214" class="section level3">
+<h3>Full Name</h3>
+<p>SNP Expectation Maximization</p>
+</div>
+<div id="description-442" class="section level3">
+<h3>Description</h3>
+<p>EM algorithm estimations of SNP haplotypes</p>
+</div>
+<div id="url-506" class="section level3">
+<h3>URL</h3>
+<p><a href="http://polymorphism.ucsd.edu/snpem/" class="uri">http://polymorphism.ucsd.edu/snpem/</a></p>
+</div>
+<div id="os-298" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+<hr />
+</div>
+</div>
+<div id="snpfile" class="section level2">
+<h2>SNPFILE</h2>
+<div id="description-443" class="section level3">
+<h3>Description</h3>
+<p>SNPFile is a library and API for manipulating large SNP datasets with associated meta-data, such as marker names, marker locations, individuals’ phenotypes, etc. in an I/O efficient binary file format. In its core, SNPFile assumes very little about the metadata associated with markers and individuals, but leaves this up to application program protocols.</p>
+</div>
+<div id="url-507" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.daimi.au.dk/~mailund/SNPFile/" class="uri">http://www.daimi.au.dk/~mailund/SNPFile/</a></p>
+</div>
+<div id="language-339" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-299" class="section level3">
+<h3>OS</h3>
+<p>Linux, UNIX</p>
+</div>
+<div id="reference-389" class="section level3">
+<h3>Reference</h3>
+<p>Nielsen, Mailund (2008), “SNPFile – A software library and file format for large scale association mapping and population genetics studies”, BMC Bioinformatics, 9:526.</p>
+<hr />
+</div>
+</div>
+<div id="snphap" class="section level2">
+<h2>SNPHAP</h2>
+<div id="version-324" class="section level3">
+<h3>Version</h3>
+<p>1.3.1</p>
+</div>
+<div id="description-444" class="section level3">
+<h3>Description</h3>
+<p>a program for estimating frequencies of haplotypes of large numbers of diallelic markers from unphased genotype data from unrelated subjects</p>
+</div>
+<div id="author-470" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>David Clayton</li>
+<li>Cambridge Institute</li>
+<li><a href="mailto:david.clayton@cimr.cam.ac.uk">david.clayton@cimr.cam.ac.uk</a></li>
+</ul>
+</div>
+<div id="url-508" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www-gene.cimr.cam.ac.uk/clayton/software/" class="uri">http://www-gene.cimr.cam.ac.uk/clayton/software/</a></p>
+</div>
+<div id="language-340" class="section level3">
+<h3>Language</h3>
+<p>C,C++</p>
+<hr />
+</div>
+</div>
+<div id="snpharvester" class="section level2">
+<h2>SNPHARVESTER</h2>
+<div id="description-445" class="section level3">
+<h3>Description</h3>
+<p>a powerful tool for detecting epistatic interactions in genome-wide association studies</p>
+</div>
+<div id="url-509" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinformatics.ust.hk/SNPHarvester.html" class="uri">http://bioinformatics.ust.hk/SNPHarvester.html</a></p>
+</div>
+<div id="language-341" class="section level3">
+<h3>Language</h3>
+<p>java</p>
+</div>
+<div id="reference-390" class="section level3">
+<h3>Reference</h3>
+<p>Yang, He, Wan, Yang, Xue, Yu (2009), “SNPHarvester: a filtering-based approach for detecting epistatic interactions in genome-wide association studies”, Bioinformatics, 25:504-511.</p>
+<hr />
+</div>
+</div>
+<div id="snplink" class="section level2">
+<h2>SNPLINK</h2>
+<div id="description-446" class="section level3">
+<h3>Description</h3>
+<p>Multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal. SNPLINK requires these other programs installed on the system: MERLIN (used for nonparametric analysis), ALLEGRO (used for parametric analysis), R and PERL, all are freely available.</p>
+</div>
+<div id="author-471" class="section level3">
+<h3>Author</h3>
+<p>Emily Webb (The Institute for Cancer Research, email: <a href="mailto:emily.webb@icr.ac.uk">emily.webb@icr.ac.uk</a>)</p>
+</div>
+<div id="url-510" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.icr.ac.uk/cancgen/molgen/MolPopGen_Bioinformatics.htm" class="uri">http://www.icr.ac.uk/cancgen/molgen/MolPopGen_Bioinformatics.htm</a></p>
+</div>
+<div id="language-342" class="section level3">
+<h3>Language</h3>
+<p>Perl</p>
+</div>
+<div id="os-300" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="reference-391" class="section level3">
+<h3>Reference</h3>
+<p>Webb, Sellick, Houlston (2005), “SNPLINK: multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal”, Bioinformatics, 21:3060-3061.</p>
+<hr />
+</div>
+</div>
+<div id="snpmstat" class="section level2">
+<h2>SNPMSTAT</h2>
+<div id="full-name-215" class="section level3">
+<h3>Full Name</h3>
+<p>SNP Missing data STATistics</p>
+</div>
+<div id="version-325" class="section level3">
+<h3>Version</h3>
+<p>4.0</p>
+</div>
+<div id="description-447" class="section level3">
+<h3>Description</h3>
+<p>SNPMStat is a command-line program for the statistical analysis of SNP-disease association in case-control/cohort/cross-sectional studies with potentially missing genotype data. SNPMStat allows the user to estimate or test SNP effects and SNP-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty, study design and gene-environment dependence. For SNPs without missing data, the program performs the standard association analysis. For typed SNPs with missing data or untyped SNPs, the program performs the maximum-likelihood analysis.</p>
+</div>
+<div id="author-472" class="section level3">
+<h3>Author</h3>
+<p>Danyu Lin’s group (Univ North Carolina)</p>
+</div>
+<div id="url-511" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SNPMStat/" class="uri">http://www.bios.unc.edu/~lin/software/SNPMStat/</a></p>
+</div>
+<div id="reference-392" class="section level3">
+<h3>Reference</h3>
+<p>Lin, Hu, Huang (2008), “Simple and efficient analysis of SNP-disease association with missing genotype data”, American Journal of Human Genetics, 82:444-452.</p>
+<hr />
+</div>
+</div>
+<div id="snpp" class="section level2">
+<h2>SNPP</h2>
+<div id="full-name-216" class="section level3">
+<h3>Full Name</h3>
+<p>Single Nucleotide Polymorphism Processor</p>
+</div>
+<div id="version-326" class="section level3">
+<h3>Version</h3>
+<p>1.0 (2003)</p>
+</div>
+<div id="description-448" class="section level3">
+<h3>Description</h3>
+<p>a dynamic general database management system to manage high-throughput SNP genotyping data. It provides several functions, including data importing with comparison, Mendelian inheritance check within pedigrees, data compiling and exporting. Furthermore, SNPP may generate files for repeat genotyping and transform them into files that can be executed by a liquid handling system.</p>
+</div>
+<div id="author-473" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Lanjuan Zhao ( <a href="mailto:lanjuanzhao@creighton.edu">lanjuanzhao@creighton.edu</a>)</li>
+<li>Miaoxin Li ( <a href="mailto:limx54@163.com">limx54@163.com</a>)</li>
+<li>Yanfang Guo</li>
+<li>Fuhua</li>
+<li>Xu</li>
+<li>Jinlong Li</li>
+<li>Hongwen Deng.</li>
+</ul>
+</div>
+<div id="url-512" class="section level3">
+<h3>URL</h3>
+<p><a href="http://orclinux.creighton.edu/snpp/" class="uri">http://orclinux.creighton.edu/snpp/</a></p>
+</div>
+<div id="language-343" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="os-301" class="section level3">
+<h3>OS</h3>
+<p>Windows, Linux, Solaris, MacOS</p>
+</div>
+<div id="reference-393" class="section level3">
+<h3>Reference</h3>
+<p>Zhao, Li, Guo, Xu, Li, Deng (2005), “SNPP: automating large-scale SNP genotype data management”, Bioinformatics, 21:266-268</p>
+<hr />
+</div>
+</div>
+<div id="snpstats" class="section level2">
+<h2>SNPSTATS</h2>
+<div id="full-name-217" class="section level3">
+<h3>Full Name</h3>
+<p>SNP STATisticS</p>
+</div>
+<div id="description-449" class="section level3">
+<h3>Description</h3>
+<p>SNPStats is a simple, ready-to-use software which has been designed to analyze genetic-epidemiology studies of association using SNPs.</p>
+</div>
+<div id="author-474" class="section level3">
+<h3>Author</h3>
+<p>Victor Moreno (email: <a href="mailto:v.moreno@ico.scs.es">v.moreno@ico.scs.es</a>) Xavier Sole (email: <a href="mailto:x.sole@ico.scs.es">x.sole@ico.scs.es</a>)</p>
+</div>
+<div id="url-513" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinfo.iconcologia.net/snpstats/" class="uri">http://bioinfo.iconcologia.net/snpstats/</a></p>
+</div>
+<div id="os-302" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-394" class="section level3">
+<h3>Reference</h3>
+<p>Sole, Guino, Valls, Iniesta, Moreno (2006), “SNPStats: a web tool for the analysis of association studies”, Bioinformatics, 22(15):1928-1929.</p>
+<hr />
+</div>
+</div>
+<div id="snptest" class="section level2">
+<h2>SNPTEST</h2>
+<div id="version-327" class="section level3">
+<h3>Version</h3>
+<p>1.1.5 (May 2008)</p>
+</div>
+<div id="description-450" class="section level3">
+<h3>Description</h3>
+<p>SNPTEST is a program for the analysis of single SNP association in genome-wide studies. The tests implemented can cater for binary (case-control) and quantitative phenotypes, can condition upon an arbitrary set of covariates and properly account for the uncertainty in genotypes. The program is designed to work seamlessly with the output of both the genotype calling program CHIAMO, the genotype imputation program IMPUTE and the program GTOOL. This program was used in the analysis of the 7 genome-wide association studies carried out by the Wellcome Trust Case-Control Consortium (WTCCC).</p>
+</div>
+<div id="author-475" class="section level3">
+<h3>Author</h3>
+<p>Jonathan Marchini</p>
+</div>
+<div id="url-514" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stats.ox.ac.uk/~marchini/software/gwas/snptest.html" class="uri">http://www.stats.ox.ac.uk/~marchini/software/gwas/snptest.html</a></p>
+<hr />
+</div>
+</div>
+<div id="soap" class="section level2">
+<h2>SOAP</h2>
+<div id="full-name-218" class="section level3">
+<h3>Full Name</h3>
+<p>Short Oligonucleotide Analysis Package</p>
+</div>
+<div id="description-451" class="section level3">
+<h3>Description</h3>
+<p>SOAP provides full solution to next generation sequencing data analysis. Currently, it consists of a new alignment tool (SOAPaligner/soap2), a re-sequencing consensus sequence builder (SOAPsnp), an indel finder (SOAPindel), a structural variation scanner (SOAPsv) and a de novo short reads assembler (SOAPdenovo).</p>
+</div>
+<div id="url-515" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://soap.genomics.org.cn/" class="uri">http://soap.genomics.org.cn/</a></li>
+<li><a href="http://soap.genomics.org.cn/soap3.html" class="uri">http://soap.genomics.org.cn/soap3.html</a> (SOAP3)</li>
+<li><a href="http://soap.genomics.org.cn/soapsnp.html" class="uri">http://soap.genomics.org.cn/soapsnp.html</a> (SOAP SNP)</li>
+<li><a href="http://soap.genomics.org.cn/soapindel.html" class="uri">http://soap.genomics.org.cn/soapindel.html</a> (SOAP indel)</li>
+<li><a href="http://soap.genomics.org.cn/SOAPsv.html" class="uri">http://soap.genomics.org.cn/SOAPsv.html</a> (SOAP structural variants)</li>
+</ul>
+</div>
+<div id="reference-395" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Li, et al. (2008), “SOAP: short oligonucleotide alignment program”, Bioinformatics, 24:713-714.</li>
+<li>Li, Li, Fang, et al. (2009), “SNP detection for massively parallel whole-genome resequencing”, Genome Research, 19:1124-1132.</li>
+<li>Li, Yu, Li, Lam, Yiu, Kristiansen, Wang (2009), “SOAP2: an improved ultrafast tool for short read alignment”, Bioinformatics, 25(15):1966-1967.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="solar" class="section level2">
+<h2>SOLAR</h2>
+<div id="full-name-219" class="section level3">
+<h3>Full Name</h3>
+<p>Sequential Oligogenic Linkage Analysis Routines</p>
+</div>
+<div id="version-328" class="section level3">
+<h3>Version</h3>
+<p>4.0.7 (December 2006).</p>
+</div>
+<div id="description-452" class="section level3">
+<h3>Description</h3>
+<p>OLAR is a flexible and extensive software package for genetic variance components analysis, including linkage analysis, quantitative genetic analysis, and covariate screening. Operations are included for calculation of marker-specific or multipoint identity-by-descent (IBD) matrices in pedigrees of arbitrary size and complexity, and for linkage analysis of quantitative traits which may involve multiple loci (oligogenic analysis), dominance effects, and epistasis.</p>
+</div>
+<div id="author-476" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>John Blangero (<a href="mailto:john@darwin.sfbr.org">john@darwin.sfbr.org</a>)</li>
+<li>Kenneth Lange</li>
+<li>Laura Almasy (<a href="mailto:almasy@darwin.sfbr.org">almasy@darwin.sfbr.org</a>)</li>
+<li>Tom Dyer (<a href="mailto:tdyer@darwin.sfbr.org">tdyer@darwin.sfbr.org</a>)</li>
+<li>Charles Peterson (<a href="mailto:charlesp@darwin.sfbr.org">charlesp@darwin.sfbr.org</a>).</li>
+</ul>
+</div>
+<div id="url-516" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sfbr.org/Departments/genetics_detail.aspx?p=37" class="uri">http://www.sfbr.org/Departments/genetics_detail.aspx?p=37</a></p>
+</div>
+<div id="language-344" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN, C, C++, TCL</p>
+</div>
+<div id="os-303" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris 7-10/Solaris x86 8-9/Digital Unix 4.0e/SG Irix), Linux, MacOS, MS-Windows</p>
+</div>
+<div id="exe-118" class="section level3">
+<h3>EXE</h3>
+<p>solar, ibdprep, ibdmat, relate, multipnt</p>
+</div>
+<div id="reference-396" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Blangero, Almasy (1996), “SOLAR: sequential oligogenic linkage analysis routines”, Population Genetics Laboratory Technical Report No. 6, Southwest Foundation for Biomedical Research, San Antonio, TX 78228.</li>
+<li>Almasy, Blangero (1998), “Multipoint quantitative-trait linkage analysis in general pedigrees”, American Journal of Human Genetics, 62(5):1198-1211 (1998)</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="spam" class="section level2">
+<h2>SPAM</h2>
+<div id="full-name-220" class="section level3">
+<h3>Full Name</h3>
+<p>Statistics Program for Analysing Mixtures</p>
+</div>
+<div id="version-329" class="section level3">
+<h3>Version</h3>
+<p>3.7b</p>
+</div>
+<div id="description-453" class="section level3">
+<h3>Description</h3>
+<p>SPAM estimates the relative contributions of discrete populations to a mixture sample, solving what is commonly referred to in fisheries as the mixed stock analysis or genetic stock identification problem.</p>
+</div>
+<div id="url-517" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.genetics.cf.adfg.state.ak.us/software/spampage.php" class="uri">http://www.genetics.cf.adfg.state.ak.us/software/spampage.php</a></p>
+</div>
+<div id="reference-397" class="section level3">
+<h3>Reference</h3>
+<p>Debevec, Gates, Masuda, Pella, Reynolds, Seeb (2000), “SPAM (version 3.2): statistics program for analyzing mixtures”, Journal of Heredity, 91:509-511.</p>
+<hr />
+</div>
+</div>
+<div id="spectral-gem" class="section level2">
+<h2>SPECTRAL-GEM</h2>
+<div id="related-62" class="section level3">
+<h3>Related</h3>
+<p>R/SPECTRAL-GEM</p>
+<hr />
+</div>
+</div>
+<div id="sperm" class="section level2">
+<h2>SPERM</h2>
+<div id="description-454" class="section level3">
+<h3>Description</h3>
+<p>analysis of sperm typing data.</p>
+</div>
+<div id="author-477" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Kenneth Lange (UCLA)</li>
+<li>Laura Lazzeroni</li>
+</ul>
+</div>
+<div id="url-518" class="section level3">
+<h3>URL</h3>
+<p>registration page at: <a href="http://www.biomath.medsch.ucla.edu/faculty/klange/software.html" class="uri">http://www.biomath.medsch.ucla.edu/faculty/klange/software.html</a></p>
+</div>
+<div id="language-345" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN77</p>
+</div>
+<div id="reference-398" class="section level3">
+<h3>Reference</h3>
+<p>Lazzeroni, Arnheim, Schmitt, Lange (1994), “Multipoint mapping calculations for sperm-typing data”, American Journal of Human Genetics, 55(3):431-436</p>
+<hr />
+</div>
+</div>
+<div id="spermseg" class="section level2">
+<h2>SPERMSEG</h2>
+<div id="description-455" class="section level3">
+<h3>Description</h3>
+<p>analysis of segregation in single-sperm data</p>
+</div>
+<div id="author-478" class="section level3">
+<h3>Author</h3>
+<p>MS McPeek ( <a href="mailto:mcpeek@galton.uchicago.eduUniv">mcpeek@galton.uchicago.eduUniv</a> Chicago)</p>
+</div>
+<div id="url-519" class="section level3">
+<h3>URL</h3>
+<p><a href="http://galton.uchicago.edu/~mcpeek/software/spermseg" class="uri">http://galton.uchicago.edu/~mcpeek/software/spermseg</a></p>
+</div>
+<div id="language-346" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="reference-399" class="section level3">
+<h3>Reference</h3>
+<p>MS McPeek (1999), “SPERMSEG: analysis of segregation distortion in single-sperm data”, American Journal of Human Genetics, 65(4):1195-1197. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="spip" class="section level2">
+<h2>SPIP</h2>
+<div id="full-name-221" class="section level3">
+<h3>Full Name</h3>
+<p>Simulate Pedigree In Population</p>
+</div>
+<div id="description-456" class="section level3">
+<h3>Description</h3>
+<p>Simulate pedigrees and genetic data in age-structured populations</p>
+</div>
+<div id="author-479" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Eric C Anderson</li>
+<li>K.K. Dunham (Southwest Fisherie Science Center)</li>
+</ul>
+</div>
+<div id="url-520" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://swfsc.noaa.gov/staff.aspx?id=740" class="uri">http://swfsc.noaa.gov/staff.aspx?id=740</a></li>
+<li><a href="http://swfsc.noaa.gov/textblock.aspx?Division=FED&amp;id=3434" class="uri">http://swfsc.noaa.gov/textblock.aspx?Division=FED&amp;id=3434</a></li>
+</ul>
+</div>
+<div id="language-347" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="reference-400" class="section level3">
+<h3>Reference</h3>
+<p>Anderson, Dunham (2005), “SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations”, Molecular Ecology Notes, 5(2):459-461.</p>
+<hr />
+</div>
+</div>
+<div id="splat" class="section level2">
+<h2>SPLAT</h2>
+<div id="full-name-222" class="section level3">
+<h3>Full Name</h3>
+<p>Sib Pair Linkage Analysis Testing</p>
+</div>
+<div id="version-330" class="section level3">
+<h3>Version</h3>
+<p>1.0 (2006)</p>
+</div>
+<div id="description-457" class="section level3">
+<h3>Description</h3>
+<p>SPLAT can calculate virtually any linkage test statistic under several sib pair study designs: affected, discordant, unaffected, and pairs defined by threshold values for quantitative traits, such as extreme discordant sib pairs. It uses the EM algorithm to compute maximum likelihood estimates of sharing (subject to any user-specified domain restrictions or null hypotheses) and then plots lod scores versus chromosomal position. It includes a novel grid scanning capability that enables simultaneous visualization of multiple test statistics. Phenotype definitions can be modified without recalculating inheritance vectors, thereby providing considerable analytical flexibility.</p>
+</div>
+<div id="author-480" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Katarzyna Adamska (email: <a href="mailto:adamska@elf.ii.uj.edu.pl">adamska@elf.ii.uj.edu.pl</a>)</li>
+<li>David Poznik (email: <a href="mailto:david.poznik@joslin.harvard.edu">david.poznik@joslin.harvard.edu</a>)</li>
+<li>Xin Xu (email: <a href="mailto:xin_xu@harvard.edu">xin_xu@harvard.edu</a>)</li>
+</ul>
+</div>
+<div id="url-521" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.joslinresearch.org/LabSites/Krolewski/splat/" class="uri">http://www.joslinresearch.org/LabSites/Krolewski/splat/</a></p>
+</div>
+<div id="language-348" class="section level3">
+<h3>Language</h3>
+<p>C++, Qt</p>
+</div>
+<div id="os-304" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SunOS),Linux, MacOS, MS-Windows(2000/XP)</p>
+</div>
+<div id="reference-401" class="section level3">
+<h3>Reference</h3>
+<p>Poznik, Adamska, Xu, Krolewski, Rogus (2006), “A novel framework for sib pair linkage analysis”, American Journal of Human Genetics, 78(2):222-230. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="splink" class="section level2">
+<h2>SPLINK</h2>
+<div id="full-name-223" class="section level3">
+<h3>Full Name</h3>
+<p>affected Sib Pairs LINKage analysis</p>
+</div>
+<div id="version-331" class="section level3">
+<h3>Version</h3>
+<p>1.09 (Nov 1999)</p>
+</div>
+<div id="description-458" class="section level3">
+<h3>Description</h3>
+<p>linkage analysis using affected sib pairs</p>
+</div>
+<div id="author-481" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>David Clayton</li>
+<li>Cambridge Institute</li>
+<li><a href="mailto:david.clayton@cimr.cam.ac.uk">david.clayton@cimr.cam.ac.uk</a></li>
+</ul>
+</div>
+<div id="url-522" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www-gene.cimr.cam.ac.uk/clayton/software/" class="uri">http://www-gene.cimr.cam.ac.uk/clayton/software/</a></p>
+</div>
+<div id="language-349" class="section level3">
+<h3>Language</h3>
+<p>c++</p>
+</div>
+<div id="os-305" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SunOS/..), MS-DOS</p>
+</div>
+<div id="exe-119" class="section level3">
+<h3>EXE</h3>
+<p>splink, ped2spl</p>
+</div>
+<div id="reference-402" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Holmans (1993), “Asymptotic properties of affected-sib-pair linkage analysis”, American Journal of Human Genetics, 52(2):362-374</li>
+<li>Holmans and Clayton (1995), submitted.</li>
+<li>online manual</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="spreg" class="section level2">
+<h2>SPREG</h2>
+<div id="full-name-224" class="section level3">
+<h3>Full Name</h3>
+<p>Secondary Phenotype REGression analysis</p>
+</div>
+<div id="version-332" class="section level3">
+<h3>Version</h3>
+<p>2.0</p>
+</div>
+<div id="description-459" class="section level3">
+<h3>Description</h3>
+<p>SPREG is a computer program for performing regression analysis of secondary phenotype data in case-control association studies. Secondary phenotypes are quantitative or qualitative traits other than the case-control status. Because the case-control sample is not a random sample of the general population, standard statistical analysis of secondary phenotype data can yield very misleading results. SPREG implements valid and efficient statistical methods.</p>
+</div>
+<div id="author-482" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Danyu Lin</li>
+<li>Donglin Zeng (Univ North Carolina)</li>
+</ul>
+</div>
+<div id="url-523" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SPREG/" class="uri">http://www.bios.unc.edu/~lin/software/SPREG/</a></p>
+</div>
+<div id="language-350" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="reference-403" class="section level3">
+<h3>Reference</h3>
+<p>Lin, Zeng (2009), “Proper analysis of secondary phenotype data in case-control association studies”, Genetic Epidemiology, 33:256-265.</p>
+<hr />
+</div>
+</div>
+<div id="sqtdtspdt" class="section level2">
+<h2>SQTDT/SPDT</h2>
+<div id="description-460" class="section level3">
+<h3>Description</h3>
+<p>semiparametric family-based association</p>
+</div>
+<div id="author-483" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Guoqing Diao (email: <a href="mailto:gdiao@gmu.edu">gdiao@gmu.edu</a>)</li>
+<li>Danyu Lin</li>
+</ul>
+</div>
+<div id="url-524" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SQTDT/" class="uri">http://www.bios.unc.edu/~lin/software/SQTDT/</a></p>
+</div>
+<div id="os-306" class="section level3">
+<h3>OS</h3>
+<p>Linux</p>
+</div>
+<div id="reference-404" class="section level3">
+<h3>Reference</h3>
+<p>Diao, Lin (2006), “Improving the power of association tests for quantitative traits in family studies”, Genetic Epidemiology, 30:301-313.</p>
+<hr />
+</div>
+</div>
+<div id="sqtl" class="section level2">
+<h2>SQTL</h2>
+<div id="full-name-225" class="section level3">
+<h3>Full Name</h3>
+<p>Semiparametric QTL mapping in general pedigrees</p>
+</div>
+<div id="author-484" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Guoqing Diao (email: <a href="mailto:gdiao@gmu.edu">gdiao@gmu.edu</a>)</li>
+<li>Danyu Lin</li>
+</ul>
+</div>
+<div id="url-525" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SQTL/" class="uri">http://www.bios.unc.edu/~lin/software/SQTL/</a></p>
+</div>
+<div id="os-307" class="section level3">
+<h3>OS</h3>
+<p>Linux</p>
+</div>
+<div id="reference-405" class="section level3">
+<h3>Reference</h3>
+<p>Diao, Lin (2005), “A powerful and robust method for mapping quantitative trait loci in general pedigrees”, American Journal of Human Genetics, 77(1):97-111. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="sqtlseekerr" class="section level2">
+<h2>sQTLSeekerR</h2>
+<div id="version-333" class="section level3">
+<h3>Version</h3>
+<p>github / R 3.1+</p>
+</div>
+<div id="description-461" class="section level3">
+<h3>Description</h3>
+<p>sQTLseekeR is a R package to detect splicing QTLs (sQTLs), which are variants associated with change in the splicing pattern of a gene. Here, splicing patterns are modeled by the relative expression of the transcripts of a gene.</p>
+</div>
+<div id="year-2" class="section level3">
+<h3>Year</h3>
+<p>2014</p>
+</div>
+<div id="author-485" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Jean Monlong</li>
+<li>Roderic Guigó</li>
+</ul>
+</div>
+<div id="url-526" class="section level3">
+<h3>URL</h3>
+<p><a href="http://big.crg.cat/computational_biology_of_rna_processing/sqtlseeker" class="uri">http://big.crg.cat/computational_biology_of_rna_processing/sqtlseeker</a></p>
+</div>
+<div id="language-351" class="section level3">
+<h3>Language</h3>
+<p>R</p>
+</div>
+<div id="reference-406" class="section level3">
+<h3>Reference</h3>
+<p>Monlong, J. et al. Identification of genetic variants associated with alternative splicing using sQTLseekeR. Nat. Commun. 5:4698 doi: 10.1038/ncomms5698 (2014).</p>
+</div>
+<div id="tag-2" class="section level3">
+<h3>Tag</h3>
+<p>splicing, sQTL</p>
+<hr />
+</div>
+</div>
+<div id="ssahasnp" class="section level2">
+<h2>SSAHASNP</h2>
+<div id="full-name-226" class="section level3">
+<h3>Full Name</h3>
+<p>Sequence Search and Alignment by Hashing Algorithm for SNP detection</p>
+</div>
+<div id="description-462" class="section level3">
+<h3>Description</h3>
+<p>ssahaSNP is a polymorphism detection tool. It detects homozygous SNPs and indels by aligning shotgun reads to the finished genome sequence. Highly repetitive elements are filtered out by ignoring those kmer words with high occurrence numbers. For those less repetitive or non-repetitive reads, we place them uniquely on the reference genome sequence and find the best alignment according to the pair-wise alignment score if there are multiple seeded regions. From the best alignment, SNP candidates are screened, taking into account the quality value of the bases with variation as well as the quality values in the neighbouring bases, using neighbourhood quality standard (NQS). For insertions/deletions, we check if the same indel is mapped by more than one read, ensuring the detected indel with high confidence.</p>
+</div>
+<div id="author-486" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Adam Spargo</li>
+<li>Zemin Ning (Wellcome Trust Sanger Institute)</li>
+</ul>
+</div>
+<div id="url-527" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sanger.ac.uk/resources/software/ssahasnp/" class="uri">http://www.sanger.ac.uk/resources/software/ssahasnp/</a></p>
+<hr />
+</div>
+</div>
+<div id="start" class="section level2">
+<h2>START</h2>
+<div id="description-463" class="section level3">
+<h3>Description</h3>
+<p>Finds starting points for MCMC analysis performed on large, complex pedigrees and polymorphic markers.</p>
+</div>
+<div id="author-487" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Y Luo</li>
+<li>S Lin (Ohio State Univ)</li>
+</ul>
+</div>
+<div id="url-528" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/" class="uri">http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/</a></p>
+</div>
+<div id="os-308" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux</p>
+</div>
+<div id="reference-407" class="section level3">
+<h3>Reference</h3>
+<p>Y Luo, S Lin (2003), “Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees”, Genetic Epidemiology, 25:14-24.</p>
+<hr />
+</div>
+</div>
+<div id="stepc" class="section level2">
+<h2>STEPC</h2>
+<div id="full-name-227" class="section level3">
+<h3>Full Name</h3>
+<p>STatistical Explanation for Positional Cloning</p>
+</div>
+<div id="author-488" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Lei Sun</li>
+<li>Nancy COx</li>
+<li>Mary Sara McPeek</li>
+</ul>
+</div>
+<div id="url-529" class="section level3">
+<h3>URL</h3>
+<p><a href="http://hg-wen.uchicago.edu/software.html" class="uri">http://hg-wen.uchicago.edu/software.html</a></p>
+</div>
+<div id="reference-408" class="section level3">
+<h3>Reference</h3>
+<p>Sun, Cox, McPeek (2002) “A statistical method for identification of polymorphisms that explain a linkage result”, American Journal of Human Genetics, 70(2):399-411. [ html]</p>
+<hr />
+</div>
+</div>
+<div id="stepwise" class="section level2">
+<h2>STEPWISE</h2>
+<div id="related-63" class="section level3">
+<h3>Related</h3>
+<p>R/STEPWISE</p>
+<hr />
+</div>
+</div>
+<div id="strat" class="section level2">
+<h2>STRAT</h2>
+<div id="version-334" class="section level3">
+<h3>Version</h3>
+<p>1.1</p>
+</div>
+<div id="description-464" class="section level3">
+<h3>Description</h3>
+<p>a companion program to structure. This is a structured association method, for use in association mapping, enabling valid case-control studies even in the presence of population structure.</p>
+</div>
+<div id="author-489" class="section level3">
+<h3>Author</h3>
+<p>Jonathan Pritchard (email: <a href="mailto:pritch@genetics.uchicago.edu">pritch@genetics.uchicago.edu</a>)</p>
+</div>
+<div id="url-530" class="section level3">
+<h3>URL</h3>
+<p><a href="http://pritch.bsd.uchicago.edu/software/STRAT.html" class="uri">http://pritch.bsd.uchicago.edu/software/STRAT.html</a></p>
+</div>
+<div id="os-309" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS, MS-Windows,UNIX(Solaris), Linux</p>
+</div>
+<div id="reference-409" class="section level3">
+<h3>Reference</h3>
+<p>JK Pritchard, M Stephens, NA Rosenberg, P Donnelly (2000), “Association mapping in structured populations”, American Journal of Human Genetics, 67(1):170-181. [ html]</p>
+</div>
+<div id="related-64" class="section level3">
+<h3>Related</h3>
+<p>STRUCTURE</p>
+<hr />
+</div>
+</div>
+<div id="structure" class="section level2">
+<h2>STRUCTURE</h2>
+<div id="version-335" class="section level3">
+<h3>Version</h3>
+<p>2.1 (August 2004)</p>
+</div>
+<div id="description-465" class="section level3">
+<h3>Description</h3>
+<p>using multi-locus genotype data to investigate population structure. Its uses include inferring the presence of distinct populations, assigning individuals to populations, studying hybrid zones, identifying migrants and admixed individuals, and estimating population allele frequencies in situations where many individuals are migrants or admixed. It can be applied to most of the commonly-used genetic markers, including microsatellites, RFLPs and SNPs.</p>
+</div>
+<div id="author-490" class="section level3">
+<h3>Author</h3>
+<p>Jonathan Pritchard (email: <a href="mailto:pritch@genetics.uchicago.edu">pritch@genetics.uchicago.edu</a>)</p>
+</div>
+<div id="url-531" class="section level3">
+<h3>URL</h3>
+<p><a href="http://pritch.bsd.uchicago.edu/software.html" class="uri">http://pritch.bsd.uchicago.edu/software.html</a></p>
+</div>
+<div id="os-310" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS, MS-Windows, UNIX(Solaris), Linux</p>
+</div>
+<div id="reference-410" class="section level3">
+<h3>Reference</h3>
+<p>JK Pritchard, M Stephens, P Donnelly (2000), “Inference of population structure using multilocus genotype data”, Genetics 155: 945-959.</p>
+</div>
+<div id="related-65" class="section level3">
+<h3>Related</h3>
+<p>STRAT</p>
+<hr />
+</div>
+</div>
+<div id="sumstat" class="section level2">
+<h2>SUMSTAT</h2>
+<div id="description-466" class="section level3">
+<h3>Description</h3>
+<p>assess the joint disease association of multiple unlinked SNPs via sums of SNP specific test statistics. Genome-wide significance levels are obtained by per mutation analysis.</p>
+</div>
+<div id="author-491" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Josephine Hoh</li>
+<li>Jurg Ott (email: <a href="mailto:ottjurg@yahoo.com">ottjurg@yahoo.com</a>)</li>
+</ul>
+</div>
+<div id="url-532" class="section level3">
+<h3>URL</h3>
+<p><a href="http://lab.rockefeller.edu/ott/programs" class="uri">http://lab.rockefeller.edu/ott/programs</a></p>
+</div>
+<div id="language-352" class="section level3">
+<h3>Language</h3>
+<p>Free Pascal</p>
+</div>
+<div id="os-311" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux</p>
+</div>
+<div id="reference-411" class="section level3">
+<h3>Reference</h3>
+<p>Hoh, Wille, Ott (2001), “Trimming, weighting, and grouping SNPs in human case-control association studies”, Genome Research, 11:2115-2119</p>
+<hr />
+</div>
+</div>
+<div id="sup" class="section level2">
+<h2>SUP</h2>
+<div id="full-name-228" class="section level3">
+<h3>Full Name</h3>
+<p>Slink Utility Program</p>
+</div>
+<div id="version-336" class="section level3">
+<h3>Version</h3>
+<p>060629</p>
+</div>
+<div id="description-467" class="section level3">
+<h3>Description</h3>
+<p>an extension to SLINK/FastSLINK to allow more marker loci to be simulated in pedigrees conditional on trait values and in linkage equilibrium or disequilibrium with a trait locus.</p>
+</div>
+<div id="author-492" class="section level3">
+<h3>Author</h3>
+<p>Mathieu Lemire (email: <a href="mailto:mlemire@sdf.lonestar.org">mlemire@sdf.lonestar.org</a>)</p>
+</div>
+<div id="url-533" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mlemire.freeshell.org/software.html" class="uri">http://mlemire.freeshell.org/software.html</a></p>
+</div>
+<div id="language-353" class="section level3">
+<h3>Language</h3>
+<p>C,C++</p>
+</div>
+<div id="os-312" class="section level3">
+<h3>OS</h3>
+<p>UNIX, LINUX, CYGWIN</p>
+</div>
+<div id="reference-412" class="section level3">
+<h3>Reference</h3>
+<p>Lemire (2006), “SUP: An extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values”, BMC Genetics, 7:40.</p>
+<hr />
+</div>
+</div>
+<div id="superlink" class="section level2">
+<h2>SUPERLINK</h2>
+<div id="version-337" class="section level3">
+<h3>Version</h3>
+<p>1.6 (March 2006)</p>
+</div>
+<div id="description-468" class="section level3">
+<h3>Description</h3>
+<p>the program performs exact linkage analysis with the same input-output relationships as in standard genetic linkage programs such as LINKAGE, FASTLINK, VITESSE, but can run larger files than previous programs.</p>
+</div>
+<div id="author-493" class="section level3">
+<h3>Author</h3>
+<p>Ma’ayan Fishelson (email: <a href="mailto:fmaayan@cs.technion.ac.il">fmaayan@cs.technion.ac.il</a>)</p>
+</div>
+<div id="url-534" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinfo.cs.technion.ac.il/superlink/" class="uri">http://bioinfo.cs.technion.ac.il/superlink/</a></p>
+</div>
+<div id="os-313" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Windows, Linux, MacOS X</p>
+</div>
+<div id="reference-413" class="section level3">
+<h3>Reference</h3>
+<p>M Fishelson, D Geiger (2002), Bioinformatics, 18(suppl 1):S189-S198.</p>
+<hr />
+</div>
+</div>
+<div id="sva" class="section level2">
+<h2>SVA</h2>
+<div id="full-name-229" class="section level3">
+<h3>Full Name</h3>
+<p>Sequence Variant Analyzer</p>
+</div>
+<div id="version-338" class="section level3">
+<h3>Version</h3>
+<p>v1.10 (March 2011)</p>
+</div>
+<div id="description-469" class="section level3">
+<h3>Description</h3>
+<p>SVA is a software tool that assigns a predicted biological function to variants identified in next-generation sequencing studies and provides a browser to visualize the variants in their genomic contexts. SVA also provides for flexible interaction with software implementing variant association tests allowing users to consider both the bioinformatic annotation of identified variants and the strength of their associations with studied traits.</p>
+</div>
+<div id="author-494" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Dongliang Ge</li>
+<li>David Goldstein (Duke)</li>
+</ul>
+</div>
+<div id="url-535" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.svaproject.org/" class="uri">http://www.svaproject.org/</a></p>
+</div>
+<div id="reference-414" class="section level3">
+<h3>Reference</h3>
+<p>Ge,Ruzzo, Shianna,He,Pelak, Heinzen, Need, Cirulli, Maia, Dickson, Zhu,Singh, Allen, Goldstein (2011), “SVA: software for annotating and visualizing sequenced human genomes”, Bioinformatics, 27:1998-2000.</p>
+<hr />
+</div>
+</div>
+<div id="svcc" class="section level2">
+<h2>SVCC</h2>
+<div id="full-name-230" class="section level3">
+<h3>Full Name</h3>
+<p>Semiparametric Variance-Component for Censored data</p>
+</div>
+<div id="author-495" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Guoqing Diao (email: <a href="mailto:gdiao@gmu.edu">gdiao@gmu.edu</a>)</li>
+<li>Danyu Lin</li>
+</ul>
+</div>
+<div id="url-536" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/SVCC/" class="uri">http://www.bios.unc.edu/~lin/software/SVCC/</a></p>
+</div>
+<div id="os-314" class="section level3">
+<h3>OS</h3>
+<p>Linux</p>
+</div>
+<div id="reference-415" class="section level3">
+<h3>Reference</h3>
+<p>Diao, Lin (2006), “Semiparametric variance-component models for linkage and association analyses of censored trait data”, Genetic Epidemiology, 30:570-581.</p>
+<hr />
+</div>
+</div>
+<div id="sweep" class="section level2">
+<h2>SWEEP</h2>
+<div id="version-339" class="section level3">
+<h3>Version</h3>
+<p>December 2005</p>
+</div>
+<div id="description-470" class="section level3">
+<h3>Description</h3>
+<p>SWEEP allows large-scale analysis of haplotype structure in genomes for the primary purpose of detecting evidence of natural selection. Primarily, it uses the Long Range Haplotype test to look for alleles of high frequency with long-range linkage disequilibrium, which suggest the haplotype rapidly rose to high frequency before recombination could break down associations with nearby markers. SWEEP takes phased genotype data as input, detects all haplotype blocks in that data, and then determines the frequency and long-range LD for each allele in each block.</p>
+</div>
+<div id="author-496" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Patrick Varilly</li>
+<li>Ben Fry</li>
+<li>Oleg Shamovsky</li>
+<li>Pardis Sabeti (email: <a href="mailto:sweep@broad.mit.edu">sweep@broad.mit.edu</a>)</li>
+</ul>
+</div>
+<div id="url-537" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broad.mit.edu/mpg/sweep/" class="uri">http://www.broad.mit.edu/mpg/sweep/</a></p>
+</div>
+<div id="reference-416" class="section level3">
+<h3>Reference</h3>
+<p>Sabeti, Reich, Higgins, Levine, Richter, Schaffner, Gabriel, Platko, Patterson, McDonald, Ackerman, Campbell, Altshuler, Cooper, Kwiatkowski, Ward, Lander (2002), “Detecting recent positive selection in the human genome from haplotype structure”, Nature, 419:832-827.</p>
+<hr />
+</div>
+</div>
+<div id="syzygy" class="section level2">
+<h2>SYZYGY</h2>
+<div id="description-471" class="section level3">
+<h3>Description</h3>
+<p>Syzygy is a targeted sequencing post processing analysis tool that allows: 1. SNP and indel detection; 2. Allele frequency estimation; 3. Single-marker association test; 4. Group-wise marker test association; 5. Experimental QC summary (%dbSNP, Ts/Tv, Ns/S); 6. Power to detect variant.</p>
+</div>
+<div id="url-538" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broadinstitute.org/software/syzygy/" class="uri">http://www.broadinstitute.org/software/syzygy/</a></p>
+</div>
+<div id="reference-417" class="section level3">
+<h3>Reference</h3>
+<p>Rivas et al. (2011), “Deep resequencing of GWAS loci identifies independent rare variants associated with inflammatory bowel disease”, Nature Genetics, in press.</p>
+<hr />
+</div>
 </div>
 </div>
             </section>
@@ -5138,8 +7526,8 @@
           </div>
         </div>
       </div>
-
-<a href="alphabetic-list.html" class="navigation navigation-next navigation-unique" aria-label="Next page""><i class="fa fa-angle-right"></i></a>
+<a href="r-1.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="t-1.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
 
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>

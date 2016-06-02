@@ -33,8 +33,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-
-<link rel="next" href="alphabetic-list.html">
+<link rel="prev" href="f-1.html">
+<link rel="next" href="h-1.html">
 
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -5047,90 +5047,1982 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">An Alphabetic List of Genetic Analysis Software</h1>
-<h4 class="author"><em>© Gao Wang / Jurg Ott lab</em></h4>
-<h4 class="date"><em>2016-06-01</em></h4>
-</div>
-<div id="about" class="section level1">
-<h1>About</h1>
-<table>
-<tbody>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#0">#</a></td>
-<td align="center"><a href="alphabetic-list.html#a">A</a></td>
-<td align="center"><a href="alphabetic-list.html#b">B</a></td>
-<td align="center"><a href="alphabetic-list.html#c">C</a></td>
-<td align="center"><a href="alphabetic-list.html#d">D</a></td>
-<td align="center"><a href="alphabetic-list.html#e">E</a></td>
-<td align="center"><a href="alphabetic-list.html#f">F</a></td>
-<td align="center"><a href="alphabetic-list.html#g">G</a></td>
-<td align="center"><a href="alphabetic-list.html#h">H</a></td>
-</tr>
-<tr class="even">
-<td align="center"><a href="alphabetic-list.html#i">I</a></td>
-<td align="center"><a href="alphabetic-list.html#j">J</a></td>
-<td align="center"><a href="alphabetic-list.html#k">K</a></td>
-<td align="center"><a href="alphabetic-list.html#l">L</a></td>
-<td align="center"><a href="alphabetic-list.html#m">M</a></td>
-<td align="center"><a href="alphabetic-list.html#n">N</a></td>
-<td align="center"><a href="alphabetic-list.html#o">O</a></td>
-<td align="center"><a href="alphabetic-list.html#p">P</a></td>
-<td align="center"><a href="alphabetic-list.html#q">Q</a></td>
-</tr>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#r">R</a></td>
-<td align="center"><a href="alphabetic-list.html#s">S</a></td>
-<td align="center"><a href="alphabetic-list.html#t">T</a></td>
-<td align="center"><a href="alphabetic-list.html#u">U</a></td>
-<td align="center"><a href="alphabetic-list.html#v">V</a></td>
-<td align="center"><a href="alphabetic-list.html#w">W</a></td>
-<td align="center"><a href="alphabetic-list.html#x">X</a></td>
-<td align="center"><a href="alphabetic-list.html#y">Y</a></td>
-<td align="center"><a href="alphabetic-list.html#z">Z</a></td>
-</tr>
-</tbody>
-</table>
-<div id="scope" class="section level2">
-<h2>Scope</h2>
-<p>This page, historically known as the “Rockefeller list”, is a list of computer programs for genetics analysis, including but not limiting to topics of:</p>
-<ul>
-<li>Genetic linkage analysis for human pedigree data</li>
-<li>QTL analysis for animal/plant breeding data</li>
-<li>Genetic marker ordering</li>
-<li>Genetic association analysis</li>
-<li>Haplotype construction</li>
-<li>Population genetics</li>
-<li>Genetic data visualization</li>
-</ul>
-<p>This list is initially offered as a service to the gene mapping community. The inclusion of a program should not be interpreted as an endorsement from us.</p>
-<p>In the last few years, new technology has been producing new types of genetic data, and the scope of genetic analyses changes dramatically. It is no longer obvious whether a program should be included or excluded from this list. Topics such as next-generation-sequencing (NGS), gene expression, genomics annotation, etc. can all be relevant to a genetic study, but we’ll have to decide on a case-by-case basis whether to include a program.</p>
-</div>
-<div id="history" class="section level2">
-<h2>History</h2>
-<p>This list was created by Dr. <a href="https://scholar.google.com/citations?user=XsMM0oQAAAAJ&amp;hl=en">Wentian Li</a> when he was at Columbia University (1995-1996). It was later moved to Rockefeller University (1996-2002) and then to the North Shore LIJ Research Institute (2002-2013), maintained by <a href="http://www.jurgott.org/">Jurg Ott</a>, who then passed it on to his former student <a href="http://tigerwang.org/profile">Gao Wang</a> in 2015. More than 240 programs were listed by December 2004, close to 400 programs by December 2006, close to 480 programs by November 2008, and over 600 programs by October 2012. Since 2015, the list takes its home on <a href="https://github.com/gaow/genetic-analysis-software">github</a> to facilicate potential contributions from the community.</p>
-</div>
-<div id="r-packages" class="section level2">
-<h2>R packages</h2>
-<p>More and more packages are now written in R. To be consistent, any R package in CRAN has been renamed from [package-name] to R/[package-name]. If an R package is not submitted to CRAN, its original name has been kept.</p>
-</div>
-<div id="other-lists" class="section level2">
-<h2>Other lists</h2>
-<p>Other genetic software lists can be found <a href="other-genetic-analysis-software-lists.html">here</a>.</p>
-</div>
-<div id="search-this-repository" class="section level2">
-<h2>Search this repository</h2>
-<p>You can use github’s search bar on the top of <a href="https://github.com/gaow/genetic-analysis-software">the repository</a>, or the search icon at the top of this HTML site. Type in the keywords you care and see what you can find in this list!</p>
-</div>
-<div id="contribute" class="section level2">
-<h2>Contribute</h2>
-<p>We welcome your input! To contribute, please provide information of the software in <a href="https://guides.github.com/features/mastering-markdown">markdown</a> format by <a href="https://raw.githubusercontent.com/gaow/genetic-analysis-software/master/Template.md">this template</a>. You may include less properties of the software than the template suggests (for example it may not have a version number or executable names), or more properties as you see fit. Once you have completed the <code>*.md</code> file, you may either fork this repository, add the <code>*.md</code> file to <code>pages</code> folder, commit and send a github pull request, or you can simply email the <code>*.md</code> file to <a href="mailto:gaow@uchicago.edu">gaow@uchicago.edu</a> preferably with the phrase “Rockefeller List” in your email subject.</p>
-<p>You are welcome to both add new software and make improvement to contents on existing software on the list.</p>
-</div>
-<div id="comments" class="section level2">
-<h2>Comments</h2>
-<p>Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a “Review” section for each program so that users can review the program and make recommendations to potential users. Link to “Review” sections are found at the end of program detail pages. Please also use this section to leave suggestions you have to pages on this list (please do not open any new issues for this).</p>
+<div id="g-1" class="section level1">
+<h1>G</h1>
 <hr />
+<div id="g-mendel" class="section level2">
+<h2>G-MENDEL</h2>
+<div id="version-83" class="section level3">
+<h3>Version</h3>
+<p>3.0 (May 1994)</p>
+</div>
+<div id="description-112" class="section level3">
+<h3>Description</h3>
+<p>a tool for construction of genetic linkage maps and analyzing Mendelian phenotypes.</p>
+</div>
+<div id="author-121" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>J.L Holloway</li>
+<li>S.J. Knapp (Department of Crop, Soil Science, Oregon State University)</li>
+</ul>
+</div>
+<div id="url-129" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cropandsoil.oregonstate.edu/G-mendel" class="uri">http://cropandsoil.oregonstate.edu/G-mendel</a></p>
+</div>
+<div id="os-84" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Windows</p>
+<hr />
+</div>
+</div>
+<div id="gaia" class="section level2">
+<h2>GAIA</h2>
+<div id="full-name-58" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Association Interaction Analysis</p>
+</div>
+<div id="version-84" class="section level3">
+<h3>Version</h3>
+<p>1.1 (2006)</p>
+</div>
+<div id="description-113" class="section level3">
+<h3>Description</h3>
+<p>GAIA is an easy to use, web-based application for testing for locus-locus interaction using genetic association. It is based upon the case-control study design and is designed so that non-specialists may routinely apply tests for interaction. GAIA allows simple testing of both additive and additive plus dominance interaction models and includes permutation testing to appropriately correct for multiple testing. The application is useful for both candidate gene based studies and genome-wide association studies. For large scale studies GAIA includes a screening approach which prioritizes loci for further interaction analysis.</p>
+</div>
+<div id="author-122" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Stuart Macgregor (QIMR, Brisbane, Australia, Cardiff University, UK) (email: <a href="mailto:stuart.macgregor@qimr.edu.au">stuart.macgregor@qimr.edu.au</a>)</li>
+<li>Imtiaz Khan</li>
+</ul>
+</div>
+<div id="url-130" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bbu.cf.ac.uk/html/research/biostats.htm" class="uri">http://www.bbu.cf.ac.uk/html/research/biostats.htm</a></p>
+</div>
+<div id="language-89" class="section level3">
+<h3>Language</h3>
+<p>perl, R</p>
+</div>
+<div id="os-85" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-96" class="section level3">
+<h3>Reference</h3>
+<p>Macgregor and Khan (2006), “GAIA: An easy-to-use web-based application for interaction analysis of case-control data”, BMC Medical Genetics, 7:34</p>
+<hr />
+</div>
+</div>
+<div id="gap" class="section level2">
+<h2>GAP</h2>
+<div id="full-name-59" class="section level3">
+<h3>Full Name</h3>
+<p>genetic analysis package</p>
+</div>
+<div id="version-85" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="description-114" class="section level3">
+<h3>Description</h3>
+<p>a comprehensive package for the management and analysis of pedigree data. it offers: 1. Powerful database management tools, specifically designed for family data; 2. Automatic pedigree drawing; 3. Segregation and linkage analysis, based on traditional maximum likelihood methods and newer, more powerful, Monte Carlo methods that can model both genetic and environmental factors.</p>
+</div>
+<div id="author-123" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>“Epicenter Software”: Jonathan Buckley (Dept of Preventive Medicine, USC, <a href="mailto:jbuckley@hsc.usc.edu">jbuckley@hsc.usc.edu</a>)</li>
+<li>Jim Gauderman</li>
+<li>Duncan Thomas</li>
+<li>Cheryl Faucett</li>
+<li>John Morrison ( <a href="mailto:jmorr@rcf.usc.edu">jmorr@rcf.usc.edu</a>).</li>
+</ul>
+</div>
+<div id="url-131" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.epicentersoftware.com/products.php" class="uri">http://www.epicentersoftware.com/products.php</a></p>
+</div>
+<div id="language-90" class="section level3">
+<h3>Language</h3>
+<p>c++</p>
+</div>
+<div id="os-86" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (3.1/95/NT), UNIX(Solaris)</p>
+</div>
+<div id="availability-1" class="section level3">
+<h3>Availability</h3>
+<p>price single user: US$795; LAN version: US$1295. Kindred only: US$495. (academic prices are US$595, US$1095, US$395, respectively)</p>
+<hr />
+</div>
+</div>
+<div id="gas" class="section level2">
+<h2>GAS</h2>
+<div id="full-name-60" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Analysis System</p>
+</div>
+<div id="version-86" class="section level3">
+<h3>Version</h3>
+<p>2.0 (Dec 1995)</p>
+</div>
+<div id="description-115" class="section level3">
+<h3>Description</h3>
+<p>statistical analysis of genetic linkage data, sib-pair analysis, association studies</p>
+</div>
+<div id="author-124" class="section level3">
+<h3>Author</h3>
+<p>Alan Young ( <a href="mailto:ayoung@vax.ox.ac.uk">ayoung@vax.ox.ac.uk</a>)</p>
+</div>
+<div id="url-132" class="section level3">
+<h3>URL</h3>
+<p><a href="http://users.ox.ac.uk/~ayoung/gas.html" class="uri">http://users.ox.ac.uk/~ayoung/gas.html</a> .</p>
+</div>
+<div id="os-87" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS</p>
+<hr />
+</div>
+</div>
+<div id="gas2" class="section level2">
+<h2>GAS2</h2>
+<div id="full-name-61" class="section level3">
+<h3>Full Name</h3>
+<p>statistical significance in Genomewide Association Studies in 2-stage</p>
+</div>
+<div id="description-116" class="section level3">
+<h3>Description</h3>
+<p>Evaluating Statistical Significance in Two-Stage Genomewide Association Studies</p>
+</div>
+<div id="url-133" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/GAS2/" class="uri">http://www.bios.unc.edu/~lin/software/GAS2/</a></p>
+</div>
+<div id="language-91" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN77</p>
+</div>
+<div id="reference-97" class="section level3">
+<h3>Reference</h3>
+<p>Lin (2006), “Evaluating statistical significance in two-stage genomewide association studies”, American Journal of Human Genetics, 78(3):505-509</p>
+<hr />
+</div>
+</div>
+<div id="gasp" class="section level2">
+<h2>GASP</h2>
+<div id="full-name-62" class="section level3">
+<h3>Full Name</h3>
+<p>Genometric Analysis Simulation Program</p>
+</div>
+<div id="version-87" class="section level3">
+<h3>Version</h3>
+<p>3.31 (April 1998)</p>
+</div>
+<div id="description-117" class="section level3">
+<h3>Description</h3>
+<p>a software tool for testing and investigating methods in statistical genetics by generating samples of family data based on user specified models.</p>
+</div>
+<div id="author-125" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>A.F. Wilson ( <a href="mailto:afw@nhgri.nih.gov">afw@nhgri.nih.gov</a>)</li>
+<li>J.E.Bailey-Wilson</li>
+<li>E.W. Pugh</li>
+<li>A.J.M. Sorant (NCHGR/NIH)</li>
+</ul>
+</div>
+<div id="url-134" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.nhgri.nih.gov/DIR/IDRB/GASP/" class="uri">http://www.nhgri.nih.gov/DIR/IDRB/GASP/</a></li>
+<li><a href="ftp://nhgri.nih.gov/pub/outgoing/gasp" class="uri">ftp://nhgri.nih.gov/pub/outgoing/gasp</a></li>
+</ul>
+</div>
+<div id="language-92" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN77</p>
+</div>
+<div id="os-88" class="section level3">
+<h3>OS</h3>
+<p>UNIX(DEC-UNIX 4.0B/Solaris 2.5/SGI-IRIX 6.2/..)</p>
+</div>
+<div id="reference-98" class="section level3">
+<h3>Reference</h3>
+<p>Am Soc Hum Genet annual meeting 1996 (Wilson, Bailey-Wilson, Pugh, Sorant, Am J. Hum Genet, suppl, 59, A193 (1996)); documentation draft (in postscript)</p>
+<hr />
+</div>
+</div>
+<div id="gassoc" class="section level2">
+<h2>GASSOC</h2>
+<div id="full-name-63" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic ASSOCiation analysis software for cases and parent</p>
+</div>
+<div id="version-88" class="section level3">
+<h3>Version</h3>
+<p>1.06 (Jun 2001)</p>
+</div>
+<div id="description-118" class="section level3">
+<h3>Description</h3>
+<p>Statistical methods for disease and genetic marker associations using cases and their parents. These methods include an extension of the transmission/disequilibrium test (TDT) for multiple marker alleles, as well as additional general tests sensitive to associations that depend on dominant or recessive genetic mechanisms.</p>
+</div>
+<div id="author-126" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>D.J. Schaid ( <a href="mailto:schaid@mayo.edu">schaid@mayo.edu</a>)</li>
+<li>C. M. Rowland (Mayo Clinic/Foundation)</li>
+</ul>
+</div>
+<div id="url-135" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm" class="uri">http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm</a></p>
+</div>
+<div id="language-93" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-89" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SunOS/Solaris/..)</p>
+</div>
+<div id="reference-99" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Am Soc Hum Genet annual meeting 1996 (Rowland, Schaid, Am J. Hum Genet, suppl, 59, A234 (1996)).</li>
+<li>Schaid (1996), Genetic Epidemiology, 13:423-449.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="gatk" class="section level2">
+<h2>GATK</h2>
+<div id="full-name-64" class="section level3">
+<h3>Full Name</h3>
+<p>Genome Analysis ToolKit</p>
+</div>
+<div id="description-119" class="section level3">
+<h3>Description</h3>
+<p>The GATK is a structured software library that makes writing efficient analysis tools using next-generation sequencing data very easy, and second it’s a suite of tools for working with human medical resequencing projects such as 1000 Genomes and The Cancer Genome Atlas. These tools include things like a depth of coverage analyzers, a quality score recalibrator, a SNP/indel caller and a local realigner.</p>
+</div>
+<div id="author-127" class="section level3">
+<h3>Author</h3>
+<p>Mark DePristo et al. (Broad Institute)</p>
+</div>
+<div id="url-136" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit" class="uri">http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit</a></p>
+</div>
+<div id="reference-100" class="section level3">
+<h3>Reference</h3>
+<p>DePristo, Banks, Poplin, Garimella, Maguire, Hartl, Philippakis, del Angel, Rivas, Hanna, McKenna, Fennell, Kernytsky, Sivachenko, Cibulskis, Gabriel, Altshuler, Daly (2011), “A framework for variation discovery and genotyping using next-generation DNA sequencing data”, Nature Genetics, 43:491-498.</p>
+<hr />
+</div>
+</div>
+<div id="gcgcf" class="section level2">
+<h2>GC/GCF</h2>
+<div id="full-name-65" class="section level3">
+<h3>Full Name</h3>
+<p>Genomic Control</p>
+</div>
+<div id="description-120" class="section level3">
+<h3>Description</h3>
+<p>GC implements the genomic control models. GCF implements the basic Genomic Control approach, but adjusts the p-values for uncertainty in the estimated effect of substructure. This approach is preferable if a large number of tests will be evaluated because it provides a more accurrate assessment of the significance level for small p-values.</p>
+</div>
+<div id="author-128" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>B Devlin</li>
+<li>K Roeder</li>
+</ul>
+</div>
+<div id="url-137" class="section level3">
+<h3>URL</h3>
+<p><a href="http://wpicr.wpic.pitt.edu/WPICCompGen/genomic_control/genomic_control.htm" class="uri">http://wpicr.wpic.pitt.edu/WPICCompGen/genomic_control/genomic_control.htm</a></p>
+</div>
+<div id="language-94" class="section level3">
+<h3>Language</h3>
+<p>R</p>
+</div>
+<div id="os-90" class="section level3">
+<h3>OS</h3>
+<p>Linux</p>
+</div>
+<div id="reference-101" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Devlin, Roeder (1999), “Genomic control for association studies”, Biometrics, 55:997-1004.</li>
+<li>Bacanu, Devlin, Roeder (2002), “Association studies for quantitative traits in structured populations”, Genetic Epidemiology, 22:78-93.</li>
+<li>Devlin, Bacanu, Roeder (2004), “Genomic control in the extreme”, Nature Genetics, 36(11):1129-1130.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="gchap" class="section level2">
+<h2>GCHAP</h2>
+<div id="full-name-66" class="section level3">
+<h3>Full Name</h3>
+<p>Gene Counting method for HAPlotype analysis.</p>
+</div>
+<div id="description-121" class="section level3">
+<h3>Description</h3>
+<p>This program finds maximum likelihood estimates of haplotype frequencies from a sample of genotyped individuals. By excluding haplotypes with zero MLE at an early stage, this implementation uses many orders of magnitude less space and time than naive implementations. A second program, ApproxGCHap, is provided to give alternate estimates for data sets with large numbers of loci or large amounts of missing genotypes.</p>
+</div>
+<div id="author-129" class="section level3">
+<h3>Author</h3>
+<p>Alun Thomas (email: <a href="mailto:alun@genepi.med.utah.edu">alun@genepi.med.utah.edu</a>)</p>
+</div>
+<div id="url-138" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://episun7.med.utah.edu/~alun/gchap/index.html" class="uri">http://episun7.med.utah.edu/~alun/gchap/index.html</a></li>
+<li><a href="http://balance.med.utah.edu/wiki/index.php/GCHap" class="uri">http://balance.med.utah.edu/wiki/index.php/GCHap</a></li>
+</ul>
+</div>
+<div id="language-95" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="reference-102" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Thomas (2003), “GCHap: fast MLEs for haplotype frequencies by gene counting”, Bioinformatics, 19:2002-2003.</li>
+<li>Thomas (2003), “Accelerated gene counting for haplotype frequency estimation”, Annals of Human Genetics, 67:608-612.</li>
+</ul>
+</div>
+<div id="related-13" class="section level3">
+<h3>Related</h3>
+<p>GENEPI.JAR</p>
+<hr />
+</div>
+</div>
+<div id="gda" class="section level2">
+<h2>GDA</h2>
+<div id="full-name-67" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Data Analysis</p>
+</div>
+<div id="version-89" class="section level3">
+<h3>Version</h3>
+<p>1.0d16c (Jan 2001)</p>
+</div>
+<div id="description-122" class="section level3">
+<h3>Description</h3>
+<p>designed to accompany the second edition of Bruce Weir’s book “Genetic Data Analysis” (1996. Sinauer Associates)</p>
+</div>
+<div id="author-130" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Paul Lewis</li>
+<li>Dmitri Zaykin</li>
+</ul>
+</div>
+<div id="url-139" class="section level3">
+<h3>URL</h3>
+<p><a href="http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php" class="uri">http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php</a></p>
+</div>
+<div id="os-91" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (3.1/95/NT), MacOS (10.2.8/10.3)</p>
+<hr />
+</div>
+</div>
+<div id="gems" class="section level2">
+<h2>GEMS</h2>
+<div id="full-name-68" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Epidemiology ModelS</p>
+</div>
+<div id="version-90" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="description-123" class="section level3">
+<h3>Description</h3>
+<p>a computer software for fitting Genetic Epidemiology Models. This version of GEMS provides the features for many statistical analyses of family data:</p>
+</div>
+<div id="author-131" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>GE Bonney</li>
+<li>V Apprey</li>
+<li>J Kwagyan (Howard Univ)</li>
+</ul>
+</div>
+<div id="url-140" class="section level3">
+<h3>URL</h3>
+<p><a href="http://statgen.genomecenter.howard.edu/gems.htm" class="uri">http://statgen.genomecenter.howard.edu/gems.htm</a></p>
+</div>
+<div id="os-92" class="section level3">
+<h3>OS</h3>
+<p>UNIX(DEC-alpha), Linux</p>
+</div>
+<div id="exe-32" class="section level3">
+<h3>EXE</h3>
+<p>gems</p>
+</div>
+<div id="reference-103" class="section level3">
+<h3>Reference</h3>
+<p>Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am. J. Hum. Genet. suppl 61, A212 (1997)); Bonney, Apprey, Kwagyan (2001), “A computer software for fitting Genetic Epidemiology Models”, tech report 2001-02.</p>
+<hr />
+</div>
+</div>
+<div id="genabel" class="section level2">
+<h2>GENABEL</h2>
+<div id="related-14" class="section level3">
+<h3>Related</h3>
+<p>R/GENABEL</p>
+<hr />
+</div>
+</div>
+<div id="geneclass" class="section level2">
+<h2>GENECLASS</h2>
+<div id="version-91" class="section level3">
+<h3>Version</h3>
+<p>v2.0g (Jan 2005)</p>
+</div>
+<div id="description-124" class="section level3">
+<h3>Description</h3>
+<p>GENECLASS2 is a program employing multilocus genotypes to select or exclude populations as origins of individuals (Assignment and Migrants Detection).</p>
+</div>
+<div id="author-132" class="section level3">
+<h3>Author</h3>
+<p>Jean-Marie Cornuet</p>
+</div>
+<div id="url-141" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.montpellier.inra.fr/URLB/" class="uri">http://www.montpellier.inra.fr/URLB/</a></p>
+</div>
+<div id="language-96" class="section level3">
+<h3>Language</h3>
+<p>Delphi</p>
+</div>
+<div id="os-93" class="section level3">
+<h3>OS</h3>
+<p>MS-Windos, UNIX</p>
+</div>
+<div id="reference-104" class="section level3">
+<h3>Reference</h3>
+<p>Piry, Alapetite, Cornuet, Paetkau, Baudouin, Estoup (2004), “GeneClass2: a software for genetic assignment and first-generation migrant detection”, Journal of Heredity, 95:536-539.</p>
+<hr />
+</div>
+</div>
+<div id="genecounting" class="section level2">
+<h2>GENECOUNTING</h2>
+<div id="version-92" class="section level3">
+<h3>Version</h3>
+<p>2.2</p>
+</div>
+<div id="description-125" class="section level3">
+<h3>Description</h3>
+<p>gene-counting for haplotype analysis with permutation tests for global association and specific haplotypes, accounting for missing data</p>
+</div>
+<div id="author-133" class="section level3">
+<h3>Author</h3>
+<p>Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: <a href="mailto:jinghua.zhao@mrc-epid.cam.ac.uk">jinghua.zhao@mrc-epid.cam.ac.uk</a>)</p>
+</div>
+<div id="url-142" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/" class="uri">http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/</a></p>
+</div>
+<div id="language-97" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-94" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, UNIX(Solaris), Linux</p>
+</div>
+<div id="exe-33" class="section level3">
+<h3>EXE</h3>
+<p>gc, gcp, gcx, pgc., RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS</p>
+</div>
+<div id="reference-105" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Zhao, Lissarrague, Essioux, Sham (2002), “GENECOUNTING: haplotype analysis with missing genotypes”, Bioinformatics, 18(12):1694-1695.</li>
+<li>Zhao (2004), “2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis”, Bioinformatics, 20:1325-1326.</li>
+<li>Curtis, Knight, Sham (2006), “Program report: GENECOUNTING support programsProgram report: GENECOUNTING support programs”, Annals of Human Genetics, 70:277-279.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genefinder" class="section level2">
+<h2>GENEFINDER</h2>
+<div id="version-93" class="section level3">
+<h3>Version</h3>
+<p>1.1.9 (June 2004)</p>
+</div>
+<div id="description-126" class="section level3">
+<h3>Description</h3>
+<p>GeneFinder uses GEE method to estimate the location of the susceptibility gene based on the allele-sharing of affected sib pairs for multiple markers. GENEFINDER can further the analysis of GENEHUNTER by providing a more accurate gene location estimation and the corresponding confidence interval.</p>
+</div>
+<div id="author-134" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Wei-Min Chen (email: <a href="mailto:wechen@jhsph.edu">wechen@jhsph.edu</a>)</li>
+<li>Kung-Yee Liang (email: <a href="mailto:kyliang@jhpsh.edu">kyliang@jhpsh.edu</a>)</li>
+<li>Yen-Feng Chiu</li>
+</ul>
+</div>
+<div id="url-143" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.biostat.jhsph.edu/~wmchen/gf.html" class="uri">http://www.biostat.jhsph.edu/~wmchen/gf.html</a></p>
+</div>
+<div id="language-98" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-95" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, MS-DOS, UNIX(Solaris)</p>
+</div>
+<div id="exe-34" class="section level3">
+<h3>EXE</h3>
+<p>gf</p>
+</div>
+<div id="reference-106" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Liang KY, Zeger SL (1986), “Longitudinal data analysis using generalized linear models”, Biometrika, 73: 13-22.</li>
+<li>Liang KY, Chiu YF, Beaty TH (2001), “A robust identity by descent procedure using affected sib pairs: a multipoint approach for complex diseases”, Human Heredity, 51:64-78.</li>
+<li>Liang KY, Chiu YF, Beaty TH, Wjst Matthias (2001), “A multipoint analysis using affected sib pairs: incorporation of linkage evidence from unlinked regions”, Genetic Epidemiology, 21:105-122.</li>
+<li>Liang KY, Huang CY, Beaty TH (2000) A unified sampling approach for multipoint analysis of qualitative and quantitative traits in sib pairs. American Journal Human Genetics, 66(5):1631-1641</li>
+<li>Glidden DV, Liang KY, Chiu YF, Pulver AE (2003), “Multipoint affected sibpair linkage methods for localizing susceptibility genes of complex diseases”, Genetic Epidemiology, 24:107-117</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genehunter" class="section level2">
+<h2>GENEHUNTER</h2>
+<div id="version-94" class="section level3">
+<h3>Version</h3>
+<p>2.1 release 4 (April 2003)</p>
+</div>
+<div id="description-127" class="section level3">
+<h3>Description</h3>
+<p>multipoint analysis of pedigree data including: non-parametric linkage analysis, LOD-score computation, information-content mapping, haplotype reconstruction</p>
+</div>
+<div id="author-135" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Leonid Kruglyak ( <a href="mailto:leonid@genome.wi.mit.edu">leonid@genome.wi.mit.edu</a>)</li>
+<li>Mark Daly (<a href="mailto:mjdaly@genome.wi.mit.edu">mjdaly@genome.wi.mit.edu</a>)</li>
+<li>Mary Pat Reeve-Daly ( <a href="mailto:mpreeve@genome.wi.mit.edu">mpreeve@genome.wi.mit.edu</a>)</li>
+<li>Eric Lander ( <a href="mailto:lander@genome.wi.mit.edu">lander@genome.wi.mit.edu</a>) (Whitehead Institute)</li>
+</ul>
+</div>
+<div id="url-144" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broad.mit.edu/ftp/distribution/software/genehunter/" class="uri">http://www.broad.mit.edu/ftp/distribution/software/genehunter/</a></p>
+</div>
+<div id="language-99" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-96" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="exe-35" class="section level3">
+<h3>EXE</h3>
+<p>gh</p>
+</div>
+<div id="reference-107" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Kruglyak,Daly,Reeve-Daly,Lander (1996), “Parametric and nonparametric linkage analysis: a unified multipoint approach”, American Journal of Human Genetics, 58:1347-1363</li>
+<li>online documentation (2.0beta)</li>
+<li>documentation (in PDF) (2.0beta).</li>
+<li>online instruction (1.1, from Falling Rain Genomics, Inc.)</li>
+</ul>
+</div>
+<div id="related-15" class="section level3">
+<h3>Related</h3>
+<p>ALLEGRO, GENEHUNTER-IMPRINTING, GENEHUNTER-MODSCORE, GENEHUNTER-PLUS, GENEHUNTER-TWOLOCUS</p>
+<hr />
+</div>
+</div>
+<div id="genehuntersad" class="section level2">
+<h2>GENEHUNTER++SAD</h2>
+<div id="description-128" class="section level3">
+<h3>Description</h3>
+<p>implementation of the Sad statistic, more robust to transmission ratio distortion in the context of allele sharing</p>
+</div>
+<div id="author-136" class="section level3">
+<h3>Author</h3>
+<p>Mathieu Lemire (email: <a href="mailto:mlemire@sdf.lonestar.org">mlemire@sdf.lonestar.org</a>)</p>
+</div>
+<div id="url-145" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mlemire.freeshell.org/software.html" class="uri">http://mlemire.freeshell.org/software.html</a></p>
+</div>
+<div id="reference-108" class="section level3">
+<h3>Reference</h3>
+<p>Lemire, Roslin, Laprise, Hudson, Morgan (2004), “Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3”, American Journal of Human Genetics, 75:571-586.</p>
+<hr />
+</div>
+</div>
+<div id="genehunter-imprinting" class="section level2">
+<h2>GENEHUNTER-IMPRINTING</h2>
+<div id="version-95" class="section level3">
+<h3>Version</h3>
+<p>version: 1.3 (May 2000), 2.1 beta (Oct 2001).</p>
+</div>
+<div id="description-129" class="section level3">
+<h3>Description</h3>
+<p>GENEHUNTER-IMPRINTING is a modification of the GENEHUNTER software package (version 1.3). It allows to perform parametric (LOD-score) analysis of traits caused by imprinted genes - that is, of traits showing a parent-of-origin effect.</p>
+</div>
+<div id="author-137" class="section level3">
+<h3>Author</h3>
+<p>K Strauch <a href="mailto:strauch@med.uni-marburg.de">strauch@med.uni-marburg.de</a>) (Philipps University Marburg, Germany)</p>
+</div>
+<div id="url-146" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.staff.uni-marburg.de/~strauchk/software.html" class="uri">http://www.staff.uni-marburg.de/~strauchk/software.html</a></p>
+</div>
+<div id="language-100" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-97" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SUNOS,Solaris,OSF,HPUX,AIX,Ultrix), Linux, MS-Windows</p>
+</div>
+<div id="exe-36" class="section level3">
+<h3>EXE</h3>
+<p>ghi, xghi</p>
+</div>
+<div id="reference-109" class="section level3">
+<h3>Reference</h3>
+<p>Strauch, Fimmers, Kurz, Deichmann, Wienker, Baur (2000), American Journal of Human Genetics, 66(6):1945-1957</p>
+</div>
+<div id="related-16" class="section level3">
+<h3>Related</h3>
+<p>ALLEGRO, GENEHUNTER, GENEHUNTER-MODSCORE, GENEHUNTER-PLUS, GENEHUNTER-TWOLOCUS</p>
+<hr />
+</div>
+</div>
+<div id="genehunter-modscore" class="section level2">
+<h2>GENEHUNTER-MODSCORE</h2>
+<div id="version-96" class="section level3">
+<h3>Version</h3>
+<p>2.0 (October 2006)</p>
+</div>
+<div id="description-130" class="section level3">
+<h3>Description</h3>
+<p>GENEHUNTER-MODSCORE is a further extension of GENEHUNTER-IMPRINTING. The program is based on the original GENEHUNTER version 2.1 release 6. GENEHUNTER-MODSCORE allows for a MOD-score analysis, in which parametric LOD scores are maximized over the parameters of the trait model, i.e., the penetrances and disease allele frequency. As of version 2.0, it is possible to use sex-specific recombination frequencies. The genetic positions of markers can be automatically read from a publicly available genetic map.</p>
+</div>
+<div id="author-138" class="section level3">
+<h3>Author</h3>
+<p>Konstantin Strauch (<a href="mailto:strauch@med.uni-marburg.de">strauch@med.uni-marburg.de</a>) (Philipps University Marburg, Germany) Johannes Dietter (<a href="mailto:dietter@med.uni-marburg.de">dietter@med.uni-marburg.de</a>) (Philipps University Marburg, Germany)</p>
+</div>
+<div id="url-147" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.staff.uni-marburg.de/~strauchk/software.html" class="uri">http://www.staff.uni-marburg.de/~strauchk/software.html</a></p>
+</div>
+<div id="language-101" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-98" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SUNOS,Solaris,OSF,HPUX,AIX,Ultrix), Linux, MS-Windows</p>
+</div>
+<div id="exe-37" class="section level3">
+<h3>EXE</h3>
+<p>ghm</p>
+</div>
+<div id="reference-110" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>K Strauch (2003), “Parametric linkage analysis with automatic optimization of the disease model parameters”. American Journal of Human Genetics 73(Suppl1):A2624.</li>
+<li>Dietter, Mattheisen, Fuerst, Rueschendorf, Wienker, Strauch (2007), “Linkage analysis using sex-specific recombination fractions with GENEHUNTER-MODSCORE”, Bioinformatics, 23(1):64-70.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genehunter-plus" class="section level2">
+<h2>GENEHUNTER-PLUS</h2>
+<div id="version-97" class="section level3">
+<h3>Version</h3>
+<p>1.2 (Nov 1998)</p>
+</div>
+<div id="description-131" class="section level3">
+<h3>Description</h3>
+<p>GENEHUNTER-PLUS is a modification of the GENEHUNTER software package which produces output files containing the null and conditional distributions of the test statistic (in nullprobs.dat and probs.dat, respectively). These files can then be used as input to the ASM program which incorporates the allele sharing modeling for lodscores and likelihood ratio tests as developed by Kong and Cox (1997).</p>
+</div>
+<div id="author-139" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Augustine Kong (<a href="mailto:kong@galton.uchicago.edu">kong@galton.uchicago.edu</a>)</li>
+<li>Mike Frigge.</li>
+</ul>
+</div>
+<div id="url-148" class="section level3">
+<h3>URL</h3>
+<p><a href="http://galton.uchicago.edu/genehunterplus" class="uri">http://galton.uchicago.edu/genehunterplus</a></p>
+</div>
+<div id="language-102" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="exe-38" class="section level3">
+<h3>EXE</h3>
+<p>ghp, xghp,asm</p>
+</div>
+<div id="reference-111" class="section level3">
+<h3>Reference</h3>
+<p>Kong, Cox (1997), “Allele-sharing models: LOD scores and accurate linkage tests”, American Journal of Human Genetics, 61(5):1179-1188</p>
+</div>
+<div id="related-17" class="section level3">
+<h3>Related</h3>
+<p>ALLEGRO, GENEHUNTER, GENEHUNTER-IMPRINTING, GENEHUNTER-MODSCORE, GENEHUNTER-TWOLOCUS</p>
+<hr />
+</div>
+</div>
+<div id="genehunter-twolocus" class="section level2">
+<h2>GENEHUNTER-TWOLOCUS</h2>
+<div id="version-98" class="section level3">
+<h3>Version</h3>
+<p>1.3 (May 2000), optimized and parallelized version (May 2004)</p>
+</div>
+<div id="description-132" class="section level3">
+<h3>Description</h3>
+<p>GENEHUNTER-TWOLOCUS is a modification of the GENEHUNTER software package (version 1.3). The program performs complete parametric and nonparametric multi-marker linkage analysis with two autosomal, biallelic disease loci.</p>
+</div>
+<div id="author-140" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>K Strauch <a href="mailto:strauch@med.uni-marburg.de">strauch@med.uni-marburg.de</a>) (Philipps University Marburg, Germany)</li>
+<li>Johannes Dietter ( <a href="mailto:dietter@med.uni-marburg.de">dietter@med.uni-marburg.de</a>) (Philipps University Marburg, Germany)</li>
+</ul>
+</div>
+<div id="url-149" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.staff.uni-marburg.de/~strauchk/software.html" class="uri">http://www.staff.uni-marburg.de/~strauchk/software.html</a></p>
+</div>
+<div id="language-103" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-99" class="section level3">
+<h3>OS</h3>
+<p>UNIX(SUNOS,Solaris,OSF,HPUX,AIX,Ultrix), Linux, MS-Windows</p>
+</div>
+<div id="exe-39" class="section level3">
+<h3>EXE</h3>
+<p>ght</p>
+</div>
+<div id="reference-112" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Strauch, Fimmers, Kurz, Deichmann, Wienker, Baur (2000), “Parametric and nonparametric multipoint linkage analysis with imprinting and two-locus-trait models: application to mite sensitization”, American Journal of Human Genetics, 66(6):1945-1957</li>
+<li>Dietter, Spiegel, an Mey, Pflug, Al-Kateb, Hoffmann, Wienker, Strauch (2004): “Efficient two-trait-locus linkage analysis through program optimization and parallelization: application to hypercholesterolemia”, European Journal of Human Genetics, 12:542-550.</li>
+</ul>
+</div>
+<div id="related-18" class="section level3">
+<h3>Related</h3>
+<p>ALLEGRO, GENEHUNTER, GENEHUNTER-IMPRINTING, GENEHUNTER-MODSCORE, GENEHUNTER-PLUS</p>
+<hr />
+</div>
+</div>
+<div id="genepi.jar" class="section level2">
+<h2>GENEPI.JAR</h2>
+<div id="version-99" class="section level3">
+<h3>Version</h3>
+<p>September 2006</p>
+</div>
+<div id="description-133" class="section level3">
+<h3>Description</h3>
+<p>a set of Java programs for genetic epidemiology analysis</p>
+</div>
+<div id="author-141" class="section level3">
+<h3>Author</h3>
+<p>Alun Thomas (University of Utah)</p>
+</div>
+<div id="url-150" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://bioinformatics.med.utah.edu/~alun/software/index.html" class="uri">http://bioinformatics.med.utah.edu/~alun/software/index.html</a></li>
+<li><a href="http://balance.med.utah.edu/wiki/index.php/JPSGCS" class="uri">http://balance.med.utah.edu/wiki/index.php/JPSGCS</a></li>
+</ul>
+</div>
+<div id="language-104" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="os-100" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="exe-40" class="section level3">
+<h3>EXE</h3>
+<p>CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,</p>
+</div>
+<div id="related-19" class="section level3">
+<h3>Related</h3>
+<p>JPSGCS</p>
+<hr />
+</div>
+</div>
+<div id="genepool" class="section level2">
+<h2>GENEPOOL</h2>
+<div id="version-100" class="section level3">
+<h3>Version</h3>
+<p>0.84</p>
+</div>
+<div id="description-134" class="section level3">
+<h3>Description</h3>
+<p>GenePool is a software package that provides analysis tools for the detection of shifts in relative allele frequency between pooled genomic DNA from cases and controls using SNP-based genotyping microarrays. GenePool supports genotyping platforms from Affymetrix and Illumina.</p>
+</div>
+<div id="author-142" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>John Pearson (Translational Genomics Research Institute) (email: <a href="mailto:jpearson@tgen.org">jpearson@tgen.org</a>) David Craig (email: <a href="mailto:dcraig@tgen.org">dcraig@tgen.org</a>) Matt Huentelman (email: <a href="mailto:mhuentelman@tgen.org">mhuentelman@tgen.org</a>) Waibhav Tembe</li>
+<li>Sotiris Mitranopolous</li>
+<li>Nils Homer</li>
+</ul>
+</div>
+<div id="url-151" class="section level3">
+<h3>URL</h3>
+<p><a href="http://genepool.tgen.org/" class="uri">http://genepool.tgen.org/</a></p>
+</div>
+<div id="language-105" class="section level3">
+<h3>Language</h3>
+<p>C/C++/Perl</p>
+</div>
+<div id="os-101" class="section level3">
+<h3>OS</h3>
+<p>Linux, MacOS (should compile on most UNIX systems with gcc)</p>
+</div>
+<div id="exe-41" class="section level3">
+<h3>EXE</h3>
+<p>gpcommand, gpextract, gpanalyze</p>
+</div>
+<div id="reference-113" class="section level3">
+<h3>Reference</h3>
+<p>Pearson, Huentelman, Halperin, Tembe, Melquist, Homer, Brun, Szelinger, Coon, Zismann, Webster, Beach, Sando, Aasly, Heun, Jessen, Kolsch, Tsolaki, Daniilidou, Reiman, Papassotiropoulos, Hutton, Stephan, Craig (2007), “Identification of the genetic basis for complex disorders by use of pooling-based genomewide single-nucleotide-polymorphism association studies”, American Journal of Human Genetics, 80:126-139</p>
+<hr />
+</div>
+</div>
+<div id="genepop" class="section level2">
+<h2>GENEPOP</h2>
+<div id="version-101" class="section level3">
+<h3>Version</h3>
+<p>3.4</p>
+</div>
+<div id="description-135" class="section level3">
+<h3>Description</h3>
+<p>a population genetics software package</p>
+</div>
+<div id="author-143" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Michel Raymond (email: <a href="mailto:raymond@isem.univ-montp2.fr">raymond@isem.univ-montp2.fr</a>)</li>
+<li>Francois Rousset ( email: <a href="mailto:rousset@isem.univ-montp2.fr">rousset@isem.univ-montp2.fr</a>)</li>
+<li>Eleanor Morgan (email: <a href="mailto:nell@wbiomed.curtin.edu.au">nell@wbiomed.curtin.edu.au</a>) (web version)</li>
+</ul>
+</div>
+<div id="url-152" class="section level3">
+<h3>URL</h3>
+<p><a href="http://wbiomed.curtin.edu.au/genepop/" class="uri">http://wbiomed.curtin.edu.au/genepop/</a></p>
+</div>
+<div id="reference-114" class="section level3">
+<h3>Reference</h3>
+<p>Raymond, Rousset (1995), “GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism”, Journal of Heredity, 86:248-249</p>
+<hr />
+</div>
+</div>
+<div id="generecon" class="section level2">
+<h2>GENERECON</h2>
+<div id="description-136" class="section level3">
+<h3>Description</h3>
+<p>GeneRecon is a software package for linkage disequilibrium mapping using coalescent theory. It is based on a Bayesian Markov-chain Monte Carlo (MCMC) method for fine-scale linkage-disequilibrium gene mapping using high-density marker maps. GeneRecon explicitly models the genealogy of a sample of the case chromosomes in the vicinity of a disease locus. Given case and control data in the form of genotype or haplotype information, it estimates a number of parameters, most importantly, the disease position.</p>
+</div>
+<div id="author-144" class="section level3">
+<h3>Author</h3>
+<p>Thomas Mailund (email: <a href="mailto:mailund@birc.au.dk">mailund@birc.au.dk</a>) (Univ of Oxford, UK, Univ of Aarhus, Denmark)</p>
+</div>
+<div id="url-153" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.daimi.au.dk/~mailund/GeneRecon/" class="uri">http://www.daimi.au.dk/~mailund/GeneRecon/</a></p>
+</div>
+<div id="language-106" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-102" class="section level3">
+<h3>OS</h3>
+<p>UNIX, Linux, MacOS, MS-Windows</p>
+</div>
+<div id="reference-115" class="section level3">
+<h3>Reference</h3>
+<p>Mailund, Schierup, Pedersen, Madsen, Hein, Schauser (2006), “GeneRecon – A coalescent based tool for fine-scale association mapping”, Bioinformatics, 22(18):2317-2318.</p>
+<hr />
+</div>
+</div>
+<div id="genespring-gt" class="section level2">
+<h2>GENESPRING GT</h2>
+<div id="other-name-3" class="section level3">
+<h3>Other Name</h3>
+<p>VARIA</p>
+</div>
+<div id="version-102" class="section level3">
+<h3>Version</h3>
+<p>2.0</p>
+</div>
+<div id="description-137" class="section level3">
+<h3>Description</h3>
+<p>GeneSpring GT is a desktop analysis workbench for analyzing high-volume, high-density genotyping data. The software provides a comprehensive set of linkage and association algorithms that allow researchers to discover relationships between genotypes and phenotypes. Researchers can visually explore fully annotated SNPs and genes at varying levels of detail. Designed for biologists and statisticians, GeneSpring GT is capable of importing, visualizing, and analyzing hundreds of thousands of variation measurements simultaneously, for rapid localization of disease or phenotype markers.</p>
+</div>
+<div id="author-145" class="section level3">
+<h3>Author</h3>
+<p>Agilent Technologies (previously Silicon Genetics)</p>
+</div>
+<div id="url-154" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.chem.agilent.com/scripts/pds.asp?lpage=34662" class="uri">http://www.chem.agilent.com/scripts/pds.asp?lpage=34662</a></p>
+</div>
+<div id="availability-2" class="section level3">
+<h3>Availability</h3>
+<p>for quote request, go to <a href="http://www.chem.agilent.com/scripts/cag_requestaquote.asp" class="uri">http://www.chem.agilent.com/scripts/cag_requestaquote.asp</a></p>
+<hr />
+</div>
+</div>
+<div id="genetic-power-calculator" class="section level2">
+<h2>GENETIC POWER CALCULATOR</h2>
+<div id="version-103" class="section level3">
+<h3>Version</h3>
+<p>2001-2005</p>
+</div>
+<div id="description-138" class="section level3">
+<h3>Description</h3>
+<p>automated power analysis for variance components (VC) quantitative trait locis (QTL) linkage and association tests in sibships, and other common tests</p>
+</div>
+<div id="author-146" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>S. Purcell</li>
+<li>P Sham</li>
+</ul>
+</div>
+<div id="url-155" class="section level3">
+<h3>URL</h3>
+<p><a href="http://pngu.mgh.harvard.edu/~purcell/gpc/" class="uri">http://pngu.mgh.harvard.edu/~purcell/gpc/</a></p>
+</div>
+<div id="reference-116" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Sham, Cherny, Purcell, Hewitt (2000), “Power of linkage versus association analysis of quantitative traits, by use of variance-components models, for sibship data”, American Journal of Human Genetics, 66(5):1616-1630</li>
+<li>Purcell, Cherny, Sham (2003), “Genetic Power Calculator: design of linkage and association genetic mapping studies of complex traits”, Bioinformatics, 19(1):149-150.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genetsim" class="section level2">
+<h2>GENETSIM</h2>
+<div id="description-139" class="section level3">
+<h3>Description</h3>
+<p>GENETSIM provides flexible simulations of family data within an easy-to-use, high-level programming language. GENETSIM has no limit on pedigree sizes or structures, or number of families, or number of marker, or number of chromosomes. Genetic transmission is modeled by first generating the locations of recombination events, and then performing gene dropping according to the given recombination pattern. Any pattern of missing data can be specified and genotyping errors can be simulated. GENETSIM can simulat multiple QTLs with pleiotropic effects, multivariate polygenic background and any number of environmental factors, age effects, epistasis and variable expression. Users can also select families based on ascertainment schemes by repeating simulations.</p>
+</div>
+<div id="author-147" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Mike Miller</li>
+<li>Na Li (Univ of Minnesota)</li>
+</ul>
+</div>
+<div id="url-156" class="section level3">
+<h3>URL</h3>
+<p><a href="http://taxa.epi.umn.edu/GenetSim/" class="uri">http://taxa.epi.umn.edu/GenetSim/</a></p>
+</div>
+<div id="language-107" class="section level3">
+<h3>Language</h3>
+<p>Octave, R (future version)</p>
+</div>
+<div id="reference-117" class="section level3">
+<h3>Reference</h3>
+<p>Miller, Li (2005), “GenetSim: software for simulation of familial data in genetics and epidemiology” (abstract), Genetic Epidemiology, 29:269.</p>
+<hr />
+</div>
+</div>
+<div id="genevar" class="section level2">
+<h2>GENEVAR</h2>
+<div id="full-name-69" class="section level3">
+<h3>Full Name</h3>
+<p>GENe Expression VARiation</p>
+</div>
+<div id="description-140" class="section level3">
+<h3>Description</h3>
+<p>Genevar is a database and Java tool designed to integrate multiple datasets, and provides analysis and visualization of associations between sequence variation and gene expression in eQTL studies. Genevar allows researchers to investigate eQTL (expression quantitative trait loci) associations within a gene locus of interest in real time. The database and application can be installed on a standard computer in database mode and, in addition, on a server to share discoveries among affiliations or the broader community over the internet via web services protocols.</p>
+</div>
+<div id="url-157" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sanger.ac.uk/resources/software/genevar/" class="uri">http://www.sanger.ac.uk/resources/software/genevar/</a></p>
+</div>
+<div id="language-108" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="reference-118" class="section level3">
+<h3>Reference</h3>
+<p>Yang, Beazley, Montgomery, Dimas, Gutierrez-Arcelus, Stranger, Deloukas, Dermitzakis (2010), “Genevar: a database and Java application for the analysis and visualization of SNP-gene associations in eQTL studies”, Bioinformatics, 24(18):2105-2107.</p>
+<hr />
+</div>
+</div>
+<div id="geneweaver" class="section level2">
+<h2>GENEWEAVER</h2>
+<div id="version-104" class="section level3">
+<h3>Version</h3>
+<p>1.1 (2003)</p>
+</div>
+<div id="description-141" class="section level3">
+<h3>Description</h3>
+<p>software for charting family medical/health history</p>
+</div>
+<div id="url-158" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.geneweaveronline.com/" class="uri">http://www.geneweaveronline.com/</a></p>
+</div>
+<div id="os-103" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (95/98/2000/NT/XP)</p>
+</div>
+<div id="availability-3" class="section level3">
+<h3>Availability</h3>
+<p>commercialUS$39.95</p>
+<hr />
+</div>
+</div>
+<div id="genie" class="section level2">
+<h2>GENIE</h2>
+<div id="version-105" class="section level3">
+<h3>Version</h3>
+<p>2.7.2.1 (2010)</p>
+</div>
+<div id="description-142" class="section level3">
+<h3>Description</h3>
+<p>GENIE (previously PEDGENIE and HAPMC) performs tests of association and transmission disequilibrium (TDT) between genetic markers and traits in studies of arbitrarily-sized families and/or independent individuals using Monte Carlo testing. For dichotomous traits, basic genotype-based or allele-based Chi-square statistics, OR, and a Chi-square trend statistic with user-defined weights, TDT, sib-TDT, combined-TDT are included. For quantitative outcomes, a difference in means test, ANOVA and QTDT are offered. Flexible haplotype testing and meta analysis across multiple centers are available. An automated haplotype building module, hapConstructor, is also offered that data mines multi-locus data for association signals. The Monte Carlo empirical significance assessment accounts for all relatedness between individuals for all tests.</p>
+</div>
+<div id="author-148" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Nicola Camp</li>
+<li>K Allen-Brady</li>
+<li>Jathine Wong</li>
+<li>K Curtin</li>
+<li>R Abo</li>
+</ul>
+</div>
+<div id="url-159" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinformatics.med.utah.edu/Genie/index.html" class="uri">http://bioinformatics.med.utah.edu/Genie/index.html</a></p>
+</div>
+<div id="language-109" class="section level3">
+<h3>Language</h3>
+<p>Java 1.6</p>
+</div>
+<div id="os-104" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="exe-42" class="section level3">
+<h3>EXE</h3>
+<p>PedGenie, hapMC, hapConstructor</p>
+</div>
+<div id="reference-119" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Allen-Brady, Farnham, Weiler, Camp (2003), “A cautionary note on the appropriateness of using a linkage resource for an association study”, BMC Genetics, 4(suppl 1):S89.</li>
+<li>Allen-Brady, Wong, Camp (2006), “PedGenie: an analysis approach for genetic association testing in extended pedigrees and genealogies of arbitrary size”, BMC Bioinformatics, 7:209.</li>
+<li>Curtin, Wong, Allen-Brady, Camp (2007), “PedGenie: meta genetic association testing in mixed family and case-control designs”, BMC Bioinformatics, 8:448.</li>
+<li>Abo, Knight, Wong, Cox, Camp (2008), “hapConstructor: automatic construction and testing of haplotypes in a Monte Carlo framework”, Bioinformatics, 24(18):2105-2107.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genocheck" class="section level2">
+<h2>GENOCHECK</h2>
+<div id="full-name-70" class="section level3">
+<h3>Full Name</h3>
+<p>GenoCheck</p>
+</div>
+<div id="version-106" class="section level3">
+<h3>Version</h3>
+<p>1.0 (sept 20, 1995)</p>
+</div>
+<div id="description-143" class="section level3">
+<h3>Description</h3>
+<p>GenoCheck is a program designed to identify genotypes that are likely to be errors. The statistical method was designed to identify typing error rather than pedigree errors, but is general enough to pinpoint any unlikely genotype still consistent with Mendelian inheritance.</p>
+</div>
+<div id="author-149" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Meg Gelder Ehm (Glaxo Wellcome Inc. <a href="mailto:mge37216@glaxowellcome.com">mge37216@glaxowellcome.com</a>)</li>
+<li>Robert W. Cottingham</li>
+<li>Marek Kimmel</li>
+<li>Alejandro Schaffer</li>
+<li>Ramana Idury</li>
+<li>Shriram Krishnamurthi</li>
+<li>Sandeep Gupta</li>
+<li>G. Mark Lathrop</li>
+</ul>
+</div>
+<div id="url-160" class="section level3">
+<h3>URL</h3>
+<p><a href="http://softlib.rice.edu/geno.html" class="uri">http://softlib.rice.edu/geno.html</a></p>
+</div>
+<div id="language-110" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-105" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="exe-43" class="section level3">
+<h3>EXE</h3>
+<p>GenoCheck, toaff</p>
+</div>
+<div id="reference-120" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Ehm, Cottingham, Kimmel (1995), J. Biological Systems, 3(1), 13-25.</li>
+<li>Ehm, Cottingham, Kimmel (1996), “Error detection for genetic data, using likelihood methods”, American Journal of Human Genetics, 58(1):225-234</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="genogram-maker" class="section level2">
+<h2>GENOGRAM-MAKER</h2>
+<div id="description-144" class="section level3">
+<h3>Description</h3>
+<p>a graphic way of organizing the mass of information gathered during a family assessment and finding patterns in the family system</p>
+</div>
+<div id="url-161" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.genogram.org/" class="uri">http://www.genogram.org/</a></p>
+</div>
+<div id="os-106" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, MacOS</p>
+</div>
+<div id="reference-121" class="section level3">
+<h3>Reference</h3>
+<p>Monica McGoldrick, Randy Gerson, , Sylvia Shellenberger (1999), Genograms: Assessment and Intervention , 2nd edition (W.W.Norton &amp; Company).</p>
+</div>
+<div id="availability-4" class="section level3">
+<h3>Availability</h3>
+<p>US$50 (student), US$125 (standard)</p>
+<hr />
+</div>
+</div>
+<div id="genome" class="section level2">
+<h2>GENOME</h2>
+<div id="description-145" class="section level3">
+<h3>Description</h3>
+<p>GENOME is a program to simulate sequences drawn from a population under the Wright-Fisher neutral model. The purpose of this program is to simulate sequences on the whole genome scale within practical time.</p>
+</div>
+<div id="author-150" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Liming Liang (email: <a href="mailto:lianglim@umich.edu">lianglim@umich.edu</a>)</li>
+<li>Sebastian Zollner</li>
+<li>Goncalo Abecasis (University of Michigan)</li>
+</ul>
+</div>
+<div id="url-162" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sph.umich.edu/csg/liang/genome/" class="uri">http://www.sph.umich.edu/csg/liang/genome/</a></p>
+</div>
+<div id="language-111" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-107" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux, MS-Windows</p>
+</div>
+<div id="reference-122" class="section level3">
+<h3>Reference</h3>
+<p>Liang, Zollner, Abecasis (2006), “GENOME: a rapid coalescent-based whole genome simulator”, ASHG Annual Meeting.</p>
+<hr />
+</div>
+</div>
+<div id="genomesimla" class="section level2">
+<h2>GENOMESIMLA</h2>
+<div id="version-107" class="section level3">
+<h3>Version</h3>
+<p>beta</p>
+</div>
+<div id="description-146" class="section level3">
+<h3>Description</h3>
+<p>genomeSIMLA is a forward-time population simulation method that can simulate realistic patterns of LD in both family-based and case-control datasets.</p>
+</div>
+<div id="author-151" class="section level3">
+<h3>Author</h3>
+<p>Marylyn Ritchie (email: <a href="mailto:genomesimla@chgr.mc.vanderbilt.edu">genomesimla@chgr.mc.vanderbilt.edu</a>)</p>
+</div>
+<div id="url-163" class="section level3">
+<h3>URL</h3>
+<p><a href="http://chgr.mc.vanderbilt.edu/genomeSIMLA/" class="uri">http://chgr.mc.vanderbilt.edu/genomeSIMLA/</a></p>
+</div>
+<div id="reference-123" class="section level3">
+<h3>Reference</h3>
+<p>Dudek, Motsinger, Velez, Williams, Ritchie (2006), “Data simulation software for whole-genome association and other studies in human genetics”, Pacific Symposium on Biocomputing, 499-510.</p>
+<hr />
+</div>
+</div>
+<div id="genomizer" class="section level2">
+<h2>GENOMIZER</h2>
+<div id="version-108" class="section level3">
+<h3>Version</h3>
+<p>1.0</p>
+</div>
+<div id="description-147" class="section level3">
+<h3>Description</h3>
+<p>Genomizer is a platform independent Java program for the analysis of genome wide association experiments.</p>
+</div>
+<div id="author-152" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Andre Franke (email: <a href="mailto:a.franke@mucosa.de">a.franke@mucosa.de</a>)</li>
+<li>Jochen Hampe</li>
+</ul>
+</div>
+<div id="url-164" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.ikmb.uni-kiel.de/genomizer/" class="uri">http://www.ikmb.uni-kiel.de/genomizer/</a></p>
+</div>
+<div id="language-112" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="os-108" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux</p>
+</div>
+<div id="reference-124" class="section level3">
+<h3>Reference</h3>
+<p>Franke, Wollstein, Teuber, Wittig, Lu, Hoffmann, Nurnberg, Krawczak, Schreiber, Hampe (2006), “GENOMIZER: an integrated analysis system for genome-wide association data”, Human Mutation, 27(6):583-588</p>
+<hr />
+</div>
+</div>
+<div id="genoom" class="section level2">
+<h2>GENOOM</h2>
+<div id="full-name-71" class="section level3">
+<h3>Full Name</h3>
+<p>GENetic Object Oriented Modeling in population genetics</p>
+</div>
+<div id="version-109" class="section level3">
+<h3>Version</h3>
+<p>3.66 (November 2003)</p>
+</div>
+<div id="description-148" class="section level3">
+<h3>Description</h3>
+<p>GENOOM implements a virtual computer world where biological entities are digital objects. In this world, each individual of a population is represented by a set of chromosomes with genetic elements (markers, genes, Quantitative Traits Loci, etc.) and attributes (phenotype, age, fertility, living status, exposure, etc.). It comes with a built-in model allowing basic genetic studies by simulations, performed according to parameter values such a penetrance matrix (phenotype probabilities for each genotype), exposure, between-relative mating probabilities, and a probability of migration in a two-dimensional migration process. The simulated populations could be analysed with different packages for statistical or genetical analysis (e.g., SAS, S-PLUS, Linkage, Mapmaker/sibs, Genehunter). Pedigrees can also be simulated according to a pedigree file at the LINKAGE format.</p>
+</div>
+<div id="author-153" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Hadi Quesneville</li>
+<li>Dominique Anxolabehere</li>
+</ul>
+</div>
+<div id="url-165" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://dynagen.ijm.jussieu.fr/research/topics/modeling-complex-genetic-systems/object-oriented-modeling-of-complex-genetic-systems" class="uri">http://dynagen.ijm.jussieu.fr/research/topics/modeling-complex-genetic-systems/object-oriented-modeling-of-complex-genetic-systems</a></li>
+<li><a href="ftp://ftp.ijm.jussieu.fr/Usr/quesneville/genoom/" class="uri">ftp://ftp.ijm.jussieu.fr/Usr/quesneville/genoom/</a></li>
+</ul>
+</div>
+<div id="language-113" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-109" class="section level3">
+<h3>OS</h3>
+<p>UNIX, Linux</p>
+</div>
+<div id="reference-125" class="section level3">
+<h3>Reference</h3>
+<p>Quesneville, Anxolabehere (1997), “GENOOM: a simulation package for GENetic Object-Oriented Modeling”, Abstract in the European Mathematical Genetics Meeting Proceedings, Annals of Human Genetics, 61:543.</p>
+<hr />
+</div>
+</div>
+<div id="genoproof" class="section level2">
+<h2>GENOPROOF</h2>
+<div id="version-110" class="section level3">
+<h3>Version</h3>
+<p>1.1 (July 2006)</p>
+</div>
+<div id="description-149" class="section level3">
+<h3>Description</h3>
+<p>download software package for the analysis of multiplex PCR kits within the scope of paternity testing, kinship cases and population studies. GenoProof® offers: (1) probably the most extensive existing population database for all supported markers of more than 50 ethnic groups, (2) individually configurable quality assurance options, (3) complex concept of user rights in order to guarantee data security, (4) languages German and English</p>
+</div>
+<div id="author-154" class="section level3">
+<h3>Author</h3>
+<p>Dr. F. Gotz (Qualitype AG, Dresden, Germany) (email: <a href="mailto:info@genoproof.de">info@genoproof.de</a>)</p>
+</div>
+<div id="url-166" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.genoproof.com" class="uri">http://www.genoproof.com</a> or <a href="http://qualitype.de/genoproof/" class="uri">http://qualitype.de/genoproof/</a></p>
+</div>
+<div id="language-114" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="os-110" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (95/98/2000/NT/XP)</p>
+<hr />
+</div>
+</div>
+<div id="gentools" class="section level2">
+<h2>GENTOOLS</h2>
+<div id="description-150" class="section level3">
+<h3>Description</h3>
+<p>software for analysis and manipulation of genetic linkage data of genetic linkage data, including conversions of pedigree files between CRI-MAP and LINKAGE format.</p>
+</div>
+<div id="author-155" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Raymond Weaver</li>
+<li>Cynthia Helms</li>
+<li>Santosh Mishra</li>
+<li>Helen Donis-Keller (Washington University School of Medicine, St. Lious)</li>
+</ul>
+</div>
+<div id="url-167" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.genlink.wustl.edu/software/index.html" class="uri">http://www.genlink.wustl.edu/software/index.html</a></li>
+<li><a href="ftp://mapper.wustl.edu/pub/gentools" class="uri">ftp://mapper.wustl.edu/pub/gentools</a></li>
+</ul>
+</div>
+<div id="language-115" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-111" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="exe-44" class="section level3">
+<h3>EXE</h3>
+<p>faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unmerge2</p>
+</div>
+<div id="reference-126" class="section level3">
+<h3>Reference</h3>
+<p>Weaver, Helms, Mishra, Donis-Keller (1992), “Software for analysis and manipulation of genetic linkage data”, American Journal of Human Genetics, 50:1267-1274</p>
+<hr />
+</div>
+</div>
+<div id="germline" class="section level2">
+<h2>GERMLINE</h2>
+<div id="version-111" class="section level3">
+<h3>Version</h3>
+<p>1.2.1 (September 2008)</p>
+</div>
+<div id="description-151" class="section level3">
+<h3>Description</h3>
+<p>GERMLINE is a program for discovering long shared segments of Identity by Descent (IBD) between pairs of individuals in a large population. It takes as input genotype or haplotype marker data for individuals (as well as an optional known pedigree) and generates a list of all pairwise segmental sharing.</p>
+</div>
+<div id="author-156" class="section level3">
+<h3>Author</h3>
+<p>Sasha Gusev (email: <a href="mailto:gusev@cs.columbia.edu">gusev@cs.columbia.edu</a>)</p>
+</div>
+<div id="url-168" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www1.cs.columbia.edu/~gusev/germline/" class="uri">http://www1.cs.columbia.edu/~gusev/germline/</a></p>
+</div>
+<div id="language-116" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-112" class="section level3">
+<h3>OS</h3>
+<p>Linux</p>
+<hr />
+</div>
+</div>
+<div id="gest" class="section level2">
+<h2>GEST</h2>
+<div id="full-name-72" class="section level3">
+<h3>Full Name</h3>
+<p>Gene-Environment interaction and STability</p>
+</div>
+<div id="author-157" class="section level3">
+<h3>Author</h3>
+<p>Yasuo Ukai (University of Tokyo, Japan)</p>
+</div>
+<div id="url-169" class="section level3">
+<h3>URL</h3>
+<p><a href="http://lbm.ab.a.u-tokyo.ac.jp/~ukai/gest98.html" class="uri">http://lbm.ab.a.u-tokyo.ac.jp/~ukai/gest98.html</a></p>
+</div>
+<div id="reference-127" class="section level3">
+<h3>Reference</h3>
+<p>Ukai, Nesumi, Yakano (1996), “A package of computer programs for the statistical analysis of genotype x environment interaction and stability GEST” (in Japanese), Breeding Science, 46:73-79.</p>
+<hr />
+</div>
+</div>
+<div id="gevalt" class="section level2">
+<h2>GEVALT</h2>
+<div id="full-name-73" class="section level3">
+<h3>Full Name</h3>
+<p>GEnotype Visualization and ALgorithmic Tool</p>
+</div>
+<div id="version-112" class="section level3">
+<h3>Version</h3>
+<p>2.0</p>
+</div>
+<div id="description-152" class="section level3">
+<h3>Description</h3>
+<p>GEVALT is designed to simplify and expedite the process of genotype analysis and disease association tests by providing a common interface to several common tasks relating to such analyses. It is aimed for analysis of unrelated individuals as well as two-generation families.</p>
+</div>
+<div id="author-158" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Ofir Davidovich</li>
+<li>Gad Kimmel</li>
+<li>Eran Halperin</li>
+<li>Oded Apel</li>
+<li>Ron Shamir.</li>
+</ul>
+</div>
+<div id="url-170" class="section level3">
+<h3>URL</h3>
+<p><a href="http://acgt.cs.tau.ac.il/gevalt/" class="uri">http://acgt.cs.tau.ac.il/gevalt/</a></p>
+</div>
+<div id="reference-128" class="section level3">
+<h3>Reference</h3>
+<p>Davidovich, Kimmel, Shamir (2007), “GEVALT: An integrated software tool for genotype analysis”, BMC Bioinformatics, 8:36.</p>
+<hr />
+</div>
+</div>
+<div id="ggsd" class="section level2">
+<h2>GGSD</h2>
+<div id="full-name-74" class="section level3">
+<h3>Full Name</h3>
+<p>Generic Genetic Studies Database</p>
+</div>
+<div id="description-153" class="section level3">
+<h3>Description</h3>
+<p>web-based, relational database driven data management software package for the management of large scale genetic studies.</p>
+</div>
+<div id="author-159" class="section level3">
+<h3>Author</h3>
+<p>Aaron Day-Williams (Wellcome Trust Sanger Institute)</p>
+</div>
+<div id="url-171" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://sourceforge.net/projects/ggsd/" class="uri">http://sourceforge.net/projects/ggsd/</a></li>
+<li><a href="http://ggsd.sourceforge.net/" class="uri">http://ggsd.sourceforge.net/</a></li>
+</ul>
+</div>
+<div id="language-117" class="section level3">
+<h3>Language</h3>
+<p>Java, PHP, Perl</p>
+</div>
+<div id="os-113" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+<hr />
+</div>
+</div>
+<div id="ggt" class="section level2">
+<h2>GGT</h2>
+<div id="full-name-75" class="section level3">
+<h3>Full Name</h3>
+<p>Graphical GenoTyping package</p>
+</div>
+<div id="version-113" class="section level3">
+<h3>Version</h3>
+<p>December 2006</p>
+</div>
+<div id="description-154" class="section level3">
+<h3>Description</h3>
+<p>GGT combines genetic map data and locus data to display Graphical Genotypes. Data can be viewed by individual or by linkage group, and sorted on markers. Statistics are calculated and simultaneous filtering/selection on multiple linkage groups is possible. Output of hi-res genotype drawings directly to printer or to emf/jpeg/bitmap image. A module for constructing GGT-datafiles from common mapmaker/joinmap style formatted data is available.</p>
+</div>
+<div id="author-160" class="section level3">
+<h3>Author</h3>
+<p>Ralph van Berloo (Wageningen University, The Netherlands, <a href="mailto:ralph.vanberloo@wur.nl">ralph.vanberloo@wur.nl</a>)</p>
+</div>
+<div id="url-172" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.dpw.wau.nl/pv/PUB/ggt/" class="uri">http://www.dpw.wau.nl/pv/PUB/ggt/</a></p>
+</div>
+<div id="language-118" class="section level3">
+<h3>Language</h3>
+<p>Delphi (Pascal)</p>
+</div>
+<div id="os-114" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (95/98/2000/XP)</p>
+</div>
+<div id="exe-45" class="section level3">
+<h3>EXE</h3>
+<p>GGT32.EXE</p>
+</div>
+<div id="reference-129" class="section level3">
+<h3>Reference</h3>
+<p>R Van Berloo (1999),“GGT: Software for the display of graphical genotypes”, Journal of Heredity, 90:328-329. [ full text (PDF) : <a href="http://www.dpw.wau.nl/pv/papers/reprint/9903.pdf" class="uri">http://www.dpw.wau.nl/pv/papers/reprint/9903.pdf</a>]</p>
+</div>
+<div id="related-20" class="section level3">
+<h3>Related</h3>
+<p>MAPCOMP</p>
+<hr />
+</div>
+</div>
+<div id="ghost" class="section level2">
+<h2>GHOST</h2>
+<div id="description-155" class="section level3">
+<h3>Description</h3>
+<p>GHOST is a software package for family-based genomewide association (GWA) analysis, with the ability to infer missing genotypes using the Elston-Stewart algorithm. When SNPs from an association panel are less complete (i.e., having more missing genotypes) than markers from a linkage panel, many of the missing genotypes can be determined. GHOST can handle large pedigrees – when pedigrees are small, Merlin is also recommended for this analysis.</p>
+</div>
+<div id="url-173" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sph.umich.edu/csg/chen/ghost/" class="uri">http://www.sph.umich.edu/csg/chen/ghost/</a></p>
+</div>
+<div id="reference-130" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Burdick, Chen, Abecasis, Cheung (2006), “In silico method for inferring genotypes in pedigrees”, Nature Genetics, 38:1002-1004.</li>
+<li>Chen, Abecasis (2007), “Family-based association tests for genomewide association scans”, American Journal of Human Genetics, 81(5):913-926</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="gist" class="section level2">
+<h2>GIST</h2>
+<div id="full-name-76" class="section level3">
+<h3>Full Name</h3>
+<p>Genotype Ibd Sharing Test</p>
+</div>
+<div id="version-114" class="section level3">
+<h3>Version</h3>
+<p>0.3</p>
+</div>
+<div id="description-156" class="section level3">
+<h3>Description</h3>
+<p>testing whether the presence of a marker allale can partially account for the evidence of linkage in the region of the marker</p>
+</div>
+<div id="author-161" class="section level3">
+<h3>Author</h3>
+<p>Chun Li (Vanderbilt University). (email: <a href="mailto:chun.li@vanderbilt.edu">chun.li@vanderbilt.edu</a>)</p>
+</div>
+<div id="url-174" class="section level3">
+<h3>URL</h3>
+<p><a href="http://phg.mc.vanderbilt.edu/content/gist" class="uri">http://phg.mc.vanderbilt.edu/content/gist</a></p>
+</div>
+<div id="os-115" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Windows</p>
+</div>
+<div id="reference-131" class="section level3">
+<h3>Reference</h3>
+<p>Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):418-431</p>
+<hr />
+</div>
+</div>
+<div id="glfsingleglftrioglfmultiples" class="section level2">
+<h2>GLFSINGLE/GLFTRIO/GLFMULTIPLES</h2>
+<div id="description-157" class="section level3">
+<h3>Description</h3>
+<p>glfTrio is a GLF-based variant caller for next-generation sequencing data. It takes one/three/multiple GLF format genotype likelihood files as input and generates a VCF-format set of variant calls as output.</p>
+</div>
+<div id="author-162" class="section level3">
+<h3>Author</h3>
+<p>Abecasis’ group (Univ Michigan)</p>
+</div>
+<div id="url-175" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://genome.sph.umich.edu/wiki/GlfSingle" class="uri">http://genome.sph.umich.edu/wiki/GlfSingle</a></li>
+<li><a href="http://genome.sph.umich.edu/wiki/GlfTrio" class="uri">http://genome.sph.umich.edu/wiki/GlfTrio</a></li>
+<li><a href="http://genome.sph.umich.edu/wiki/GlfMultiples" class="uri">http://genome.sph.umich.edu/wiki/GlfMultiples</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="gliders" class="section level2">
+<h2>GLIDERS</h2>
+<div id="full-name-77" class="section level3">
+<h3>Full Name</h3>
+<p>Genome-wide LInkage DisEquilibrium Repository and Search engine</p>
+</div>
+<div id="description-158" class="section level3">
+<h3>Description</h3>
+<p>HapMap based long-range LD search engine</p>
+</div>
+<div id="author-163" class="section level3">
+<h3>Author</h3>
+<p>Robert Lawrence (Wellcome Trust Sanger Institute)</p>
+</div>
+<div id="url-176" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mather.well.ox.ac.uk/GLIDERS/" class="uri">http://mather.well.ox.ac.uk/GLIDERS/</a></p>
+<hr />
+</div>
+</div>
+<div id="glue" class="section level2">
+<h2>GLUE</h2>
+<div id="full-name-78" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Linkage User Environment</p>
+</div>
+<div id="version-115" class="section level3">
+<h3>Version</h3>
+<p>3.30 (Aug 2002)</p>
+</div>
+<div id="description-159" class="section level3">
+<h3>Description</h3>
+<p>A web interface to several commonly used statistical genetics programs, including Linkage, Genehunter, Merlin, Unphased, and Transmit. It simplifies their use through graphical selection of program options, automation of multiple analyses, and viewing of graphical output. GLUE is available to HGMP account holders; registration is free to all academic users.</p>
+</div>
+<div id="author-164" class="section level3">
+<h3>Author</h3>
+<p>Frank Dudbridge (email: <a href="mailto:frank.dudbridge@mrc-bsu.cam.ac.uk">frank.dudbridge@mrc-bsu.cam.ac.uk</a>)</p>
+</div>
+<div id="url-177" class="section level3">
+<h3>URL</h3>
+<p><a href="http://portal.litbio.org/Registered/Webapp/glue/" class="uri">http://portal.litbio.org/Registered/Webapp/glue/</a></p>
+</div>
+<div id="language-119" class="section level3">
+<h3>Language</h3>
+<p>Perl</p>
+</div>
+<div id="os-116" class="section level3">
+<h3>OS</h3>
+<p>any web browser</p>
+<hr />
+</div>
+</div>
+<div id="gma" class="section level2">
+<h2>GMA</h2>
+<div id="full-name-79" class="section level3">
+<h3>Full Name</h3>
+<p>Genetic Mixture Analysis</p>
+</div>
+<div id="author-165" class="section level3">
+<h3>Author</h3>
+<p>Steven T Kalinowski (email: <a href="mailto:skalinowski@montana.edu">skalinowski@montana.edu</a>)</p>
+</div>
+<div id="url-178" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.montana.edu/kalinowski/GMA/GMA_Home.htm" class="uri">http://www.montana.edu/kalinowski/GMA/GMA_Home.htm</a></p>
+</div>
+<div id="os-117" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows</p>
+<hr />
+</div>
+</div>
+<div id="gmcheck" class="section level2">
+<h2>GMCHECK</h2>
+<div id="description-160" class="section level3">
+<h3>Description</h3>
+<p>GMCheck finds the posterior probabilities for data errors for genotypes and phenotypes in pedigree data</p>
+</div>
+<div id="author-166" class="section level3">
+<h3>Author</h3>
+<p>Alun Thomas (email: <a href="mailto:alun@genepi.med.utah.edu">alun@genepi.med.utah.edu</a>)</p>
+</div>
+<div id="url-179" class="section level3">
+<h3>URL</h3>
+<p><a href="http://episun7.med.utah.edu/~alun/gmcheck/" class="uri">http://episun7.med.utah.edu/~alun/gmcheck/</a></p>
+</div>
+<div id="language-120" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="reference-132" class="section level3">
+<h3>Reference</h3>
+<p>Thomas (2005), “GMCheck: Bayesian error checking for pedigree genotypes and phenotypes”, Bioinformatics, 21(14):3187-3189.</p>
+<hr />
+</div>
+</div>
+<div id="gold" class="section level2">
+<h2>GOLD</h2>
+<div id="full-name-80" class="section level3">
+<h3>Full Name</h3>
+<p>Graphical Overview of Linkage Disequilibrium</p>
+</div>
+<div id="version-116" class="section level3">
+<h3>Version</h3>
+<p>November 2001</p>
+</div>
+<div id="description-161" class="section level3">
+<h3>Description</h3>
+<p>A software package that provides a graphical summary of linkage disequilibrium in human genetic data. The graphical summary is well suited to the analysis of dense genetic maps, where contingency tables are cumbersome to interpret. An interface to the Simwalk2 application allows for the analysis of family data.</p>
+</div>
+<div id="author-167" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>G R Abecasis</li>
+<li>William Cookson (Wellcome Trust Centre for Human Genetics, Oxford, UK)</li>
+</ul>
+</div>
+<div id="url-180" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sph.umich.edu/csg/abecasis/GOLD/" class="uri">http://www.sph.umich.edu/csg/abecasis/GOLD/</a></p>
+</div>
+<div id="reference-133" class="section level3">
+<h3>Reference</h3>
+<p>Abecasis, Cookson (2000), Bioinformatics, 16(2):182-183.</p>
+<hr />
+</div>
+</div>
+<div id="gregor" class="section level2">
+<h2>GREGOR</h2>
+<div id="description-162" class="section level3">
+<h3>Description</h3>
+<p>the program allows students and scientists to explore potential manifestations of genetic models and stochastic processes. It also provides a means to evaluate the effectiveness of statistical procedures such as linkage analysis or QTL detection.</p>
+</div>
+<div id="author-168" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Nick Tinker ( <a href="mailto:tinker@agr.gc.ca">tinker@agr.gc.ca</a>)</li>
+<li>Diane Mather (grain crops breeding, genetic research, McGill Univ, <a href="mailto:mather@agradm.lan.mcgill.ca">mather@agradm.lan.mcgill.ca</a>)</li>
+</ul>
+</div>
+<div id="url-181" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://gnome.agrenv.mcgill.ca/tinker/gregor.htm" class="uri">http://gnome.agrenv.mcgill.ca/tinker/gregor.htm</a></li>
+<li><a href="ftp://gnome.agrenv.mcgill.ca/software/GREGOR/" class="uri">ftp://gnome.agrenv.mcgill.ca/software/GREGOR/</a></li>
+</ul>
+</div>
+<div id="os-118" class="section level3">
+<h3>OS</h3>
+<p>MS-DOS</p>
+</div>
+<div id="reference-134" class="section level3">
+<h3>Reference</h3>
+<p>Tinker and Mather, Journal of Heredity, 84, 237 (1993)</p>
+<hr />
+</div>
+</div>
+<div id="gridqtl" class="section level2">
+<h2>GRIDQTL</h2>
+<div id="version-117" class="section level3">
+<h3>Version</h3>
+<p>1.5.1 (August 2010)</p>
+</div>
+<div id="description-163" class="section level3">
+<h3>Description</h3>
+<p>A publicly available Web-based application that can perform QTL mapping on a variety of population types. GridQTL will extend the functionality of QTLExpress by adding new and advanced approaches for modelling QTL analysis in simple and complex populations. These new methods will be available on a Grid system that will offer flexible workflow management, resource allocation, data persistence, detached execution of simulations and the scalability required for the increase in data volume, data sources and complexity required by the new models.</p>
+</div>
+<div id="url-182" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.gridqtl.org.uk/" class="uri">http://www.gridqtl.org.uk/</a></p>
+</div>
+<div id="os-119" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+<hr />
+</div>
+</div>
+<div id="gronlod" class="section level2">
+<h2>GRONLOD</h2>
+<div id="full-name-81" class="section level3">
+<h3>Full Name</h3>
+<p>GRONingen university LOR score calculation</p>
+</div>
+<div id="description-164" class="section level3">
+<h3>Description</h3>
+<p>Conversion programs from LINKAGE files are available. The program uses peeling and can employ nested conditioning. There is an automatic peeling program that will unravel (multiple) loops. Alleles do not need to be recoded, so real allele sizes can be used. Genotype probabilities for a chosen person can be calculated for purposes of genetic risk calculation. Later versions include one for calculations using linked markers and mutations and mosaicism, made by Martin van der Meulen. A symbolic versions will generate the formula to compute the pedigree likelihood.</p>
+</div>
+<div id="author-169" class="section level3">
+<h3>Author</h3>
+<p>Gerard te Meerman (University of Groningen, The Netherlands) (<a href="mailto:g.j.te.meerman@med.rug.nl">g.j.te.meerman@med.rug.nl</a>)</p>
+</div>
+<div id="language-121" class="section level3">
+<h3>Language</h3>
+<p>PROLOG</p>
+</div>
+<div id="os-120" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows (3.1/95/NT)</p>
+</div>
+<div id="exe-46" class="section level3">
+<h3>EXE</h3>
+<p>gronrec,gronreca,gronlod,groninbr, gronchec,gronped,gronpedc, grontree</p>
+</div>
+<div id="reference-135" class="section level3">
+<h3>Reference</h3>
+<p>Meerman, “A Logic Programming Approach to Pedigree Analysis”, (Thesis Publishers Amsterdam, 1991). Available free of charge from the author. Contains documented sources and description.</p>
+<hr />
+</div>
+</div>
+<div id="grr" class="section level2">
+<h2>GRR</h2>
+<div id="full-name-82" class="section level3">
+<h3>Full Name</h3>
+<p>Graphical Representation of Relationships</p>
+</div>
+<div id="version-118" class="section level3">
+<h3>Version</h3>
+<p>Aug 2003</p>
+</div>
+<div id="description-165" class="section level3">
+<h3>Description</h3>
+<p>a graphical tool designed for detection of errors in relationship specification in general pedigrees by use of genome scan marker data.</p>
+</div>
+<div id="author-170" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>G R Abecasis (email: <a href="mailto:goncalo@well.ox.ac.uk">goncalo@well.ox.ac.uk</a>)</li>
+<li>S S Cherny (email: <a href="mailto:cherny@qtl.well.ox.ac.uk">cherny@qtl.well.ox.ac.uk</a>)</li>
+<li>W O C Cookson</li>
+<li>L R Cardon (email: <a href="mailto:lon@well.ox.ac.uk">lon@well.ox.ac.uk</a>)</li>
+</ul>
+</div>
+<div id="url-183" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.sph.umich.edu/csg/abecasis/GRR/" class="uri">http://www.sph.umich.edu/csg/abecasis/GRR/</a></p>
+</div>
+<div id="language-122" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-121" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows</p>
+</div>
+<div id="reference-136" class="section level3">
+<h3>Reference</h3>
+<p>Abecasis, Cherny, Cookson, and Cardon (2001), “GRR: Graphical representation of relationship errors”, Bioinformatics, 17(8):742-743.</p>
+<hr />
+</div>
+</div>
+<div id="gs-em" class="section level2">
+<h2>GS-EM</h2>
+<div id="full-name-83" class="section level3">
+<h3>Full Name</h3>
+<p>GenoSpectrum Expectation-Maximuzation</p>
+</div>
+<div id="url-184" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.people.fas.harvard.edu/~junliu/genotype/" class="uri">http://www.people.fas.harvard.edu/~junliu/genotype/</a></p>
+</div>
+<div id="reference-137" class="section level3">
+<h3>Reference</h3>
+<p>Kang, Qin, Niu, Liu (2004), “Incorporating genotyping uncertainty in haplotype inference for single-nucleotide polymorphisms”, American Journal of Human Genetics, 74(3):495-510</p>
+<hr />
+</div>
+</div>
+<div id="gsma" class="section level2">
+<h2>GSMA</h2>
+<div id="full-name-84" class="section level3">
+<h3>Full Name</h3>
+<p>Genome Search Meta Analysis</p>
+</div>
+<div id="description-166" class="section level3">
+<h3>Description</h3>
+<p>The GSMA is a rank-based meta-analysis method for analyzing results from genome-wide linkage searches. A software package is now available. The gsma software calculates the summed rank for any number of studies and bins, then obtains p-values for the Summed Rank and the Ordered Rank statistics, by simulation. Weighted and unweighted analyses are performed. A test data set is included.</p>
+</div>
+<div id="author-171" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Cathryn Lewis ( email: <a href="mailto:cathryn.lewis@kcl.ac.uk">cathryn.lewis@kcl.ac.uk</a>)</li>
+<li>Douglas Levinson</li>
+<li>Lesley Wise</li>
+</ul>
+</div>
+<div id="url-185" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mmg.umds.ac.uk/GSMA" class="uri">http://mmg.umds.ac.uk/GSMA</a></p>
+</div>
+<div id="language-123" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-122" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), MS-DOS</p>
+</div>
+<div id="reference-138" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Wise et al. (1999), Annals of Human Genetics, 63:263-272.</li>
+<li>Levinson et al., (2003), American Journal of Human Genetics, 73(1):17-33</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="gtool" class="section level2">
+<h2>GTOOL</h2>
+<div id="version-119" class="section level3">
+<h3>Version</h3>
+<p>0.4.1 (Feb 2008)</p>
+</div>
+<div id="description-167" class="section level3">
+<h3>Description</h3>
+<p>GTOOL is a program for transforming sets of genotype data for use with the programs SNPTEST and IMPUTE.</p>
+</div>
+<div id="author-172" class="section level3">
+<h3>Author</h3>
+<p>Jonathan Marchini</p>
+</div>
+<div id="url-186" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stats.ox.ac.uk/~marchini/software/gwas/gtool.html" class="uri">http://www.stats.ox.ac.uk/~marchini/software/gwas/gtool.html</a></p>
+<hr />
+</div>
+</div>
+<div id="gwapower" class="section level2">
+<h2>GWAPOWER</h2>
+<div id="full-name-85" class="section level3">
+<h3>Full Name</h3>
+<p>Genome-Wide Association POWER</p>
+</div>
+<div id="version-120" class="section level3">
+<h3>Version</h3>
+<p>1.1</p>
+</div>
+<div id="description-168" class="section level3">
+<h3>Description</h3>
+<p>GWApower is a R package for assessing the power of genome-wide association studies using commercially available genotyping chips. The package encapsulates extensive simulation results generated by our program HAPGEN.</p>
+</div>
+<div id="url-187" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stats.ox.ac.uk/~marchini/software.html" class="uri">http://www.stats.ox.ac.uk/~marchini/software.html</a></p>
+</div>
+<div id="language-124" class="section level3">
+<h3>Language</h3>
+<p>R</p>
+</div>
+<div id="reference-139" class="section level3">
+<h3>Reference</h3>
+<p>Spencer, Su, Donnelly, Marchini (2009), “Designing genome-wide association studies: sample size, power, imputation, and the choice of genotyping chip”, PLoS Genetics, 5(5):e1000477.</p>
+<hr />
+</div>
+</div>
+<div id="gwaselect" class="section level2">
+<h2>GWASELECT</h2>
+<div id="description-169" class="section level3">
+<h3>Description</h3>
+<p>GWASelect implements a novel variable selection method for GWAS data and is able to handle more than half million SNPs. Extensive simulation studies and real data analysis show that this method enjoys high power and low false discovery rate compared to existing variable selection methods. The variables selected by GWASelect can be readily placed into a logistic regression model for disease prediction. The current release is designed for binary outcome under the additive mode of inheritance.</p>
+</div>
+<div id="author-173" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Qianchuan He</li>
+<li>Dan-Yu Lin (Univ North Carolina)</li>
+</ul>
+</div>
+<div id="url-188" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/software/GWASelect/" class="uri">http://www.bios.unc.edu/~lin/software/GWASelect/</a></p>
+</div>
+<div id="reference-140" class="section level3">
+<h3>Reference</h3>
+<p>He, Lin (2010), “A variable selection method for genome-wide association studies”, Bioinformatics, 27:1-8.</p>
+<hr />
+</div>
 </div>
 </div>
             </section>
@@ -5138,8 +7030,8 @@
           </div>
         </div>
       </div>
-
-<a href="alphabetic-list.html" class="navigation navigation-next navigation-unique" aria-label="Next page""><i class="fa fa-angle-right"></i></a>
+<a href="f-1.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="h-1.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
 
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>

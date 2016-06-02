@@ -33,8 +33,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-
-<link rel="next" href="alphabetic-list.html">
+<link rel="prev" href="g-1.html">
+<link rel="next" href="i-1.html">
 
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -5047,90 +5047,1374 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="header">
-<h1 class="title">An Alphabetic List of Genetic Analysis Software</h1>
-<h4 class="author"><em>© Gao Wang / Jurg Ott lab</em></h4>
-<h4 class="date"><em>2016-06-01</em></h4>
-</div>
-<div id="about" class="section level1">
-<h1>About</h1>
-<table>
-<tbody>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#0">#</a></td>
-<td align="center"><a href="alphabetic-list.html#a">A</a></td>
-<td align="center"><a href="alphabetic-list.html#b">B</a></td>
-<td align="center"><a href="alphabetic-list.html#c">C</a></td>
-<td align="center"><a href="alphabetic-list.html#d">D</a></td>
-<td align="center"><a href="alphabetic-list.html#e">E</a></td>
-<td align="center"><a href="alphabetic-list.html#f">F</a></td>
-<td align="center"><a href="alphabetic-list.html#g">G</a></td>
-<td align="center"><a href="alphabetic-list.html#h">H</a></td>
-</tr>
-<tr class="even">
-<td align="center"><a href="alphabetic-list.html#i">I</a></td>
-<td align="center"><a href="alphabetic-list.html#j">J</a></td>
-<td align="center"><a href="alphabetic-list.html#k">K</a></td>
-<td align="center"><a href="alphabetic-list.html#l">L</a></td>
-<td align="center"><a href="alphabetic-list.html#m">M</a></td>
-<td align="center"><a href="alphabetic-list.html#n">N</a></td>
-<td align="center"><a href="alphabetic-list.html#o">O</a></td>
-<td align="center"><a href="alphabetic-list.html#p">P</a></td>
-<td align="center"><a href="alphabetic-list.html#q">Q</a></td>
-</tr>
-<tr class="odd">
-<td align="center"><a href="alphabetic-list.html#r">R</a></td>
-<td align="center"><a href="alphabetic-list.html#s">S</a></td>
-<td align="center"><a href="alphabetic-list.html#t">T</a></td>
-<td align="center"><a href="alphabetic-list.html#u">U</a></td>
-<td align="center"><a href="alphabetic-list.html#v">V</a></td>
-<td align="center"><a href="alphabetic-list.html#w">W</a></td>
-<td align="center"><a href="alphabetic-list.html#x">X</a></td>
-<td align="center"><a href="alphabetic-list.html#y">Y</a></td>
-<td align="center"><a href="alphabetic-list.html#z">Z</a></td>
-</tr>
-</tbody>
-</table>
-<div id="scope" class="section level2">
-<h2>Scope</h2>
-<p>This page, historically known as the “Rockefeller list”, is a list of computer programs for genetics analysis, including but not limiting to topics of:</p>
-<ul>
-<li>Genetic linkage analysis for human pedigree data</li>
-<li>QTL analysis for animal/plant breeding data</li>
-<li>Genetic marker ordering</li>
-<li>Genetic association analysis</li>
-<li>Haplotype construction</li>
-<li>Population genetics</li>
-<li>Genetic data visualization</li>
-</ul>
-<p>This list is initially offered as a service to the gene mapping community. The inclusion of a program should not be interpreted as an endorsement from us.</p>
-<p>In the last few years, new technology has been producing new types of genetic data, and the scope of genetic analyses changes dramatically. It is no longer obvious whether a program should be included or excluded from this list. Topics such as next-generation-sequencing (NGS), gene expression, genomics annotation, etc. can all be relevant to a genetic study, but we’ll have to decide on a case-by-case basis whether to include a program.</p>
-</div>
-<div id="history" class="section level2">
-<h2>History</h2>
-<p>This list was created by Dr. <a href="https://scholar.google.com/citations?user=XsMM0oQAAAAJ&amp;hl=en">Wentian Li</a> when he was at Columbia University (1995-1996). It was later moved to Rockefeller University (1996-2002) and then to the North Shore LIJ Research Institute (2002-2013), maintained by <a href="http://www.jurgott.org/">Jurg Ott</a>, who then passed it on to his former student <a href="http://tigerwang.org/profile">Gao Wang</a> in 2015. More than 240 programs were listed by December 2004, close to 400 programs by December 2006, close to 480 programs by November 2008, and over 600 programs by October 2012. Since 2015, the list takes its home on <a href="https://github.com/gaow/genetic-analysis-software">github</a> to facilicate potential contributions from the community.</p>
-</div>
-<div id="r-packages" class="section level2">
-<h2>R packages</h2>
-<p>More and more packages are now written in R. To be consistent, any R package in CRAN has been renamed from [package-name] to R/[package-name]. If an R package is not submitted to CRAN, its original name has been kept.</p>
-</div>
-<div id="other-lists" class="section level2">
-<h2>Other lists</h2>
-<p>Other genetic software lists can be found <a href="other-genetic-analysis-software-lists.html">here</a>.</p>
-</div>
-<div id="search-this-repository" class="section level2">
-<h2>Search this repository</h2>
-<p>You can use github’s search bar on the top of <a href="https://github.com/gaow/genetic-analysis-software">the repository</a>, or the search icon at the top of this HTML site. Type in the keywords you care and see what you can find in this list!</p>
-</div>
-<div id="contribute" class="section level2">
-<h2>Contribute</h2>
-<p>We welcome your input! To contribute, please provide information of the software in <a href="https://guides.github.com/features/mastering-markdown">markdown</a> format by <a href="https://raw.githubusercontent.com/gaow/genetic-analysis-software/master/Template.md">this template</a>. You may include less properties of the software than the template suggests (for example it may not have a version number or executable names), or more properties as you see fit. Once you have completed the <code>*.md</code> file, you may either fork this repository, add the <code>*.md</code> file to <code>pages</code> folder, commit and send a github pull request, or you can simply email the <code>*.md</code> file to <a href="mailto:gaow@uchicago.edu">gaow@uchicago.edu</a> preferably with the phrase “Rockefeller List” in your email subject.</p>
-<p>You are welcome to both add new software and make improvement to contents on existing software on the list.</p>
-</div>
-<div id="comments" class="section level2">
-<h2>Comments</h2>
-<p>Published software programs might have their user email-list or forum for technical discussions on usage and features of the software but they do not provide a general review that may be helpful to new customers who are shopping around trying to decide which product to go for. This list provides a “Review” section for each program so that users can review the program and make recommendations to potential users. Link to “Review” sections are found at the end of program detail pages. Please also use this section to leave suggestions you have to pages on this list (please do not open any new issues for this).</p>
+<div id="h-1" class="section level1">
+<h1>H</h1>
 <hr />
+<div id="hap-1" class="section level2">
+<h2>HAP 1</h2>
+<div id="full-name-86" class="section level3">
+<h3>Full Name</h3>
+<p>haplotype resolution using imperfect phylogeny</p>
+</div>
+<div id="version-121" class="section level3">
+<h3>Version</h3>
+<p>3.0</p>
+</div>
+<div id="author-174" class="section level3">
+<h3>Author</h3>
+<p>Eleazar Eskin ( <a href="mailto:eeskin@cs.ucsd.edu">eeskin@cs.ucsd.edu</a>)</p>
+</div>
+<div id="url-189" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://research.calit2.net/hap/" class="uri">http://research.calit2.net/hap/</a></li>
+<li><a href="http://www.cs.columbia.edu/compbio/hap/" class="uri">http://www.cs.columbia.edu/compbio/hap/</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="hap-2" class="section level2">
+<h2>HAP 2</h2>
+<div id="full-name-87" class="section level3">
+<h3>Full Name</h3>
+<p>HAPlotype analysis of polymorphic markers</p>
+</div>
+<div id="author-175" class="section level3">
+<h3>Author</h3>
+<p>(MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: <a href="mailto:jinghua.zhao@mrc-epid.cam.ac.uk">jinghua.zhao@mrc-epid.cam.ac.uk</a>)</p>
+</div>
+<div id="url-190" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/" class="uri">http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/</a></p>
+</div>
+<div id="language-125" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-123" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, UNIX(Solaris), Linux</p>
+</div>
+<div id="reference-141" class="section level3">
+<h3>Reference</h3>
+<p>Zhao (2004), “2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis”, Bioinformatics, 20:1325-1326.</p>
+<hr />
+</div>
+</div>
+<div id="hap-sample" class="section level2">
+<h2>HAP-SAMPLE</h2>
+<div id="description-170" class="section level3">
+<h3>Description</h3>
+<p>HAP-SAMPLE is a web application for simulating SNP genotypes for case-control and affected-child trio studies by resampling from Phase I/II HapMap SNP data. The user provides a list of SNPs to be “genotyped,” along with a disease model file that describes causal SNPs and their effect sizes. The simulation tool is appropriate for candidate regions or whole-genome scans.</p>
+</div>
+<div id="url-191" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.hapsample.org/" class="uri">http://www.hapsample.org/</a></p>
+</div>
+<div id="os-124" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-142" class="section level3">
+<h3>Reference</h3>
+<p>Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), “Simulating association studies: a data-based resampling method for candidate regions or whole genome scans”, preprint.</p>
+<hr />
+</div>
+</div>
+<div id="hapar" class="section level2">
+<h2>HAPAR</h2>
+<div id="full-name-88" class="section level3">
+<h3>Full Name</h3>
+<p>HAplotype inference by PARsimony</p>
+</div>
+<div id="description-171" class="section level3">
+<h3>Description</h3>
+<p>HAPAR is a program to infer haplotype from genotype data. It uses the parsimony principle, i.e. try to find the minimum number of haplotypes that can reconstruct the input genotypes.</p>
+</div>
+<div id="author-176" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Lusheng Wang (City University of Hong Kong)</li>
+<li>Ying Xu (Stanford Univ)</li>
+</ul>
+</div>
+<div id="url-192" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://theory.stanford.edu/~xuying/hapar/" class="uri">http://theory.stanford.edu/~xuying/hapar/</a></li>
+<li><a href="http://www.cs.cityu.edu.hk/~lwang/hapar/index.html" class="uri">http://www.cs.cityu.edu.hk/~lwang/hapar/index.html</a></li>
+</ul>
+</div>
+<div id="os-125" class="section level3">
+<h3>OS</h3>
+<p>MS-Window, UNIX(Solaris/..)</p>
+</div>
+<div id="reference-143" class="section level3">
+<h3>Reference</h3>
+<p>Wang, Xu (2003), “Haplotype inference by maximum parsimony”, Bioinformatics, 19(14):1773-1780.</p>
+<hr />
+</div>
+</div>
+<div id="hapassoc" class="section level2">
+<h2>HAPASSOC</h2>
+<div id="related-21" class="section level3">
+<h3>Related</h3>
+<p>R/HAPASSOC</p>
+<hr />
+</div>
+</div>
+<div id="hapblock" class="section level2">
+<h2>HAPBLOCK</h2>
+<div id="full-name-89" class="section level3">
+<h3>Full Name</h3>
+<p>a dynamical programming algorithm for haplotype block partitioning</p>
+</div>
+<div id="version-122" class="section level3">
+<h3>Version</h3>
+<p>2002</p>
+</div>
+<div id="author-177" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Kui Zhang</li>
+<li>Fengzhu Sun (USC)</li>
+</ul>
+</div>
+<div id="url-193" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www-hto.usc.edu/msms/HapBlock/" class="uri">http://www-hto.usc.edu/msms/HapBlock/</a></p>
+</div>
+<div id="language-126" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-126" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux, UNIX(Solaris)</p>
+</div>
+<div id="reference-144" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.</li>
+<li>Zhang, Qin, Chen, Liu, Waterman, Sun (2005), “HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms”, Bioinformatics, 21(1):131-134.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="hapblock-2" class="section level2">
+<h2>HAPBLOCK 2</h2>
+<div id="version-123" class="section level3">
+<h3>Version</h3>
+<p>April 2004</p>
+</div>
+<div id="author-178" class="section level3">
+<h3>Author</h3>
+<p>Adrian Paul Mander (Boston College) (email: <a href="mailto:adrian.mander@mrc-hnr.cam.ac.uk">adrian.mander@mrc-hnr.cam.ac.uk</a>)</p>
+</div>
+<div id="url-194" class="section level3">
+<h3>URL</h3>
+<p><a href="http://econpapers.repec.org/software/bocbocode/s438902.htm" class="uri">http://econpapers.repec.org/software/bocbocode/s438902.htm</a></p>
+</div>
+<div id="language-127" class="section level3">
+<h3>Language</h3>
+<p>Stata</p>
+<hr />
+</div>
+</div>
+<div id="hapgen" class="section level2">
+<h2>HAPGEN</h2>
+<div id="version-124" class="section level3">
+<h3>Version</h3>
+<p>1.3.0 (Jan 2008)</p>
+</div>
+<div id="description-172" class="section level3">
+<h3>Description</h3>
+<p>HAPGEN is a program thats simulates case control datasets at SNP markers and can output data in the FILE FORMAT used by IMPUTE, SNPTEST and GTOOL. The approach can handle markers in LD and can simulate datasets over large regions such as whole chromosomes. Hapgen simulates haplotypes by conditioning on a set of population haplotypes and an estimate of the fine-scale recombination rate across the region. The disease model is specified through the choice of a single SNP as the disease causing variant together with the relative risks of the genotypes at the disease SNP. The program is designed to work with publically available files that contain the haplotypes estimated as part of the HapMap project and the estimated fine-scale recombination map derived from that data. Hapgen is computationally tractable. On a modern desktop HAPGEN can simulate several thousand case and control data on a whole chromosome at Hapmap Phase 2 marker density within minutes. This program has been used to assess the power of several different commercially available genotyping chips, in the design stage of the 7 genome-wide association studies carried out by the Wellcome Trust Case-Control Consortium (WTCCC) and for evaluating the power of different methods for detecting association in genome-wide studies.</p>
+</div>
+<div id="author-179" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Zhan Su</li>
+<li>Jonathan Marchini</li>
+<li>Peter Donnelly (Univ of Oxford, UK)</li>
+</ul>
+</div>
+<div id="url-195" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stats.ox.ac.uk/~marchini/software/gwas/hapgen.html" class="uri">http://www.stats.ox.ac.uk/~marchini/software/gwas/hapgen.html</a></p>
+</div>
+<div id="language-128" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+<hr />
+</div>
+</div>
+<div id="hapinferx" class="section level2">
+<h2>HAPINFERX</h2>
+<div id="version-125" class="section level3">
+<h3>Version</h3>
+<p>(Jul 1999)</p>
+</div>
+<div id="author-180" class="section level3">
+<h3>Author</h3>
+<p>Andrew Clark (email: <a href="mailto:ac347@cornell.edu">ac347@cornell.edu</a>)</p>
+</div>
+<div id="url-196" class="section level3">
+<h3>URL</h3>
+<p>(temporary) source code , input example file , output example file</p>
+</div>
+<div id="language-129" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN</p>
+</div>
+<div id="reference-145" class="section level3">
+<h3>Reference</h3>
+<p>Clark (1990), “Inference of haplotype from PCR-amplified samples of diploid populations”, Molecular Biology and Evolution, 7:111-122.</p>
+<hr />
+</div>
+</div>
+<div id="haplo-1" class="section level2">
+<h2>HAPLO 1</h2>
+<div id="full-name-90" class="section level3">
+<h3>Full Name</h3>
+<ul>
+<li>Haplotyping with computation of conditional probabilities</li>
+<li>version 1.00 (feb 5, 1996)</li>
+</ul>
+</div>
+<div id="description-173" class="section level3">
+<h3>Description</h3>
+<p>assigns each person the haplotype with the highest conditional probability using Elston-Stewart algorithm</p>
+</div>
+<div id="author-181" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Daniel E. Weeks (Pittsburgh)</li>
+<li>Kenneth Lange (UCLA) (Collaborators: Jeffrey R O’Connell, Eric Sobel)</li>
+</ul>
+</div>
+<div id="url-197" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://watson.hgen.pitt.edu/register/soft_doc.html" class="uri">http://watson.hgen.pitt.edu/register/soft_doc.html</a>,</li>
+<li>registration page at: <a href="http://watson.hgen.pitt.edu/register" class="uri">http://watson.hgen.pitt.edu/register</a></li>
+</ul>
+</div>
+<div id="language-130" class="section level3">
+<h3>Language</h3>
+<p>Fortran 77 (ANSI standard)</p>
+</div>
+<div id="os-127" class="section level3">
+<h3>OS</h3>
+<p>UNIX (SunOS/Solaris/HP)</p>
+</div>
+<div id="reference-146" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Sobel, Lange, O’Connell and Weeks, in “Genetic Mapping and DNA Sequencing” (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).</li>
+<li>Weeks, Sobel, O’Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="haplo-2" class="section level2">
+<h2>HAPLO 2</h2>
+<div id="version-126" class="section level3">
+<h3>Version</h3>
+<p>2.5 (1998)</p>
+</div>
+<div id="description-174" class="section level3">
+<h3>Description</h3>
+<p>Estimates frequencies of multi-site haplotypes using the EM algorithm</p>
+</div>
+<div id="author-182" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>ME Hawley</li>
+<li>KK Kidd</li>
+</ul>
+</div>
+<div id="url-198" class="section level3">
+<h3>URL</h3>
+<p><a href="http://krunch.med.yale.edu/haplo/" class="uri">http://krunch.med.yale.edu/haplo/</a></p>
+</div>
+<div id="language-131" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN</p>
+</div>
+<div id="os-128" class="section level3">
+<h3>OS</h3>
+<p>DEC VAX</p>
+</div>
+<div id="reference-147" class="section level3">
+<h3>Reference</h3>
+<p>Hawley, Kidd (1995), “HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes”, Journal of Heredity, 86:409-411.</p>
+<hr />
+</div>
+</div>
+<div id="haplo.stat" class="section level2">
+<h2>HAPLO.STAT</h2>
+<div id="other-name-4" class="section level3">
+<h3>Other Name</h3>
+<p>HAPLO.SCORE</p>
+</div>
+<div id="version-127" class="section level3">
+<h3>Version</h3>
+<p>1.2.0 (2005)</p>
+</div>
+<div id="description-175" class="section level3">
+<h3>Description</h3>
+<p>A suite of routines for the analysis of indirectly measured haplotypes.</p>
+</div>
+<div id="author-183" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Dan Schaid</li>
+<li>Jason Sinnwell</li>
+<li>Charles Rowland</li>
+<li>David Tines (Mayo Clinic)</li>
+</ul>
+</div>
+<div id="url-199" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm" class="uri">http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm</a></p>
+</div>
+<div id="language-132" class="section level3">
+<h3>Language</h3>
+<p>S-plus 6.1.2, R 1.7.1</p>
+</div>
+<div id="os-129" class="section level3">
+<h3>OS</h3>
+<p>UNIX</p>
+</div>
+<div id="exe-47" class="section level3">
+<h3>EXE</h3>
+<p>haplo.em, haplo.glm, haplo.score</p>
+</div>
+<div id="reference-148" class="section level3">
+<h3>Reference</h3>
+<p>Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434</p>
+<hr />
+</div>
+</div>
+<div id="haploblock" class="section level2">
+<h2>HAPLOBLOCK</h2>
+<div id="version-128" class="section level3">
+<h3>Version</h3>
+<p>1.2 (April 28, 2004)</p>
+</div>
+<div id="description-176" class="section level3">
+<h3>Description</h3>
+<p>HAPLOBLOCK is a software package which provides an integrated approach to haplotype block identification, haplotype resolution and linkage disequilibrium mapping, suitable for high-density phased or unphased SNP data.</p>
+</div>
+<div id="author-184" class="section level3">
+<h3>Author</h3>
+<p>Gideon Greenspan (web/ftp: <a href="http://www.gidgreen.com/" class="uri">http://www.gidgreen.com/</a>) Dan Geiger (web/ftp: <a href="http://www.cs.technion.ac.il/people/dang/" class="uri">http://www.cs.technion.ac.il/people/dang/</a>)</p>
+</div>
+<div id="url-200" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinfo.cs.technion.ac.il/haploblock/" class="uri">http://bioinfo.cs.technion.ac.il/haploblock/</a></p>
+</div>
+<div id="language-133" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-130" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), Linux, MacOS X</p>
+</div>
+<div id="exe-48" class="section level3">
+<h3>EXE</h3>
+<p>haploblock_b, haploblock_n</p>
+</div>
+<div id="reference-149" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Greenspan, Geiger (2004), “Model-based inference of haplotype block variation”, Journal of Computational Biology, 11(2-3):493-504.</li>
+<li>Greenspan, Geiger (2004), “High density linkage disequilibrium mapping using models of haplotype block variation”, Bioinformatics, 20(1):137-144.</li>
+<li>Instruction Manual: <a href="http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf" class="uri">http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf</a></li>
+<li>LD Mapping Supplement <a href="http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf" class="uri">http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="haploblockfinder" class="section level2">
+<h2>HAPLOBLOCKFINDER</h2>
+<div id="version-129" class="section level3">
+<h3>Version</h3>
+<p>0.7</p>
+</div>
+<div id="description-177" class="section level3">
+<h3>Description</h3>
+<p>HaploBlockFinder is a package for haplotype block identification, visualization and htSNP selection. It can also compare the haplotype block structure with local LD pattern. The program can be either run as a web service, or standalone executables on local machine.</p>
+</div>
+<div id="author-185" class="section level3">
+<h3>Author</h3>
+<p>Kun Zhang (<a href="mailto:kun.zhang@uth.tmc.edu">kun.zhang@uth.tmc.edu</a>)</p>
+</div>
+<div id="url-201" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi" class="uri">http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi</a></p>
+</div>
+<div id="language-134" class="section level3">
+<h3>Language</h3>
+<p>C and Perl</p>
+</div>
+<div id="os-131" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Windows</p>
+</div>
+<div id="exe-49" class="section level3">
+<h3>EXE</h3>
+<p>haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl</p>
+<hr />
+</div>
+</div>
+<div id="haplobuild" class="section level2">
+<h2>HAPLOBUILD</h2>
+<div id="description-178" class="section level3">
+<h3>Description</h3>
+<p>The analysis of large amounts of SNP data creates difficulties for the analysis of haplotypes and their association to traits of interest. Commonly fairly simple methods, such as two- or three-SNP sliding windows are used to create haplotypes across large regions, but these may be of limited value when adjacent SNPs are in strong LD and provide redundant information. We have created a novel program, “HaploBuild” for constructing and testing haplotypes for SNPs in close physical proximity to one another but which are not necessarily contiguous. Furthermore, the number of SNPs contained in the haplotype is not restricted, thereby permitting the evaluation of complex haplotype structures.</p>
+</div>
+<div id="author-186" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>JM Laramie</li>
+<li>JB Wilk</li>
+<li>AL DeStefano</li>
+<li>RH Myers (Boston University)</li>
+</ul>
+</div>
+<div id="url-202" class="section level3">
+<h3>URL</h3>
+<p><a href="http://snp.bumc.bu.edu/modules.php?name=HaploBuild" class="uri">http://snp.bumc.bu.edu/modules.php?name=HaploBuild</a></p>
+</div>
+<div id="language-135" class="section level3">
+<h3>Language</h3>
+<p>Perl</p>
+</div>
+<div id="os-132" class="section level3">
+<h3>OS</h3>
+<p>Linux, MS-Windows, MacOS</p>
+</div>
+<div id="reference-150" class="section level3">
+<h3>Reference</h3>
+<p>Laramie, Wilk, DeStefano, Myers (2007), “HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies”, Bioinformatics, 23(16):2190-2192.</p>
+<hr />
+</div>
+</div>
+<div id="haploclusters" class="section level2">
+<h2>HAPLOCLUSTERS</h2>
+<div id="description-179" class="section level3">
+<h3>Description</h3>
+<p>a program designed to detect excess haplotypes sharing in datasets consisting of case and control haplotypes. Excess haplotype sharing can be seen around disease loci in case samples since LD persists longer here than in the controls where LD is persisting only according to the relatedness of the individuals in the population, i.e. the age of the population.</p>
+</div>
+<div id="author-187" class="section level3">
+<h3>Author</h3>
+<p>Melanie Bahlo (email: <a href="mailto:bahlo@wehi.edu.au">bahlo@wehi.edu.au</a>)</p>
+</div>
+<div id="url-203" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinf.wehi.edu.au/folders/melanie/haploclusters.html" class="uri">http://bioinf.wehi.edu.au/folders/melanie/haploclusters.html</a></p>
+</div>
+<div id="reference-151" class="section level3">
+<h3>Reference</h3>
+<p>Bahlo,Stankovich,Speed,Rubio,Burfoot,Foote (2006), “Detecting genome wide haplotype sharing using SNP or microsatellite haplotype data”, Human Genetics, 119(1-2):38-50.</p>
+<hr />
+</div>
+</div>
+<div id="haplopainter" class="section level2">
+<h2>HAPLOPAINTER</h2>
+<div id="version-130" class="section level3">
+<h3>Version</h3>
+<p>0.027b</p>
+</div>
+<div id="description-180" class="section level3">
+<h3>Description</h3>
+<p>A pedigree drawing program, suitable in processing haplotype outputs from GENEHUNTER, ALLEGRO, MERLIN, and SIMWALK</p>
+</div>
+<div id="author-188" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Holger Thiele</li>
+<li>Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).</li>
+</ul>
+</div>
+<div id="url-204" class="section level3">
+<h3>URL</h3>
+<p><a href="http://haplopainter.sourceforge.net/html/ManualIndex.htm" class="uri">http://haplopainter.sourceforge.net/html/ManualIndex.htm</a></p>
+</div>
+<div id="language-136" class="section level3">
+<h3>Language</h3>
+<p>Perl</p>
+</div>
+<div id="reference-152" class="section level3">
+<h3>Reference</h3>
+<p>Thiele, Nurnberg (2005), “HaploPainter: a tool for drawing pedigrees with complex haplotypes”, Bioinformatics, 21(8):1730-1732.</p>
+<hr />
+</div>
+</div>
+<div id="haplopool" class="section level2">
+<h2>HAPLOPOOL</h2>
+<div id="description-181" class="section level3">
+<h3>Description</h3>
+<p>HaploPool is a program for estimating haplotype frequencies either from genotypes of individuals or from genotypes of pooled individuals. The genotypes must be for a block of bi-allelic SNPs (meaning that the SNPs should be in linkage disequilibrium with each other). The program assumes that it is given many genotypes of unrelated diploid individuals in Hardy-Weinberg equilibrium. If the genotypes are from pooled DNA, the program assumes that every pool contains the same number of individuals and the individuals were chosen at random when placed into the pools. For a reasonable running-time, the number of individuals in a pool needs to be between 2 and 4.</p>
+</div>
+<div id="url-205" class="section level3">
+<h3>URL</h3>
+<p><a href="http://haplopool.icsi.berkeley.edu/haplopool/" class="uri">http://haplopool.icsi.berkeley.edu/haplopool/</a></p>
+</div>
+<div id="language-137" class="section level3">
+<h3>Language</h3>
+<p>gcc/g++, perl, MATLAB</p>
+</div>
+<div id="reference-153" class="section level3">
+<h3>Reference</h3>
+<p>Kirkpatrick, Santos-Armendariz, Karp, Halperin (2007), “HaploPool: improving haplotype frequency estimation through DNA pools and phylogenetic modeling”, Bioinformatics, 23(22):3048-3055.</p>
+<hr />
+</div>
+</div>
+<div id="haplore" class="section level2">
+<h2>HAPLORE</h2>
+<div id="full-name-91" class="section level3">
+<h3>Full Name</h3>
+<p>HAPLOtype REconstruction in pedigrees</p>
+</div>
+<div id="description-182" class="section level3">
+<h3>Description</h3>
+<p>haplotype reconstruction in general pedigree without recombination</p>
+</div>
+<div id="author-189" class="section level3">
+<h3>Author</h3>
+<p>Hongyu Zhao (Yale, email: <a href="mailto:hongyu.zhao@yale.edu">hongyu.zhao@yale.edu</a>)</p>
+</div>
+<div id="url-206" class="section level3">
+<h3>URL</h3>
+<p><a href="http://bioinformatics.med.yale.edu/group/software.html" class="uri">http://bioinformatics.med.yale.edu/group/software.html</a></p>
+</div>
+<div id="reference-154" class="section level3">
+<h3>Reference</h3>
+<p>Zhang, Sun, Zhao (2005), “HAPLORE: a program for haplotype reconstruction in general pedigrees without recombination”, Bioinformatics, 21(1):90-103.</p>
+<hr />
+</div>
+</div>
+<div id="haplorec" class="section level2">
+<h2>HAPLOREC</h2>
+<div id="version-131" class="section level3">
+<h3>Version</h3>
+<p>2.0</p>
+</div>
+<div id="description-183" class="section level3">
+<h3>Description</h3>
+<p>population-based haplotyping</p>
+</div>
+<div id="url-207" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.cs.helsinki.fi/group/genetics/haplotyping.html" class="uri">http://www.cs.helsinki.fi/group/genetics/haplotyping.html</a></p>
+</div>
+<div id="reference-155" class="section level3">
+<h3>Reference</h3>
+<p>Eronen, Geerts, Toivonen (2004), “A Markov Chain Approach to Reconstruction of Long Haplotypes”, Pacific Symposium on Biocomputing, 9:104-115.</p>
+<hr />
+</div>
+</div>
+<div id="haplot" class="section level2">
+<h2>HAPLOT</h2>
+<div id="version-132" class="section level3">
+<h3>Version</h3>
+<p>2.5 (March 1998)</p>
+</div>
+<div id="description-184" class="section level3">
+<h3>Description</h3>
+<p>A simple program for graphical presentation of haplotype block structures, tagSNP selection and SNP variation.</p>
+</div>
+<div id="url-208" class="section level3">
+<h3>URL</h3>
+<p><a href="http://info.med.yale.edu/genetics/kkidd/programs.html" class="uri">http://info.med.yale.edu/genetics/kkidd/programs.html</a></p>
+</div>
+<div id="language-138" class="section level3">
+<h3>Language</h3>
+<p>FORTRAN</p>
+</div>
+<div id="os-133" class="section level3">
+<h3>OS</h3>
+<p>VMS</p>
+</div>
+<div id="reference-156" class="section level3">
+<h3>Reference</h3>
+<p>Gu, Pakstis, Kidd (2005), “HAPLOT: a graphical comparison of haplotype blocks, tagSNP sets and SNP variation for multiple populations”, Bioinformatics, 21:3938-3939.</p>
+<hr />
+</div>
+</div>
+<div id="haplotter" class="section level2">
+<h2>HAPLOTTER</h2>
+<div id="description-185" class="section level3">
+<h3>Description</h3>
+<p>HAPLOTTER is a web application that has been developed to display the results of a scan for positive selection in the human genome using the HapMap data. It can be used as a resource to examine various population genetic measures in a genomic region. Measures that are currently displayed include iHS (a statistic developed to detect recent positive selection), Fay and Wu’s H, Tajima’s D and Fst.</p>
+</div>
+<div id="author-190" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>S. Kudaravalli</li>
+<li>X.Wen</li>
+<li>J.K.Pritchard (email: <a href="mailto:pritch@uchicago.edu">pritch@uchicago.edu</a>) (Univ of Chicago)</li>
+</ul>
+</div>
+<div id="url-209" class="section level3">
+<h3>URL</h3>
+<p><a href="http://hg-wen.uchicago.edu/selection/haplotter.htm" class="uri">http://hg-wen.uchicago.edu/selection/haplotter.htm</a></p>
+</div>
+<div id="os-134" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-157" class="section level3">
+<h3>Reference</h3>
+<p>Voight, Kudaravalli, Wen, Pritchard (2006), “A map of recent positive selection in the human genome”, PLoS Biology, 4(3):e72.</p>
+<hr />
+</div>
+</div>
+<div id="haplotype-estimation" class="section level2">
+<h2>HAPLOTYPE ESTIMATION</h2>
+<div id="description-186" class="section level3">
+<h3>Description</h3>
+<p>The haplotype estimation service is available in two variants: one for genetic data from unrelated probands (e.g., case/control studies) and one for core family data</p>
+</div>
+<div id="author-191" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>K Rohde</li>
+<li>R Furst (MDC Berlin)</li>
+</ul>
+</div>
+<div id="url-210" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bioinf.mdc-berlin.de/projects/hap/" class="uri">http://www.bioinf.mdc-berlin.de/projects/hap/</a></p>
+</div>
+<div id="reference-158" class="section level3">
+<h3>Reference</h3>
+<p>K Rohde, R Furst (2001), “Haplotyping and estimation of haplotype frequencies for closely linked biallelic multilocus genetic phenotypes including nuclear family information”, Human Mutation, 17(4):289-295.</p>
+<hr />
+</div>
+</div>
+<div id="haplotyper" class="section level2">
+<h2>HAPLOTYPER</h2>
+<div id="author-192" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>T Niu</li>
+<li>Jun Liu (Harvard Univ)</li>
+</ul>
+</div>
+<div id="url-211" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm" class="uri">http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm</a></p>
+</div>
+<div id="reference-159" class="section level3">
+<h3>Reference</h3>
+<p>Niu, Qin, Xu, Liu (2002), “Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms”, American Journal of Human Genetics, 70(1):157-169</p>
+<hr />
+</div>
+</div>
+<div id="haploview" class="section level2">
+<h2>HAPLOVIEW</h2>
+<div id="version-133" class="section level3">
+<h3>Version</h3>
+<p>3.32 (May 2006)</p>
+</div>
+<div id="description-187" class="section level3">
+<h3>Description</h3>
+<p>Haploview is designed to simplify and expedite the process of haplotype analysis by providing a common interface to several tasks relating to such analyses. Haploview currently allows users to examine block structures, generate haplotypes in these blocks, run association tests, and save the data in a number of formats. All functionalities are highly customizable.</p>
+</div>
+<div id="author-193" class="section level3">
+<h3>Author</h3>
+<p>Jeffrey Barrett (Whitehead Institute)</p>
+</div>
+<div id="url-212" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.broad.mit.edu/personal/jcbarret/haploview/" class="uri">http://www.broad.mit.edu/personal/jcbarret/haploview/</a></p>
+</div>
+<div id="language-139" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="reference-160" class="section level3">
+<h3>Reference</h3>
+<p>Barrett, Fry, Maller, Daly (2005), “Haploview: analysis and visualization of LD and haplotype maps”, Bioinformatics, 21(2):263-265.</p>
+<hr />
+</div>
+</div>
+<div id="haplovisual" class="section level2">
+<h2>HAPLOVISUAL</h2>
+<div id="author-194" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Esko Ukkonen</li>
+<li>Pasi Rastas</li>
+</ul>
+</div>
+<div id="url-213" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.cs.helsinki.fi/u/prastas/haplovisual/" class="uri">http://www.cs.helsinki.fi/u/prastas/haplovisual/</a></p>
+</div>
+<div id="language-140" class="section level3">
+<h3>Language</h3>
+<p>java</p>
+</div>
+<div id="reference-161" class="section level3">
+<h3>Reference</h3>
+<p>Ukkonen (2002), “Finding founder sequences from a set of recombinants” Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).</p>
+<hr />
+</div>
+</div>
+<div id="haplowser" class="section level2">
+<h2>HAPLOWSER</h2>
+<div id="full-name-92" class="section level3">
+<h3>Full Name</h3>
+<p>HAPLotype brOWSER</p>
+</div>
+<div id="url-214" class="section level3">
+<h3>URL</h3>
+<p><a href="http://embio.yonsei.ac.kr/haplowser/" class="uri">http://embio.yonsei.ac.kr/haplowser/</a></p>
+</div>
+<div id="language-141" class="section level3">
+<h3>Language</h3>
+<p>Java</p>
+</div>
+<div id="reference-162" class="section level3">
+<h3>Reference</h3>
+<p>Kim, Kim, Waterman, Park, Li (2009), “HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome”, Bioinformatics, 25(18):2430-2431.</p>
+<hr />
+</div>
+</div>
+<div id="hapminer" class="section level2">
+<h2>HAPMINER</h2>
+<div id="version-134" class="section level3">
+<h3>Version</h3>
+<p>1.1 (2006)</p>
+</div>
+<div id="description-188" class="section level3">
+<h3>Description</h3>
+<p>HapMiner is a computer program for association mapping based on directly mining the haplotypes from case-control data via a density-based clustering algorithm. HapMiner can be applied to whole-genome screens, as well as candidate-gene studies in small genomic regions.</p>
+</div>
+<div id="author-195" class="section level3">
+<h3>Author</h3>
+<p>Jing Li (email:<a href="mailto:jingli@eecs.case.edu">jingli@eecs.case.edu</a>)</p>
+</div>
+<div id="url-215" class="section level3">
+<h3>URL</h3>
+<p><a href="http://vorlon.case.edu/~jxl175/HapMiner.html" class="uri">http://vorlon.case.edu/~jxl175/HapMiner.html</a></p>
+</div>
+<div id="os-135" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux</p>
+</div>
+<div id="reference-163" class="section level3">
+<h3>Reference</h3>
+<p>Li and Jiang (2005), “Haplotype-based linkage disequilibrium mapping via direct data mining”, Bioinformatics, 21(24):4384-4393.</p>
+<hr />
+</div>
+</div>
+<div id="hapmix" class="section level2">
+<h2>HAPMIX</h2>
+<div id="version-135" class="section level3">
+<h3>Version</h3>
+<p>1.2 (March 2011)</p>
+</div>
+<div id="description-189" class="section level3">
+<h3>Description</h3>
+<p>HAPMIX is an application for accurately inferring chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.</p>
+</div>
+<div id="author-196" class="section level3">
+<h3>Author</h3>
+<p>Alkes Price (Harvard Univ)</p>
+</div>
+<div id="url-216" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.hsph.harvard.edu/faculty/alkes-price/software/" class="uri">http://www.hsph.harvard.edu/faculty/alkes-price/software/</a></p>
+</div>
+<div id="reference-164" class="section level3">
+<h3>Reference</h3>
+<p>Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, Reich, Myers (2009), “Sensitive detection of chromosomal segments of distinct ancestry in admixed populations”, PLoS Genetics, 5(6):e1000519</p>
+<hr />
+</div>
+</div>
+<div id="hapmixmap" class="section level2">
+<h2>HAPMIXMAP</h2>
+<div id="description-190" class="section level3">
+<h3>Description</h3>
+<p>HAPMIXMAP is a program for modelling extended haplotypes in genetic association studies, similar to the FASTPHASE program.</p>
+</div>
+<div id="author-197" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Paul McKeigue (email: <a href="mailto:paul.mckeigue@ucd.ie">paul.mckeigue@ucd.ie</a>)</li>
+<li>David O’Donnell (University College Dublin, Ireland)</li>
+</ul>
+</div>
+<div id="url-217" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html" class="uri">http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html</a></li>
+<li><a href="http://sourceforge.net/projects/hapmixmap/" class="uri">http://sourceforge.net/projects/hapmixmap/</a></li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="happy" class="section level2">
+<h2>HAPPY</h2>
+<div id="full-name-93" class="section level3">
+<h3>Full Name</h3>
+<p>reconstructing HAPlotYpes</p>
+</div>
+<div id="description-191" class="section level3">
+<h3>Description</h3>
+<p>a software package for Multipoint QTL Mapping in Genetically Heterogeneous Animals</p>
+</div>
+<div id="author-198" class="section level3">
+<h3>Author</h3>
+<p>Richard Mott (Wellcome Trust Centre for Human Genetics, UK. <a href="mailto:rmott@well.ox.ac.uk">rmott@well.ox.ac.uk</a>)</p>
+</div>
+<div id="url-218" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.well.ox.ac.uk/~rmott/happy.html" class="uri">http://www.well.ox.ac.uk/~rmott/happy.html</a></p>
+</div>
+<div id="language-142" class="section level3">
+<h3>Language</h3>
+<p>ANSI C (requires NAG C library)</p>
+</div>
+<div id="os-136" class="section level3">
+<h3>OS</h3>
+<p>UNIX(IRIX,SunOS), Linux</p>
+<hr />
+</div>
+</div>
+<div id="hapscope" class="section level2">
+<h2>HAPSCOPE</h2>
+<div id="description-192" class="section level3">
+<h3>Description</h3>
+<p>HapScope includes a comprehensive analysis pipeline and a sophisticated visualization tool for analyzing functionally annotated haplotypes.</p>
+</div>
+<div id="author-199" class="section level3">
+<h3>Author</h3>
+<p>Jinghui Zhang (National Cancer Institute, NIH)</p>
+</div>
+<div id="url-219" class="section level3">
+<h3>URL</h3>
+<p><a href="http://lpg.nci.nih.gov/lpg_small/protocols/HapScope/" class="uri">http://lpg.nci.nih.gov/lpg_small/protocols/HapScope/</a></p>
+</div>
+<div id="reference-165" class="section level3">
+<h3>Reference</h3>
+<p>Zhang, Rowe, Struewing, Buetow (2002), “HapScope: a software system for automated and visual analysis of functionally annotated haplotypes”, Nucleic Acid Research, 30:5213-5221.</p>
+<hr />
+</div>
+</div>
+<div id="hapsimu" class="section level2">
+<h2>HAPSIMU</h2>
+<div id="description-193" class="section level3">
+<h3>Description</h3>
+<p>HAPSIMU is based on real haplotype data from the HapMap ENCODE project. This platform can simulate heterogeneous populations with various known and controllable structures under the continuous migration model or the discrete model. Moreover, both qualitative and quantitative traits can be simulated using additive genetic model with various genetic parameters designated by users.</p>
+</div>
+<div id="author-200" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Feng Zhang</li>
+<li>Hong-Wen Deng</li>
+</ul>
+</div>
+<div id="url-220" class="section level3">
+<h3>URL</h3>
+<p><a href="http://l.web.umkc.edu/liujian/" class="uri">http://l.web.umkc.edu/liujian/</a></p>
+</div>
+<div id="language-143" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="reference-166" class="section level3">
+<h3>Reference</h3>
+<p>Zhang, Liu, Chen, Deng (2008), “HAPSIMU: a genetic simulation platform for population-based association studies”, BMC Bioinformatics, 9:331.</p>
+<hr />
+</div>
+</div>
+<div id="hapstat" class="section level2">
+<h2>HAPSTAT</h2>
+<div id="description-194" class="section level3">
+<h3>Description</h3>
+<p>HAPSTAT is a user-friendly software interface for the statistical analysis of haplotype-disease association. HAPSTAT allows the user to estimate or test haplotype effects and haplotype-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty and study design. The current version considers cross-sectional, case-control and cohort studies.</p>
+</div>
+<div id="author-201" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Danyu Lin</li>
+<li>Donglin Zeng (email: <a href="mailto:linsoft@bios.unc.edu">linsoft@bios.unc.edu</a>)</li>
+</ul>
+</div>
+<div id="url-221" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.bios.unc.edu/~lin/hapstat/" class="uri">http://www.bios.unc.edu/~lin/hapstat/</a></p>
+</div>
+<div id="os-137" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows(XP/2000/NT/98)</p>
+</div>
+<div id="reference-167" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Lin, Zeng, Millikan (2005), “Maximum likelihood estimation of haplotype effects and haplotype-environment interactions in association studies”, Genetic Epidemiology, 29:299-312.</li>
+<li>Lin, Zeng (2006), “Likelihood-based inference on haplotype effects in genetic association studies (with discussion)”, Journal of American Statistical Association, 101:89-118.</li>
+<li>Zeng, Lin, Avery, North, Bray (2006), “Efficient semiparametric estimation of haplotype-disease associations in case-cohort and nested case-control studies”, Biostatistics, 7(3):486-502.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="hardy" class="section level2">
+<h2>HARDY</h2>
+<div id="version-136" class="section level3">
+<h3>Version</h3>
+<p>July 1996</p>
+</div>
+<div id="description-195" class="section level3">
+<h3>Description</h3>
+<p>Markov chain Monte Carlo program for association in two-dimensional contingency tables, and for testing Hardy-Weinberg equilibrium.</p>
+</div>
+<div id="author-202" class="section level3">
+<h3>Author</h3>
+<p>Sun-Wei Guo (U. Minnesota, <a href="mailto:guo_s@epivax.epi.umn.edu">guo_s@epivax.epi.umn.edu</a>, E.A. Thompson (Univ Washington)</p>
+</div>
+<div id="url-222" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.stat.washington.edu/thompson/Genepi/Hardy.shtml" class="uri">http://www.stat.washington.edu/thompson/Genepi/Hardy.shtml</a></p>
+</div>
+<div id="language-144" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-138" class="section level3">
+<h3>OS</h3>
+<p>UNIX(DEC-UNIX/..)</p>
+</div>
+<div id="reference-168" class="section level3">
+<h3>Reference</h3>
+<p>Guo and Thompson (1992), Biometrics, 48, 361-372.</p>
+</div>
+<div id="related-22" class="section level3">
+<h3>Related</h3>
+<p>PANGAEA</p>
+<hr />
+</div>
+</div>
+<div id="hclust" class="section level2">
+<h2>HCLUST</h2>
+<div id="description-196" class="section level3">
+<h3>Description</h3>
+<p>a simple clustering method that can be used to rapidly identify a set of tag SNP’s based upon genotype data</p>
+</div>
+<div id="url-223" class="section level3">
+<h3>URL</h3>
+<p><a href="http://wpicr.wpic.pitt.edu/WPICCompGen/hclust/hclust.htm" class="uri">http://wpicr.wpic.pitt.edu/WPICCompGen/hclust/hclust.htm</a></p>
+</div>
+<div id="language-145" class="section level3">
+<h3>Language</h3>
+<p>R</p>
+<hr />
+</div>
+</div>
+<div id="hegesma" class="section level2">
+<h2>HEGESMA</h2>
+<div id="full-name-94" class="section level3">
+<h3>Full Name</h3>
+<p>HEterogeneity and GEnome Search Meta Analysis</p>
+</div>
+<div id="description-197" class="section level3">
+<h3>Description</h3>
+<p>HEGESMA is a comprehensive software for performing genome scan meta-analysis, a quantitative method to identify genetic regions (bins) with consistently increased linkage score across multiple genome scans, and for testing the heterogeneity of the results of each bin across scans. The program provides as an output the average of ranks and three heterogeneity statistics, as well as corresponding significance levels.</p>
+</div>
+<div id="author-203" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Elias Zintzaras</li>
+<li>(email: <a href="mailto:zintza@med.uth.gr">zintza@med.uth.gr</a>) John PA Ioannidis</li>
+</ul>
+</div>
+<div id="url-224" class="section level3">
+<h3>URL</h3>
+<p><a href="http://biomath.med.uth.gr" class="uri">http://biomath.med.uth.gr</a></p>
+</div>
+<div id="reference-169" class="section level3">
+<h3>Reference</h3>
+<p>Zintzaras, Ioannidis (2005), “HEGESMA: genome search meta-analysis and heterogeneity testing”, Bioinformatics, 21(18):3672-3673.</p>
+<hr />
+</div>
+</div>
+<div id="helixtree" class="section level2">
+<h2>HELIXTREE</h2>
+<div id="full-name-95" class="section level3">
+<h3>Full Name</h3>
+<p>HelixTree Genetic Association Software</p>
+</div>
+<div id="version-137" class="section level3">
+<h3>Version</h3>
+<p>6</p>
+</div>
+<div id="description-198" class="section level3">
+<h3>Description</h3>
+<p>Comprehensive toolset for population-based association studies. Perform allele, genotype, haplotype, multi-locus, runs of homozygosity, copy number variation, and regression-based association analysis on case-control, quantitative trait, and categorical type data.</p>
+</div>
+<div id="author-204" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Christophe Lambert</li>
+<li>Dmitri Zaykin</li>
+<li>Douglas Hawkins</li>
+<li>Stanley Young</li>
+<li>Alan Menius</li>
+<li>Meg Ehm</li>
+<li>Mike Mosteller</li>
+</ul>
+</div>
+<div id="url-225" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://www.goldenhelix.com/SNP_Variation/HelixTree" class="uri">http://www.goldenhelix.com/SNP_Variation/HelixTree</a></li>
+<li>Download request for free trial available at <a href="http://www.goldenhelix.com/SNP_Variation/svstrial.html" class="uri">http://www.goldenhelix.com/SNP_Variation/svstrial.html</a></li>
+</ul>
+</div>
+<div id="language-146" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="os-139" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux, MacOS X</p>
+</div>
+<div id="exe-50" class="section level3">
+<h3>EXE</h3>
+<p>helixtree.exe</p>
+</div>
+<div id="reference-170" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Zaykin, Westfall, Young, Karnoub, Wagner, Ehm (2002), “Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals”, Human Heredity, 53:79-91.</li>
+<li>Recursive Partitioning, A Bibliography <a href="http://www.goldenhelix.com/download/pdfs/RPbibliography.pdf" class="uri">http://www.goldenhelix.com/download/pdfs/RPbibliography.pdf</a></li>
+</ul>
+</div>
+<div id="availability-5" class="section level3">
+<h3>Availability</h3>
+<p>Academic pricing available. Please contact Golden Helix, Inc. at <a href="mailto:info@goldenhelix.com">info@goldenhelix.com</a></p>
+<hr />
+</div>
+</div>
+<div id="hit" class="section level2">
+<h2>HIT</h2>
+<div id="full-name-96" class="section level3">
+<h3>Full Name</h3>
+<p>Haplotype Inference Technique</p>
+</div>
+<div id="author-205" class="section level3">
+<h3>Author</h3>
+<p>Pasi Rastas</p>
+</div>
+<div id="url-226" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.cs.helsinki.fi/u/prastas/hit/" class="uri">http://www.cs.helsinki.fi/u/prastas/hit/</a></p>
+</div>
+<div id="language-147" class="section level3">
+<h3>Language</h3>
+<p>java</p>
+</div>
+<div id="reference-171" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Rastas, Koivisto, Mannila, Ukkonen (2005), “A Hidden Markov Technique for Haplotype Reconstruction”, 5th Workshop on Algorithms in Bioinformatics - WABI 2005</li>
+<li>Rastas, Koivisto, Mannila, Ukkonen (2008), “Phasing genotypes using a hidden Markov model”, in eds. I Mandoiu and A Zelikovsky, Bioinformatics Algorithms: Techniques and Applications, pp. 373-391 (Wiley).</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="homoghomogm" class="section level2">
+<h2>HOMOG/HOMOGM</h2>
+<div id="version-138" class="section level3">
+<h3>Version</h3>
+<p>HOMOGM: Dec 1998</p>
+</div>
+<div id="author-206" class="section level3">
+<h3>Author</h3>
+<p>Jurg Ott (Rockefeller University)</p>
+</div>
+<div id="url-227" class="section level3">
+<h3>URL</h3>
+<p><a href="http://lab.rockefeller.edu/ott/programs" class="uri">http://lab.rockefeller.edu/ott/programs</a></p>
+</div>
+<div id="language-148" class="section level3">
+<h3>Language</h3>
+<p>Pascal</p>
+</div>
+<div id="exe-51" class="section level3">
+<h3>EXE</h3>
+<p>homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest</p>
+</div>
+<div id="reference-172" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Ott (1986), Genetic Epidemiology, Suppl,1,251-257.</li>
+<li>online documentation</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="homozygositymapper" class="section level2">
+<h2>HOMOZYGOSITYMAPPER</h2>
+<div id="description-199" class="section level3">
+<h3>Description</h3>
+<p>A web-based approach of homozygosity mapping that can handle tens of thousands markers. User can upload their own SNP genotype files to our database. Intuitive graphic interface is provided to view the homozygous stretches, with the ability of zooming into single chromosomes or user-defined chromosome regions. The underlying genotypes in all samples are displayed. The software is also integrated with our candidate gene search engine, GeneDistiller, so that users can interactively determine the most promising gene.</p>
+</div>
+<div id="author-207" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Dominik Seelow</li>
+<li>Markus Schuelke (NeuroCure Clinical Research, Charite - Universitatsmedizin Berlin)</li>
+</ul>
+</div>
+<div id="url-228" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.homozygositymapper.org/" class="uri">http://www.homozygositymapper.org/</a></p>
+</div>
+<div id="language-149" class="section level3">
+<h3>Language</h3>
+<p>Perl</p>
+</div>
+<div id="os-140" class="section level3">
+<h3>OS</h3>
+<p>web-based</p>
+</div>
+<div id="reference-173" class="section level3">
+<h3>Reference</h3>
+<p>Seelow, Schuelke, Hildebrandt, Nürnberg (2009), “HomozygosityMapper–an interactive approach to homozygosity mapping”, Nucleic Acid Research, 37(web server issue):W593-599.</p>
+<hr />
+</div>
+</div>
+<div id="hotspotter" class="section level2">
+<h2>HOTSPOTTER</h2>
+<div id="version-139" class="section level3">
+<h3>Version</h3>
+<p>1.2.1</p>
+</div>
+<div id="description-200" class="section level3">
+<h3>Description</h3>
+<p>Hotspotter implements the PAC (Products of Approximate Conditional) model for estimating recombination rate</p>
+</div>
+<div id="author-208" class="section level3">
+<h3>Author</h3>
+<p>Na Li</p>
+</div>
+<div id="url-229" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.biostat.umn.edu/~nali/SoftwareListing.html" class="uri">http://www.biostat.umn.edu/~nali/SoftwareListing.html</a></p>
+</div>
+<div id="language-150" class="section level3">
+<h3>Language</h3>
+<p>C++</p>
+</div>
+<div id="exe-52" class="section level3">
+<h3>EXE</h3>
+<p>rholike, hotspot, fullopt</p>
+</div>
+<div id="reference-174" class="section level3">
+<h3>Reference</h3>
+<p>Li, Stephens (2003), Genetics, 165(4):2213-2233.</p>
+<hr />
+</div>
+</div>
+<div id="hplus" class="section level2">
+<h2>HPLUS</h2>
+<div id="version-140" class="section level3">
+<h3>Version</h3>
+<p>2.5</p>
+</div>
+<div id="description-201" class="section level3">
+<h3>Description</h3>
+<p>HPlus is an analysis tool for performing haplotype estimation on genetic markers such as SNPs and microsatellites. It is able to handle datasets that include case-control status as well as covariates and marker location variables (such as gene name, chromosome location, etc).</p>
+</div>
+<div id="author-209" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Sue Li</li>
+<li>RJ Laws</li>
+<li>LuePing Zhao (Fred Hutchinson Cancer Research Center)</li>
+</ul>
+</div>
+<div id="url-230" class="section level3">
+<h3>URL</h3>
+<p><a href="http://cougar.fhcrc.org/hplus/" class="uri">http://cougar.fhcrc.org/hplus/</a></p>
+</div>
+<div id="os-141" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux</p>
+</div>
+<div id="reference-175" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Zhao, Li, Khalid (2003), “A method for assessing disease associations with SNP haplotypes and environmental variables in case-control”, American Journal of Human Genetics, 72(5):1231-1250</li>
+<li>Li, Khalid, Carlson, Zhao (2003), “Estimating haplotype frequencies and standard errors for multiple single nucleotide polymorphisms”, Biostatistics, 4:513-522.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="hs-tdt" class="section level2">
+<h2>HS-TDT</h2>
+<div id="full-name-97" class="section level3">
+<h3>Full Name</h3>
+<p>Haplotype Sharing Transmission Disequilibrium Test</p>
+</div>
+<div id="description-202" class="section level3">
+<h3>Description</h3>
+<p>testing association using tightly linked markers in nuclear pedigrees</p>
+</div>
+<div id="author-210" class="section level3">
+<h3>Author</h3>
+<p>Shuanglin Zhang (email: <a href="mailto:shuzhang@mtu.edu">shuzhang@mtu.edu</a>)</p>
+</div>
+<div id="url-231" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.math.mtu.edu/~shuzhang/software.html" class="uri">http://www.math.mtu.edu/~shuzhang/software.html</a></p>
+</div>
+<div id="os-142" class="section level3">
+<h3>OS</h3>
+<p>UNIX, MS-Windows</p>
+</div>
+<div id="reference-176" class="section level3">
+<h3>Reference</h3>
+<ul>
+<li>Zhang, Sha, Chen, Dong, Jiang (2003), “Transmission/disequilibrium test based on haplotype sharing for tightly linked markers”, American Journal of Human Genetics, 73(3):566-579</li>
+<li>Zhang, Sha, Chen, Dong, Jiang (2004), “Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker” (letter), American Journal of Human Genetics, 74(3):591-593</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="htr" class="section level2">
+<h2>HTR</h2>
+<div id="full-name-98" class="section level3">
+<h3>Full Name</h3>
+<p>Haplotype Trend Regression</p>
+</div>
+<div id="version-141" class="section level3">
+<h3>Version</h3>
+<p>Aug 2002</p>
+</div>
+<div id="description-203" class="section level3">
+<h3>Description</h3>
+<p>Haplotype association mapping using unrelated individuals; “fixed” and “sliding” window analysis; overall tests and tests for individual haplotype effects</p>
+</div>
+<div id="author-211" class="section level3">
+<h3>Author</h3>
+<p>Dmitri Zaykin</p>
+</div>
+<div id="url-232" class="section level3">
+<h3>URL</h3>
+<ul>
+<li><a href="http://statgen.ncsu.edu/zaykin/htr.html" class="uri">http://statgen.ncsu.edu/zaykin/htr.html</a></li>
+<li><a href="ftp://statgen.ncsu.edu/pub/zaykin/htr/" class="uri">ftp://statgen.ncsu.edu/pub/zaykin/htr/</a></li>
+</ul>
+</div>
+<div id="language-151" class="section level3">
+<h3>Language</h3>
+<p>C++, Bash shell</p>
+</div>
+<div id="os-143" class="section level3">
+<h3>OS</h3>
+<p>Window, UNIX(Solaris)</p>
+</div>
+<div id="exe-53" class="section level3">
+<h3>EXE</h3>
+<p>emgi.exe (fixed number of markers), bash emgi.sh (sliding window)</p>
+</div>
+<div id="reference-177" class="section level3">
+<h3>Reference</h3>
+<p>Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002), “Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals”, Human Heredity, 53:79-91.</p>
+<hr />
+</div>
+</div>
+<div id="htsnper" class="section level2">
+<h2>HTSNPER</h2>
+<div id="full-name-99" class="section level3">
+<h3>Full Name</h3>
+<p>Haplotype Tagging SNPer</p>
+</div>
+<div id="version-142" class="section level3">
+<h3>Version</h3>
+<p>1.0 (Dec 2003)</p>
+</div>
+<div id="description-204" class="section level3">
+<h3>Description</h3>
+<p>htSNPer is a Java program for characterizing the haplotype block structure and selecting haplotype tagging SNP</p>
+</div>
+<div id="author-212" class="section level3">
+<h3>Author</h3>
+<ul>
+<li>Keyue Ding</li>
+<li>Jing Zhang (email: <a href="mailto:zhjing98@mails.tsinghua.edu.cn">zhjing98@mails.tsinghua.edu.cn</a>)</li>
+<li>Kaixin Zhou</li>
+<li>Yan Shen</li>
+<li>Xuegong Zhang (Tsinghua University, China)</li>
+</ul>
+</div>
+<div id="url-233" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.chgb.org.cn/htSNPer/htSNPer.html" class="uri">http://www.chgb.org.cn/htSNPer/htSNPer.html</a></p>
+</div>
+<div id="language-152" class="section level3">
+<h3>Language</h3>
+<p>C++, JVM</p>
+</div>
+<div id="os-144" class="section level3">
+<h3>OS</h3>
+<p>MS-Windows, Linux</p>
+<hr />
+</div>
+</div>
+<div id="hwestrata" class="section level2">
+<h2>HWESTRATA</h2>
+<div id="description-205" class="section level3">
+<h3>Description</h3>
+<p>Calculates an exact stratified test for HWE for diallelic markers, such as single nucleotide polymorphisms (SNPs), and an exact test for homogeneity of Hardy Weinberg disequilbrium. In addition, exact tests for HWE are calculated for each stratum.</p>
+</div>
+<div id="author-213" class="section level3">
+<h3>Author</h3>
+<p>Daniel Schaid (Mayo Clinic) (email: <a href="mailto:schaid@mayo.edu">schaid@mayo.edu</a>)</p>
+</div>
+<div id="url-234" class="section level3">
+<h3>URL</h3>
+<p><a href="http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm" class="uri">http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm</a></p>
+</div>
+<div id="language-153" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+</div>
+<div id="os-145" class="section level3">
+<h3>OS</h3>
+<p>UNIX(Solaris), MS-Windows(XP)</p>
+<hr />
+</div>
+</div>
+<div id="hwmet" class="section level2">
+<h2>HWMET</h2>
+<div id="description-206" class="section level3">
+<h3>Description</h3>
+<p>Bayesian estimation of the population inbreeding coefficient f</p>
+</div>
+<div id="author-214" class="section level3">
+<h3>Author</h3>
+<p>KL Ayres (email: <a href="mailto:k.l.ayres@reading.ac.uk">k.l.ayres@reading.ac.uk</a>)</p>
+</div>
+<div id="url-235" class="section level3">
+<h3>URL</h3>
+<p><a href="http://www.reading.ac.uk/Statistics/genetics/software.html" class="uri">http://www.reading.ac.uk/Statistics/genetics/software.html</a></p>
+</div>
+<div id="language-154" class="section level3">
+<h3>Language</h3>
+<p>C</p>
+<hr />
+</div>
 </div>
 </div>
             </section>
@@ -5138,8 +6422,8 @@
           </div>
         </div>
       </div>
-
-<a href="alphabetic-list.html" class="navigation navigation-next navigation-unique" aria-label="Next page""><i class="fa fa-angle-right"></i></a>
+<a href="g-1.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="i-1.html" class="navigation navigation-next " aria-label="Next page""><i class="fa fa-angle-right"></i></a>
 
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
