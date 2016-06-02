@@ -32,7 +32,7 @@ def get_meta(files):
             pass
     return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower())) 
 
-meta = get_meta(glob.glob('${data_dir}/*'))
+meta = get_meta(glob.glob('${data_dir}/*.md'))
 categories = []
 with open('alphabet.md', 'w') as f, open('/tmp/gas.md', 'w') as f2:
      f.write('\n# Alphabetic List')
@@ -59,3 +59,11 @@ git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pa
 run:
   cat Home.md alphabet.md /tmp/gas.md Others.md > /tmp/software.md
   labnotes bind -t 'An Alphabetic List of Genetic Analysis Software' -a 'Gao Wang / Jurg Ott lab' -o gh-pages --md /tmp/software.md --no_section_number --split_by chapter
+
+# [default_4]
+# # Update gh-pages
+# run:
+# cd gh-pages
+# git add .
+# git commit -m update
+# git push
