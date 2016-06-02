@@ -7,9 +7,73 @@
 
 [parameters]
 data_dir = 'pages'
+disqus_tpl = '''
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>An Alphabetic List of Genetic Analysis Software</title>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+  <meta name="description" content="Discussion page">
+  <meta name="generator" content="bookdown 0.0.72 and GitBook 2.6.7">
+
+  <meta property="og:title" content="An Alphabetic List of Genetic Analysis Software" />
+  <meta property="og:type" content="book" />
+  <meta property="og:description" content="Discussion page" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="An Alphabetic List of Genetic Analysis Software" />
+  <meta name="twitter:description" content="Discussion page" />
+<meta name="author" content="© Gao Wang / Ott lab">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+<script src="../libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="../libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="../libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="../libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="../libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="../libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+</head>
+
+<body>
+<h2>Comments on PAGE_NAME</h2>
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = 'PAGE_URL';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'PAGE_IDENTIFIER'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        s.src = '//genetic-analysis-software.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+</body>
+</html>
+'''
 
 [default_1]
-# Update alphabetic TOC 
+# Download gh-pages branch
+output: 'gh-pages/.gitignore'
+run:
+rm -rf gh-pages
+git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
+mkdir -p gh-pages/discuss
+
+[default_2]
+# Update alphabetic TOC
 python:
 import os, glob, re
 from collections import OrderedDict
@@ -30,7 +94,7 @@ def get_meta(files):
             data[f]['full_name'] = lines[[x.lower() for x in lines].index('### full name') + 1]
           except:
             pass
-    return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower())) 
+    return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower()))
 
 meta = get_meta(glob.glob('${data_dir}/*.md'))
 categories = []
@@ -43,22 +107,20 @@ with open('alphabet.md', 'w') as f, open('/tmp/gas.md', 'w') as f2:
             f.write('\n## {}\n'.format(category))
             f2.write('\n# {}\n\n---\n\n'.format(category))
          desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
-         link = '{}-1.html#{}'.format(category.lower(), "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower())
+         html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
+         link = '{}-1.html#{}'.format(category.lower(), html_name)
          f.write('* [{}]({}){}\n'.format(meta[k]['name'], link, desc_text))
-         f2.write(open(k).read() + '\n---\n\n')
-
-[default_2]
-# Download gh-pages branch
-output: 'gh-pages/.gitignore'
-run:
-rm -rf gh-pages
-git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
+         comments_str = '\n### [Comments on {}](discuss/{}.html)\n'.format(meta[k]['name'], html_name)
+         f2.write(open(k).read() + comments_str + '\n---\n\n')
+         disqus_page = '''${disqus_tpl}'''.replace('PAGE_URL', 'http://gaow.github.io/genetic-analysis-software/discuss/{}.html'.format(html_name)).replace('PAGE_IDENTIFIER', html_name).replace('PAGE_NAME', meta[k]['name'])
+         with open('gh-pages/discuss/{}.html'.format(html_name), 'w') as f3:
+             f3.write(disqus_page)
 
 [default_3]
 # Compile pages via bookdown
 run:
   cat Home.md alphabet.md /tmp/gas.md Others.md > /tmp/software.md
-  labnotes bind -t 'An Alphabetic List of Genetic Analysis Software' -a 'Gao Wang / Jurg Ott lab' -o gh-pages --md /tmp/software.md --no_section_number --split_by chapter
+  labnotes bind -t 'An Alphabetic List of Genetic Analysis Software' -a 'Gao Wang / Ott lab' --description 'This page, historically known as the Rockefeller list, is a list of computer programs for genetics analysis' -o gh-pages --md /tmp/software.md --no_section_number --split_by chapter
 
 # [default_4]
 # # Update gh-pages
