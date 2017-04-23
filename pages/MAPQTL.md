@@ -1,4 +1,5 @@
 # MAPQTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Software for the calculation of QTL positions on genetic maps

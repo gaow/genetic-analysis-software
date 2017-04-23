@@ -1,4 +1,5 @@
 # SIMUPOP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.6.0 (Jan 2005)

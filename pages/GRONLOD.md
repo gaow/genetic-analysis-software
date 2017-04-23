@@ -1,4 +1,5 @@
 # GRONLOD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 GRONingen university LOR score calculation

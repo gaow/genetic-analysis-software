@@ -1,4 +1,5 @@
 # IGG
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Integrate Genotypes for genome-wide Genetic studies

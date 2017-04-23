@@ -1,4 +1,5 @@
 # POOL_STR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 POOLing alleles of Short Tandem Repeat markers

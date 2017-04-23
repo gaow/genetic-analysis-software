@@ -1,4 +1,5 @@
 # R/GENABEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.6-4 (August 2010)

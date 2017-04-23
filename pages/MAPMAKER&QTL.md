@@ -1,4 +1,5 @@
 # MAPMAKER/QTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 new version in April 1995

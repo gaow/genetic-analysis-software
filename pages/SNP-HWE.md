@@ -1,4 +1,5 @@
 # SNP-HWE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a fast exact Hardy-Weinberg Equilibrium test for SNPs

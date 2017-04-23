@@ -1,4 +1,5 @@
 # PEDPACK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Version 2.2, July 1996

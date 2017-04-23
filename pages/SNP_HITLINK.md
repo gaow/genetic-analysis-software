@@ -1,4 +1,5 @@
 # SNP HITLINK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SNP HIgh-Throughput LINKage analysis system

@@ -1,4 +1,5 @@
 # MILD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 MultIallelic Linkage Disequilibrium: a program for adjusted linkage disequilibrium (LD) calculations

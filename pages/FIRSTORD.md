@@ -1,4 +1,5 @@
 # FIRSTORD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 demonstration of method for preliminary ordering of loci based on two-point lod scores.

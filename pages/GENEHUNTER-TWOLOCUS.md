@@ -1,4 +1,5 @@
 # GENEHUNTER-TWOLOCUS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.3 (May 2000), optimized and parallelized version (May 2004)

@@ -1,4 +1,5 @@
 # ALLASS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 February 2002

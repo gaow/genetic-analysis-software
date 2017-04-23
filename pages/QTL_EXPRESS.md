@@ -1,4 +1,5 @@
 # QTL EXPRESS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 August 2005

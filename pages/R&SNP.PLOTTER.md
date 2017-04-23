@@ -1,4 +1,5 @@
 # R/SNP.PLOTTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.3 (October 2009)

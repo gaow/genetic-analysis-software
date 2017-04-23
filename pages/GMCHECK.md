@@ -1,4 +1,5 @@
 # GMCHECK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 GMCheck finds the posterior probabilities for data errors for genotypes and phenotypes in pedigree data

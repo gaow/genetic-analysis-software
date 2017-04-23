@@ -1,4 +1,5 @@
 # MAPCHART
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Windows software for the graphical presentation of linkage maps and QTLs

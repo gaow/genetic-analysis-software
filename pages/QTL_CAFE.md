@@ -1,4 +1,5 @@
 # QTL CAFE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 May 1998

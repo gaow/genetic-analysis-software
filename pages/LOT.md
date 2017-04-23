@@ -1,4 +1,5 @@
 # LOT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Linkage analysis of Ordinal Traits

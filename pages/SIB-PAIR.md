@@ -1,4 +1,5 @@
 # SIB-PAIR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.00a (January 2007)

@@ -1,4 +1,5 @@
 # POINTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 for complex segregation analysis with the mixed model (major locus and polygenes).

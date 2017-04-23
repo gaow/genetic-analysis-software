@@ -1,4 +1,5 @@
 # HAPBLOCK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 a dynamical programming algorithm for haplotype block partitioning

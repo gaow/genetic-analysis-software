@@ -1,4 +1,5 @@
 # CHIP2SPELL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.0.2 (September 2009)

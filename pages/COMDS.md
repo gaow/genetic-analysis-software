@@ -1,4 +1,5 @@
 # COMDS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 for combined segregation and linkage analysis, incorporating severity and diathesis.

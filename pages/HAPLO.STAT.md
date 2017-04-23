@@ -1,4 +1,5 @@
 # HAPLO.STAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Other Name
 HAPLO.SCORE

@@ -1,4 +1,5 @@
 # FASTMAP 2
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Author
 Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)

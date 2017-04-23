@@ -1,4 +1,5 @@
 # SNPLINK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal. SNPLINK requires these other programs installed on the system: MERLIN (used for nonparametric analysis), ALLEGRO (used for parametric analysis), R and PERL, all are freely available.

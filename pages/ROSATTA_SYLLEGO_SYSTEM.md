@@ -1,4 +1,5 @@
 # ROSATTA SYLLEGO SYSTEM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 evaluation version (October 2007)

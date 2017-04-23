@@ -1,4 +1,5 @@
 # QUTIE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Case-Control RAre Variant Analysis Tool

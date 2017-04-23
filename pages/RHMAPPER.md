@@ -1,4 +1,5 @@
 # RHMAPPER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.22 (1998)

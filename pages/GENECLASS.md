@@ -1,4 +1,5 @@
 # GENECLASS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 v2.0g (Jan 2005)

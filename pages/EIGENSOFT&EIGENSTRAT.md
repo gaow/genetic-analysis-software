@@ -1,4 +1,5 @@
 # EIGENSOFT/EIGENSTRAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 4.2 (August 2011)

@@ -1,4 +1,5 @@
 # Altrans
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads

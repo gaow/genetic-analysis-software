@@ -1,4 +1,5 @@
 # CEPH2MAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 it is developed from crimap v2.4 for use with the map suite of programs.

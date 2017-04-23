@@ -1,4 +1,5 @@
 # J/QTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 J/QTL is a Java GUI for the popular QTL data analysis software R/QTL. It provides a flexible and powerful working environment for users to perform a variety of tasks.

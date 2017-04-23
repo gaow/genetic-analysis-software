@@ -1,4 +1,5 @@
 # PEDIGREE-VISUALIZER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Author
 Limsoon Wong (National University of Singapore, Singapore)

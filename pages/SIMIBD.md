@@ -1,4 +1,5 @@
 # SIMIBD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.21 (Jan 1997)

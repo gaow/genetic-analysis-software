@@ -1,4 +1,5 @@
 # GREGOR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 the program allows students and scientists to explore potential manifestations of genetic models and stochastic processes. It also provides a means to evaluate the effectiveness of statistical procedures such as linkage analysis or QTL detection.

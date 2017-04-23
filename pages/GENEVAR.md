@@ -1,4 +1,5 @@
 # GENEVAR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 GENe Expression VARiation

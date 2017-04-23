@@ -1,4 +1,5 @@
 # NUCULAR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 A program that splits extended pedigrees into nuclear families, with the option of recoding all sibs as half-sibs with distinct mothers of fathers.

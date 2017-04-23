@@ -1,4 +1,5 @@
 # HAPSTAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 HAPSTAT is a user-friendly software interface for the statistical analysis of haplotype-disease association. HAPSTAT allows the user to estimate or test haplotype effects and haplotype-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty and study design. The current version considers cross-sectional, case-control and cohort studies.

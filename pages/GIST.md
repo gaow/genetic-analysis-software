@@ -1,4 +1,5 @@
 # GIST
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Genotype Ibd Sharing Test

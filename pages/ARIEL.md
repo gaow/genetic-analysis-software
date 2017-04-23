@@ -1,4 +1,5 @@
 # ARIEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Accumulation of Rare variants Integrated and Extended Locus-specific test

@@ -1,4 +1,5 @@
 # EPDT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Extended Pedigree Disequilibrium Test

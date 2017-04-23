@@ -1,4 +1,5 @@
 # TWOLOC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 v2 (May 1998)

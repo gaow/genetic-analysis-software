@@ -1,4 +1,5 @@
 # APL-OSA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Association in the Presence of Linkage with Ordered Subset Analysis

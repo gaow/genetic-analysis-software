@@ -1,4 +1,5 @@
 # EMLD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 EM estimation of haplotype frequencies and LD calculation

@@ -1,4 +1,5 @@
 # MAGIC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Marker And Gene Interpolation and Correlation

@@ -1,4 +1,5 @@
 # QTL Cartographer
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Window version 2.5 (September 2006)

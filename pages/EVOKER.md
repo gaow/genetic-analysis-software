@@ -1,4 +1,5 @@
 # EVOKER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 May 2010

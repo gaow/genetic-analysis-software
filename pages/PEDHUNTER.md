@@ -1,4 +1,5 @@
 # PEDHUNTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a software package that facilitates creation and verification of pedigrees within large genealogies.

@@ -1,4 +1,5 @@
 # SUPERLINK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.6 (March 2006)

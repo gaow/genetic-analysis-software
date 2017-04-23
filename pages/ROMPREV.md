@@ -1,4 +1,5 @@
 # ROMPREV
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Regression of Offspring on Mid-Parent (REVised)

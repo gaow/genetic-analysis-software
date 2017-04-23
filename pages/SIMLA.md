@@ -1,4 +1,5 @@
 # SIMLA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SIMulation of pedigree data for Linkage and Association studies

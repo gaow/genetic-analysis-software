@@ -1,4 +1,5 @@
 # PEDPLOT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Pedigree Plotting Program for the Pedfile Format

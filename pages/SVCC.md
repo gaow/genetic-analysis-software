@@ -1,4 +1,5 @@
 # SVCC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Semiparametric Variance-Component for Censored data

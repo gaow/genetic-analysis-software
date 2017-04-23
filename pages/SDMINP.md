@@ -1,4 +1,5 @@
 # SDMINP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Step-Down MIN P-value

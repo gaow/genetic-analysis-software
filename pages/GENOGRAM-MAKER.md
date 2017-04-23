@@ -1,4 +1,5 @@
 # GENOGRAM-MAKER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a graphic way of organizing the mass of information gathered during a family assessment and finding patterns in the family system

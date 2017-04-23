@@ -1,4 +1,5 @@
 # VITESSE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 VITESSE (means "speed" in French)

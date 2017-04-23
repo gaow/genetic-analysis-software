@@ -1,4 +1,5 @@
 # QMSIM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Qtl and Marker SIMulator

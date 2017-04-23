@@ -1,4 +1,5 @@
 # GAS2
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 statistical significance in Genomewide Association Studies in 2-stage

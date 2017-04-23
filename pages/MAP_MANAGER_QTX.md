@@ -1,4 +1,5 @@
 # MAP MANAGER QTX
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 QTXb20 (April 2004)

@@ -1,4 +1,5 @@
 # THESIAS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Testing Haplotype EffectS In Association Studies

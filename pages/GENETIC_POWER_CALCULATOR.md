@@ -1,4 +1,5 @@
 # GENETIC POWER CALCULATOR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 2001-2005

@@ -1,4 +1,5 @@
 # TDTASP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Power and Sample-Size Calculations for the TDT and ASP Tests

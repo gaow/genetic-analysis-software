@@ -1,4 +1,5 @@
 # START
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Finds starting points for MCMC analysis performed on large, complex pedigrees and polymorphic markers.

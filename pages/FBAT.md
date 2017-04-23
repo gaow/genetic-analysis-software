@@ -1,4 +1,5 @@
 # FBAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 (haplotype) Family Based Association Test

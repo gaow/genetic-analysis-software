@@ -1,4 +1,5 @@
 # TAGSTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 TAGster is a tool to select, evaluate and visualize LD tag SNPs for single or multiple populations. The input files can be a set of dumped genotype files from International HapMap Project (http://www.hapmap.org/) (Hapmap format) or Seattle SNPs (http://pga.gs.washington.edu/) (Prettybase format). The ouput is a set of LD tag SNPs for single or multiple populations.

@@ -1,4 +1,5 @@
 # RELTYPE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a computer program for determining biological relatedness between individuals based on allele sharing at microsatellite loci

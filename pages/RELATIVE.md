@@ -1,4 +1,5 @@
 # RELATIVE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.10 (dec 97)

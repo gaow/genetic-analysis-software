@@ -1,4 +1,5 @@
 # Variant Association Tools
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Variant Association Tools inherits the intuitive command-line interface of variant tools with re-design and implementation of its infrastructure to accommodate the scale of dataset generated from nowadays sequencing efforts on large populations.

@@ -1,4 +1,5 @@
 # R/LDHEATMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.2-9 (August 2010)

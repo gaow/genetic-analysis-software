@@ -1,4 +1,5 @@
 # DINDEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Dindel is a program for calling small indels from short-read sequence data ('next generation sequence data'). It is currently designed to handle only Illumina data. Dindel takes BAM files with mapped Illumina read data and enables researchers to detect small indels and produce a VCF file of all the variant calls.

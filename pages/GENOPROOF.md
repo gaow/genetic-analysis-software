@@ -1,4 +1,5 @@
 # GENOPROOF
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.1 (July 2006)

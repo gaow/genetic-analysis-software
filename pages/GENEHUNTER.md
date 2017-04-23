@@ -1,4 +1,5 @@
 # GENEHUNTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 2.1 release 4 (April 2003)

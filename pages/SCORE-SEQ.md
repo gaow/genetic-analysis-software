@@ -1,4 +1,5 @@
 # SCORE-SEQ
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies

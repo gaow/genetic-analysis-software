@@ -1,4 +1,5 @@
 # PARENTE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.2 (February 2003)

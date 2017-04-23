@@ -1,4 +1,5 @@
 # R/HAPASSOC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.2-4 (July 2010)

@@ -1,4 +1,5 @@
 # R/FEST
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.08 (August, 2010)

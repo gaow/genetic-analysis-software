@@ -1,4 +1,5 @@
 # LDSUPPORT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Author
 Yutaka Kitamura (Institute of Rheumatology, Tokyo Women;s Medical University, email: kitamura@ior.twmu.ac.jp)

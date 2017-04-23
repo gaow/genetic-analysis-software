@@ -1,4 +1,5 @@
 # GENTOOLS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 software for analysis and manipulation of genetic linkage data of genetic linkage data, including conversions of pedigree files between CRI-MAP and LINKAGE format.

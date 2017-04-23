@@ -1,4 +1,5 @@
 # JPSGCS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Java Programs for Statistical Genetics and Computational Statistics

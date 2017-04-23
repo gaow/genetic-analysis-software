@@ -1,4 +1,5 @@
 # PSEUDO
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.3.5

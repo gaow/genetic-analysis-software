@@ -1,4 +1,5 @@
 # HAPLOVISUAL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Author
 * Esko Ukkonen

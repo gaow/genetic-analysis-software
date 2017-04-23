@@ -1,4 +1,5 @@
 # CHROMSCAN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 beta (December 11, 2006)

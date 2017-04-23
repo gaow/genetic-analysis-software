@@ -1,4 +1,5 @@
 # GRIDQTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.5.1 (August 2010)

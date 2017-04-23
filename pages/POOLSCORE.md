@@ -1,4 +1,5 @@
 # POOLSCORE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a program for analysis of case-control genetic association studies using allele frequency measurements on DNA pools

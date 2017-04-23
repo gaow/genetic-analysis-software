@@ -1,4 +1,5 @@
 # MUTAGENESYS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 MutaGeneSys is a system that uses genome-wide genotype data to estimate disease susceptibility. Our system integrates three data sources: HapMap, whole-genome marker correlation data, and OMIM database. It accepts SNP data of individuals as query input and delivers disease susceptibility hypotheses even if the original set of typed SNPs is incomplete.

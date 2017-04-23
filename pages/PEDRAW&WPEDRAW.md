@@ -1,4 +1,5 @@
 # PEDRAW/WPEDRAW
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)

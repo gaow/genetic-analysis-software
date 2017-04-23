@@ -1,4 +1,5 @@
 # JLIN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 a Java based LINkage disequilibrium plotter

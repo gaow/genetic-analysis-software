@@ -1,4 +1,5 @@
 # WEIGHTED_FDR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.2 (March 2006)

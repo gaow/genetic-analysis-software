@@ -1,4 +1,5 @@
 # MAP/MAP+/MAP+H/MAP2000
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 (MAP+H is the radiation Hybrid module of MAP+)

@@ -1,4 +1,5 @@
 # GGSD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Generic Genetic Studies Database

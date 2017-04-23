@@ -1,4 +1,5 @@
 # EAGLET
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Efficient Analysis of Genetic Linkage: Testing and Estimation

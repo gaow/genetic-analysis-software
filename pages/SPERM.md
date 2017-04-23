@@ -1,4 +1,5 @@
 # SPERM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 analysis of sperm typing data.

@@ -1,4 +1,5 @@
 # SNAP 3
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Simulation of sNp haplotype data And Phenotypic traits

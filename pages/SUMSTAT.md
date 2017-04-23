@@ -1,4 +1,5 @@
 # SUMSTAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 assess the joint disease association of multiple unlinked SNPs via sums of SNP specific test statistics. Genome-wide significance levels are obtained by per mutation analysis.

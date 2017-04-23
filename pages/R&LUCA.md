@@ -1,4 +1,5 @@
 # R/LUCA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Likelihood Under Covariate Assumptions

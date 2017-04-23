@@ -1,4 +1,5 @@
 # SIMLINK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 4.12 (April 1997)

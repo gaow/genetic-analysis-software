@@ -1,4 +1,5 @@
 # SQTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Semiparametric QTL mapping in general pedigrees

@@ -1,4 +1,5 @@
 # R/QTLDESIGN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 v0.91 (May 2007)

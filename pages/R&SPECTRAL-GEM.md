@@ -1,4 +1,5 @@
 # R/SPECTRAL-GEM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SPECTRAL graph approach for GEnetic Matching

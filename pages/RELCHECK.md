@@ -1,4 +1,5 @@
 # RELCHECK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.67 (August 2000)

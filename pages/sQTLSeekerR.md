@@ -1,4 +1,5 @@
 # sQTLSeekerR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 github / R 3.1+

@@ -1,4 +1,5 @@
 # PELICAN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Pedigree Editor for LInkage Computer ANalysis

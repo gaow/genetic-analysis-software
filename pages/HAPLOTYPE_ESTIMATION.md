@@ -1,4 +1,5 @@
 # HAPLOTYPE ESTIMATION
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 The haplotype estimation service is available in two variants: one for genetic data from unrelated probands (e.g., case/control studies) and one for core family data

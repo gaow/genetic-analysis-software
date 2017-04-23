@@ -1,4 +1,5 @@
 # TRIMHAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)

@@ -1,4 +1,5 @@
 # LOKI
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 2.4.5 (March 2003)

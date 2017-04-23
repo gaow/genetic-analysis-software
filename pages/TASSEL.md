@@ -1,4 +1,5 @@
 # TASSEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Trait Analysis by aSSociation, Evolution, and Linkage

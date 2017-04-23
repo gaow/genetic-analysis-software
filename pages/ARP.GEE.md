@@ -1,4 +1,5 @@
 # ARP.GEE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.1.0 (April 2005)

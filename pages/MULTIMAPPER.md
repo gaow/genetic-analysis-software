@@ -1,4 +1,5 @@
 # MULTIMAPPER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Bayesian QTL mapping software for analysing backcross, double haploid, and F2 data from designed crossing experiments of inbred lines

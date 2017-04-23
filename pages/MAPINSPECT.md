@@ -1,4 +1,5 @@
 # MAPINSPECT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 May 2002 (previously called MAPCOMP)

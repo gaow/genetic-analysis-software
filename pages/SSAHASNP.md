@@ -1,4 +1,5 @@
 # SSAHASNP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Sequence Search and Alignment by Hashing Algorithm for SNP detection

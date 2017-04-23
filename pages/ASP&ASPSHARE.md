@@ -1,4 +1,5 @@
 # ASP/ASPSHARE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.2 (June 2002) (Warning: the earlier version contains a bug)

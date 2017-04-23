@@ -1,4 +1,5 @@
 # CEPH2CRI
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 May 1994

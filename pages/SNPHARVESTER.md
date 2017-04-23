@@ -1,4 +1,5 @@
 # SNPHARVESTER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a powerful tool for detecting epistatic interactions in genome-wide association studies

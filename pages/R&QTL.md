@@ -1,4 +1,5 @@
 # R/QTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.05-2 (November 2006)

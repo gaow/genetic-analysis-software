@@ -1,4 +1,5 @@
 # BAMA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Bayesian Analysis of Multilocus Association

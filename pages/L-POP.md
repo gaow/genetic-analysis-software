@@ -1,4 +1,5 @@
 # L-POP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Jan 2001

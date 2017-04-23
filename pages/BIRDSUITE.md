@@ -1,4 +1,5 @@
 # BIRDSUITE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 The Birdsuite is a fully open-source set of tools to detect and report SNP genotypes, common Copy-Number Polymorphisms (CNPs), and novel, rare, or de novo CNVs in samples processed with the Affymetrix platform. While most of the components of the suite can be run individually (for instance, to only do SNP genotyping), the Birdsuite is especially intended for integrated analysis of SNPs and CNVs.

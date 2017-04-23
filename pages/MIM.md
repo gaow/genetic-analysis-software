@@ -1,4 +1,5 @@
 # MIM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Multipoint Identical-by-descent Method

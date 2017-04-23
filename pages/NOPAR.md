@@ -1,4 +1,5 @@
 # NOPAR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Aug 1995

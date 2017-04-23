@@ -1,4 +1,5 @@
 # PEDMANAGER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Other Name
 MAPMAKER/PEDMANAGER

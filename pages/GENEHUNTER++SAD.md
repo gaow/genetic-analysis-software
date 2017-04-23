@@ -1,4 +1,5 @@
 # GENEHUNTER++SAD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 implementation of the Sad statistic, more robust to transmission ratio distortion in the context of allele sharing

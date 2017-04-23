@@ -1,4 +1,5 @@
 # R/STEPWISE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.2-4 (November 2008)

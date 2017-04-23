@@ -1,4 +1,5 @@
 # RC-TDT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Reconstruction-Combined Transmission Disequilibrium Test

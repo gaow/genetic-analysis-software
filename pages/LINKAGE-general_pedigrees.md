@@ -1,4 +1,5 @@
 # LINKAGE - general pedigrees
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 5.1, 5.2, 6.0 (testing)

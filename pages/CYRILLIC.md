@@ -1,4 +1,5 @@
 # CYRILLIC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 version 3 (October 1999)

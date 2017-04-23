@@ -1,4 +1,5 @@
 # SPREG
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Secondary Phenotype REGression analysis

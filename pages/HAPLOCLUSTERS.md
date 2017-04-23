@@ -1,4 +1,5 @@
 # HAPLOCLUSTERS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a program designed to detect excess haplotypes sharing in datasets consisting of case and control haplotypes. Excess haplotype sharing can be seen around disease loci in case samples since LD persists longer here than in the controls where LD is persisting only according to the relatedness of the individuals in the population, i.e. the age of the population.

@@ -1,4 +1,5 @@
 # MADMAPPER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 September 2005

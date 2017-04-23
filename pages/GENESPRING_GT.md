@@ -1,4 +1,5 @@
 # GENESPRING GT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Other Name
 VARIA

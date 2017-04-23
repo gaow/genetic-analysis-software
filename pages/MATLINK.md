@@ -1,4 +1,5 @@
 # MATLINK
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 A MATLAB utility for estimating genetic linkage in exotic line-cross mating designs

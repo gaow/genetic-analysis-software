@@ -1,4 +1,5 @@
 # MLBGH
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Maximum-Likelihood-Binomial analysis of affected sib-pair and sibship data extended from the GENEHUNTER program

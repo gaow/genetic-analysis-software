@@ -1,4 +1,5 @@
 # HAPSCOPE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 HapScope includes a comprehensive analysis pipeline and a sophisticated visualization tool for analyzing functionally annotated haplotypes.

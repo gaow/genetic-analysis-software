@@ -1,4 +1,5 @@
 # GCHAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Gene Counting method for HAPlotype analysis.

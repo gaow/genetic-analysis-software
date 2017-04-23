@@ -1,4 +1,5 @@
 #  R/Superheat
+Record added by Jurg Ott (the original Rockefeller list)
 
 ##  Full name
 Supercharged heatmaps for R

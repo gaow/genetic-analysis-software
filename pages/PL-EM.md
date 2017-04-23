@@ -1,4 +1,5 @@
 # PL-EM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms

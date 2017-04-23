@@ -1,4 +1,5 @@
 # SKAT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SNP-set (Sequence) Kernel Association Test

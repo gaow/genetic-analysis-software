@@ -1,4 +1,5 @@
 # BQTL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Bayesian Quantitative Trait Locus mapping

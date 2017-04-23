@@ -1,4 +1,5 @@
 # PEDPEEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 The program prepares pedigree data for calculation of Elston-Stewarts' likelihood function. It finds an optimal way to peel a pedigree and returns text file containing 7 description arrays

@@ -1,4 +1,5 @@
 # MANTEL-STRUCT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 tests for population structure through the use of Mantel tests

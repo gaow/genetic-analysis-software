@@ -1,4 +1,5 @@
 # PEER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 PEER is a collection of Bayesian approaches to infer hidden determinants and their effects from gene expression profiles using factor analysis methods. It can be used to detect eQTL.

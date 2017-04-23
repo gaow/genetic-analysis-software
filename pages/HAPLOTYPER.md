@@ -1,4 +1,5 @@
 # HAPLOTYPER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Author
 * T Niu

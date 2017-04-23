@@ -1,4 +1,5 @@
 # SEQUENCE LD/SEQUENCE LDHOT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets).

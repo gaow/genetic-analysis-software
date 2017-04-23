@@ -1,4 +1,5 @@
 # MENDELSOFT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.5b (July 2007)

@@ -1,4 +1,5 @@
 # SNPALYZE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 6.0 (December 2006)

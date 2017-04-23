@@ -1,4 +1,5 @@
 # CCREL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Case-Control association analysis with RELlated individuals

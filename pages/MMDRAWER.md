@@ -1,4 +1,5 @@
 # MMDRAWER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.2.0.0 (April 2003)

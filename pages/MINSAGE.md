@@ -1,4 +1,5 @@
 # MINSAGE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 MINimal SAmple size for GEnotypes

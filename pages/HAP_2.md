@@ -1,4 +1,5 @@
 # HAP 2
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 HAPlotype analysis of polymorphic markers

@@ -1,4 +1,5 @@
 # POWTEST
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Excel spreadsheet to calculate power of affected sibpairs and TDT analyses

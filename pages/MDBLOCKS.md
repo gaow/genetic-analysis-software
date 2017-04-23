@@ -1,4 +1,5 @@
 # MDBLOCKS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Minimum Description length method for haplotype BLOCKS

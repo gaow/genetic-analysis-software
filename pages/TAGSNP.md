@@ -1,4 +1,5 @@
 # TAGSNP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 2 (beta)

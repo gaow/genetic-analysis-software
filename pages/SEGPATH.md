@@ -1,4 +1,5 @@
 # SEGPATH
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 SEGregation analysis and PATH analysis

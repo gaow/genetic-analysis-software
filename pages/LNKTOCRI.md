@@ -1,4 +1,5 @@
 # LNKTOCRI
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Conversion of LINKAGE format data files to CRI-MAP format

@@ -1,4 +1,5 @@
 # ANCESTRY
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 This application aims at providing the user with an easy to use web-based user interface to compute individual ancestry estimates using the Maximum Likelihood Estimation method. This website also allows registered users to manage genotype and marker/allele frequency files. Registration is optional.

@@ -1,4 +1,5 @@
 # DMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 fine-scale disequilibrium mapping of a rare allele

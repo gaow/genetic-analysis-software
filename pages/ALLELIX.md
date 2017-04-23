@@ -1,4 +1,5 @@
 # ALLELIX
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Allelix - Paternity Linkage Analysis Online

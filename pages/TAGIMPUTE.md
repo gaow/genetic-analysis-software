@@ -1,4 +1,5 @@
 # TAGIMPUTE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 TAGging-snp based IMPUTATE

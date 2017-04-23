@@ -1,4 +1,5 @@
 # MAP MANAGER QT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 QTb29 (August 2000)

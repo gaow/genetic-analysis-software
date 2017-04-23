@@ -1,4 +1,5 @@
 # PSEUDOMARKER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.0.6b (November 2011)

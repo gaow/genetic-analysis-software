@@ -1,4 +1,5 @@
 # GLUE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Genetic Linkage User Environment

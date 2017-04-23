@@ -1,4 +1,5 @@
 # KIN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.05 (Dec 1995)

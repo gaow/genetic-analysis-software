@@ -1,4 +1,5 @@
 # GASSOC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Genetic ASSOCiation analysis software for cases and parent

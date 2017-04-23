@@ -1,4 +1,5 @@
 # POWERMARKER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 3.25 (February 2006)

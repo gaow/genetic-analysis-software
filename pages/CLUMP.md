@@ -1,4 +1,5 @@
 # CLUMP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Monte Carlo method for assessing significance of a case-control association study with multi-allelic marker.

@@ -1,4 +1,5 @@
 # GWAPOWER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Genome-Wide Association POWER

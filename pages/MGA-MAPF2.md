@@ -1,4 +1,5 @@
 # MGA-MAPF2
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 map QTLs in F-2 intercross in model organisms

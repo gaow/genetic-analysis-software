@@ -1,4 +1,5 @@
 # TDT/S-TDT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Transmission Disequilibrium Test and Sib Transmission Disequilibrium Test

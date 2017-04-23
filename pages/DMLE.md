@@ -1,4 +1,5 @@
 # DMLE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Disease Mapping using Linkage disEquilibrium

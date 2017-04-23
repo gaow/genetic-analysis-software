@@ -1,4 +1,5 @@
 # BAYESFST
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Bayesian estimation of the coancestry coefficient FST

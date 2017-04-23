@@ -1,4 +1,5 @@
 # GTOOL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.4.1 (Feb 2008)

@@ -1,4 +1,5 @@
 # PEDIGREEQUERY
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 allows drawing pedigrees with a difficult structure, those containing consanguinity loops, and those individuals with multiple mates or several related families

@@ -1,4 +1,5 @@
 # SNPTEST
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.1.5 (May 2008)

@@ -1,4 +1,5 @@
 # AUTOSCAN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.0.1 (February 2000)

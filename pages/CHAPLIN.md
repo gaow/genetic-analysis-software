@@ -1,4 +1,5 @@
 # CHAPLIN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Case-control HAPLotype INference package

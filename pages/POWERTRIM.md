@@ -1,4 +1,5 @@
 # POWERTRIM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 automate the decision to remove objects from a pedigree with a minimum loss information

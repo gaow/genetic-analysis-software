@@ -1,4 +1,5 @@
 # INTEGRAYEDMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 IntegratedMap is a web application and database schema for storing and interactively displaying genetic map data.

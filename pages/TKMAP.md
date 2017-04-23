@@ -1,4 +1,5 @@
 # TKMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a program for drawing genetic maps

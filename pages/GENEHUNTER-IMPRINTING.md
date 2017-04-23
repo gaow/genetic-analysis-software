@@ -1,4 +1,5 @@
 # GENEHUNTER-IMPRINTING
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 version: 1.3 (May 2000), 2.1 beta (Oct 2001).

@@ -1,4 +1,5 @@
 # POWQ
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 A user-friendly, graphical package for power evaluation and enhancement planning through variance component linkage analysis in a multipoint framework.

@@ -1,4 +1,5 @@
 # 2DMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 constructing 2-d crossover-based map

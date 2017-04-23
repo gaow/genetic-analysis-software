@@ -1,4 +1,5 @@
 # SIMPED
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 SimPed is a program that quickly generates haplotypes and/or genotype data for a large number of marker loci (>20,000) for pedigrees of virtually any size and complexity. Haplotypes and/or genotypes are generated using user specified genetic map distances and haplotypes and/or allele frequencies.

@@ -1,4 +1,5 @@
 # PROBMAX
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny

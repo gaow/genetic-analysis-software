@@ -1,4 +1,5 @@
 # BEAGLE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 3.2.1 (May 2010)

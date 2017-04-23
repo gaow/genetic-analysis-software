@@ -1,4 +1,5 @@
 # LOH-LINKAGE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a program using loss of heterozygosity data to enhance the power to detect linkage in cancer families.

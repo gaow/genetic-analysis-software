@@ -1,4 +1,5 @@
 # PEDFIDDLER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.5 (August 2005)

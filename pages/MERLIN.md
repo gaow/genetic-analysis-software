@@ -1,4 +1,5 @@
 # MERLIN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Multipoint Engine for Rapid Likelihood INference

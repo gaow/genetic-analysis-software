@@ -1,4 +1,5 @@
 # EHP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Estimation of Haplotype frequencies from Pooled DNA samples

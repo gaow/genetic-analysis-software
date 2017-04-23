@@ -1,4 +1,5 @@
 # ZAPLO
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Oct 5, 2005

@@ -1,4 +1,5 @@
 # SQTDT/SPDT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 semiparametric family-based association

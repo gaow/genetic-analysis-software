@@ -1,4 +1,5 @@
 # MAREYMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 MareyMap is a meiotic recombination rate estimation program.

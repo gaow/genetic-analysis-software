@@ -1,4 +1,5 @@
 # SNP ASSISTANT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.0.11 (April 2004)

@@ -1,4 +1,5 @@
 # SWEEP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 December 2005

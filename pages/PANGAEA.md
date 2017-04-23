@@ -1,4 +1,5 @@
 # PANGAEA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Pedigree ANalysis for Genetics (And Epidemiological Attributes)

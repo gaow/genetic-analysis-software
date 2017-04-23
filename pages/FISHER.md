@@ -1,4 +1,5 @@
 # FISHER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 genetic analysis of classical biometric traits like blood pressure or height that are caused by a combination of polygenic inheritance and complex environmental forces.

@@ -1,4 +1,5 @@
 # TREESELECT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 TreeSelect is a software package for inferring natural selection from unusual population differentiation between closely related populations.

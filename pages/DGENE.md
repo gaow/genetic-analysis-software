@@ -1,4 +1,5 @@
 # DGENE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a simple dBASE III program for the management of pedigree and locus data. It permits easy extraction of genetic data for use with MENDEL and FISHER.

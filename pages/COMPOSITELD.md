@@ -1,4 +1,5 @@
 # COMPOSITELD
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.2.1 (December 2006)

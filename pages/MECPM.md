@@ -1,4 +1,5 @@
 # MECPM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Maximum Entropy Conditional Probability Moldeling

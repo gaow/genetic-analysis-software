@@ -1,4 +1,5 @@
 # HAPGEN
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.3.0 (Jan 2008)

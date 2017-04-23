@@ -1,4 +1,5 @@
 # ILLUMINUS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Illuminus is a fast and accurate algorithm for assigning single nucleotide polymorphism (SNP) genotypes to microarray data from the Illumina BeadArray technology.

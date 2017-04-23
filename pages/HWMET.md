@@ -1,4 +1,5 @@
 # HWMET
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 Bayesian estimation of the population inbreeding coefficient f

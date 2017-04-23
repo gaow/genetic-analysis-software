@@ -1,4 +1,5 @@
 # MITPENE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 A program for analysis of mitochondrial diseases

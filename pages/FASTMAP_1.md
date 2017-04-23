@@ -1,4 +1,5 @@
 # FASTMAP 1
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package

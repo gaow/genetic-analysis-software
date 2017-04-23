@@ -1,4 +1,5 @@
 # HAPLOVIEW
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 3.32 (May 2006)

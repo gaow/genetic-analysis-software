@@ -1,4 +1,5 @@
 # PAWE-3D
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Power for Association With Error in 3D

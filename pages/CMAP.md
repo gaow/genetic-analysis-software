@@ -1,4 +1,5 @@
 # CMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 genetic and comparative maps

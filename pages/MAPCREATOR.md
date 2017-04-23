@@ -1,4 +1,5 @@
 # MAPCREATOR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 4.0

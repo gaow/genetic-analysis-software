@@ -1,4 +1,5 @@
 # MULTIMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 program for automated construction of genetic maps

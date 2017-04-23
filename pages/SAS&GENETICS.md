@@ -1,4 +1,5 @@
 # SAS/GENETICS
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 add-on to the SAS System, Release 8.2

@@ -1,4 +1,5 @@
 # HAPBLOCK 2
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 April 2004

@@ -1,4 +1,5 @@
 # LDGROUP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 Nov 2007

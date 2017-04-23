@@ -1,4 +1,5 @@
 # ALTREE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 ALTREE performs these two phylogeny-based analysis: (1) it tests the association between a candidate gene and a disease; (2) it pinpoints markers (SNPs) that are putative disease susceptibility loci

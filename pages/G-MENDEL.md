@@ -1,4 +1,5 @@
 # G-MENDEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 3.0 (May 1994)

@@ -1,4 +1,5 @@
 # AMELIA
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Allele Matching Empirical Locus-specific Integrated Association test

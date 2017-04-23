@@ -1,4 +1,5 @@
 # EDAC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 power calculator for Extremely Discordant And Concordant sibpairs

@@ -1,4 +1,5 @@
 # MAPDISTO
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 v1.7.0 (October 2007)

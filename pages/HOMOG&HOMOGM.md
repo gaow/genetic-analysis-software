@@ -1,4 +1,5 @@
 # HOMOG/HOMOGM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 HOMOGM: Dec 1998

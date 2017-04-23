@@ -1,4 +1,5 @@
 # SNP CHART
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 The purpose of this software is to generate visual patterns that can be easily interpreted as a single specific Single Nucleotide Polymorphism (SNP) genotype, based on reiterative pattern recognition from validated SNP data

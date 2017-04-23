@@ -1,4 +1,5 @@
 # MENDEL
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 8.0.1 (expire April 2009)

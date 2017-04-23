@@ -1,4 +1,5 @@
 # MADELINE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 0.935 (July 2004)

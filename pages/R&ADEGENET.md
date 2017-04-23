@@ -1,4 +1,5 @@
 # R/ADEGENET
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.2-6 (September 2010)

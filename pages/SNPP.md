@@ -1,4 +1,5 @@
 # SNPP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Single Nucleotide Polymorphism Processor

@@ -1,4 +1,5 @@
 # FINESSE
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 To incorporate regressive models into the VITESSE likelihood engine

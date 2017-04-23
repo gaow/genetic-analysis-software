@@ -1,4 +1,5 @@
 # ANNOVAR
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 functional ANNOtation of genetic VARiants

@@ -1,4 +1,5 @@
 # BPPH
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Berkeley method for Perfect Phylogeney Haplotyping

@@ -1,4 +1,5 @@
 # HAPLO 1
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 * Haplotyping with computation of conditional probabilities

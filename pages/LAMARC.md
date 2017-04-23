@@ -1,4 +1,5 @@
 # LAMARC
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Likelihood Analysis with Metropolis Algorithm using Random Coalescence

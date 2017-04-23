@@ -1,4 +1,5 @@
 # EM-DECODER
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 a haplotype inference program

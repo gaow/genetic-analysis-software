@@ -1,4 +1,5 @@
 # SNPHAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.3.1

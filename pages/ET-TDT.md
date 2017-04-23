@@ -1,4 +1,5 @@
 # ET-TDT
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Evolutionary Tree - Transmission Disequilibrium Test

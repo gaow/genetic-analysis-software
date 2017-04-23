@@ -1,4 +1,5 @@
 # MULTIDISEQ
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Description
 MULTIDISEQ is multipoint linkage analysis software which allows Marker-Marker LD

@@ -1,4 +1,5 @@
 # CHECKHET
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 March'02 version

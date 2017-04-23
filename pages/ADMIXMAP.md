@@ -1,4 +1,5 @@
 # ADMIXMAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Admixture mapping

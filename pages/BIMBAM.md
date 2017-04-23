@@ -1,4 +1,5 @@
 # BIMBAM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Full Name
 Bayesian IMputation-Based Association Mapping

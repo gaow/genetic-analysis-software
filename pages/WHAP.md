@@ -1,4 +1,5 @@
 # WHAP
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 2.06 (Dec 2004)

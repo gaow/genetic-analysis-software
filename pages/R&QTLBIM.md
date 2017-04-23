@@ -1,4 +1,5 @@
 # R/QTLBIM
+Record added by Jurg Ott (the original Rockefeller list)
 
 ## Version
 1.7.7 (April 2008)
