@@ -2,7 +2,7 @@
 ```bash
 git clone https://github.com/matcornic/hugo-theme-learn.git themes/hugo-theme-learn
 rm -rf themes/hugo-theme-learn/.git*
-echo '''theme = "hugo-theme-learn" >> config.toml'''
+echo '''theme = "hugo-theme-learn"''' >> config.toml
 ```
 ## Create chapter folders
 ```

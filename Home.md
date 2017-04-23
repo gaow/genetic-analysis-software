@@ -1,9 +1,8 @@
-# About
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
-| [#](alphabetic-list.html#0) 	| [A](alphabetic-list.html#a) 	| [B](alphabetic-list.html#b) 	| [C](alphabetic-list.html#c) 	| [D](alphabetic-list.html#d) 	| [E](alphabetic-list.html#e) 	| [F](alphabetic-list.html#f) 	| [G](alphabetic-list.html#g) 	| [H](alphabetic-list.html#h) 	|
-| [I](alphabetic-list.html#i) 	| [J](alphabetic-list.html#j) 	| [K](alphabetic-list.html#k) 	| [L](alphabetic-list.html#l) 	| [M](alphabetic-list.html#m) 	| [N](alphabetic-list.html#n) 	| [O](alphabetic-list.html#o) 	| [P](alphabetic-list.html#p) 	| [Q](alphabetic-list.html#q) 	|
-| [R](alphabetic-list.html#r) 	| [S](alphabetic-list.html#s) 	| [T](alphabetic-list.html#t) 	| [U](alphabetic-list.html#u) 	| [V](alphabetic-list.html#v) 	| [W](alphabetic-list.html#w) 	| [X](alphabetic-list.html#x) 	| [Y](alphabetic-list.html#y) 	| [Z](alphabetic-list.html#z)  	|
+| [#](../../1) 	| [A](../../a) 	| [B](../../b) 	| [C](../../c) 	| [D](../../d) 	| [E](../../e) 	| [F](../../f) 	| [G](../../g) 	| [H](../../h) 	|
+| [I](../../i) 	| [J](../../j) 	| [K](../../k) 	| [L](../../l) 	| [M](../../m) 	| [N](../../n) 	| [O](../../o) 	| [P](../../p) 	| [Q](../../q) 	|
+| [R](../../r) 	| [S](../../s) 	| [T](../../t) 	| [U](../../u) 	| [V](../../v) 	| [W](../../w) 	| [X](../../x) 	| [Y](../../y) 	| [Z](../../z)  	|
 
 ## Scope
 This page, historically known as the "Rockefeller list", is a list of computer programs for genetics analysis, including but not limiting to topics of:

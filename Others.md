@@ -1,4 +1,3 @@
-# Other genetic analysis software lists
 ## Lists of software
 * [ENCODE software list](https://www.encodeproject.org/search/?type=software)
 * Some earlier software can be downloaded from EBI Linkage and Mapping Software Repository
