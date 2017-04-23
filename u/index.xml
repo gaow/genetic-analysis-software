@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/u/index.xml</link>
+    <description>Recent content in U on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/u/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UMAKE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/u/umake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/u/umake/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;UMAKE is a software pipeline to detect SNPs and call their genotypes from a list of BAM files. UMAKE pipeline has been successfully applied in detecting SNPs from many large-scale next-generation sequencing studies.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hyun Min Kang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Goo Jun&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Carlo Sidore&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Yun Li&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Paul Anderson&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mary Kate Trost&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wei Chen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tom Blackwell&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Goncalo Abecasis (Univ Michigan)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://genome.sph.umich.edu/wiki/UMAKE&#34;&gt;http://genome.sph.umich.edu/wiki/UMAKE&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UNKNOWN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/u/unknown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/u/unknown/</guid>
+      <description>
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;a relevant documentation is &amp;ldquo;the mystery of (the) unknown&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;LINKAGE - general pedigrees&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UNPHASED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/u/unphased/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/u/unphased/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0.13 (May 2008)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;UNPHASED is a suite of programs for association analysis of multilocus haplotypes from unphased genotype data. These include TDTPHASE for case-parent trios, COCAPHASE for case/control data, QTPHASE for quantitative traits in unrelateds, PDTPHASE for general pedigrees, and QPDTPHASE for quantitative traits in general pedigrees. Features include global and individual haplotype tests, main effects and conditional tests, grouping of rare haplotypes, pairwise comparisons of haplotype risk, flexible permutation procedures and calculation of LD measures.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Frank Dudbridge (MRC Human Genome Mapping Project Resource Centre)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;email: frank.dudbridge@mrc-bsu.cam.ac.uk&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrc-bsu.cam.ac.uk/personal/frank/software/unphased/&#34;&gt;http://www.mrc-bsu.cam.ac.uk/personal/frank/software/unphased/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++, Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SOlaris), Linux, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;unphased, tdtphase, cocaphase, pdtphase, qpdtphase&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;F Dudbridge (2003), &amp;ldquo;Pedigree disequilibrium tests for multilocus haplotypes&amp;rdquo;, Genetic Epidemiology, 25:115-121.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dudbridge (2008), &amp;ldquo;Likelihood-based association analysis for nuclear families and unrelated subjects with missing genotype data&amp;rdquo;, Human Heredity, 66:87-98.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UTIL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/u/util/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/u/util/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;statistical genetics UTILity programs&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jurg Ott (Rockefeller University, email:ott@rockefeller.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lab.rockefeller.edu/ott/programs&#34;&gt;http://lab.rockefeller.edu/ott/programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Pascal&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;multiple, binom, chiprob, conting, equiv, hist, hwe, ibd, mapfun, nocom, norinv, norprob, par, pvalues, relrisk, sexdif, tprob, trend&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Ott (1999), Analysis of human genetic linkage 3rd edition (Johns Hospkins University Press, Baltimore).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

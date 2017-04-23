@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/d/index.xml</link>
+    <description>Recent content in D on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/d/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DCHIP LINKAGE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dchip-linkage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dchip-linkage/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Igor Leykin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cheng Li (Harvard University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.biostat.harvard.edu/complab/dchip/snp.htm&#34;&gt;http://www.biostat.harvard.edu/complab/dchip/snp.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.biostat.harvard.edu/~ileykin/accessory.htm&#34;&gt;http://www.biostat.harvard.edu/~ileykin/accessory.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://groups.yahoo.com/group/dchip/&#34;&gt;http://groups.yahoo.com/group/dchip/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data&amp;rdquo;, BMC Genetics, 6:7.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DGENE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dgene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dgene/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a simple dBASE III program for the management of pedigree and locus data. It permits easy extraction of genetic data for use with MENDEL and FISHER.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kenneth Lange (UCLA)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Daniel E. Weeks (Pittsburgh)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;M. Boehnke&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;registration page at: &lt;a href=&#34;http://www.biomath.medsch.ucla.edu/faculty/klange/software.html&#34;&gt;http://www.biomath.medsch.ucla.edu/faculty/klange/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;dBASE III&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS, &amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DHSMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dhsmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dhsmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Decay of Haplotype Sharing MAPping software&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0 (October 18, 2001)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;DHSMAP is a program for fine-mapping of qualitative traits by linkage disequilibrium. Given a set of marker haplotypes or genotypes from affected individuals, haplotypes or genotypes from appropriately selected controls, and a genetic map of the markers at which both sets of individuals are typed, DHSMAP estimates the location of the trait-associated variant by maximum likelihood or maximum quasi-likelihood.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Andrew Strahs&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kenneth Wilder&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mary Sara McPeek (University of Chicago)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://galton.uchicago.edu/~mcpeek/software/dhsmap/&#34;&gt;http://galton.uchicago.edu/~mcpeek/software/dhsmap/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris/..), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;dhsmap.solaris, dhsmap.linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;McPeek and Strahs (1999), &amp;ldquo;Assessment of linkage disequilibrium by the decay of haplotype sharing, with application to fine-scale genetic mapping&amp;rdquo;, American Journal of Human Genetics, 65(3):858-875&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DINDEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dindel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dindel/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Dindel is a program for calling small indels from short-read sequence data (&amp;lsquo;next generation sequence data&amp;rsquo;). It is currently designed to handle only Illumina data. Dindel takes BAM files with mapped Illumina read data and enables researchers to detect small indels and produce a VCF file of all the variant calls.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Cornelis Albers (Wellcome Trust Sanger Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/dindel/&#34;&gt;http://www.sanger.ac.uk/resources/software/dindel/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Albers, Lunter, MacArthur, McVean, Ouwehand, Durbin (2011), &amp;ldquo;Dindel: Accurate indel calls from short-read data&amp;rdquo;, Genome Research, 21:961-973.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DISENTANGLER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/disentangler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/disentangler/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;October 2011&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The disentangler is a visualization technique for linkage disequilibrium mapping and haplotype analysis of multiple multi-allelic genetic markers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;K Kumasaka et al.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://kumasakanatsuhiko.jp/projects/disentangler/&#34;&gt;http://kumasakanatsuhiko.jp/projects/disentangler/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java/JRE1.5&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Okada et al. (2011), &amp;ldquo;HLA-Cw*1202-B*5201-DRB1*1502 haplotype increases risk for ulcerative colitis but reduces risk for Crohn&amp;rsquo;s disease&amp;rdquo;, Gastroenterology, 141(3):864-871.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;fine-scale disequilibrium mapping of a rare allele&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jinko Graham&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.math.sfu.ca/~jgraham/Papers/Programs/DisequilibriumMapping/&#34;&gt;http://www.math.sfu.ca/~jgraham/Papers/Programs/DisequilibriumMapping/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Graham, Thompson (1998), &amp;ldquo;Disequilibrium likelihoods for fine-scale mapping of a rare allele&amp;rdquo;, American Journal of Human Genetics, 63(5):1517-1530&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMLE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dmle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dmle/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Disease Mapping using Linkage disEquilibrium&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.3 (October 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;high-resolution mapping of the position of a disease mutation relative to a set of genetic markers using population linkage disequilibrium (LD).&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jeff Reeve&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ying Wang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rannala (University Alberta, Canada)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dmle.org/&#34;&gt;http://www.dmle.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DNABASER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dnabaser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dnabaser/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a tool for manual and automatic DNA sequence assembly, DNA sequence analysis, automatic sample processing, contig editing, metadata integration, file format conversion and mutation detection.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dnabaser.com/&#34;&gt;http://www.dnabaser.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DOLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dolink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dolink/</guid>
+      <description>
+
+&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
+
+&lt;dl&gt;
+&lt;dd&gt;WDLINK&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;manage genetic data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&#34;&gt;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&#34;&gt;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Cook, Gurling, Curtis (1993), &amp;ldquo;DOLINK: a computer program to facilitate management of genetic data and analyses&amp;rdquo;, Annals of Human Genetics, 57:307-310.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DPPH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/d/dpph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/d/dpph/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Direct method for Perfect Phylogeney Haplotyping&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;similar to the BPPH program&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ren-Hua Chuang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dan Gusfield (UC Davis) (email: gusfield@cs.ucdavis.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html&#34;&gt;http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Bafna, Gusfield, Lancia, Yooseph (2003), &amp;ldquo;Haplotyping as perfect phylogeny: a direct approach&amp;rdquo;, Journal of Computational Biology, 10(3):323-340.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

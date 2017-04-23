@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/s/index.xml</link>
+    <description>Recent content in S on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/s/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SAGE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sage/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Statistical Analysis for Genetic Epidemiology&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;5.3&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The S.A.G.E. software provides researchers with the tools necessary for various types of statistical genetic analysis of human family data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;R Elston&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J Bailey-Wilson&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;G Bonney&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;L. Tran&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;B. Keats&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A. Wilson&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://darwin.cwru.edu/sage/&#34;&gt;http://darwin.cwru.edu/sage/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C [version 4.0 will be in C++]&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;assoc, fcor, freq, genibd, lodlink, lodpal, markerinfo, mlod, pedinfo, reltest, segreg, sibpal, tdtex&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAMTOOLS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/samtools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/samtools/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Sequence Alignment/Map TOOLS&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format. The parts that relevant to genetic analysis include SNP and indel callings.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Heng Li (Broad Institute)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Richard Durbin (Wellcome Trust Sanger Institute) et al.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://samtools.sourceforge.net/&#34;&gt;http://samtools.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C, C++, Java, Perl, Python, Ruby, Common LISP, Haskell&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Li, Handsaker, Wysoker, Fennell, Ruan, Homer, Marth, Abecasis, Durbin, and 1000 Genome Project Data Processing Subgroup (2009), &amp;ldquo;The sequence alignment/map (SAM) format and SAMtools&amp;rdquo;, Bioinformatics, 25:2078-2079.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAS/GENETICS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sasgenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sasgenetics/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;add-on to the SAS System, Release 8.2&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Software for summarizing marker properties (allele &amp;amp; genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;W Czika&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;X Yu&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, UNIX(HPUX/AIXR/Solaris/..), MVS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;introduction&lt;/p&gt;
+
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;please contact shannon.conners@jmp.com for details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SASGENE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sasgene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sasgene/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2 (March 1999)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a SAS computer program for gene segregation and linkage analysis in breeding population&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jinsheng Liu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Todd Wehner&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sandy Donaghy&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&#34;&gt;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;SAS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SASQUANT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sasquant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sasquant/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1 (May 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a SAS software program to estimate genetic effects and heritabilities of quantitative traits in breeding populations consisting of six related generations&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Gabriele Gusmini&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Todd Wehner&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sandy B. Donaghy&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&#34;&gt;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;SAS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Gusmini, Wehner, Donaghy (2007), &amp;ldquo;SASQuant: A SAS software program to estimate genetic effects and heritabilities of quantitative traits in populations consisting of six related generations&amp;rdquo;, Journal of Heredity, 98(4):345-350.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SCORE-SEQ</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/score-seq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/score-seq/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SCORE-Seq is a command-line program for detecting disease associations with rare variants in sequencing studies. The mutation information is aggregated across multiple variant sites of a gene through a weighted linear combination and then related to disease phenotypes through appropriate regression models. The weights can be constant or dependent on allele frequencies and phenotypes. The association testing is based on score-type statistics. The allele-frequency threshold can be fixed or variable. Statistical significance can be assessed by using asymptotic normal approximation or resampling. The current release covers binary and continuous traits with arbitrary covariates under case-control and cross-sectional sampling.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Danyu Lin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zheng-Zheng Tang (Univ North Carolina)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bios.unc.edu/~lin/software/SCORE-Seq/&#34;&gt;http://www.bios.unc.edu/~lin/software/SCORE-Seq/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Lin, Tang (2011), &amp;ldquo;A general framework for detecting disease associations with rare variants in sequencing studies&amp;rdquo;, American Journal of Human Genetics, 89:354-367.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SCOUT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/scout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/scout/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.00 (Jan 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Scout is a software program for conducting combined association analysis of triads and unrelated subjects&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Richard Duncan&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Michael Epstein (Emory University, email: statgen@genetics.emory.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.genetics.emory.edu/labs/epstein/software/scout/index.html&#34;&gt;http://www.genetics.emory.edu/labs/epstein/software/scout/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Fortran (CVF 6.6) with IMSL routines&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows(2000/XP)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;scout_cl.exe, scout_gui.exe&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Epstein, Veal, Trembath, Barker, Li, Satten (2005), &amp;ldquo;Genetic association analysis using data from triads and unrelated subjects&amp;rdquo;, American Journal of Human Genetics, 76(4):592-608. [ html]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SDMINP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sdminp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sdminp/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Step-Down MIN P-value&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (December 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SDMinP is an easy-to-use program for fast calculation of empirical and adjusted p-values for correlated and uncorrelated hypotheses in multiple testing experiments. It is based on the Free Step-Down Resampling Method for controlling the Family Wise Error Rate, originally proposed by Westfall and Young (1993), and implements a variation of the efficient algorithm of Ge et al. (2003), in which the originally necessary re-sampling effort was reduced considerably and the method made computationally more feasible. The program is independent of the underlying test statistic and works with provided observed and permutation test statistics.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Markus Obreiter&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lars Beckmann (email: l.beckmann@dkfz.de)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dkfz.de/SDMinP/&#34;&gt;http://www.dkfz.de/SDMinP/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Python 2.3.5&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, Linux, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Obreiter, Fischer, Chang-Claude, Beckmann (2005), &amp;ldquo;SDMinP: a program to control the family wise error rate using step-down minP adjusted p-values&amp;rdquo;, Bioinformatics, 21(14):3183-3184.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEGPATH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/segpath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/segpath/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;SEGregation analysis and PATH analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Michael A. Province (email: mike@wubios.wustl.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biostat.wustl.edu/~mike/segpath/&#34;&gt;http://www.biostat.wustl.edu/~mike/segpath/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Province, Rao (1995), &amp;ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&amp;rdquo;, Genetic Epidemiology, 12(2):203-219.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Province, Rice, Borecki, Gu, Kraja, Rao (2003), &amp;ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&amp;rdquo;, Genetic Epidemiology, 24(2):128-138.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SELSIM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/selsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/selsim/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.1 (June 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;When designing methods which provide the necessary power to detect regions of the genome which have experience historical selective pressures it is important to consider which patterns of genetic diversity are indicative of particular forms of natural selection. SELSIM is a program which can simulate population genetic data in which a single site has experienced natural selection.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Chris Spencer (Univ of Oxford, email: spencer@stats.ox.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/mathgen/software.html&#34;&gt;http://www.stats.ox.ac.uk/mathgen/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html&#34;&gt;http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C,C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows(XP), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Spencer, Coop (2004), &amp;ldquo;SelSim: a program to simulate population genetic data with natural selection and recombination&amp;rdquo;, Bioinformatics, 20:3673-3675.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEQUENCE LD/SEQUENCE LDHOT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets).&lt;/p&gt;
+
+&lt;p&gt;The program sequenceLDhot is a method for detecting recombination hotspots from population genetic data. It takes as input phased (i.e. haplotype) data, together with an estimate of the background recombination rate within the region (this is allowed to vary across the region). Then sequenceLDhot considers a grid of putative hotspot positions, and for each putative hotspot calculates a likelihood ratio statistics for the presence of a hotspot.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Paul Fearnhead (Department of Mathematics, Statistics, Lancaster University, UK)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.maths.lancs.ac.uk/~fearnhea/Software.html&#34;&gt;http://www.maths.lancs.ac.uk/~fearnhea/Software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Fearnhead, Donnelly (2002), &amp;ldquo;Approximate likelihood methods for estimating local recombination rates&amp;rdquo;, Journal of the Royal Statistical Society series B, 64:657-680.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fearnhead (2006), &amp;ldquo;SequenceLDhot: detecting recombination hotspots&amp;rdquo;, Bioinformatics, 22:3061-3066.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SGS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sgs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sgs/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0d&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Bernd Degen&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://software.bfh-inst2.de/download3.html&#34;&gt;http://software.bfh-inst2.de/download3.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;VisualBasic&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/00/NT)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Degen, Petit, Kremer (2001), &amp;ldquo;SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations&amp;rdquo;, Journal of Heredity, 92(5):447-448.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIB-PAIR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sib-pair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sib-pair/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.00a (January 2007)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Program SIB-PAIR performs a number of simple analyses of family data that tend to be &amp;ldquo;nonparametric&amp;rdquo; or &amp;ldquo;robust&amp;rdquo; in nature, includes IBD and IBS based APM, Haseman-Elston sib pair, TDT and association analyses.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;David Duffy (Queensland Institute of Med Res, Australia, davidd@qimr.edu.au)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www2.qimr.edu.au/davidD&#34;&gt;http://www2.qimr.edu.au/davidD&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Fortran77&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.J. Hum. Genet. suppl. 61, A197 (1997)); online manual page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIBERROR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/siberror/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/siberror/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;SibError&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (November 20, 1997)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SibError is an algorithm that identifies pedigree errors in sibship data. Examples include half siblings, unrelated individuals, identical twins, and parental exclusions. The test statistic is based on the summation of the number of alleles shared by a pair of relatives for a large number of markers and the number of alleles and allele frequencies for those markers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Drs. Meg Gelder Ehm (mge37216@glaxowellcome.com)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Michael Wagner ( mw29911@glaxowellcome.com) (Glaxo Wellcome, Inc.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;siberror&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Ehm, Wagner (1998), &amp;ldquo;Test statistic to detect errors in sib-pair relationship&amp;rdquo;, American Journal of Human Genetics, 62(1):181-188&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIBLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/siblink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/siblink/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;SIBLINK allows the user to perform multipoint linkage analysis based on estimated IBD sharing between affected sibpairs. IBD sharing is inferred from IBS status, given marker genotypes, frequencies, and locations. Resulting LOD scores are maximized across a grid of possible disease locations and IBD sharing vectors.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Elizabeth Hauser&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mike Boehnke&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;William Duren&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wwwchg.duhs.duke.edu/software/siblink.html&#34;&gt;http://wwwchg.duhs.duke.edu/software/siblink.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;siblink3.0&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ER Hauser, M Boehnke, SW Guo, N Risch (1996), Genetics Epidemiology. 13:117-137.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ER Hauser, M Boehnke M (1998), Biometrics, 54:1238-1246.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

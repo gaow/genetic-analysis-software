@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title># on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/1/index.xml</link>
+    <description>Recent content in # on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2DMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/1/2dmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/1/2dmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;constructing 2-d crossover-based map&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Edward Kort ( edward@episun2.med.utah.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.genlink.wustl.edu/software&#34;&gt;http://www.genlink.wustl.edu/software&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://mapper.wustl.edu/pub/two-d&#34;&gt;ftp://mapper.wustl.edu/pub/two-d&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;pic-2d, 2d-map, 2d-color&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2LD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/1/2ld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/1/2ld/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2002&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;2LD is a simple program calculating linkage disequilibrium (LD) measures between two polymorphic markers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software.htm&#34;&gt;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20(8):1325-1326.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zapata, Carollo, Rodriguez (2001), &amp;ldquo;Sampling variance and distribution of the D&amp;rsquo; measure of overall gametic disequlibrium between multiallelic loci&amp;rdquo;, Annals of Human Genetics, 65:395-406.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2SNP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/1/2snp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/1/2snp/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.5 (Aug 4, 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Alexander Zelikovsky (email: alexz@cs.gsu.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dumitru Brinza (email: dima@cs.gsu.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://alla.cs.gsu.edu/~software/2SNP/&#34;&gt;http://alla.cs.gsu.edu/~software/2SNP/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

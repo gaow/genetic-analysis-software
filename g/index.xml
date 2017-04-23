@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/g/index.xml</link>
+    <description>Recent content in G on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/g/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>G-MENDEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/g-mendel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/g-mendel/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0 (May 1994)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a tool for construction of genetic linkage maps and analyzing Mendelian phenotypes.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;J.L Holloway&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S.J. Knapp (Department of Crop, Soil Science, Oregon State University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cropandsoil.oregonstate.edu/G-mendel&#34;&gt;http://cropandsoil.oregonstate.edu/G-mendel&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAIA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gaia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gaia/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genetic Association Interaction Analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1 (2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;GAIA is an easy to use, web-based application for testing for locus-locus interaction using genetic association. It is based upon the case-control study design and is designed so that non-specialists may routinely apply tests for interaction. GAIA allows simple testing of both additive and additive plus dominance interaction models and includes permutation testing to appropriately correct for multiple testing. The application is useful for both candidate gene based studies and genome-wide association studies. For large scale studies GAIA includes a screening approach which prioritizes loci for further interaction analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Stuart Macgregor (QIMR, Brisbane, Australia, Cardiff University, UK) (email: stuart.macgregor@qimr.edu.au)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Imtiaz Khan&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bbu.cf.ac.uk/html/research/biostats.htm&#34;&gt;http://www.bbu.cf.ac.uk/html/research/biostats.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;perl, R&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Macgregor and Khan (2006), &amp;ldquo;GAIA: An easy-to-use web-based application for interaction analysis of case-control data&amp;rdquo;, BMC Medical Genetics, 7:34&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;genetic analysis package&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a comprehensive package for the management and analysis of pedigree data. it offers: 1. Powerful database management tools, specifically designed for family data; 2. Automatic pedigree drawing; 3. Segregation and linkage analysis, based on traditional maximum likelihood methods and newer, more powerful, Monte Carlo methods that can model both genetic and environmental factors.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&amp;ldquo;Epicenter Software&amp;rdquo;: Jonathan Buckley (Dept of Preventive Medicine, USC, jbuckley@hsc.usc.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jim Gauderman&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Duncan Thomas&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cheryl Faucett&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;John Morrison ( jmorr@rcf.usc.edu).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.epicentersoftware.com/products.php&#34;&gt;http://www.epicentersoftware.com/products.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;c++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (3.1/95/NT), UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;price single user: US$795; LAN version: US$1295. Kindred only: US$495. (academic prices are US$595, US$1095, US$395, respectively)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gas/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genetic Analysis System&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0 (Dec 1995)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;statistical analysis of genetic linkage data, sib-pair analysis, association studies&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Alan Young ( ayoung@vax.ox.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://users.ox.ac.uk/~ayoung/gas.html&#34;&gt;http://users.ox.ac.uk/~ayoung/gas.html&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAS2</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gas2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gas2/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;statistical significance in Genomewide Association Studies in 2-stage&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Evaluating Statistical Significance in Two-Stage Genomewide Association Studies&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bios.unc.edu/~lin/software/GAS2/&#34;&gt;http://www.bios.unc.edu/~lin/software/GAS2/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN77&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Lin (2006), &amp;ldquo;Evaluating statistical significance in two-stage genomewide association studies&amp;rdquo;, American Journal of Human Genetics, 78(3):505-509&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GASP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gasp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gasp/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genometric Analysis Simulation Program&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.31 (April 1998)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a software tool for testing and investigating methods in statistical genetics by generating samples of family data based on user specified models.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A.F. Wilson ( afw@nhgri.nih.gov)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J.E.Bailey-Wilson&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;E.W. Pugh&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A.J.M. Sorant (NCHGR/NIH)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.nhgri.nih.gov/DIR/IDRB/GASP/&#34;&gt;http://www.nhgri.nih.gov/DIR/IDRB/GASP/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://nhgri.nih.gov/pub/outgoing/gasp&#34;&gt;ftp://nhgri.nih.gov/pub/outgoing/gasp&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN77&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(DEC-UNIX 4.0B/Solaris 2.5/SGI-IRIX 6.2/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Am Soc Hum Genet annual meeting 1996 (Wilson, Bailey-Wilson, Pugh, Sorant, Am J. Hum Genet, suppl, 59, A193 (1996)); documentation draft (in postscript)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GASSOC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gassoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gassoc/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genetic ASSOCiation analysis software for cases and parent&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.06 (Jun 2001)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Statistical methods for disease and genetic marker associations using cases and their parents. These methods include an extension of the transmission/disequilibrium test (TDT) for multiple marker alleles, as well as additional general tests sensitive to associations that depend on dominant or recessive genetic mechanisms.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;D.J. Schaid ( schaid@mayo.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;C. M. Rowland (Mayo Clinic/Foundation)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm&#34;&gt;http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SunOS/Solaris/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1996 (Rowland, Schaid, Am J. Hum Genet, suppl, 59, A234 (1996)).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaid (1996), Genetic Epidemiology, 13:423-449.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GATK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gatk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gatk/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genome Analysis ToolKit&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The GATK is a structured software library that makes writing efficient analysis tools using next-generation sequencing data very easy, and second it&amp;rsquo;s a suite of tools for working with human medical resequencing projects such as 1000 Genomes and The Cancer Genome Atlas. These tools include things like a depth of coverage analyzers, a quality score recalibrator, a SNP/indel caller and a local realigner.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Mark DePristo et al. (Broad Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit&#34;&gt;http://www.broadinstitute.org/gsa/wiki/index.php/The_Genome_Analysis_Toolkit&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;DePristo, Banks, Poplin, Garimella, Maguire, Hartl, Philippakis, del Angel, Rivas, Hanna, McKenna, Fennell, Kernytsky, Sivachenko, Cibulskis, Gabriel, Altshuler, Daly (2011), &amp;ldquo;A framework for variation discovery and genotyping using next-generation DNA sequencing data&amp;rdquo;, Nature Genetics, 43:491-498.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GC/GCF</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gcgcf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gcgcf/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genomic Control&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;GC implements the genomic control models. GCF implements the basic Genomic Control approach, but adjusts the p-values for uncertainty in the estimated effect of substructure. This approach is preferable if a large number of tests will be evaluated because it provides a more accurrate assessment of the significance level for small p-values.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;B Devlin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;K Roeder&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wpicr.wpic.pitt.edu/WPICCompGen/genomic_control/genomic_control.htm&#34;&gt;http://wpicr.wpic.pitt.edu/WPICCompGen/genomic_control/genomic_control.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Devlin, Roeder (1999), &amp;ldquo;Genomic control for association studies&amp;rdquo;, Biometrics, 55:997-1004.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bacanu, Devlin, Roeder (2002), &amp;ldquo;Association studies for quantitative traits in structured populations&amp;rdquo;, Genetic Epidemiology, 22:78-93.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Devlin, Bacanu, Roeder (2004), &amp;ldquo;Genomic control in the extreme&amp;rdquo;, Nature Genetics, 36(11):1129-1130.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GCHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gchap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gchap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Gene Counting method for HAPlotype analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This program finds maximum likelihood estimates of haplotype frequencies from a sample of genotyped individuals. By excluding haplotypes with zero MLE at an early stage, this implementation uses many orders of magnitude less space and time than naive implementations. A second program, ApproxGCHap, is provided to give alternate estimates for data sets with large numbers of loci or large amounts of missing genotypes.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Alun Thomas (email: alun@genepi.med.utah.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://episun7.med.utah.edu/~alun/gchap/index.html&#34;&gt;http://episun7.med.utah.edu/~alun/gchap/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://balance.med.utah.edu/wiki/index.php/GCHap&#34;&gt;http://balance.med.utah.edu/wiki/index.php/GCHap&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thomas (2003), &amp;ldquo;GCHap: fast MLEs for haplotype frequencies by gene counting&amp;rdquo;, Bioinformatics, 19:2002-2003.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thomas (2003), &amp;ldquo;Accelerated gene counting for haplotype frequency estimation&amp;rdquo;, Annals of Human Genetics, 67:608-612.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;GENEPI.JAR&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GDA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gda/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genetic Data Analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0d16c (Jan 2001)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;designed to accompany the second edition of Bruce Weir&amp;rsquo;s book &amp;ldquo;Genetic Data Analysis&amp;rdquo; (1996. Sinauer Associates)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Paul Lewis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dmitri Zaykin&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php&#34;&gt;http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (3.1/95/NT), MacOS (10.2.&lt;sup&gt;8&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt;.3)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GEMS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/gems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/gems/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Genetic Epidemiology ModelS&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a computer software for fitting Genetic Epidemiology Models. This version of GEMS provides the features for many statistical analyses of family data:&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;GE Bonney&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;V Apprey&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J Kwagyan (Howard Univ)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://statgen.genomecenter.howard.edu/gems.htm&#34;&gt;http://statgen.genomecenter.howard.edu/gems.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(DEC-alpha), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;gems&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am. J. Hum. Genet. suppl 61, A212 (1997)); Bonney, Apprey, Kwagyan (2001), &amp;ldquo;A computer software for fitting Genetic Epidemiology Models&amp;rdquo;, tech report 2001-02.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GENABEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/genabel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/genabel/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;R/GENABEL&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GENECLASS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/geneclass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/geneclass/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;v2.0g (Jan 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;GENECLASS2 is a program employing multilocus genotypes to select or exclude populations as origins of individuals (Assignment and Migrants Detection).&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jean-Marie Cornuet&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.montpellier.inra.fr/URLB/&#34;&gt;http://www.montpellier.inra.fr/URLB/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Delphi&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windos, UNIX&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Piry, Alapetite, Cornuet, Paetkau, Baudouin, Estoup (2004), &amp;ldquo;GeneClass2: a software for genetic assignment and first-generation migrant detection&amp;rdquo;, Journal of Heredity, 95:536-539.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GENECOUNTING</title>
+      <link>https://gaow.github.io/genetic-analysis-software/g/genecounting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/g/genecounting/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.2&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;gene-counting for haplotype analysis with permutation tests for global association and specific haplotypes, accounting for missing data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&#34;&gt;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, UNIX(Solaris), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;gc, gcp, gcx, pgc., RUNGC, SCANASSOC, COMPGR, SCANGROUP, LDPAIRS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Zhao, Lissarrague, Essioux, Sham (2002), &amp;ldquo;GENECOUNTING: haplotype analysis with missing genotypes&amp;rdquo;, Bioinformatics, 18(12):1694-1695.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Curtis, Knight, Sham (2006), &amp;ldquo;Program report: GENECOUNTING support programsProgram report: GENECOUNTING support programs&amp;rdquo;, Annals of Human Genetics, 70:277-279.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

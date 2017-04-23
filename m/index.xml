@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/m/index.xml</link>
+    <description>Recent content in M on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/m/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MACH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mach/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;MArkov Chain Haplotyper&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;MACH is a Markov Chain based haplotyper. It can be resolve long haplotypes or infer missing genotypes in samples of unrelated individuals.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Yun Li (email: ylwtx@umich.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Goncalo Abecasis (email: goncalo@umich.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/abecasis/MACH/index.html&#34;&gt;http://www.sph.umich.edu/csg/abecasis/MACH/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;MINIMAC&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MADELINE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/madeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/madeline/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.935 (July 2004)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Madeline is a program designed for preparing, visualizing, and exploring human pedigree data used in genetic linkage studies. In addition to converting pedigree and marker data into various formats required by linkage analysis software, Madeline also provides useful functionality for querying pedigree data sets and drawing pedigrees.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Edward Trager (email: ehtrager@umich.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://eyegene.ophthy.med.umich.edu/&#34;&gt;http://eyegene.ophthy.med.umich.edu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX (Solaris/FreeBSD/OpenBSD/MacOS), MS-Windows, Cygwin, Linux,&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;madeline&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://eyegene.ophthy.med.umich.edu/madeline-0.935/&#34;&gt;http://eyegene.ophthy.med.umich.edu/madeline-0.935/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MADMAPPER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/madmapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/madmapper/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;September 2005&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;suite of Python scripts for quality control of genetic markers, group analysis and inference of linear order of markers on linkage groups. MadMapper_RECBIT analyses raw marker scores for recombinant inbred lines. MadMapper_RECBIT generates pairwise distance scores for all markers, clusters based on pairwise distances, identifies genetic bins, assigns new markers to known linkage groups, validates allele calls, and assigns quality classes to each marker based on several criteria and cutoff values. MadMapper_XDELTA utilizes new algorithm, Minimum Entropy Approach and Best-Fit Extension, to infer linear order of markers. MadMapper_XDELTA analyzes two-dimensional matrices of all pairwise scores and finds best map that has minimal total sum of differences between adjacent cells (map with lowest entropy). MadMapper is freely available at &lt;a href=&#34;http://www.atgc.org/XLinkage/MadMapper/&#34;&gt;http://www.atgc.org/XLinkage/MadMapper/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Alexander Kozik (UC Davis Genome Center)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.atgc.org/XLinkage/MadMapper/&#34;&gt;http://www.atgc.org/XLinkage/MadMapper/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Python&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;MadMapper_RECBIT, MadMapper_XDELTA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAGIC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/magic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/magic/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Marker And Gene Interpolation and Correlation&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Claire Simpson (c.simpson@iop.kcl.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ammar Al-Chalabi (ammar@iop.kcl.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;John Powell (john.powell@iop.kcl.ac.uk)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cogent.iop.kcl.ac.uk/MaGIC.cogx&#34;&gt;http://cogent.iop.kcl.ac.uk/MaGIC.cogx&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Microsoft Visual Foxpro&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/NT/2000/XP)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;CL Simpson, VK Hansen, PC Sham, A Collins, JF Powell, A Al-Chalabi (2004), &amp;ldquo;MaGIC: A program to generate targeted marker sets for genome-wide association studies&amp;rdquo;, BioTechniques, 37:996-999.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAIA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/maia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/maia/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (Jan 2000)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;complex segregaton analysis in animal pedigrees&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Yurii Aulchenko (email: yurii@bionet.nsc.ru)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mga.bionet.nsc.ru/soft/maia-1.0/&#34;&gt;http://mga.bionet.nsc.ru/soft/maia-1.0/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAKEPED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/makeped/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/makeped/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;MAKE PEDfiles&lt;/p&gt;
+
+&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
+
+&lt;p&gt;LINKAGE/MAKEPED&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;This is a 16 bit program and will not run on 64 bit PCs, see &lt;a href=&#34;http://www.jurgott.org/linkage/LinkagePC.html&#34;&gt;http://www.jurgott.org/linkage/LinkagePC.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;part of the LINKAGE auxiliary programs&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Peter Cartwright (University of Utah, now Cimarron Software pc@cimsoft.com)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lab.rockefeller.edu/ott/programs&#34;&gt;http://lab.rockefeller.edu/ott/programs&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C and Pascal&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, VMS, MS-DOS, OS2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MALDSOFT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/maldsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/maldsoft/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;MALDSoft is a program for admixture mapping of complex trait loci, using case-control data. The samples should come from a recently-admixed population; additional &amp;lsquo;learning&amp;rsquo; samples from the parental populations are helpful.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Giovanni Montana&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jonathan Pritchard (email: jpritcha@genetics.uchicago.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pritch.bsd.uchicago.edu/software/maldsoft_download.html&#34;&gt;http://pritch.bsd.uchicago.edu/software/maldsoft_download.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, Linux, MS-Windows (DOS/Window&amp;hellip;)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;G Montana, JK Pritchard (2004), &amp;ldquo;Statistical tests for admixture mapping with case-control and cases-only data&amp;rdquo;, American Journal of Human Genetics, 75(5):771-789&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAMA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mama/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Multivariate Association Mapping Algorithms&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://polymorphism.ucsd.edu/cgi-bin/PRL/mama/mama.cgi&#34;&gt;http://polymorphism.ucsd.edu/cgi-bin/PRL/mama/mama.cgi&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MANTEL-STRUCT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mantel-struct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mantel-struct/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;tests for population structure through the use of Mantel tests&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Mark Miller (email: mark.miller@usu.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.marksgeneticsoftware.net/&#34;&gt;http://www.marksgeneticsoftware.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Miller (1999), &amp;ldquo;MANTEL-STRUCT: a program for the detection of population structure via mantel tests&amp;rdquo;, Journal of Heredity, 90:258-259.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAOS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/maos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/maos/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Meta-Analysis with Overlapping Subjects&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Data from genome-wide association studies are often analyzed jointly for the purposes of combining information from multiple studies of the same disease or comparing results across different disorders. In many instances, the same subjects appear in multiple studies. Failure to account for overlapping subjects can greatly inflate type I error when combining results from multiple studies of the same disease and can drastically reduce power when comparing results across different disorders. MAOS implements valid and efficient statistical methods for meta-analysis of genomewide association studies with overlapping subjects. The current release performs logistic regression analysis of individual level data under the additive mode of inheritance.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Danyu Lin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Patrick Sullivan (Univ North Carolina)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bios.unc.edu/~lin/software/MAOS/&#34;&gt;http://www.bios.unc.edu/~lin/software/MAOS/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Lin, Sullivan (2009), &amp;ldquo;Meta-analysis of genome-wide association studies with overlapping subjects&amp;rdquo;, American Journal of Human Genetics, 85(6):862-872.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAP MANAGER QT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/map-manager-qt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/map-manager-qt/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;QTb29 (August 2000)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A graphic, interactive program to map quantitative trait loci by regression methods; MAP MANAGER CLASSIC enhanced by quantitative trait mapping.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;K.F. Manly&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mapmanager.org/mmQT.html&#34;&gt;http://www.mapmanager.org/mmQT.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Pascal&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Manly and Olsen, Mammalian Genome, 10:327-334 (1999)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAP MANAGER QTX</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/map-manager-qtx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/map-manager-qtx/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;QTXb20 (April 2004)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A graphic, interactive program to map quantitative trait loci using intercrosses, backcrosses or recombinant inbred strains in experimental plants or animals. A completely rewritten cross-platform version of Map Manager QT with enhanced analysis functions.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;KF Manly&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;RH Cudmore&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jr.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;JM Meer&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mapmanager.org/mmQTX.html&#34;&gt;http://www.mapmanager.org/mmQTX.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++ and cross-platform code from XVT&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Manly, Cudmore, and Meer (2001), &amp;ldquo; Map Manager QTX, cross-platform software for genetic mapping&amp;rdquo;, Mammalian Genome, 12(12):930-932.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAP/MAP&#43;/MAP&#43;H/MAP2000</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mapmapmaphmap2000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mapmapmaphmap2000/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;(MAP+H is the radiation Hybrid module of MAP+)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;multiple pairwise linkage analysis under interference&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A Collins (email: arc@southampton.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Shields&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NE Morton (University of Southampton, UK)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+h&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+h&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map2000&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map2000&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SunOS/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;map&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Morton, Andrew (1989), Annals of Human Genetics, 53:263-269.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Morton, Collins (1990), Annals of Human Genetics, 54:103-106.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Shields, Collins, Buetow, Morton (1991), Proceedings of the National Academy of Sciences , 88:6501-6505.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAPCHART</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mapchart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mapchart/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Windows software for the graphical presentation of linkage maps and QTLs&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.2&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Produces charts of genetic linkage and QTL data. The charts are composed of a sequence of vertical bars representing the linkage groups or chromosomes. On these bars the positions of loci are indicated, and next to the bars QTL intervals and QTL graphs can be shown. MapChart reads the linkage information (i.e. the locus and QTL names and their positions) from text files. Many options to adapt the charts to different purposes. Can produce graphic files (enhanced windows metafile format) which can be enhanced with other MS-Windows software.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Roeland E Voorrips (Plant Research International, Wageningen, The Netherlands) (email: r.e.voorrips@plant.wag-ur.nl)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biometris.wur.nl/uk/Software/MapChart/&#34;&gt;http://www.biometris.wur.nl/uk/Software/MapChart/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Delphi&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/ME/NT4.0/2000)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;RE Voorrips (2001), &amp;ldquo;MapChart version 2.0: Windows software for the graphical presentation of linkage maps and QTLs&amp;rdquo;, Plant Research International, Wageningen, Netherlands.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Voorrips (2002), &amp;ldquo;MapChart: Software for the graphical presentation of linkage maps and QTLs&amp;rdquo;, Journal of Heredity, 93(1):77-78.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAPCREATOR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/m/mapcreator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/m/mapcreator/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;4.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;create gene maps using either radiation hybrid data or linkage data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Wes Barris&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rachel Hawken&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wesbarris.com/mapcreator/&#34;&gt;http://www.wesbarris.com/mapcreator/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Perl&lt;/p&gt;
+
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;Postscript ($69 USD), Image ($69 USD), both ($99 USD)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

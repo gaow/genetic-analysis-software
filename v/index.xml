@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/v/index.xml</link>
+    <description>Recent content in V on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/v/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VAAST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/vaast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/vaast/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Variant Annotation, Analysis and Search Tool&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;VAAST is a probabilistic search tool for identifying damaged genes and their disease-causing variants in personal genome sequences. VAAST builds upon existing amino acid substitution (AAS) and aggregative approaches to variant prioritization, combining elements of both into a single unified likelihood-framework that allows users to identify damaged genes and deleterious variants with greater accuracy, and in an easy-to-use fashion. VAAST can score both coding and non-coding variants, evaluating the cumulative impact of both types of variants simultaneously. VAAST can identify rare variants causing rare genetic diseases, and it can also use both rare and common variants to identify genes responsible for common diseases. VAAST thus has a much greater scope of use than any existing methodology.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Mark Yandell&amp;rsquo;s group (Univ Utah)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.yandell-lab.org/software/vaast.html&#34;&gt;http://www.yandell-lab.org/software/vaast.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Yandell, Huff, Hu, Singleton, Moore, Xing, Jorde, Reese (2011), &amp;ldquo;A probabilistic disease-gene finder for personal genomes&amp;rdquo;, Genome Research, 21(9):1529-1542.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VARSCAN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/varscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/varscan/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;VarScan is a platform-independent, technology-independent software tool for identifying SNPs and indels in massively parallel sequencing of individual and pooled samples. Given data for a single sample, VarScan identifies and filters germline variants based on read counts, base quality, and allele frequency. Given data for a tumor-normal pair, VarScan also determines the somatic status of each variant (Germline, Somatic, or LOH) by comparing read counts between samples.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://genome.wustl.edu/software/varscan&#34;&gt;http://genome.wustl.edu/software/varscan&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Koboldt, Chen, Wylie, Larson, McLellan, Mardis, Weinstock, Wilson, Ding (2009), &amp;ldquo;VarScan: variant detection in massively parallel sequencing of individual and pooled samples&amp;rdquo;, Bioinformatics, 25:2283-2285.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/vg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/vg/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Visual Genotype&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The program presents complete raw datasets of individuals&amp;rsquo; genotype data using a display format with samples as rows and polymorphisms as columns. The color code is: (1) blue: homozygous genotype for the common allele; (2) red: heterozygous genotype; (3) yellow: homozygous genotype for the rare allele; and (4) grey: missing data&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pga.gs.washington.edu/VG2.html&#34;&gt;http://pga.gs.washington.edu/VG2.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/vh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/vh/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;visual haplotype&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;displaying estimated haplotype data&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pga.gs.washington.edu/VH1.html&#34;&gt;http://pga.gs.washington.edu/VH1.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VITESSE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/vitesse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/vitesse/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;VITESSE (means &amp;ldquo;speed&amp;rdquo; in French)&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0beta (July 1998)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;calculates likelihood on pedigrees&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jeff O&amp;rsquo;Connell ( jeff@sherlock.hgen.pitt.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register/soft_doc.html&#34;&gt;http://watson.hgen.pitt.edu/register/soft_doc.html&lt;/a&gt;,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register&#34;&gt;http://watson.hgen.pitt.edu/register&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;ANSI C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, VMS, MS-DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Am. Soc. Hum. Genet. Annual Meeting 1995 (O&amp;rsquo;Connell,Weeks, Am. J. Hum. Genet. suppl 57, A199 (1995)).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;O&amp;rsquo;Connell,Weeks (1995), Nature Genetics, 11:402-408.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online README file&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variant Association Tools</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/variant-association-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/variant-association-tools/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Variant Association Tools inherits the intuitive command-line interface of variant tools with re-design and implementation of its infrastructure to accommodate the scale of dataset generated from nowadays sequencing efforts on large populations.&lt;/p&gt;
+
+&lt;h2 id=&#34;year&#34;&gt;Year&lt;/h2&gt;
+
+&lt;p&gt;2012&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Gao Wang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bo Peng&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Suzanne M. Leal&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://varianttools.sourceforge.net/VAT&#34;&gt;http://varianttools.sourceforge.net/VAT&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++, Python&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;vtools&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Gao T. Wang, Bo Peng and Suzanne M. Leal (2014) Variant Association Tools for Quality Control and Analysis of Large-Scale Sequence and Genotyping Array Data, The American Journal of Human Genetics 94 (5): 770–83.&lt;/p&gt;
+
+&lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
+
+&lt;p&gt;Rare variant association testing&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variant Tools</title>
+      <link>https://gaow.github.io/genetic-analysis-software/v/variant-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/v/variant-tools/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.6.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Variant tools is a software tool for the manipulation, annotation, selection, simulation, and analysis of variants in the context of next-gen sequencing analysis. Unlike some other tools used for Next-Gen sequencing analysis, variant tools is project based and provides a whole set of tools to manipulate and analyze genetic variants.&lt;/p&gt;
+
+&lt;h2 id=&#34;year&#34;&gt;Year&lt;/h2&gt;
+
+&lt;p&gt;2012&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Anthony San Lucas&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gao Wang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Paul Scheet&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bo Peng&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://varianttools.sourceforge.net&#34;&gt;http://varianttools.sourceforge.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++, Python&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;vtools&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;F. Anthony San Lucas, Gao Wang, Paul Scheet, and Bo Peng (2012) Integrated annotation and analysis of genetic variants from next-generation sequencing studies with variant tools, Bioinformatics 28 (3): 421-422.&lt;/p&gt;
+
+&lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
+
+&lt;p&gt;NGS variant filtering, annotation&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

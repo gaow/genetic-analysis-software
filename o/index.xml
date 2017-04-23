@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/o/index.xml</link>
+    <description>Recent content in O on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OLORIN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/o/olorin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/o/olorin/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;October 2011&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Olorin is an interactive filtering tool for next generation sequencing data coming from the study of large complex disease pedigrees. Olorin, is a tool which integrates gene flow output from Merlin and next generation sequencing data. Users can interactively filter and prioritize variants based on haplotype sharing across different sets of selected individuals and allele frequency in reference datasets.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;James Morris&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jeffrey Barrett (Wellcome Trust Sanger Institute)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/olorin/&#34;&gt;http://www.sanger.ac.uk/resources/software/olorin/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sourceforge.net/p/olorin/home/&#34;&gt;http://sourceforge.net/p/olorin/home/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;any platform with Java 1.6 or later&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ONEMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/o/onemap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/o/onemap/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;R/ONEMAP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/o/osa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/o/osa/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Ordered Subset Analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OSA allows the researcher to evaluate evidence for linkage even when heterogeneity is present in a data set. This is not an unusual occurrence when studying diseases of complex origin. Families are ranked by covariate values in order to test evidence for linkage among homogeneous subsets of families. Because families are ranked, a priori covariate cutpoints are not necessary. Covariates may include linkage evidence at other genes, environmental exposures, or biological trait values such as cholesterol, age at onset, and so on.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;William Duren&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mike Boehnke&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Elizabeth Hauser&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wwwchg.duhs.duke.edu/software/osa.html&#34;&gt;http://wwwchg.duhs.duke.edu/software/osa.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;osa2.0&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;ER Hauser, MP Bass, ER Martin, RM Watanabe, WL Duren, M Boehnke (2001), Am J Hum Genet, suppl 69:529.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ER Hauser, RM Watanabe, WL Duren, MP Bass, CD Langefeld, M Boehnke (2004), &amp;ldquo;Ordered subset analysis in genetic linkage mapping of complex traits&amp;rdquo;, Genetic Epidemiology, 27(1):53-63.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSIRIS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/o/osiris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/o/osiris/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OSIRIS is a tool for the retrieval of articles from MEDLINE related to the sequence variants reported for a human gene. The variations considered are single nucleotide polymorphisms (SNPs), insertion/deletion polymorphisms (indel), microsatellite, and named variations (e.g. Alu sequences).&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Julio Bonis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laura Ines Furlong Ferran Sanz (University of Pompeu Fabra, Spain) (email: fsanz@imim.es)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ibi.imim.es/osirisform.html&#34;&gt;http://ibi.imim.es/osirisform.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Bonis, Furlong, Sanz (2006), &amp;ldquo;OSIRIS: a tool for retrieving literature about sequence variants&amp;rdquo;, Bioinformatics, 22(20):2567-2569.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

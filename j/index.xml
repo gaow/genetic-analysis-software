@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/j/index.xml</link>
+    <description>Recent content in J on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/j/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>J/QTL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/j/jqtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/j/jqtl/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;J/QTL is a Java GUI for the popular QTL data analysis software R/QTL. It provides a flexible and powerful working environment for users to perform a variety of tasks.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hao Wu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lei Wu (Jackson Lab) (email: jqtl@jax.com)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.jax.org/staff/churchill/labsite/software/Jqtl/index.html&#34;&gt;http://www.jax.org/staff/churchill/labsite/software/Jqtl/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JENTI</title>
+      <link>https://gaow.github.io/genetic-analysis-software/j/jenti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/j/jenti/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;An efficient tool for mining complex inbred genealogies that identify clusters of individuals sharing the same expected amount of relatedness is described. Additionally it allows for the reconstruction of sub-pedigrees suitable for genetic mapping in a systematic way.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.jenti.org&#34;&gt;http://www.jenti.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Falchi, Fuchsberger (2008), &amp;ldquo;Jenti: an efficient tool for mining complex inbred genealogies&amp;rdquo;, Bioinformatics, 24(5):724-726.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JLIN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/j/jlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/j/jlin/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;a Java based LINkage disequilibrium plotter&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.5.2 (March 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;JLIN (Java LINkage disequilibrium plotter) is designed for customisable, intuitive visualisation of LD analysis across all common computing platforms. Customisation allows the researcher to choose particular visualisation, statistical measures and measurement ranges. JLIN also allows the researcher to export images of the LD visualisation in several common document formats. As there appears to be no single best measure of LD under all possible circumstances, JLIN allows the researcher to visually compare and contrast the results of a range of statistical measures on the input data set(s). These measures include the commonly used D&amp;rsquo; and R2 statistics and empirical p-values. New additions include calculation of HWE, a completely revamped interface, and a numer of minor bug fixes. We have added a display measure to show marker distances visually, embedded fonts to improve image clarity and additional LD measures including d,OR,Pexcess and Q.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kim W Carter (Univ of Western Australian)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pamela A. McCaskie&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lyle J Palmer&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.genepi.org.au/jlin&#34;&gt;http://www.genepi.org.au/jlin&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Any with Java 1.5 support&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;Java-based installer available from website&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Carter, McCaskie, Palmer (2006), &amp;ldquo;JLIN: A java based linkage disequilibrium plotter&amp;rdquo;, BMC Bioinformatics, 7:60.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JOINMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/j/joinmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/j/joinmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Software for the calculation of genetic linkage maps&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;4 (October 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Construction of genetic linkage maps for several types of mapping populations: BC1, F2, RILs, (doubled) haploids, outbreeders full-sib family. Can combine (&amp;lsquo;join&amp;rsquo;) data derived from several sources into an integrated map. Further: linkage group determination, automatic phase determination for outbreeders full-sib family, several diagnostics, and map charts. Everything available in an intuitive MS-Windows user interface.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Johan W Van Ooijen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Roeland E Voorrips (Plant Research International, Biometris, Wageningen, Netherlands) (email: mapping@biometris.nl)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.joinmap.nl/&#34;&gt;http://www.joinmap.nl/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;ANSI C, Delphi&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/ME/NT4.0/2000)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;JW Van Ooijen, RE Voorrips (2001), &amp;ldquo;JoinMap &amp;trade; 3.0: Software for the calculation of genetic linkage maps&amp;rdquo;, Plant Research International, Wageningen, Netherlands; Stam (1993), The Plant Journal, 3, 739-744.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JPSGCS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/j/jpsgcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/j/jpsgcs/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Java Programs for Statistical Genetics and Computational Statistics&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;These programs have been developed since 2002 to address problems in statistical genetics. However, they include several programs and packages that may be more generally useful, for instance, programs to draw and manipulate graphs, simulation programs, and programs to estimate graphical models.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Alun Thomas&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://balance.med.utah.edu/wiki/index.php/JPSGCS&#34;&gt;http://balance.med.utah.edu/wiki/index.php/JPSGCS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS, MS-Windows,&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;ApproxGCHap, CheckErrors, CheckFormat, CheckParameters, CheckPedigree, CheckTriplets, Complete, DownCodeAlleles, FitGM, FitGMLD, FitIntervalLD, GCHap, GeneCountAlleles, GeneDrop, GeneDrops, GetPolymorphisms, HGS, HapMapToLinkage, HetCutOff, HetLods, Heterozygosities, HomozygousSGS, LinkageToFastPhase, LinkageToPhase, LocusLogLikelihoods, MakePed, MakeProbands, MaxTwoPointLods, McCheck, McKinship, McLinkage, McMultiPoints, McTLods, ObligateErrors, SGS, SelectKindreds, SelectLoci, SelectPedigrees, SimHGS, SimHomozygousSGS, SimSGS, Triangulate, TrimPed, TwoPointLods, ViewDAG, ViewGraph, ViewLinkPed, ViewPed, ZeroLoopPed, cMorgansToTheta&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;GENEPI.JAR&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Z on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/z/index.xml</link>
+    <description>Recent content in Z on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/z/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZAPLO</title>
+      <link>https://gaow.github.io/genetic-analysis-software/z/zaplo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/z/zaplo/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Oct 5, 2005&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;zero recombinant haplotyping&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu, zaplo@molecular-haplotype.org)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.molecular-haplotype.org/zaplo/zaplo_index.html&#34;&gt;http://www.molecular-haplotype.org/zaplo/zaplo_index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;O&amp;rsquo;Connell (2000), &amp;ldquo;Zero-recombinant haplotyping: applications to fine mapping using SNPs,&amp;ldquo;, Genetic Epidemiology, 19:S64-S70.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

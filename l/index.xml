@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/l/index.xml</link>
+    <description>Recent content in L on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/l/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>L-POP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/l-pop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/l-pop/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Jan 2001&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured.&lt;/p&gt;
+
+&lt;p&gt;Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes.&lt;/p&gt;
+
+&lt;p&gt;L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Shaun Purcell&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pak Sham&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://statgen.iop.kcl.ac.uk/lpop/&#34;&gt;http://statgen.iop.kcl.ac.uk/lpop/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;lpop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAMARC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lamarc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lamarc/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Likelihood Analysis with Metropolis Algorithm using Random Coalescence&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0.2 (August 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The LAMARC program estimates effective population sizes, exponential population growth rates, and past migration rates between two or n populations, and simultaneously estimates the per-nucleotide recombination rate. Currently Lamarc can use DNA or RNA sequence data, SNP data, and microsatellite data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mary Kuhner&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jon Yamato&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Peter Beerli (email: lamarc@gs.washington.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://evolution.genetics.washington.edu/lamarc/lamarc_prog.html&#34;&gt;http://evolution.genetics.washington.edu/lamarc/lamarc_prog.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;lamarc, migrate, coalesce, fluctuate, recombine&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAMBDAA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lambdaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lambdaa/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;AP Morris (email: amorris@well.ox.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reading.ac.uk/Statistics/genetics/software.html&#34;&gt;http://www.reading.ac.uk/Statistics/genetics/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test for detecting patterns of disease-marker association&amp;rdquo;, Annals of Human Genetics, 61:335-350.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAMP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lamp/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Linkage and Association Modeling in Pedigrees&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.0.9&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;LAMP carries out parametric association analysis in samples of unrelated individuals, trios or large families. In addition to a test-statistic, a genetic model is estimated for each SNP. The approach is based on retrospective likelihood and can be used to analyze selected samples.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Goncalo Abecasis (email: goncalo@umich.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mingyao Li&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/abecasis/LAMP/download/&#34;&gt;http://www.sph.umich.edu/csg/abecasis/LAMP/download/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, LINUX, MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;lamp&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Li, Boehnke, Abecasis (2006), &amp;ldquo;Efficient study designs for test of genetic association using sibship data and unrelated cases and controls&amp;rdquo;, American Journal of Human Genetics, 78(5):778-792&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Li, Boehnke, Abecasis (2005), &amp;ldquo;Joint Modeling of Linkage and Association: Identifying SNPs Responsible for a Linkage Signal&amp;rdquo;, American Journal of Human Genetics, 76(6):934-949&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LAPSTRUCT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lapstruct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lapstruct/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;LAPlacian eigenfunctions learn population STRUCTure&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;LAPSTRUCT is a free program to describe population structure using biomarker data ( typically SNPs, CNVs etc.) available in a population sample. The main features different from PCA are: (1)geometrically motivated and graphic model based; (2)robustness of outliers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jun Zhang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;P Niyogi&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;MS McPeek&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html&#34;&gt;http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zhang, Niyogi, McPeek (2009), &amp;ldquo;Laplacian eigenfunctions learn population structure&amp;rdquo;, PLoS ONE, 4(12):e7928.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LCP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lcp/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Linkage Control Program&lt;/p&gt;
+
+&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
+
+&lt;p&gt;LINKAGE&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;This is a 16 bit program and will not run on 64 bit PCs, see &lt;a href=&#34;http://www.jurgott.org/linkage/LinkagePC.html&#34;&gt;http://www.jurgott.org/linkage/LinkagePC.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;part of the LINKAGE auxiliary programs&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Peter Cartwright (Univ Utah, now Cimarron Software &lt;a href=&#34;mailto:pc@cimsoft.com&#34;&gt;pc@cimsoft.com&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://lab.rockefeller.edu/ott/programs&#34;&gt;http://lab.rockefeller.edu/ott/programs&lt;/a&gt; or &lt;a href=&#34;https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis&#34;&gt;https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis&lt;/a&gt; (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C and Pascal&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, VMS, MS-DOS, OS2&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lda/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Linkage Disequilibrium Analyzer&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;LDA is a Java program for analyzing the pairwise linkage disequilibrium.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Keyue Ding (email: keyued@chgb.org.cn)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kaixin Zhou&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fuchu He&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Yan Shen&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chgb.org.cn/lda/lda.htm&#34;&gt;http://www.chgb.org.cn/lda/lda.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDB/LDB&#43;</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldbldb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldbldb/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Location DataBase&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;integrate genetic linkage map and physical map&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A Collins ( arc@southampton.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NE Morton&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S. Lawrence&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;D. Shields&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jonathan Teague&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Paul Linehan&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pietro Lio (University of Southampton, UK)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SunOS/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Morton (1991), Annals of Human Genetics, 55:235-241.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Morton, Collins, Lawrence, Shield (1992), Annals of Human Genetics, 56:223-232.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online manual and user guide&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDGROUP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldgroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldgroup/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Nov 2007&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;inkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Fumihiko Takeuchi (email: fumihiko@takeuchi.name)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fumihiko.takeuchi.name/publications.html&#34;&gt;http://www.fumihiko.takeuchi.name/publications.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), &amp;ldquo;Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs&amp;rdquo;, Genetics, 170:291-304.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDHAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldhat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldhat/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a package for the analysis of recombination rates from population genetic data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Gil McVean (email: mcvean@stats.ox.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~mcvean/LDhat/&#34;&gt;http://www.stats.ox.ac.uk/~mcvean/LDhat/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;The fine-scale structure of recombination rate variation in the human genome&amp;rdquo;, Science, 304:581-584.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDHEATMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;R/LDHEATMAP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (November 2004)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;LDMAP is a program for constructing linkage disequilibrium (LD) maps.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Andy Collins (email: a.r.collins@soton.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;online manual: &lt;a href=&#34;http://cedar.genetics.soton.ac.uk/public_html/helpld.html&#34;&gt;http://cedar.genetics.soton.ac.uk/public_html/helpld.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDMET</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldmet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldmet/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;KL Ayres (email: k.l.ayres@reading.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reading.ac.uk/Statistics/genetics/software.html&#34;&gt;http://www.reading.ac.uk/Statistics/genetics/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium from multi-locus data&amp;rdquo;, Genetics, 157:413-423.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDSELECT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldselect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldselect/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The program analyzes patterns of linkage disequilibrium (LD) between polymorphic sites in a locus, and bins the SNPs on the basis of a threshold level of LD as measured by r2.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Deborah A. Nickerson&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mark Rieder&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chris Carlson&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Qian Yi (Univ of Washington)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://droog.gs.washington.edu/ldSelect.html&#34;&gt;http://droog.gs.washington.edu/ldSelect.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LDSUPPORT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ldsupport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ldsupport/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Yutaka Kitamura (Institute of Rheumatology, Tokyo Women;s Medical University, email: kitamura@ior.twmu.ac.jp)&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &amp;ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&amp;rdquo;, Annals of Human Genetics, 66:183-193.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

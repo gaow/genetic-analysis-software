@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/w/index.xml</link>
+    <description>Recent content in W on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/w/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WEB-PREPLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/web-preplink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/web-preplink/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This was a simple program running on our old &lt;em&gt;linkage&lt;/em&gt; server at Rockefeller University. However, that server has been &lt;a href=&#34;http://lab.rockefeller.edu/ott/&#34;&gt;updated&lt;/a&gt; and no longer supports running scripts, so web-preplink is no longer available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WEBQTL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/webqtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/webqtl/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;An interactive web site useful for exploring the genetic modulation of thousands of phenotypes gathered over a 30-year period by hundreds of investigators using reference panels of recombinant inbred strains of mice. WebQTL includes dense error-checked genetic maps, as well as extensive gene expression data sets (Affymetrix) acquired across more than 35 strains of mice. WebQTL accepts user-entered traits for BXD, AXB/BXA, CXB, BXH, AKXD recombinant inbred strains.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jintao Wang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Elissa J. Chesler&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lu Lu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jing Gu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Yanhua Qu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Robert W. Williams&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(email: rwilliams@nb.utmem.edu) Kenneth F. Manly (email:kmanly@utmem.edu) (Univ of Tennessee Health Science Center)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.webqtl.org/search.html&#34;&gt;http://www.webqtl.org/search.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++ and Python&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;all via internet&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;J Wang, RW Williams, EJ Chesler, KF Manly (2003), &amp;ldquo;WebQTL: Web-based complex trait analysis&amp;rdquo;, Neuroinformatics 1(4):299-308.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;EJ Chesler, J Wang, L Lu, Y Qu, KF Manly, RW Williams (2003), &amp;ldquo;Genetic correlates of gene expression in recombinant inbred strains: a relational model system to explore neurobehavioral phenotypes&amp;rdquo;, Neuroinformatics, 1(4):343-357.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WEIGHTED_FDR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/weighted_fdr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/weighted_fdr/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2 (March 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lambertus Klei (University of Pittsburgh Medical Center)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kathryn Roeder (Carnegie Mellon University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wpicr.wpic.pitt.edu/WPICCompGen/fdr/&#34;&gt;http://wpicr.wpic.pitt.edu/WPICCompGen/fdr/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux, UNIX&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WGCNA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/wgcna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/wgcna/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Weighted Gene Co-expression Network Analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;year&#34;&gt;Year&lt;/h2&gt;
+
+&lt;p&gt;2005-2013&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Steve Horvath, Chaochao (Ricky) Cai, Jun Dong, Tova Fuller, Peter Langfelder, Wen Lin, Michael Mason, Jeremy Miller, Mike Oldham, Anja Presson, Lin Song, Kellen Winden, Yafeng Zhang, Jason Aten, Marc Carlson, Sud Doss, Anatole Ghazalpour, Chi-ying Lee, Ai Li, Chris Plaisier, Moira Regelson, Lin Wang, Andy Yip, Bin Zhang, Wei Zhao&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork&#34;&gt;http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Bin Zhang and Steve Horvath (2005) &amp;ldquo;A General Framework for Weighted Gene Co-Expression Network Analysis&amp;rdquo;, Statistical Applications in Genetics and Molecular Biology: Vol. 4: No. 1, Article 17 PMID: 16646834&lt;/p&gt;
+
+&lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
+
+&lt;p&gt;gene expression, network&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WHAIT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/whait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/whait/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Weighted Haplotype test And an Imputation-based Test.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Yun Li (email: ylwtx@umich.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/yli/whait/&#34;&gt;http://www.sph.umich.edu/csg/yli/whait/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/whap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/whap/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.06 (Dec 2004)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Shaun Purcell (email: purcell@wi.mit.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pak Sham&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pngu.mgh.harvard.edu/~purcell/whap/&#34;&gt;http://pngu.mgh.harvard.edu/~purcell/whap/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C,C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows, MS-DOS, Linux&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WHICHRUN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/w/whichrun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/w/whichrun/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;4.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;uses multilocus genotypic data to allocate individuals to their most likely source population&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Michael Banks&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;(email: michael.banks@hmsc.orst.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Will Eichert (email: wfeichert@ucdavis.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bml.ucdavis.edu/whichrun.htm&#34;&gt;http://www.bml.ucdavis.edu/whichrun.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/NT)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Banks, Eichert (2000), &amp;ldquo;WHICHRUN (version 3.2): a computer program for population assignment of individuals based on multilocus genotype data&amp;rdquo;, Journal of Heredity, 91:87-89.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

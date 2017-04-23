@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/r/index.xml</link>
+    <description>Recent content in R on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R/ADEGENET</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/radegenet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/radegenet/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2-6 (September 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;ADEGENET is a package dedicated to the handling of molecular marker data for multivariate analysis. This package is related to ADE4, a R package for multivariate analysis, graphics, phylogeny and spatial analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Thibaut Jombart (email: jombart@biomserv.univ-lyon1.fr)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://adegenet.r-forge.r-project.org/&#34;&gt;http://adegenet.r-forge.r-project.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/adegenet/index.html&#34;&gt;http://cran.r-project.org/web/packages/adegenet/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Jombart (2008), &amp;ldquo;adegenet: a R package for the multivariate analysis of genetic markers&amp;rdquo;, Bioinformatics, 24:1403-1405.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/ARP.GEE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rarp.gee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rarp.gee/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;ARP.GEE&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/BARS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rbars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rbars/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;BARS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/COVIBD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rcovibd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rcovibd/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;COVIBD&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/EHP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rehp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rehp/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;EHP.R&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/ENTROPY_BLOCKER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rentropy_blocker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rentropy_blocker/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;ENTROPY BLOCKER&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/FEST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rfest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rfest/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.08 (August, 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;an R package for simulations and likelihood calculations of pair-wise family relationships using DNA marker data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Øivind Skare&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;email: oivind.skare@medisin.uio.no&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://folk.uio.no/thoree/FEST/&#34;&gt;http://folk.uio.no/thoree/FEST/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Skare, Sheehan, Egeland (2009), &amp;ldquo;Identification of distant family relationships&amp;rdquo;, Bioinformatics, 25(18):2376-2382.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/GAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rgap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rgap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;R/Genetic Analysis Package&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.17-39 (July 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This is an integrated package for genetic data analysis of both population and family data. Currently it contains functions for sample size calculations of both population-based and family-based designs, classic twin ACE/ADE/AE/CE models, probability of familial disease aggregation, kinship calculation, some statistics in linkage analysis, and association analysis involving one or more genetic markers including haplotype analysis with or without environmental covariates&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk) in collaboration with other colleagues&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;with help from Kurt Hornik of the R core&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/~jinghua.zhao/r-progs.htm&#34;&gt;http://www.mrc-epid.cam.ac.uk/~jinghua.zhao/r-progs.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;aldh2, apoeapoc, bt, chow.test, fbsize, fsnps, gc.em, gcontrol, genecounting, gif, hap, hap.em, hap.score, hla, htr, hwe, hwe.hardy, kbyl, kin.morgan, makeped, mia, mtdt, muvar, pbsize, pfc, pgc, s2k, tbyt, whscore&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Zhao and Tan (2006), &amp;ldquo;Integrated analysis of genetic data with R&amp;rdquo;, Human Genomics, 2(4):258-265.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;reference manual (PDF): &lt;a href=&#34;http://cran.r-project.org/doc/packages/gap.pdf&#34;&gt;http://cran.r-project.org/doc/packages/gap.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/GC R/GCF</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rgc-rgcf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rgc-rgcf/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;GC/GCF&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/GENABEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rgenabel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rgenabel/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.6-4 (August 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;GenABEL is a software created to facilitate whole-genome association analysis. Specific features of GenABEL include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Support of modern methods for analysis in outbred populations&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maximum Likelihood estimation of linear, logistic and Cox regression on genome-wide scale&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A range of functions specifically designed to help GWA analysis in samples of individuals from genetically isolated populations, and/or samples of related individuals (family-based design), and other analysis in presence of stratification&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Special functions oriented to meta-analysis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Extensive documentation (about 100 pages of reference manual and 150 pages of tutorial)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Many example data sets and exercises&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://mga.bionet.nsc.ru/~yurii/ABEL/GenABEL/&#34;&gt;http://mga.bionet.nsc.ru/~yurii/ABEL/GenABEL/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/GenABEL/index.html&#34;&gt;http://cran.r-project.org/web/packages/GenABEL/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Aulchenko, Ripke, Isaacs, van Duijn (2007), &amp;ldquo;GenABEL: an R library for genome-wide association analysis&amp;rdquo;, Bioinformatics, 23(10):1294-1296.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/GWAPOWER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rgwapower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rgwapower/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;GWAPOWER&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/HAPASSOC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rhapassoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rhapassoc/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2-4 (July 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a likelihood approach is used to inference of haplotype and nongenetic effects and their interactions in generalized linear models of disease penetrance, when haplotype phase is unknown for some subjects. Parameter estimates are obtained by use of an expectation-maximization (EM) algorithm and standard errors are calculated using Louis&amp;rsquo; formula.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc&#34;&gt;http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/hapassoc/index.html&#34;&gt;http://cran.r-project.org/web/packages/hapassoc/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/HCLUST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rhclust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rhclust/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;HCLUST&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/IBDREG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/ribdreg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/ribdreg/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;IBDREG&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R/LAPSTRUCT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/r/rlapstruct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/r/rlapstruct/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;LAPSTRUCT&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

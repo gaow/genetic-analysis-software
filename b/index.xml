@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/b/index.xml</link>
+    <description>Recent content in B on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/b/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BAMA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bama/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Bayesian Analysis of Multilocus Association&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This is a program to select a trait-associated subset of markers among many candidates. The program is based on Bayesian modeling/estimation and it suits for both quantitative and qualitative traits. It can handle bi- and multiallelic markers as well as applied in situations where part of the marker genotypes may be missing. As an output of the program, one obtains posterior estimate of number and positions of trait-associated markers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mikko J Sillanpaa&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Riika Kilpikari&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.rni.helsinki.fi/~mjs/&#34;&gt;http://www.rni.helsinki.fi/~mjs/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;R Kilpikari, MJ Sillanpaa (2003), &amp;ldquo;Bayesian analysis of multilocus association in quantitative and qualitative traits&amp;rdquo;, Genetic Epidemiology, 25:122-135.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BARS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bars/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Bayesian Adaptive Regression Splines&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The BARS tests is a statistical method that bridges the gap between single-locus and haplotype-based tests of association. It is based on the non-parametric regression techniques embodied by Bayesian Adaptive Regression Splines.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Garrick Wallstrom&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;RE Kass&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wpicr.wpic.pitt.edu/WPICCompGen/bars.htm&#34;&gt;http://wpicr.wpic.pitt.edu/WPICCompGen/bars.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zhang, Roeder, Wallstrom, Devlin (2003), &amp;ldquo;Integration of associative statistics over genomic regions using Bayesian Adaptive Regression Splines&amp;rdquo;, Human Genomics, 1:20-29.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BAYESFST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bayesfst/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bayesfst/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Bayesian estimation of the coancestry coefficient FST&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;DJ Balding (email: d.balding@ic.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;KL Ayres&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;MA Beaumont&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;P O&amp;rsquo;Reilly&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.reading.ac.uk/Statistics/genetics/software.html&#34;&gt;http://www.reading.ac.uk/Statistics/genetics/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Balding (2003), &amp;ldquo;Likelihood-based inference for genetic correlation coefficients&amp;rdquo;, Theoretical Population Biology, 63:221-230&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Beaumont, Balding (2004), &amp;ldquo;Identifying adaptive genetic divergence among populations from genome scans&amp;rdquo;, Molecular Ecology, 13:969-980.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BDGEN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bdgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bdgen/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.7&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a powerful database software with improvement tools for paternity testing, database searching (like CODIS) and NRC II recommendations based formulae for investigating likelyhood ratios in putative contributors to crime evidences. Additional genetic population parameters estimations are added in this version. Only spanish version available.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Martinez Gustavo (email:ggmartinez@arnet.com.ar)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vazquez Sebastian&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Vicentin Ariel (email: bdgen@yahoo.com.ar)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.simedic.com.ar/bdgen.htm&#34;&gt;http://www.simedic.com.ar/bdgen.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;V Vazquez, A Vicentin, L Vazquez, and G Martinez (2002) &amp;ldquo;Nuevo programa BDGen, como base de datos y herramienta de analisis estadistico de patrones geneticos&amp;rdquo;. VII meeting of the Spanish-Portuguese Group for the International Society for Forensic Genertics. Barcelona, June 2002.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BEAGLE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/beagle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/beagle/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.2.1 (May 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;BEAGLE is a state of the art software package for analysis of large-scale genetic data sets with hundreds of thousands of markers genotyped on thousands of samples. BEAGLE can&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;phase genotype data (i.e. infer haplotypes) for unrelated individuals, parent-offspring pairs, and parent-offspring trios&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;infer sporadic missing genotype data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;impute ungenotyped markers that have been genotyped in a reference panel&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;perform single marker and haplotypic association analysis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;detect genetic regions that are homozygous-by-descent in an individual or identical-by-descent in pairs of individuals.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Brian L Browning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sharon R Browning (email: browning@stat.auckland.ac.nz)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stat.auckland.ac.nz/~browning/beagle/beagle.html&#34;&gt;http://www.stat.auckland.ac.nz/~browning/beagle/beagle.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux, UNIX(Solaris), MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Browning SR and Browning BR (2007), &amp;ldquo;Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering&amp;rdquo;, American Journal of Human Genetics, 81(5):1084-1097&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Browning BR and Browning SR (2007), &amp;ldquo;Efficient multilocus association testing for whole genome association studies using localized haplotype clustering&amp;rdquo;, Genetic Epidemiology, 31:365-375.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BEAGLECALL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/beaglecall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/beaglecall/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0.0 (September 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;BEAGLECALL is a software package for simultaneous genotype calling and haplotype phasing for unrelated individuals. BEAGLECALL produces output posterior genotype probabilities and output phased haplotypes. BEAGLECALL generates extremely accurate genotype calls because it uses both allele signal intensity data and inter-marker correlation to call genotypes. BEAGLECALL is designed for use with high-density SNP arrays, and it uses the BEAGLE haplotype frequency model to model inter-marker correlation.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://faculty.washington.edu/browning/beaglecall/beaglecall.html&#34;&gt;http://faculty.washington.edu/browning/beaglecall/beaglecall.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, UNIX, Linux, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Browning, Yu (2009), &amp;ldquo;Simultaneous genotype calling and haplotype phase inference improves genotype accuracy and reduces false positive associations for genome-wide association studies&amp;rdquo;, American Journal of Human Genetics, 85:847-861.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BEAM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/beam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/beam/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Bayesian Epistasis Association Mapping&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;BEAM treats the disease-associated markers and their interactions via a bayesian partitioning model and computes, via Markov chain Monte Carlo, the posterior probability that each marker set is associated with the disease.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Yu Zhang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jun S Liu (Harvard University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.people.fas.harvard.edu/~junliu/BEAM/&#34;&gt;http://www.people.fas.harvard.edu/~junliu/BEAM/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, Linux, DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zhang, Liu (2007), &amp;ldquo;Bayesian inference of epistatic interactions in case-control studies&amp;rdquo;, Nature, 39:1167-1173.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BETA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/beta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/beta/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Jan 1998&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;non-parametric linkage analysis using allele sharing in sib pairs&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;A Collins (email: arc@soton.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;NE Morton (University of Southampton, UK)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/BETA&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/BETA&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SUN..)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;beta&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Morton (1996), Proceedings of the National Academy of Sciences , 93:3471-3476; Collins, Morton (1996), Proceedings of the National Academy of Sciences , 93:9177-9181; Lio, Morton (1997), Proceedings of the National Academy of Sciences , 94:5344-5348; online manual&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIMBAM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bimbam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bimbam/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Bayesian IMputation-Based Association Mapping&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.95&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;B Servin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;M Stephens&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stephenslab.uchicago.edu/software.html&#34;&gt;http://stephenslab.uchicago.edu/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Servin, Stephens (2007), &amp;ldquo;Imputation-based analysis of association studies: candidate genes and quantitative traits&amp;rdquo;, PLoS Genetics, 3(7):e114. &lt;a href=&#34;http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114&#34;&gt;http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOIDE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bioide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bioide/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;BIOmedical Integrated Discovery Environment&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Developed by scientists for scientists, our Biomedical Integrated Discovery Environment provides easy access to a rapidly expanding collection of data analysis tools and interrelated biomedical information in a single easy-to-use software package with an extremely high benefit/cost ratio. Our component-based software/data integration platform can quickly transform fragmented enterprise legacy data and software into an integrated suite of tools and knowledge base to achieve maximal usability, interoperability, scalability, and extensibility.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.htbiology.com/software.php&#34;&gt;http://www.htbiology.com/software.php&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOLAD-DB</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/biolad-db/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/biolad-db/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The BiolAD-DB system is a research bioinformatics system for inputting, validating, organizing, archiving, analyzing, and processing of complex clinical and genetic data. The database schema employs design principles for handling complex clinical information, such as response items in genetic questionnaires. Data access and validation is provided by the BiolAD-DB client application, which features a data validation engine tightly coupled to a graphical user interface. Data integrity is provided by the password protected BiolAD-DB SQL compliant server database. BiolAD-DB tools further provide functionalities for generating customized reports and views.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;David Nielsen (email: nielsen@rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Marty Leidner (email: marty@rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chad Haynes (email: haynesc@rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Michael Krauthammer (email: michael.krauthammer@yale.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Mary Jeanne Kreek (email: kreek@rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.rockefeller.edu/biolad-db/&#34;&gt;http://www.rockefeller.edu/biolad-db/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Python&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Nielsen, Leidner, Haynes, Krauthammer, Kreek (2007), &amp;ldquo;The BiolAD-DB system - an informatics system for clinical and genetic data&amp;rdquo;, Molecular Diagnosis &amp;amp; Therapy, 11(1):15-19.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIRDSUITE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/birdsuite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/birdsuite/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The Birdsuite is a fully open-source set of tools to detect and report SNP genotypes, common Copy-Number Polymorphisms (CNPs), and novel, rare, or de novo CNVs in samples processed with the Affymetrix platform. While most of the components of the suite can be run individually (for instance, to only do SNP genotyping), the Birdsuite is especially intended for integrated analysis of SNPs and CNVs.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Joshua Korn et al. (Broad Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.broadinstitute.org/scientific-community/science/programs/medical-and-population-genetics/birdsuite/birdsuite&#34;&gt;http://www.broadinstitute.org/scientific-community/science/programs/medical-and-population-genetics/birdsuite/birdsuite&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Korn, Kuruvilla, McCarroll, Wysoker, Nemesh, Cawley, Hubbell, Veitch, Collins, Darvishi, Lee, Nizzari, Gabriel, Purcell, Daly, Altshuler (2008), &amp;ldquo;Integrated genotype calling and association analysis of SNPs, common copy number polymorphisms and rare CNVs&amp;rdquo;, Nature Genetics, 40:1253-1260.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLADE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/blade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/blade/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Bayesian LinkAge DisEquilibrium mapping&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;v2&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jun Liu (Harvard Univ) (email: jliu@stat.harvard.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.people.fas.harvard.edu/~junliu/index1.html&#34;&gt;http://www.people.fas.harvard.edu/~junliu/index1.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz&#34;&gt;http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Liu, Sabatti, Teng, Keats, Risch (2001), &amp;ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&amp;rdquo;, Genome Research, 11:1716-1724.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lu, Niu, Liu (2003), &amp;ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&amp;rdquo;, Genome Research, 13:2112-2117.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BLOCK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/block/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/block/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Blocking Gibbs sampler for pedigree analysis&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0.0 (Dec 1996)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;the programs allow you to perform general pedigree analysis on a general pedigree with any number of loops. It also allows you to perform two-point linkage analysis on a general pedigree with an arbitrary number of alleles.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Claus Skaanning Jensen (email: claus@cs.auc.dk) (Aalborg University, Denmark)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.auc.dk/~claus/block.html&#34;&gt;http://www.cs.auc.dk/~claus/block.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://hpcio.cit.nih.gov/lserver/BLOCK.html&#34;&gt;http://hpcio.cit.nih.gov/lserver/BLOCK.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.cs.auc.dk/pub/packages/block/current&#34;&gt;ftp://ftp.cs.auc.dk/pub/packages/block/current&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS, Linux, UNIX(Solaris, Irix 64, AIX 3.2.5, DEC alpha)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;block, theta&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Jensen, Kong and Kjaerulff, &amp;ldquo;Blocking-Gibbs Sampling in Very Large Probabilistic Expert Systems&amp;rdquo;, International Journal of Human-Computer Studies, 647-666 (1995).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BMAPBUILDER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/b/bmapbuilder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/b/bmapbuilder/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.1(beta)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bios.ugr.es/BMapBuilder/&#34;&gt;http://bios.ugr.es/BMapBuilder/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, MacOS, UNIX, Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Abad-Grau, Montes, Sebastiani (2006), &amp;ldquo;Building chromosome-wide LD maps&amp;rdquo;, Bioinformatics, 22(16):1933-1934.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Q on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/q/index.xml</link>
+    <description>Recent content in Q on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/q/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>QGENE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qgene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qgene/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;4.0.2&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A free, computationally effecient, easy-to-use Java program for comparative analyses of QTL mapping data and population simulation.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Roby Joehanes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhigang Guo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Prashanth Boddhireddy&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J Clare Nelson (Kansas State University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.qgene.org/&#34;&gt;http://www.qgene.org/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://coding.plantpath.ksu.edu/qgene/&#34;&gt;http://coding.plantpath.ksu.edu/qgene/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Nelson (1997), &amp;ldquo;QGENE: software for marker-based genomic analysis and breeding&amp;rdquo;, Molecular Breeding, 3:239-245. [&lt;a href=&#34;http://dx.doi.org/10.1023/A:1009604312050&#34;&gt;abstract&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QMSIM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qmsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qmsim/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Qtl and Marker SIMulator&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;QMSim was designed to simulate a wide range of genetic architectures and population structures in livestock. Large scale genotyping data and complex pedigrees can be efficiently simulated. QMSim is a family based simulator, which can also take into account predefined evolutionary features, such as LD, mutation, bottlenecks and expansions. The simulation is basically carried out in two steps: In the first step, a historical population is simulated to establish mutation-drift equilibrium and, in the second step, recent population structures are generated, which can be complex. QMSim allows for a wide range of parameters to be incorporated in the simulation models in order to produce appropriate simulated data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mehdi Sargolzaei (email: msargol@uoguelph.ca)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Flavio S Schenkel&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.aps.uoguelph.ca/~msargol/qmsim/&#34;&gt;http://www.aps.uoguelph.ca/~msargol/qmsim/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Sargolzaei, Schenkel (2009), &amp;ldquo;QMSim: a large-scale genome simulator for livestock&amp;rdquo;, Bioinformatics, 25:680-681.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtdt/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Quantitative (Trait) Transmission/Disequilibrium Test&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.5.1 (January 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Performs linkage disequilibrium (TDT) and association analysis for quantitative traits. Includes support for the methods of Abecasis et al. (2000), Fulker et al. (1999), Monks et al. (1998), Allison (TDTQ5, 1997) and Rabinowitz (1997). Supports families of any size, with or without parental information. Includes simple variance components modelling. Interfaces with SimWalk2 for IBD estimation.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Goncalo Abecasis (goncalo@well.ox.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/abecasis/QTDT/&#34;&gt;http://www.sph.umich.edu/csg/abecasis/QTDT/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris), Linux, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;qtdt, prelude, finale, pedstats&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Abecasis, Cardon and Cookson (2000), &amp;ldquo;A general test of association for quantitative traits in nuclear families&amp;rdquo;, American Journal of Human Genetics, 66(1):279-292. [ html]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTL CAFE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtl-cafe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtl-cafe/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;May 1998&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;providing a user freiendly way to perform QTL analysis. The software currently allows 3 types of QTL analysis: (1) single marker ANOVA. (2) marker regression. (3) interval mapping by regression.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biosciences-labs.bham.ac.uk/Kearsey/&#34;&gt;http://www.biosciences-labs.bham.ac.uk/Kearsey/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTL Cartographer</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtl-cartographer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtl-cartographer/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Window version 2.5 (September 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A program to map quantitative traits sing a map of molecular markers.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Christopher J. Basten&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bruce S. Weir&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhao-Bang Zeng&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Shengchu Wang (Dept Statistics, North Carolina State University);&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://statgen.ncsu.edu/qtlcart/cartographer.html&#34;&gt;http://statgen.ncsu.edu/qtlcart/cartographer.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://statgen.ncsu.edu/pub/qtlcart/&#34;&gt;ftp://statgen.ncsu.edu/pub/qtlcart/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, qtlcart&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Basten,Weir,Zeng (1994), &amp;ldquo;Zmap-a QTL cartographer&amp;rdquo;, in Proceedings of the 5th World Congress on Genetics Applied to Livestock Production: Computing Strategies and Software, vol 22, eds. Smith, Gavora, Chesnais, Fairfull, Gibson, Kennedy, Burnside.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online manual&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTL EXPRESS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtl-express/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtl-express/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;August 2005&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A web-based user-friendly package to map Quantitative Trait Loci in outbred populations. Population structures catered for are line crosses, halfsib families, nuclear families and sibpairs. Permutation tests to determine empirical significance levels and bootstrapping to estimate empirical confidence intervals of QTL locations are optional. Fixed effects/covariates can be fitted and models may include single or multiple QTL. Results are presented in tabular and graphical format.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;George Seaton (email: george.seaton@ed.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chris Haley&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sara Knott&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Xijiang Yu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Peter Visscher (Institute of Cell, Animal, Population Biology, Univ. Edingbergh)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://qtl.cap.ed.ac.uk/&#34;&gt;http://qtl.cap.ed.ac.uk/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;G Seaton, CS Haley, SA Knott, M Kearsey, PM Visscher (2002), &amp;ldquo;QTL Express: mapping quantitative trait loci in simple and complex pedigrees&amp;rdquo;, Bioinformatics, 18:339-340&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTL-ALL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtl-all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtl-all/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;QTL Analysis and Linkage Library&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;QTL-ALL is a software package designed to make as many as possible of the new statistics (e.g. score statistics) widely available. The software consists of a MEGA2-like interface for data analysis preparation and a library of R routines that computes linkage statistics. QTL-ALL reads in input data, creates re-formatted output data files, calls external IBD-generation software such as MERLIN or SIMWALK2, then computes statistics using our R library, and finally produces tables and plots of statistics and p-values. This entire sequence is highly automated, requiring minimal user-intervention. The initial release of the software computes a number of newer QTL-mapping statistics, including several score statistic variants, and can handle nuclear family data, including specialty designs such as discordant and concordant (affected) pairs.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Nandita Mukhopadhyay&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S Bhattacharjee&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;CL Kuo&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dan Weeks&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;E Feingold&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register/&#34;&gt;http://watson.hgen.pitt.edu/register/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Am Soc Hum Genet annual meeting 2006 Mukhopadhyay, Bhattacharjee, Kuo, Weeks, Feingold, Am J Hum Genet, suppl. ?, ? (1995)). &lt;a href=&#34;http://www.ashg.org/genetics/abstracts/abs06/f1567.htm&#34;&gt;http://www.ashg.org/genetics/abstracts/abs06/f1567.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QTLNETWORK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qtlnetwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qtlnetwork/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;QTLNetwork is a software package for mapping and visualizing the genetic architecture underlying complex traits for experimental populations derived from a cross between two inbred lines.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jian Yang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chengcheng Hu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Xiuzi Ye&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jun Zhu (Zhejiang University)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ibi.zju.edu.cn/software/qtlnetwork&#34;&gt;http://ibi.zju.edu.cn/software/qtlnetwork&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Yang, Hu, Hu, Yu, Xia, Ye, Zhu (2008), &amp;ldquo;QTLNetwork: mapping and visualizing genetic architecture of complex traits in experimental populations&amp;rdquo;, Bioinformatics. 24(5):721-723.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QU-GENE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qu-gene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qu-gene/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;QUantitative GENEtics&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;v1 (1998)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A package for quantitative analysis of genetic models&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;D. Podlich (email: d.podlich@mailbox.uq.edu.au)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;M. Cooper (email: m.cooper@mailbox.uq.edu.au)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pig.ag.uq.edu.au/qu-gene/&#34;&gt;http://pig.ag.uq.edu.au/qu-gene/&lt;/a&gt; (not available)&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Fortran&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;qugene.exe&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Podlich, Cooper (1998), &amp;ldquo;QU-GENE: a simulation platform for quantitative analysis of genetic models&amp;rdquo;, Bioinformatics. 14:632-653. Online manual: &lt;a href=&#34;http://pig.ag.uq.edu.au/qu-gene/manual.htm&#34;&gt;http://pig.ag.uq.edu.au/qu-gene/manual.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QUANTO</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/quanto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/quanto/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2.1 (January 2007)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Quanto is a program that computes sample size or power for association studies of genes, environmental factors, gene-environment interaction, or gene-gene interaction. Available study designs for a disease (binary) outcome include the unmatched case-control, matched case-control, case-sibling, case-parent, and case-only designs. Study designs for a quantitative tra it include independent individuals and case parent designs. Quanto is a 32-bit Windows application requiring Windows 95, 98, NT, 2000, ME or XP to run. The graphical user interface allows th e user to easily change the model and view the results without having to edit an input file and rerun the program for every model. The results of a session are stored to a log file. This log can be printed or saved to a file for reviewing at a later date. An option is included to create a text file of the log that can be imported into other documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jim Gauderman (email: jimg@usc.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;John Morrison (email: jmorr@usc.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hydra.usc.edu/GxE&#34;&gt;http://hydra.usc.edu/GxE&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Window(98/NT/2000/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;quanto.exe&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Gauderman (2002), &amp;ldquo;Sample size requirements for matched case-control studies of gene-environment interaction&amp;rdquo;, Statistics in Medicine, 21:35-50&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gauderman (2002), &amp;ldquo;Sample size requirements for association studies of gene-gene interaction&amp;rdquo;, American Journal of Epidemiology, 155:478-484&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;WJ Gauderman (2003), &amp;ldquo;Candidate gene association studies for a quantitative trait, using parent-offspring trios&amp;rdquo;, Genetic Epidemiology, 25:327-338&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QUTIE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/q/qutie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/q/qutie/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Case-Control RAre Variant Analysis Tool&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Enabling the analysis of rare variants in large-scale case control and quantitative trait association studies. CCRaVAT (Case-Control Rare Variant Analysis Tool) and QuTie (Quantitative Trait) are software packages that enable efficient large-scale analysis of rare variants across specific regions or genome-wide. These programs implement a rare variant super-locus or collapsing method that investigates the accumulation of rare variant alleles in either a case-control or quantitative trait study design.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Eleftheria Zeggini&amp;rsquo;s group (Wellcome Trust Sanger Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/rarevariant/&#34;&gt;http://www.sanger.ac.uk/resources/software/rarevariant/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;CCRAVAT&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

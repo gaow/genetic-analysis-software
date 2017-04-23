@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/f/index.xml</link>
+    <description>Recent content in F on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/f/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FAMHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/famhap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/famhap/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;16&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;FAMHAP is a tool for haplotype association analysis of unphased genotype data. It can be used both for population data (case-control) and nuclear family data. The program is optimized for haplotype frequency estimation with the EM-algorithm for many markers. FAMHAP provides a method which searches for potential genotyping errors and several tests for haplotype-based association analysis. Particular emphasis is on Monte-Carlo simulations, which are necessary in the context of haplotype association, where asymptotic theory often fails, and in the context of multiple testing problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Tim Becker (email: tim.becker@ukb.uni-bonn.de)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Michael Knapp&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uni-bonn.de/~umt70e/becker.html&#34;&gt;http://www.uni-bonn.de/~umt70e/becker.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Becker, Knapp (2004), &amp;ldquo;Maximum-likelihood estimation of haplotype frequencies in nuclear families&amp;rdquo;, Genetic Epidemiology, 27;21-32.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Knapp (2004), &amp;ldquo;A powerful strategy to account for multiple testing in the context of haplotype analysis&amp;rdquo;, American Journal of Human Genetics, 75:561-570&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Knapp (2005), &amp;ldquo;Impact of missing genotype data on Monte-carlo simulation based haplotype analysis&amp;rdquo;, Human Heredity, 59:185-189.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Cichon, Jönson, Knapp (2005), &amp;ldquo;Multiple testing in the context of haplotype analysis revisited: application to case-control data&amp;rdquo;, Annals of Human Genetics, 69:1-10&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Schumacher, Cichon, Baur, Knapp (2005), &amp;ldquo;Haplotype interaction analysis of unlinked regions&amp;rdquo;, Genetic Epidemiology, 29:313-322.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Valentonyte, Croucher, Strauch, Schreiber, Hampe, Knapp (2006), &amp;ldquo;Identification of probable genotyping errors by consideration of haplotypes&amp;rdquo;, European Journal of Human Genetics, 14:450-8.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Baur, Knapp (2006), &amp;ldquo;Detection of parent-of-origin effects using haplotype analysis&amp;rdquo;, Human Heredity, 62:64-76&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FAMOZ</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/famoz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/famoz/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;FAther/MOther&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2003&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;the program uses likelihood calculation and simulation to perform parentage studies with codominant, dominant, cytoplasmic markers or combinations of the different types&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Sophie Gerber (email: sophie@pierroton.inra.fr)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Patrick Chabrier&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Antoine Kremer (INRA - UMR BIOGECO)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pierroton.inra.fr/genetics/labo/Software/Famoz/index.html&#34;&gt;http://www.pierroton.inra.fr/genetics/labo/Software/Famoz/index.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C, Tcl/Tk&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris/..), Linux, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;S Gerber, S Mariette, R Streiff, C Bodénès, A Kremer (2000), &amp;ldquo;Comparison of microsatellites and AFLP markers for parentage analysis&amp;rdquo;, Molecular Ecology, 9:1037-1048.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;S Gerber, P Chabrier, A Kremer (2003), &amp;ldquo;FaMoz: a software for parentage analysis using dominant, codominant and uniparentally inherited markers&amp;rdquo;, Molecular Ecology Notes, 3(3):479-481.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTEHPLUS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fastehplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fastehplus/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;faster EH-PLUS&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pak Sham (King&amp;rsquo;s College London, UK)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&#34;&gt;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, UNIX (DEC,OSF,Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zhao, Sham (2002), &amp;ldquo;Faster allelic association analysis using unrelated subjects&amp;rdquo;, Human Heredity, 53(1):36-41.&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;EH, EHPLUS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/faster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/faster/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;FAmily SmarT EliminatoR&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 beta&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The program is to reduce family members so the families can be used in GENEHUNTER program. FASTER eliminates the most redundant individuals according to the set of weights (preferences) (Age, Information about genetic Markers, etc.) The program has several features such as automatical reducement of branches without any affected individuals, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Cyril Hoschl (Charles Univ, Pague)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hoschl.cz/faster/&#34;&gt;http://www.hoschl.cz/faster/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows(9x/Me/2000/XP)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fastlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fastlink/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;faster version of LINKAGE&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;4.1P (July 4, 1999)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cottingham&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gupta&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Idury&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer ( schaffer@helix.nih.gov)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Shriram&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ann Becker (collaborators for version 4)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dan Geiger (collaborators for version 4)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html&#34;&gt;http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.ncbi.nlm.nih.gov/pub/fastlink&#34;&gt;ftp://ftp.ncbi.nlm.nih.gov/pub/fastlink&lt;/a&gt; (since Aug 6, 1996) or &lt;a href=&#34;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/FASTLINK/fastlink&#34;&gt;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/FASTLINK/fastlink&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, VMS, MS-DOS,.. and can also run in parallel on shared memory UNIX machines&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cottingham, Idury, Schaffer (1993), &amp;ldquo;Fast sequential genetic linkage computation&amp;rdquo;, American Journal of Human Genetics, 53(1):252-263&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer, Gupta, Shriram, Cottingham (1994), &amp;ldquo;Avoiding recomputation in linkage analysis&amp;rdquo;, Human Heredity, 44:225-237&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online README files (version 3.0P, december 95).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dwarkadas, Schaffer, Cottingham, Cox, Keleher, Zwaenepoel, &amp;ldquo;Parallelization of general linkage analysis problems&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gupta, Schaffer, Cox,Zwaenepoel, &amp;ldquo;Integrating parallelization strategies for linkage analysis&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer, &amp;ldquo;Faster linkage analysis computations for pedigrees with loops or unused alleles&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Geiger, Schaffer, &amp;ldquo;Automatic selection of loop breakers for genetic linkage analysis&amp;rdquo;, Human Heredity&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Becker, Bar-Yehuda, Geiger, &amp;ldquo;Random algorithms for the loop cutset problem&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer, &amp;ldquo;Loops in FASTLINK&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer, &amp;ldquo;The mystery of (the) unknown&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schaffer, &amp;ldquo;Pedigree traversal in FASTLINK&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;LINKAGE&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTMAP 1</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fastmap-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fastmap-1/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.04b (April, 1997)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;fluorescent allele-calling software toolkit: a computer software for fully automated microsatellite genotyping.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mark W. Perlin (Carnegie Mellon, perlin@cmu.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;See-Kiong Ng ( skng@cs.cmu.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nandita Mukhopadhyay&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lillian Markind Bloch&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cs.cmu.edu/~genome/FAST-MAP.html&#34;&gt;http://www.cs.cmu.edu/~genome/FAST-MAP.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MacOS. MatLab programming environment is required.&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Am Soc Hum Genet annual meeting 1996 (Ng,Mukhopadhyay, Rayman,Ghosth,Perlin, Am J Hum Genet, suppl 59, A225 (1996); Am Soc Hum Genet annual meeting 1997 (Perlin, Bloch, Mukhopadhyay, Ng, Am J Hum Genet, suppl 61, A290 (1997)).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTMAP 2</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fastmap-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fastmap-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&#34;&gt;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&#34;&gt;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Curtis, Gurling (1993), Human Heredity, 43:173-185.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FASTSLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fastslink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fastslink/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;faster SLINK&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a faster version of SLINK&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Daniel E. Weeks (University of Oxford, University of Pittsburgh)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register/soft_doc.html&#34;&gt;http://watson.hgen.pitt.edu/register/soft_doc.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;registration page at: &lt;a href=&#34;http://watson.hgen.pitt.edu/register&#34;&gt;http://watson.hgen.pitt.edu/register&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;slink&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1990 (Weeks, Ott, Lathrop, Am J Hum Genet, suppl 47, A204 (1990)).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online manual pages (same as slink)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;SLINK&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FBAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fbat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fbat/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;(haplotype) Family Based Association Test&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Nov 2003&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Haplotype FBAT is a user-friendly, well-documented software that allows the user to test for association/linkage between disease phenotypes and haplotypes by utilizing family-based controls. The method extends the approach for testing described in Rabinowitz and Laird (2000) to handle multiple tightly linked markers. It is robust to population admixture, yet efficient in the sense that it utilizes data from families where phase cannot be completely resolved in all individuals by using weights, which are estimated from the sample. However, the method remains robust to population stratification and population admixture. The method can handle any type of phenotype, including multiple phenotypes and missing parents, marker data, and/or phase, and provides both bi-allelic and multi-allelic tests. PowerFBAT is a tool for power simulation of association analysis using FBAT with binary outcomes. XWXW is an extension to the Haseman-Elston method for non-parametric linkage test with quantitative traits. XDT is a software that performs classical TDT, &amp;ldquo;SDT&amp;rdquo; and &amp;ldquo;Rabinowitz TDT&amp;rdquo; for nuclear families (not supported anymore).&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Xin Xu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Steve Horvath&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Nan Laird (Harvard Univ)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biostat.harvard.edu/~fbat/fbat.htm&#34;&gt;http://www.biostat.harvard.edu/~fbat/fbat.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris, Linux, MS-Windows, Mac(MacOS X/Darwin)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;fbat, pbat, powerfbat, xwxw, xdt&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Laird NM (2004) Family based tests for associating haplotypes with general phenotype data: application to asthma genetics. Genetic Epidemiology, 26(1):61-69;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Laird, Horvath, Xu (2000), Implementing a unified approach to family based tests of association, Genetic Epi, supp 1, 19:36-42; Rabinowitz, Laird (2000), A unified approach to adjusting association tests for population admixture with arbitrary pedigree structure and arbitrary missing marker information, Human Heredity, 50:211-223.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Horvath, Xu, Laird (2001), The family based association test method: strategies for studying general genotype-phenotype associations, European J Hum Genet. 9:301-306.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;PBAT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FEST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fest/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;R/FEST&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FESTA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/festa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/festa/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Fragmented Exhaustive Seearch for TAgsnps&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;March 2005&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Shyam Gopalakrishnan (email: gopalakr@umich.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Steve Qin (email: qin@umich.edu) (University of Michigan)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/qin/FESTA/&#34;&gt;http://www.sph.umich.edu/csg/qin/FESTA/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FINESSE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/finesse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/finesse/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;To incorporate regressive models into the VITESSE likelihood engine&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Florence Demenais (email: florence.demenais@evry.inserm.fr)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.molecular-haplotype.org/finesse/finesse_intro.htm&#34;&gt;http://www.molecular-haplotype.org/finesse/finesse_intro.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;VITESSE&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FINETTI</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/finetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/finetti/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;de FINETTI generator&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0.5 (2008)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Tests for deviation from Hardy-Weinberg equilibrium and tests for association in case controls studies; Plot genotype frequencies graphically using a de Finetti diagram.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Thomas F Wienker (email: wienker@uni-bonn.de) (University of Bonn, Germany)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Web implementation: Tim M Strom (email: timstrom@gsf.de) (GSF Munich, Germany)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Henning Henschke (email: hhenschk@imbie.meb.uni-bonn.de).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ihg.gsf.de/cgi-bin/hw/hwa1.pl&#34;&gt;http://ihg.gsf.de/cgi-bin/hw/hwa1.pl&lt;/a&gt; (testing part)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://finetti.meb.uni-bonn.de/&#34;&gt;http://finetti.meb.uni-bonn.de/&lt;/a&gt; (graphic part, 2008 version)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://ihg.gsf.de/linkage/download/finetti.zip&#34;&gt;http://ihg.gsf.de/linkage/download/finetti.zip&lt;/a&gt; (graphic part, 2004 version)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Pascal (web implementation: Perl, C, php)&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based, MS-DOS, MS-Windows(32), Linux (for stand-alone version)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FIRSTORD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/firstord/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/firstord/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;demonstration of method for preliminary ordering of loci based on two-point lod scores.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&#34;&gt;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&#34;&gt;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FISHER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/f/fisher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/f/fisher/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;genetic analysis of classical biometric traits like blood pressure or height that are caused by a combination of polygenic inheritance and complex environmental forces.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Kenneth Lange (IUCLA)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Daniel E. Weeks (Pittsburgh)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;M. Boehnke&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;registration page at: &lt;a href=&#34;http://www.biomath.medsch.ucla.edu/faculty/klange/software.html&#34;&gt;http://www.biomath.medsch.ucla.edu/faculty/klange/software.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN77&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

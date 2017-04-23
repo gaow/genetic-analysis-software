@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/t/index.xml</link>
+    <description>Recent content in T on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/t/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TAGGER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tagger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tagger/</guid>
+      <description>
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Paul de Bakker (email: debakker@molbio.mgh.harvard.edu, Borad Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.broad.mit.edu/mpg/tagger/&#34;&gt;http://www.broad.mit.edu/mpg/tagger/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;de Bakker, Yelensky, Pe&amp;rsquo;er, Gabriel, Daly, Altshuler (2005), &amp;ldquo;Efficiency and power in genetic association studies&amp;rdquo;, Nature Genetics, 37:1217-1223.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAGIMPUTE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tagimpute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tagimpute/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;TAGging-snp based IMPUTATE&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;tagIMPUTE is a command-line program for the imputation of untyped SNPs. tagIMPUTE is based on a few flanking SNPs that can optimally predict the SNP under imputation.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Yijuan Hu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Danyu Lin (Univ North Carolina)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bios.unc.edu/~lin/software/tagIMPUTE/&#34;&gt;http://www.bios.unc.edu/~lin/software/tagIMPUTE/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Hu, Lin (2010), &amp;ldquo;Analysis of untyped SNPs: maximum likelihood and imputation methods&amp;rdquo;, Genetic Epidemiology, 34:803-815.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAGSNP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tagsnp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tagsnp/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2 (beta)&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Daniel O Stram (email: stram@usc.edu, Univ Southern California)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www-rcf.usc.edu/~stram/tagSNPs.html&#34;&gt;http://www-rcf.usc.edu/~stram/tagSNPs.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN90&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Stram (2004), &amp;ldquo;Tag SNP selection for association studies&amp;rdquo;, Genetic Epidemiology, 27(4):365-374.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TAGSTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tagster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tagster/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;TAGster is a tool to select, evaluate and visualize LD tag SNPs for single or multiple populations. The input files can be a set of dumped genotype files from International HapMap Project (&lt;a href=&#34;http://www.hapmap.org/&#34;&gt;http://www.hapmap.org/&lt;/a&gt;) (Hapmap format) or Seattle SNPs (&lt;a href=&#34;http://pga.gs.washington.edu/&#34;&gt;http://pga.gs.washington.edu/&lt;/a&gt;) (Prettybase format). The ouput is a set of LD tag SNPs for single or multiple populations.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Zongli Xu&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Norman L. Kaplan&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jack A Taylor&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.niehs.nih.gov/research/resources/software/tagster/&#34;&gt;http://www.niehs.nih.gov/research/resources/software/tagster/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Perl, R&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;Linux, MacOS, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Xu, Kaplan, Taylor (2007), &amp;ldquo;TAGster: efficient selection of LD tag SNPs in single or multiple populations&amp;rdquo;, Bioinformatics, 23:3254-3255.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TASSEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tassel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tassel/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Trait Analysis by aSSociation, Evolution, and Linkage&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.0 (January 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;TASSEL is a software package which performs a variety of genetic analyses. The analyses include association mapping, diversity estimation and calculating linkage disequilibrium. The association analysis between genotypes and phenotypes can be performed by either a general linear model or a mixed linear model. The general linear model now allows users to analyze complex field designs, environmental interactions, and epistatic interactions. The mixed model is specially designed to handle polygenic effects at multiple levels of relatedness including pedigree information. These new analyses should permit association analysis in a wide range plant and animal species.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Peter J Bradbury&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Edward S Buckler&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dallas E Kroon&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zhiwu Zhang (email: esb@cornell.edu)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://sourceforge.net/projects/tassel/&#34;&gt;http://sourceforge.net/projects/tassel/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zhiwu Zhang, Peter J Bradbury, Dallas E Kroon, Terry M Casstevens, Edward S Buckler (2006), &amp;ldquo;TASSEL 2.0: a software package for association and diversity analyses in plants and animals&amp;rdquo;, Plant &amp;amp; Animal Genomes XIV Conference. [&lt;a href=&#34;http://www.intl-pag.org/14/abstracts/PAG14_C012.html&#34;&gt;abstract&lt;/a&gt;]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDT-AE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdt-ae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdt-ae/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Transmission Disequilibrium Test Allowing for Errors&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.01 (July 2004)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This program computes a likelihood-based transmission disequilibrium test. The data are genotypes on trios (father, mother, affected child) in which random genotyping errors leading to Mendelian inconsistencies may or may not have occurred. This program computes the TDT-AE statistic on all trios (whether Mendelianly consistent or not) and thereby maintains a correct type I error rate in the presence of random genotyping errors.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Chad Haynes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Derek Gordon (email: Gordon@dls.rutgers.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Xin Liu (for version 1)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;ftp://linkage.rockefeller.edu/software/tdtae2&#34;&gt;ftp://linkage.rockefeller.edu/software/tdtae2&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (2000/DOS), UNIX(Sun Solaris), LINUX (RedHat)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;tdt-ae (PC), tdtae (UNIX and LINUX)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Gordon, Heath, Liu, Ott (2001), &amp;ldquo;A transmission/disequilibrium test that allows for genotyping errors in the analysis of single-nucleotide polymorphism data&amp;rdquo;, American Journal of Human Genetics, 69(2):371-380. [ html]&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gordon, Haynes, Johnnidis, Patel, Bowcock, Ott (2004), &amp;ldquo;A transmission disequilibrium test for general pedigrees that is robust to the presence of random genotyping errors and any number of untyped parents&amp;rdquo;, European Journal of Human Genetics, 12:752-761.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;User&amp;rsquo;s Guide&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDT-PC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdt-pc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdt-pc/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Transmission Disequilibrium Test Power Calculator&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.3 (2002)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;TDT Power Calculator (TDT-PC) is a computer program to compute the statistical power of the Transmission/Disequilibrium Test (TDT) analytically, based on the most accurate asymptotic algorithms up to date, and is applicable in very general situations, where different parental disease status, multiple children, mixed family type and recombination events are considered. Routine algorithms for Monte Carlo simulations with significant improvements are also implemented in this program.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Wei-Min Chen (email: wc9c@virginia.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hong-Wen Deng (deng@creighton.edu) (John Hopkins)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://people.virginia.edu/~wc9c/TDTPC/Download.htm&#34;&gt;http://people.virginia.edu/~wc9c/TDTPC/Download.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.biostat.jhsph.edu/~wmchen/pc.html&#34;&gt;http://www.biostat.jhsph.edu/~wmchen/pc.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, MS-DOS, UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Chen, Deng (2001), Genetic Epidemiology, 21:53-67.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDT/S-TDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdts-tdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdts-tdt/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Transmission Disequilibrium Test and Sib Transmission Disequilibrium Test&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1 (Feb 24, 1999)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The program provides separate results for TDT, S-TDT, and the combined (overall) test, as appropriate.&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://genomics.med.upenn.edu/spielman/TDT.htm&#34;&gt;http://genomics.med.upenn.edu/spielman/TDT.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/NT)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Spielman, McGinnis, Ewens (1993), &amp;ldquo;Transmission test for linkage disequilibrium: the insulin gene region and insulin-dependent diabetes mellitus (IDDM)&amp;ldquo;, American Journal of Human Genetics, 52(3):506-516&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Spielman, Ewens (1998), &amp;ldquo;A sibship test for linkage in the presence of association: the sib transmission/disequilibrium test&amp;rdquo;, American Journal of Human Genetics, 62(2):450-458&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDTASP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdtasp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdtasp/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Power and Sample-Size Calculations for the TDT and ASP Tests&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1 (April 2003)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Power and sample-size calculations for the TDT and ASP tests under a wide variety of ascertainment schemes. Uses the flexible genetic model of McGinnis. Most calculations are exact rather than asymptotic.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Barry W. Brown (bwb@mdanderson.org)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dan Serachitopol (dansera@mdanderson.org)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://biostatistics.mdanderson.org/SoftwareDownload/&#34;&gt;http://biostatistics.mdanderson.org/SoftwareDownload/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://biostatistics.mdanderson.org/SoftwareDownload/SingleSoftware.aspx?Software_Id=20&#34;&gt;http://biostatistics.mdanderson.org/SoftwareDownload/SingleSoftware.aspx?Software_Id=20&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://odin.mdacc.tmc.edu/pub/source/tdtasp_1.1.tar.gz&#34;&gt;ftp://odin.mdacc.tmc.edu/pub/source/tdtasp_1.1.tar.gz&lt;/a&gt; (source)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://odin.mdacc.tmc.edu/pub/sun/tdtasp_1.0.tar.gz&#34;&gt;ftp://odin.mdacc.tmc.edu/pub/sun/tdtasp_1.0.tar.gz&lt;/a&gt; (Solaris Executable)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://odin.mdacc.tmc.edu/pub/win32/tdtasp_1.1_se.exe&#34;&gt;ftp://odin.mdacc.tmc.edu/pub/win32/tdtasp_1.1_se.exe&lt;/a&gt; (Windows executable)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Fortran95&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;tdtasp&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Brown (2004), &amp;ldquo;Power calculations for the transmission/disequilibrium and affected sib pair tests using elementary probability methods&amp;rdquo;, Genetic Research, 83(2):133-141.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDTHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdthap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdthap/</guid>
+      <description>
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;R/TDTHAP&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TDTPOWER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tdtpower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tdtpower/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0b (Aug 2001)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;calculates the sample size required for obtaining a prescribed power against a specified alternative for TDT.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Michael Knapp (Univ Bonn)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uni-bonn.de/~umt70e/soft.htm&#34;&gt;http://www.uni-bonn.de/~umt70e/soft.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;SAS macro&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;M Knapp (1999), &amp;ldquo;A note on power approximations for the transmission/disequilibrium test&amp;rdquo;, American Journal of Human Genetics, 64(4):1177-1185&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TFPGA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tfpga/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Tools For Population Genetic Analyses&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This program calculates descriptive statistics, genetic distances, and F-statistics. It also performs tests for Hardy-Weinberg equilibrium, exact tests for genetic differentiation, Mantel tests, and UPGMA cluster analyses.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Mark Miller (email: mark.miller@usu.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.marksgeneticsoftware.net/&#34;&gt;http://www.marksgeneticsoftware.net/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THESIAS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/thesias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/thesias/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Testing Haplotype EffectS In Association Studies&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.1 (March 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The objective of the THESIAS program is to perform haplotype-based association analysis in unrelated individuals. This program is based on a maximum likelihood model described in Tregouet et al. 2002 and is linked to the stochastic EM (SEM) algorithm. THESIAS allows the simultaneous estimation of haplotype frequencies and of their associated effects on the phenotype of interest. In its current version, both quantitative and qualitative phenotypes can be studied. Covariate-adjusted haplotype effects as well as haplotype x covariate interactions can be investigated.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;David-Alexandre Tregouet (email: david.tregouet@chups.jussieu.fr)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ecgene.net/genecanvas/downloads.php?cat_id=1&#34;&gt;http://ecgene.net/genecanvas/downloads.php?cat_id=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TKMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tkmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tkmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a program for drawing genetic maps&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Humberto Ortiz Zuazaga (email: humberto@hpcf.upr.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rosemarie Plaetke ( rosi@momo.uthscsa.edu) (Univ Texas Health Science Ctr at San Antonio).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hpcf.upr.edu/~humberto/software/TkMap/&#34;&gt;http://www.hpcf.upr.edu/~humberto/software/TkMap/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;based on bioTk which is based on Tcl/Tk&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;manual page&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TLINKAGE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/t/tlinkage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/t/tlinkage/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;two-locus trait linkage programs&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;these are extensions of the LINKAGE programs that allow the disease phenotype to be under the control of disease two loci.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lathrop&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schork&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Boehnke&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Terwilliger&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ott&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Pascal&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-DOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lathrop, Ott (1990), American Journal of Human Genetics, 47(supp):A188.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schork, Boehnke, Terwilliger, Ott (1993), &amp;ldquo;Two-trait-locus linkage analysis: a powerful strategy for mapping complex genetic traits&amp;rdquo;, American Journal of Human Genetics, 53(5):1127-1136&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;online documentation&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

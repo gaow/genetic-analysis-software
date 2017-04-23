@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/p/index.xml</link>
+    <description>Recent content in P on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/p/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PANGAEA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pangaea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pangaea/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Pedigree ANalysis for Genetics (And Epidemiological Attributes)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Collection of nine packages for genetic analysis&lt;/p&gt;
+
+&lt;p&gt;The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C or C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX (Compaq, Solaris, and others), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pap/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Pedigree Analysis Package&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;6.0 (December 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;it can perform (1) compute the likelihood of specified parameter values; (2) compute the probability of each genotype for pedigree members; (3) simulate phenotypes for output into files; (4) maximize the likelihood over specified parameters (with or without standard errors); (5) compute the standard errors of parameters for unknown estimates; (6) simulate phenotypes and estimate parameter values; (7) estimate expected lod score; (8) compute a grid of likelihood over one or two parameters. New additions to V5: assortative mating; TDT; additive multi-locus models&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Sandra Hasstedt (University of Utah, email: sandy@genetics.utah.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Peter Cartwright contributed to versions 2&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;3; many others contributed to version 1 (University of Utah)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hasstedt.genetics.utah.edu/&#34;&gt;http://hasstedt.genetics.utah.edu/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;FORTRAN 77&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;preped, descstat, prepap,simul, papdr (with 8 options),gpe&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;manual (version 5, PDF) online manual (version 4) (from Wellcome Trust)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PARENTE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/parente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/parente/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.2 (February 2003)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;parentage inference using molecular data from diploid codominant markers&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Stephanie Blanc-Manel (email: stephanie.manel@ujf-grenoble.fr)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www2.ujf-grenoble.fr/leca/membres/manel.html&#34;&gt;http://www2.ujf-grenoble.fr/leca/membres/manel.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PASS PEDIGREE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pass-pedigree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pass-pedigree/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;PASS Pedigree is drawing the most complex family trees in a matter of minutes instead of hours of work. The basis of this is an algorithm for automatically builing a family tree. Of course, manual adjustments in the family tree can be made for your specific requirements. PASS Pedigree meets all international conventions concerning the drawing of pedigrees. A converter can convert historical Cyrillic pedigrees automatically to PASS Pedigree. Unlike before, all your family trees are stored in one single database. PASS Pedigree can intelligently connect to many genetic centers (e.g. three genetic centers in the Netherlands) with the existing patient information, via the lab system HELIX based on HL7 techniques.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;PASS (Pro Active Software Solutions) Software&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.pass-software.com/Producten/PASSPedigree.aspx&#34;&gt;http://www.pass-software.com/Producten/PASSPedigree.aspx&lt;/a&gt; (in Dutch)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.pass-software.com/Producten/PASSPedigree/tabid/113/language/en-US/Default.aspx&#34;&gt;http://www.pass-software.com/Producten/PASSPedigree/tabid/113/language/en-US/Default.aspx&lt;/a&gt; (in English)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;price&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PATH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/path/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/path/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0.7 (September 28, 2009)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The Path web application is a first-step bioinformatics approach to investigate gene-gene interactions in genetic association studies. Path is designed to do: 1. Interface your SNP data with biological information from several online bioinformatics databases. 2. Generate biologically plausible hypotheses for testing gene-gene interactions. 3. Select a subset of SNPs and conduct SNP-SNP interaction tests. 4. Store analysis results. 5. Explore analysis results through interactive plots and summary tables.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;email: genapha@mrl.ubc.ca&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://genapha.icapture.ubc.ca/PathTutorial/&#34;&gt;http://genapha.icapture.ubc.ca/PathTutorial/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows, Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Zamer, Tripp, Ellis, Daley (2009), &amp;ldquo;Path: a tool to facilitate pathway-based genetic association analysis&amp;rdquo;, Bioinformatics, 25(18):2444-2446.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAWE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pawe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pawe/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Power for Association With Error&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;Dec 2002&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Power and sample size calculations for genetic case-control association studies allowing for errors&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Derek Gordon (email: gordon@linkage.rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;assisted by Michael Nothnagel&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://linkage.rockefeller.edu/pawe/&#34;&gt;http://linkage.rockefeller.edu/pawe/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAWE-3D</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pawe-3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pawe-3d/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Power for Association With Error in 3D&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;D Gordon&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;C Haynes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J Blumenfeld&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SJ Finch&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://linkage.rockefeller.edu/pawe3d/&#34;&gt;http://linkage.rockefeller.edu/pawe3d/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PBAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pbat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pbat/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Power calculation of family-Based Association Tests&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.6.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;PBAT is an interactive software package that provides tools for the design and the data analysis of family-based association studies.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Christoph Lange (email: clange@hsph.harvard.edu) (Harvard Univ).&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biostat.harvard.edu/~clange/default.htm&#34;&gt;http://www.biostat.harvard.edu/~clange/default.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the noninformative families in family-based association tests: A powerful new testing strategy&amp;rdquo;, American Journal of Human Genetics, 73(4):801-811&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lange, DeMeo, Silverman, Weiss, Laird (2004), &amp;ldquo;PBAT: tools for family-based association studies&amp;rdquo;, American Journal of Human Genetics, 74(2):367-369&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Steen, Lange (2005), &amp;ldquo;PBAT: A comprehensive software package for genome-wide association analysis of complex family-based studies&amp;rdquo;, Human Genomics, 2(1):67-69.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hoffmann, Lange (2006), &amp;ldquo;P2BAT: a massive parallel implementation of PBAT for genome-wide association studies in R&amp;rdquo;, Bioinformatics, 22:3103-3105.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;FBAT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PDA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pda/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Pooled DNA Analyzer&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a tool for analyses of pooled DNA data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hsin-Chou Yang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chia-Ching Pan&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chin-Yu Lin&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&#34;&gt;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PDPSYS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pdpsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pdpsys/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Pedigree Data Processing SYStem&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (November 1998)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;PDPSys is a Windows-based system designed for pedigree data management, providing a graphical interface for pedigree construction and output.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Fil Quiaoit (Fred Hutchinson Cancer Research Center, email: fquiaoit@fhcrc.org)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://cougar.fhcrc.org/software.php&#34;&gt;http://cougar.fhcrc.org/software.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Visual Basic, MS-Access&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;pdpsys&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pdt/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;pedigree disequilibrium test&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;5.1&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;The PDT analysis program allows the user to evaluate evidence of linkage disequilibrium (LD) in general pedigree data. All family data may be used without nullifying the validity of the association test, even when there is more than one affected in a family. The PDT program performs both allele-specific and genotype-specific LD analysis of individual markers. Version 5.1 adds the ability to perform genotype-specific analysis over marker sets.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Eden Martin (Duke Univ)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chg.duke.edu/software/pdt.html&#34;&gt;http://www.chg.duke.edu/software/pdt.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(Solaris)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Martin, Monks, Warren, Kaplan (2000), American Journal of Human Genetics, 67(1):146-154&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/ped/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/ped/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;PEdigree Drawing software&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;5.1.0 (October 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Powerful pedigree drawing program with two drawing modes: Input mode for fast and automatic drawing; edit mode for text annotations, legends, special symbols. Both input and edit mode provide auto numbering, auto resizing of symbols and fonts, and zooming. PED 4.2a complies with the &amp;ldquo;Recommendations for standardized human pedigree nomenclature&amp;rdquo;. Apart from fully sizeable printed output, pedigrees can be exported as metafiles to virtually any Windows word processor or drawing program.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Hansjoerg Plendl (email: plendl@medgen.uni-kiel.de)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.medgen.de/index.html&#34;&gt;http://www.medgen.de/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.medgen.de/ped/index.htm&#34;&gt;http://www.medgen.de/ped/index.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Visual Smalltalk&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (95/98/NT)&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;ped.exe&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bennet, Steinhaus, Uhrich, O&amp;rsquo;Sullivan, Resta, Lochner-Doyle, Markel, Vincent, Hamanishi(1995), &amp;ldquo;Recommendations for standardized human pedigree nomenclature. pedigree standardization task force of the national society of genetic counselors&amp;rdquo;, American Journal of Human Genetics, 56(3):745-752&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A Golla (1997), Medizinische Genetik, 4:595-597.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;H Plendl (1998), Medizinische Genetik, 1:50-51.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;site license US$99.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEDAGREE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedagree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedagree/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.00 (February 2002)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;a program for detecting autosomal marker Mendelian incompatibilities in pedigree data&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Christine Couillault (email: kristin.c@free.fr)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://pedagree.free.fr/&#34;&gt;http://pedagree.free.fr/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C, C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, Linux, MS-Windows, MS-DOS,&lt;/p&gt;
+
+&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
+
+&lt;p&gt;pedagree&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEDCHECK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedcheck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedcheck/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0 (November 1998)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;identifying all Mendelian inconsistencies in pedigree data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;J. R. O&amp;rsquo;Connell (email: jeff@sherlock.hgen.pitt.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register&#34;&gt;http://watson.hgen.pitt.edu/register&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C, C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX(SunOS/Solaris/Compaq-Alpha/SGI-IRIX/..)&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;FAQ-O-MATIC: &lt;a href=&#34;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&#34;&gt;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PEDFIDDLER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedfiddler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedfiddler/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.5 (August 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This suite of six programs can be used as a stand-alone extension of the pedigree drawing facilities found in the publicly available version of PEDPACK.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;J C. Loredo-Osti (email: josti@bagel.epi.mcgill.ca)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Kenneth Morgan (email: ken@bagel.epi.mcgill.ca); Window version adapted by Michael Li (email:lina@u.washington.edu).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C,C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX (OSF1, and Solaris 2.7, AlphaLinux) MS-Windows (XP Home/Win32/Win95), Linux&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;PEDPACK in PANGAEA&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

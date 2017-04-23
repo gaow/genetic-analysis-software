@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I on Genetic Analysis Software | The Rockefeller List</title>
+    <link>https://gaow.github.io/genetic-analysis-software/i/index.xml</link>
+    <description>Recent content in I on Genetic Analysis Software | The Rockefeller List</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://gaow.github.io/genetic-analysis-software/i/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IBDREG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/ibdreg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/ibdreg/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;0.1.0 (December 2006)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;A package in S-PLUS and R to test genetic linkage with covariates by regression methods with response IBD sharing for relative pairs. Account for correlations of IBD statistics and covariates for relative pairs within the same pedigree.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Jason Sinnwell (email: sinnwell@mayo.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Daniel Schaid (Mayo Clinic)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm&#34;&gt;http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;R/S-PLUS&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IGG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/igg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/igg/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Integrate Genotypes for genome-wide Genetic studies&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;3.0&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;IGG is an open-source Java package with graphic interface to efficiently and consistently integrate genotypes across high throughput genotyping platforms (e.g., Affymetrix and Illumina), the HapMap genotype repository (&lt;a href=&#34;http://www.hapmap.org/&#34;&gt;http://www.hapmap.org/&lt;/a&gt;), and even genotypes from the collaborators&amp;rsquo; projects. It is equipped with a series of functions to control qualities of genotype integration and to flexibly export genotypes for genetic studies as well.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Miao-Xin Li (email: limx54@163.com)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bioinfo.hku.hk:13080/iggweb/&#34;&gt;http://bioinfo.hku.hk:13080/iggweb/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;Java&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;web-based&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Li, Jiang, Ho, Song, Sham (2007), &amp;ldquo;IGG: A tool to integrate GeneChips for genetic studies&amp;rdquo;, Bioinformatics, 23(22):3105-3107.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Li, Jiang, Kao, Sham, Song (2009), &amp;ldquo;IGG3: a tool to rapidly integrate large genotype datasets for whole-genome imputation and individual-level meta-analysis&amp;rdquo;, Bioinformatics, 25(11):1449-1450.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ILLUMINUS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/illuminus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/illuminus/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Illuminus is a fast and accurate algorithm for assigning single nucleotide polymorphism (SNP) genotypes to microarray data from the Illumina BeadArray technology.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Yik Teo et al. (Wellcome Trust Sanger Institute)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/illuminus/&#34;&gt;http://www.sanger.ac.uk/resources/software/illuminus/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &amp;ldquo;A genotype calling algorithm for the Illumina BeadArray platform&amp;rdquo;, Bioinformatics, 23(20):2741-2746.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ILR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/ilr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/ilr/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;Imprinting Likelihood Ratio&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2.2 (November 2005)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;calculation of the restricted likelihood-ratio affected sib-pair test for linkage allowing for imprinting&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Michael Knapp (Univ Bonn)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Konstantin Strauch (Univ Marburg)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uni-bonn.de/~umt70e/soft.htm&#34;&gt;http://www.uni-bonn.de/~umt70e/soft.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;SAS macro&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Knapp, Strauch (2004), &amp;ldquo;Affected-sib-pair test for linkage based on constraints for identical-by-descent distributions corresponding to disease models with imprinting&amp;rdquo;, Genetic Epidemiology, 26:273-285 (Erratum: 28:288).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IMPUTE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/impute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/impute/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;2 (2009)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;IMPUTE is a program for estimating (&amp;ldquo;imputing&amp;rdquo;) unobserved genotypes in SNP association studies. The program is designed to work seamlessly with the output of the genotype calling program CHIAMO and the population genetic simulator HAPGEN, and it produces output that can be analyzed using the program SNPTEST.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bryan Howie (email: bhowie@uchicago.edu)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Jonathan Marchini (email: marchini@stats.ox.ac.uk)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://mathgen.stats.ox.ac.uk/impute/impute.html&#34;&gt;https://mathgen.stats.ox.ac.uk/impute/impute.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Marchini, Howie, Myers, McVean, Donnelly (2007), &amp;ldquo;A new multipoint method for genome-wide association studies via imputation of genotypes&amp;rdquo;, Nature Genetics, 39:906-913.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Howie, Donnelly, Marchini (2009), &amp;ldquo;A flexible and accurate genotype imputation method for the next generation of genome-wide association studies&amp;rdquo;, PLoS Genetics, 5(6):e1000529&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INSEGT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/insegt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/insegt/</guid>
+      <description>
+
+&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
+
+&lt;p&gt;INference of SEGregation Types&lt;/p&gt;
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.1 (September 1999)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;the program constructs feasible haplotype configurations and the corresponding segregation types on pedigrees. the haplotype configuration minimizes recombinations on the pedigree.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;Jochen Kumm (email: jochen@u.washington.edu)&lt;/p&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C++ (the standard template library, STL, is used)&lt;/p&gt;
+
+&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
+
+&lt;p&gt;PANGAEA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INTEGRAYEDMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/integrayedmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/integrayedmap/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;IntegratedMap is a web application and database schema for storing and interactively displaying genetic map data.&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hongyu Yang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Hongyu Wang&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Alan Gingle (Center for Applied Genetic Technologies, University of Georgia)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;ftp://cggc.agtec.uga.edu/IntegratedMap/&#34;&gt;ftp://cggc.agtec.uga.edu/IntegratedMap/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;MS-Windows (NT/2000/XP profession/), require either Oracle RDBMS or MySQL.&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Yang, Wang, Gingle (2005), &amp;ldquo;IntegratedMap: a web interface for integrating genetic map data&amp;rdquo;, Bioinformatics, 21(9):2126-2127.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>INTERSNP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/i/intersnp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/i/intersnp/</guid>
+      <description>
+
+&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
+
+&lt;p&gt;1.0.4 (March 2010)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;INTERSNP is a software for genome-wide interaction analysis (GWIA) of case-control SNP data. SNPs are selected for joint analysis using a priori information. Sources of information to define meaningful strategies can be statistical evidence (single marker association at a moderate level, computed from the own data) and genetic/biologic relevance (genomic location, function class or pathway information).&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Christine Herold&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Tim Becker&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://intersnp.meb.uni-bonn.de/&#34;&gt;http://intersnp.meb.uni-bonn.de/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
+
+&lt;p&gt;C/C++&lt;/p&gt;
+
+&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
+
+&lt;p&gt;UNIX, MS-Windows, MacOS&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Herold, Steffens, Brockschmidt, Baur, Becker (2009), &amp;ldquo;INTERSNP: genome-wide interaction analysis guided by a priori information&amp;rdquo;, Bioinformatics, 25(24):3275-3281&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
