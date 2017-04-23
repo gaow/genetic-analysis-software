@@ -1,10 +1,12 @@
 # NAME
+(software name is a single word)
+Record added by xxx, April 2017. 
 
 ## Full name
-...
+(Full name of software, usually expands the abbrevation)
 
 ## Other names
-...
+(Also a place for modules in the software)
 
 ## Description
 ...
@@ -38,7 +40,7 @@
 * Doe J et al. (2003), ...
 
 ## Availablity
-...
+(Any notes on availability, eg license type, open source or note)
 
 ## Related software
 ...
