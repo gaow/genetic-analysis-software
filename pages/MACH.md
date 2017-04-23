@@ -1,21 +1,20 @@
-##MACH
-###Full Name
+# MACH
+
+## Full Name
 MArkov Chain Haplotyper
 
-###Version
+## Version
 1.0
 
-###Description
+## Description
 MACH is a Markov Chain based haplotyper. It can be resolve long haplotypes or infer missing genotypes in samples of unrelated individuals.
 
-###Author
+## Author
 * Yun Li (email: ylwtx@umich.edu)
 * Goncalo Abecasis (email: goncalo@umich.edu)
 
-###URL
+## URL
 http://www.sph.umich.edu/csg/abecasis/MACH/index.html
 
-###Related
+## Related
 MINIMAC
-
-

@@ -1,14 +1,13 @@
-##PEDSCRIPT
-###Version
+# PEDSCRIPT
+
+## Version
 2004 (not actively maintained)
 
-###Description
+## Description
 PedScript is a tool that allows scripting of simple modifications to pedigree files.
 
-###URL
+## URL
 http://genome.sph.umich.edu/wiki/PedScript
 
-###EXE
+## EXE
 anonymize, mendelcheck, nuke, trim, sample
-
-

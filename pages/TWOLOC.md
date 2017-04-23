@@ -1,26 +1,25 @@
-##TWOLOC
-###Version
+# TWOLOC
+
+## Version
 v2 (May 1998)
 
-###Description
+## Description
 a software package for analyzing two-locus susceptibility gene models in affected sib-pair data
 
-###Author
+## Author
 Martin Farrall (Wellcome Trust Centre for Human Genetics, mfarrall@well.ox.ac.uk)
 
-###URL
+## URL
 http://www.well.ox.ac.uk/~mfarrall/twoloc.htm
 
-###Language
+## Language
 FORTRAN77, Pascal, awk
 
-###OS
+## OS
 UNIX(Saloris/DEC UNIX/IRIX/..)
 
-###EXE
+## EXE
 twoloc, calc_alpha, mkp, calc_ibd
 
-###Reference
+## Reference
 Farrall (1997), Genetic Epidemiology, 14:103-115.
-
-

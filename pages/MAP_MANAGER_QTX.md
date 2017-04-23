@@ -1,26 +1,25 @@
-##MAP MANAGER QTX
-###Version
+# MAP MANAGER QTX
+
+## Version
 QTXb20 (April 2004)
 
-###Description
+## Description
 A graphic, interactive program to map quantitative trait loci using intercrosses, backcrosses or recombinant inbred strains in experimental plants or animals. A completely rewritten cross-platform version of Map Manager QT with enhanced analysis functions.
 
-###Author
+## Author
 * KF Manly
 * RH Cudmore
 * Jr.
 * JM Meer
 
-###URL
+## URL
 http://www.mapmanager.org/mmQTX.html
 
-###Language
+## Language
 C++ and cross-platform code from XVT
 
-###OS
+## OS
 MS-Windows, MacOS
 
-###Reference
+## Reference
 Manly, Cudmore, and Meer (2001), " Map Manager QTX, cross-platform software for genetic mapping", Mammalian Genome, 12(12):930-932.
-
-

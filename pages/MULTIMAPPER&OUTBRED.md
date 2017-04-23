@@ -1,20 +1,19 @@
-##MULTIMAPPER/OUTBRED
-###Version
+# MULTIMAPPER/OUTBRED
+
+## Version
 1.1
 
-###Description
+## Description
 Bayesian QTL mapping software for analysing backcross and F2 data from designed crossing experiments of outbred lines
 
-###Author
+## Author
 Mikko J Sillanpaa (mail: mjs@rolf.helsinki.fi)
 
-###URL
+## URL
 http://www.rni.helsinki.fi/~mjs/
 
-###Language
+## Language
 C
 
-###Reference
+## Reference
 Sillanpaa, Arjas (1999), "Bayesian mapping of multiple quantitative trait loci from incomplete outbred offspring data", Genetics, 151:1605-1619.
-
-

@@ -1,26 +1,25 @@
-##LDA
-###Full Name
+# LDA
+
+## Full Name
 Linkage Disequilibrium Analyzer
 
-###Description
+## Description
 LDA is a Java program for analyzing the pairwise linkage disequilibrium.
 
-###Author
+## Author
 * Keyue Ding (email: keyued@chgb.org.cn)
 * Kaixin Zhou
 * Fuchu He
 * Yan Shen
 
-###URL
+## URL
 http://www.chgb.org.cn/lda/lda.htm
 
-###Language
+## Language
 Java
 
-###OS
+## OS
 MS-Windows, Linux, MacOS
 
-###Reference
+## Reference
 Ding, Zhou, He, Shen (2003), "LDA - A java-based linkage disequilibrium analyzer", Bioinformatics, 19:2147-2148.
-
-

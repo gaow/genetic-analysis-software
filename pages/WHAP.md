@@ -1,18 +1,17 @@
-##WHAP
-###Version
+# WHAP
+
+## Version
 2.06 (Dec 2004)
 
-###Author
+## Author
 * Shaun Purcell (email: purcell@wi.mit.edu)
 * Pak Sham
 
-###URL
+## URL
 http://pngu.mgh.harvard.edu/~purcell/whap/
 
-###Language
+## Language
 C,C++
 
-###OS
+## OS
 UNIX, MS-Windows, MS-DOS, Linux
-
-

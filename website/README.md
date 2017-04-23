@@ -6,7 +6,5 @@ echo '''theme = "hugo-theme-learn" >> config.toml'''
 ```
 ## Create chapter folders
 ```
-for x in 0 {a..z}; do hugo new --kind chapter $x/_index.md; done
-hugo new --kind chapter about/_index.md
-hugo new --kind chapter list/_index.md
+for x in 0 1 {a..z}; do hugo new --kind chapter $x/_index.md; done
 ```

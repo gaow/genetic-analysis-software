@@ -1,21 +1,20 @@
-##MLR-TAGGING
-###Full Name
+# MLR-TAGGING
+
+## Full Name
 Multivariate Linear Regression TAGGING
 
-###Version
+## Version
 1.1
 
-###Description
+## Description
 MLR-TAGGING can be used for tagging SNP selection and genotype prediction
 
-###Author
+## Author
 * Alexander Zelikovsky (Georgia State Univ) (email: alexz@cs.gsu.edu)
 * Jingwu Jim He (email: jingwu@cs.gsu.edu)
 
-###URL
+## URL
 http://alla.cs.gsu.edu/~software/tagging/tagging.html
 
-###Reference
+## Reference
 He, Zelikovsky (2006), "MLR-tagging: informative SNP selection for unphased genotypes based on multiple linear regression", Bioinformatics, 22(20):2558-2561.
-
-

@@ -1,17 +1,16 @@
-##GAS2
-###Full Name
+# GAS2
+
+## Full Name
 statistical significance in Genomewide Association Studies in 2-stage
 
-###Description
+## Description
 Evaluating Statistical Significance in Two-Stage Genomewide Association Studies
 
-###URL
+## URL
 http://www.bios.unc.edu/~lin/software/GAS2/
 
-###Language
+## Language
 FORTRAN77
 
-###Reference
+## Reference
 Lin (2006), "Evaluating statistical significance in two-stage genomewide association studies", American Journal of Human Genetics, 78(3):505-509
-
-

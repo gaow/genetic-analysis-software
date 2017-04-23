@@ -1,20 +1,19 @@
-##PELICAN
-###Full Name
+# PELICAN
+
+## Full Name
 Pedigree Editor for LInkage Computer ANalysis
 
-###Description
+## Description
 It is a utility for graphically editing the pedigree data files used by programs such as FASTLINK, VITESSE, GENEHUNTER and MERLIN.
 
-###Author
+## Author
 Frank Dudbridge (MRC, email: frank.dudbridge@mrc-bsu.cam.ac.uk)
 
-###URL
+## URL
 http://www.mrc-bsu.cam.ac.uk/personal/frank/software/pelican/
 
-###Language
+## Language
 Java
 
-###Reference
+## Reference
 F Dudbridge, T Carver, GW Williams (2004), "Pelican: pedigree editor for linkage computer analysis", Bioinformatics, 20(14):2327-2328.
-
-

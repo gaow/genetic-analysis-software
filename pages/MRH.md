@@ -1,20 +1,19 @@
-##MRH
-###Full Name
+# MRH
+
+## Full Name
 Minimum Recombinant Haplotype
 
-###Version
+## Version
 0.2 (May 2003)
 
-###Author
+## Author
 Dajun Qian (City of Hope National Medical Center, email: dqian@coh.org)
 
-###URL
+## URL
 http://www-rcf.usc.edu/~gqian/software.htm (not available)
 
-###OS
+## OS
 MS-Windows, UNIX(Solaris)
 
-###Reference
+## Reference
 Qian, Beckmann (2002), "Minimum-recombinant haplotyping in pedigrees", American Journal of Human Genetics, 70(6):1434-1445
-
-

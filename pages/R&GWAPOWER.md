@@ -1,5 +1,4 @@
-##R/GWAPOWER
-###Related
+# R/GWAPOWER
+
+## Related
 GWAPOWER
-
-

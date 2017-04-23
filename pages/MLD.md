@@ -1,26 +1,25 @@
-##MLD
-###Version
+# MLD
+
+## Version
 Aug 1997
 
-###Description
+## Description
 Performing a shuffling version of the exact conditional tests for different combinations of allelic and genotypic disequilibrium on haploid and diploid data, or their combination.
 
-###Author
+## Author
 Dmitri Zaykin (email: zaykin@statgen.ncsu.edu)
 
-###URL
+## URL
 ftp://statgen.ncsu.edu/pub/zaykin/
 
-###Language
+## Language
 C++
 
-###OS
+## OS
 UNIX, MS-Windows(95)
 
-###EXE
+## EXE
 mld.x
 
-###Reference
+## Reference
 Zaykin, Zhivotovsky, Weir (1995), Genetica, 96:169-178.
-
-

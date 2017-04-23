@@ -1,17 +1,16 @@
-##AGEINF
-###Description
+# AGEINF
+
+## Description
 inference of the age of a rare, selectively-neutral mutation
 
-###Author
+## Author
 Jinko Graham
 
-###URL
+## URL
 http://www.math.sfu.ca/~jgraham/Papers/Programs/AgeCode/
 
-###Language
+## Language
 C
 
-###Reference
+## Reference
 Graham, Thompson (2000), "A coalescent model of ancestry for a rare allele", Genetics, 156:375-384.
-
-

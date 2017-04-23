@@ -1,28 +1,27 @@
-##LAMARC
-###Full Name
+# LAMARC
+
+## Full Name
 Likelihood Analysis with Metropolis Algorithm using Random Coalescence
 
-###Version
+## Version
 2.0.2 (August 2005)
 
-###Description
+## Description
 The LAMARC program estimates effective population sizes, exponential population growth rates, and past migration rates between two or n populations, and simultaneously estimates the per-nucleotide recombination rate. Currently Lamarc can use DNA or RNA sequence data, SNP data, and microsatellite data.
 
-###Author
+## Author
 * Mary Kuhner
 * Jon Yamato
 * Peter Beerli (email: lamarc@gs.washington.edu)
 
-###URL
+## URL
 http://evolution.genetics.washington.edu/lamarc/lamarc_prog.html
 
-###Language
+## Language
 C++
 
-###OS
+## OS
 Linux, MS-Windows, MacOS
 
-###EXE
+## EXE
 lamarc, migrate, coalesce, fluctuate, recombine
-
-

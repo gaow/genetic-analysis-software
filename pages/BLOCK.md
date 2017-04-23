@@ -1,28 +1,27 @@
-##BLOCK
-###Full Name
+# BLOCK
+
+## Full Name
 Blocking Gibbs sampler for pedigree analysis
 
-###Version
+## Version
 2.0.0 (Dec 1996)
 
-###Description
+## Description
 the programs allow you to perform general pedigree analysis on a general pedigree with any number of loops. It also allows you to perform two-point linkage analysis on a general pedigree with an arbitrary number of alleles.
 
-###Author
+## Author
 Claus Skaanning Jensen (email: claus@cs.auc.dk) (Aalborg University, Denmark)
 
-###URL
+## URL
 * http://www.cs.auc.dk/~claus/block.html
 *  http://hpcio.cit.nih.gov/lserver/BLOCK.html
 * ftp://ftp.cs.auc.dk/pub/packages/block/current
 
-###OS
+## OS
 MS-DOS, Linux, UNIX(Solaris, Irix 64, AIX 3.2.5, DEC alpha)
 
-###EXE
+## EXE
 block, theta
 
-###Reference
+## Reference
 Jensen, Kong and Kjaerulff, "Blocking-Gibbs Sampling in Very Large Probabilistic Expert Systems", International Journal of Human-Computer Studies, 647-666 (1995).
-
-

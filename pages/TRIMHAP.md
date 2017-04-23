@@ -1,30 +1,29 @@
-##TRIMHAP
-###Full Name
+# TRIMHAP
+
+## Full Name
 TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)
 
-###Version
+## Version
 1.2
 
-###Description
+## Description
 linkage disequilibrium mapping based on ancestral founder haplotypes. Method uses haplotype data from general pedigrees.
 
-###Author
+## Author
 * Rory Martin
 * Charles MacLean (Virginia Commonwealth University)
 
-###URL
+## URL
 http://www.vipbg.vcu.edu/trimhap/
 
-###Language
+## Language
 FORTRAN
 
-###OS
+## OS
 UNIX
 
-###EXE
+## EXE
 hal
 
-###Reference
+## Reference
 MacLean, Martin, Sham, Straub, Kendler (2000), "The trimmed-haplotype test for linkage disequilibrium", American Journal of Human Genetics, 66(3):1062-1075\. [ html]
-
-

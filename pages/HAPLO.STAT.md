@@ -1,32 +1,31 @@
-##HAPLO.STAT
-###Other Name
+# HAPLO.STAT
+
+## Other Name
 HAPLO.SCORE
 
-###Version
+## Version
 1.2.0 (2005)
 
-###Description
+## Description
 A suite of routines for the analysis of indirectly measured haplotypes.
 
-###Author
+## Author
 * Dan Schaid
 * Jason Sinnwell
 * Charles Rowland
 * David Tines (Mayo Clinic)
 
-###URL
+## URL
 http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm
 
-###Language
+## Language
 S-plus 6.1.2, R 1.7.1
 
-###OS
+## OS
 UNIX
 
-###EXE
+## EXE
 haplo.em, haplo.glm, haplo.score
 
-###Reference
+## Reference
 Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434
-
-

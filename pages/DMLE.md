@@ -1,25 +1,24 @@
-##DMLE
-###Full Name
+# DMLE
+
+## Full Name
 Disease Mapping using Linkage disEquilibrium
 
-###Version
+## Version
 2.3 (October 2005)
 
-###Description
+## Description
 high-resolution mapping of the position of a disease mutation relative to a set of genetic markers using population linkage disequilibrium (LD).
 
-###Author
+## Author
 * Jeff Reeve
 * Ying Wang
 * Rannala (University Alberta, Canada)
 
-###URL
+## URL
 http://www.dmle.org/
 
-###OS
+## OS
 Linux, MS-Windows
 
-###Reference
+## Reference
 Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).
-
-

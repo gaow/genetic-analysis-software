@@ -1,17 +1,16 @@
-##TAGSNP
-###Version
+# TAGSNP
+
+## Version
 2 (beta)
 
-###Author
+## Author
 Daniel O Stram (email: stram@usc.edu, Univ Southern California)
 
-###URL
+## URL
 http://www-rcf.usc.edu/~stram/tagSNPs.html
 
-###Language
+## Language
 FORTRAN90
 
-###Reference
+## Reference
 Stram (2004), "Tag SNP selection for association studies", Genetic Epidemiology, 27(4):365-374.
-
-

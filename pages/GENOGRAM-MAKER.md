@@ -1,17 +1,16 @@
-##GENOGRAM-MAKER
-###Description
+# GENOGRAM-MAKER
+
+## Description
 a graphic way of organizing the mass of information gathered during a family assessment and finding patterns in the family system
 
-###URL
+## URL
 http://www.genogram.org/
 
-###OS
+## OS
 MS-Windows, MacOS
 
-###Reference
+## Reference
 Monica McGoldrick, Randy Gerson, , Sylvia Shellenberger (1999), Genograms: Assessment and Intervention , 2nd edition (W.W.Norton & Company).
 
-###Availability
+## Availability
 US$50 (student), US$125 (standard)
-
-

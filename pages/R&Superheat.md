@@ -1,30 +1,30 @@
-## R/Superheat
+#  R/Superheat
 
-### Full name
+##  Full name
 Supercharged heatmaps for R
 
-### Description
+##  Description
 ​
 *Superheat* is an R package for generating beautiful and customizable heatmaps. **See the [vignette](https://rlbarter.github.io/superheat/) for usage**.
 
-### Version
+##  Version
 v0.1.0
 
-### Year
+##  Year
 2017
 
-### Authors
+##  Authors
 * Rebecca Barter (rlbarter@gmail.com)
 
-### URL
+##  URL
 * https://github.com/rlbarter/superheat
 
-### Language
+##  Language
 R
 
-### OS
+##  OS
 Linux, MacOS
 
-### Tag
+##  Tag
 * R
 * graphics

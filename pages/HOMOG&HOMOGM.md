@@ -1,21 +1,20 @@
-##HOMOG/HOMOGM
-###Version
+# HOMOG/HOMOGM
+
+## Version
 HOMOGM: Dec 1998
 
-###Author
+## Author
 Jurg Ott (Rockefeller University)
 
-###URL
+## URL
 http://lab.rockefeller.edu/ott/programs
 
-###Language
+## Language
 Pascal
 
-###EXE
+## EXE
 homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
 
-###Reference
+## Reference
 * Ott (1986), Genetic Epidemiology, Suppl,1,251-257.
 * online documentation
-
-

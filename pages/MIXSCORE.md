@@ -1,17 +1,16 @@
-##MIXSCORE
-###Version
+# MIXSCORE
+
+## Version
 1.9 (March 2011)
 
-###Description
+## Description
 MIXSCORE is a method for combining SNP association and admixture association statistics to increase power in GWAS in admixed populations.
 
-###Author
+## Author
 Alkes Price (Harvard Univ)
 
-###URL
+## URL
 http://www.hsph.harvard.edu/faculty/alkes-price/software/
 
-###Reference
+## Reference
 Pasaniuc et al. (2011), "Enhanced statistical tests for GWAS in admixed populations: assessment using African Americans from CARe and a breast cancer consortium", PLoS Genetics, 7:e1001371.
-
-

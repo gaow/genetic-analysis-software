@@ -1,5 +1,4 @@
-##SNP.PLOTTER
-###Related
+# SNP.PLOTTER
+
+## Related
 R/SNP.PLOTTER
-
-

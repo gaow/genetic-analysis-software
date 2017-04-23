@@ -1,12 +1,11 @@
-##HAPLOTYPER
-###Author
+# HAPLOTYPER
+
+## Author
 * T Niu
 * Jun Liu (Harvard Univ)
 
-###URL
+## URL
 http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm
 
-###Reference
+## Reference
 Niu, Qin, Xu, Liu (2002), "Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms", American Journal of Human Genetics, 70(1):157-169
-
-

@@ -1,23 +1,22 @@
-##PREPLINK
-###Full Name
+# PREPLINK
+
+## Full Name
 MAKE PEDfiles
 
-###Other Name
+## Other Name
 LINKAGE/PREPLINK
 
-###Description
+## Description
 part of the LINKAGE auxiliary program
 
-###Author
+## Author
 Peter Cartwright (University of Utah, now Cimarron Software pc@cimsoft.com)
 
-###URL
+## URL
 http://lab.rockefeller.edu/ott/programs or
 
-###Language
+## Language
 C and Pascal
 
-###OS
+## OS
 UNIX, VMS, MS-DOS, OS2
-
-

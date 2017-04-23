@@ -1,25 +1,24 @@
-##MAPDRAW
-###Version
+# MAPDRAW
+
+## Version
 2.2
 
-###Description
+## Description
 MAPDRAW draws genetic linkage maps on PC same as what MAPMAKER does on Mac.
 
-###Author
+## Author
 Renhu Liu (email: liurenhu@21cn.com)
 
-###URL
+## URL
 * http://www.nslij-genetics.org/soft/mapdraw.v2.2.xls
 * ftp://brassica.hzau.edu.cn
 * ftp://211.69.140.177
 
-###Language
+## Language
 Microsoft Visual Basic, Excel macro
 
-###OS
+## OS
 MS-Windows
 
-###Reference
+## Reference
 Liu, Meng (2003), "MapDraw: a microsoft excel macro for drawing genetic linkage maps based on given genetic linkage data", Heraditas (Beijing), 25(3):317-321.
-
-

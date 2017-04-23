@@ -1,24 +1,23 @@
-##ERPA
-###Full Name
+# ERPA
+
+## Full Name
 Extended Relative Pair Analysis
 
-###Description
+## Description
 non-parametric analysis
 
-###Author
+## Author
 Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
 
-###URL
+## URL
 * http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
 * ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
 
-###Language
+## Language
 C
 
-###OS
+## OS
 MS-DOS
 
-###Reference
+## Reference
 Curtis, Sham (1994), Annals of Human Genetics, 58:151-162.
-
-

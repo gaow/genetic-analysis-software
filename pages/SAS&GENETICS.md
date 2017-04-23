@@ -1,24 +1,23 @@
-##SAS/GENETICS
-###Version
+# SAS/GENETICS
+
+## Version
 add-on to the SAS System, Release 8.2
 
-###Description
+## Description
 Software for summarizing marker properties (allele & genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests
 
-###Author
+## Author
 * W Czika
 * X Yu
 
-###Language
+## Language
 C
 
-###OS
+## OS
 MS-Windows, UNIX(HPUX/AIXR/Solaris/..), MVS
 
-###Reference
+## Reference
 introduction
 
-###Availability
+## Availability
 please contact shannon.conners@jmp.com for details
-
-

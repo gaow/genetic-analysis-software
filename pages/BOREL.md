@@ -1,25 +1,24 @@
-##BOREL
-###Version
+# BOREL
+
+## Version
 July 1996
 
-###Description
+## Description
 Programs for inference of genealogical relationships from genetic data, including sibship inference.
 
-###Author
+## Author
 * Elizabeth A Thompson (University of Washington)
 * Ian Painter (now at NCSU, email: ian@statgen.ncsu.edu)
 
-###URL
+## URL
 * http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 * ftp://ftp.u.washington.edu/pub/user-supported/pangaea/PANGAEA/BOREL
 
-###Language
+## Language
 C
 
-###OS
+## OS
 UNIX(DEC-UNIX/..)
 
-###Related
+## Related
 PANGAEA
-
-

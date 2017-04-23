@@ -1,14 +1,13 @@
-##PLABQTL
-###Full Name
+# PLABQTL
+
+## Full Name
 PLAnt Breeding QTL analysis
 
-###Author
+## Author
 HF Utz (email: utzf@uni-hohenheim.de)
 
-###URL
+## URL
 https://www.uni-hohenheim.de/plantbreeding/software/
 
-###Reference
+## Reference
 Utz, Melchinger (1996), "PLABQTL: A program for composite interval mapping of QTL", JAG
-
-

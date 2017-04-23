@@ -1,17 +1,16 @@
-##EPISTACY
-###Version
+# EPISTACY
+
+## Version
 2.0
 
-###Author
+## Author
 Jim Holland (email: james_holland@ncsu.edu)
 
-###URL
+## URL
 http://www4.ncsu.edu/~jholland/Epistacy/epistacy.htm
 
-###Language
+## Language
 SAS
 
-###Reference
+## Reference
 Holland (1998), "EPISTACY: A SAS program for detecting two-locus epistatic interactions using genetic marker information", Journal of Heredity, 89:374-375.
-
-

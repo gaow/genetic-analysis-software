@@ -1,18 +1,17 @@
-##MDBLOCKS
-###Full Name
+# MDBLOCKS
+
+## Full Name
 Minimum Description length method for haplotype BLOCKS
 
-###Description
+## Description
 Using the mimimum description length model to delineate haplotype blocks
 
-###Author
+## Author
 * Eric C. Anderson
 * John Novembre (UC Berkeley)
 
-###URL
+## URL
 http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
 
-###Reference
+## Reference
 Anderson, Novembre (2003), "Finding haplotype block boundaries by using the minimum description length criterion", American Journal of Human Genetics, 73(2):336-354
-
-

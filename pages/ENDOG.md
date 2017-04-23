@@ -1,17 +1,16 @@
-##ENDOG
-###Version
+# ENDOG
+
+## Version
 4.0 (November 2006)
 
-###Description
+## Description
 The program calculates individual inbreeding (F) and average relatedness (AR) coefficients. Additionally, users can compute useful parameters in population genetics such as: the number of ancestors explaining genetic variability; the genetic importance of the herds; F statistics from genealogical information.
 
-###Author
+## Author
 Juan Pablo Gutierrez Garcia
 
-###URL
+## URL
 http://www.ucm.es/info/prodanim/html/JP_Web.htm
 
-###Language
+## Language
 FORTRAN 77
-
-

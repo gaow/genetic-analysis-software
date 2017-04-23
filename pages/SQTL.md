@@ -1,18 +1,17 @@
-##SQTL
-###Full Name
+# SQTL
+
+## Full Name
 Semiparametric QTL mapping in general pedigrees
 
-###Author
+## Author
 * Guoqing Diao (email: gdiao@gmu.edu)
 * Danyu Lin
 
-###URL
+## URL
 http://www.bios.unc.edu/~lin/software/SQTL/
 
-###OS
+## OS
 Linux
 
-###Reference
+## Reference
 Diao, Lin (2005), "A powerful and robust method for mapping quantitative trait loci in general pedigrees", American Journal of Human Genetics, 77(1):97-111\. [ html]
-
-

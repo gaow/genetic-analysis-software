@@ -1,5 +1,4 @@
-##SPECTRAL-GEM
-###Related
+# SPECTRAL-GEM
+
+## Related
 R/SPECTRAL-GEM
-
-

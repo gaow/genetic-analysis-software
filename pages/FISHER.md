@@ -1,19 +1,18 @@
-##FISHER
-###Description
+# FISHER
+
+## Description
 genetic analysis of classical biometric traits like blood pressure or height that are caused by a combination of polygenic inheritance and complex environmental forces.
 
-###Author
+## Author
 * Kenneth Lange (IUCLA)
 * Daniel E. Weeks (Pittsburgh)
 * M. Boehnke
 
-###URL
+## URL
 registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 
-###Language
+## Language
 FORTRAN77
 
-###Reference
+## Reference
 Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)
-
-

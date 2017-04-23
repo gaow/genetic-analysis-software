@@ -1,28 +1,27 @@
-##QTL Cartographer
-###Version
+# QTL Cartographer
+
+## Version
 Window version 2.5 (September 2006)
 
-###Description
+## Description
 A program to map quantitative traits sing a map of molecular markers.
 
-###Author
+## Author
 * Christopher J. Basten
 * Bruce S. Weir
 * Zhao-Bang Zeng
 * Shengchu Wang (Dept Statistics, North Carolina State University);
 
-###URL
+## URL
 * http://statgen.ncsu.edu/qtlcart/cartographer.html
 * ftp://statgen.ncsu.edu/pub/qtlcart/
 
-###OS
+## OS
 UNIX, MS-Windows, MacOS
 
-###EXE
+## EXE
 rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, qtlcart
 
-###Reference
+## Reference
 * Basten,Weir,Zeng (1994), "Zmap-a QTL cartographer", in Proceedings of the 5th World Congress on Genetics Applied to Livestock Production: Computing Strategies and Software, vol 22, eds. Smith, Gavora, Chesnais, Fairfull, Gibson, Kennedy, Burnside.
 * online manual
-
-

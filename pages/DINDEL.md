@@ -1,20 +1,19 @@
-##DINDEL
-###Description
+# DINDEL
+
+## Description
 Dindel is a program for calling small indels from short-read sequence data ('next generation sequence data'). It is currently designed to handle only Illumina data. Dindel takes BAM files with mapped Illumina read data and enables researchers to detect small indels and produce a VCF file of all the variant calls.
 
-###Author
+## Author
 Cornelis Albers (Wellcome Trust Sanger Institute)
 
-###URL
+## URL
 http://www.sanger.ac.uk/resources/software/dindel/
 
-###Language
+## Language
 C++
 
-###OS
+## OS
 Linux, MacOS
 
-###Reference
+## Reference
 Albers, Lunter, MacArthur, McVean, Ouwehand, Durbin (2011), "Dindel: Accurate indel calls from short-read data", Genome Research, 21:961-973.
-
-

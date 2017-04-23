@@ -1,23 +1,22 @@
-##HOTSPOTTER
-###Version
+# HOTSPOTTER
+
+## Version
 1.2.1
 
-###Description
+## Description
 Hotspotter implements the PAC (Products of Approximate Conditional) model for estimating recombination rate
 
-###Author
+## Author
 Na Li
 
-###URL
+## URL
 http://www.biostat.umn.edu/~nali/SoftwareListing.html
 
-###Language
+## Language
 C++
 
-###EXE
+## EXE
 rholike, hotspot, fullopt
 
-###Reference
+## Reference
 Li, Stephens (2003), Genetics, 165(4):2213-2233.
-
-

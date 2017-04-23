@@ -1,28 +1,27 @@
-##MAPMAKER/HOMOZ
-###Full Name
+# MAPMAKER/HOMOZ
+
+## Full Name
 homozygosity mapping
 
-###Version
+## Version
 May 1995
 
-###Description
+## Description
 calculates multipoint lod scores in pedigrees with inbreeding loops
 
-###Author
+## Author
 * Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
 * Mark Daly (email: mjdaly@genome.wi.mit.edu)
 * Eric Lander (email: lander@genome.wi.mit.edu)
 
-###URL
+## URL
 ftp://ftp-genome.wi.mit.edu/distribution/software/homoz
 
-###Language
+## Language
 C
 
-###OS
+## OS
 UNIX
 
-###Reference
+## Reference
 Kruglyak, Daly, Lander (1995), "Rapid multipoint linkage analysis of recessive traits in nuclear families, including homozygosity mapping", American Journal of Human Genetics, 56(2):519-527
-
-

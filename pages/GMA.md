@@ -1,14 +1,13 @@
-##GMA
-###Full Name
+# GMA
+
+## Full Name
 Genetic Mixture Analysis
 
-###Author
+## Author
 Steven T Kalinowski (email: skalinowski@montana.edu)
 
-###URL
+## URL
 http://www.montana.edu/kalinowski/GMA/GMA_Home.htm
 
-###OS
+## OS
 MS-Windows
-
-

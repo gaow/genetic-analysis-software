@@ -1,21 +1,20 @@
-##MULTIQTL
-###Version
+# MULTIQTL
+
+## Version
 2.6
 
-###Description
+## Description
 MultiQTL software integrates a broad spectrum of data mining, statistical analysis, interactive visualization and modeling tools that allow QTL analysis based on advanced and sophisticated methods for maximum extraction of the mapping information from data.
 
-###Author
+## Author
 * Efim Ronin
 * David Mester
 * Dina Minkov
 * Ori Orion
 * Abraham Korol
 
-###URL
+## URL
 http://www.multiqtl.com/
 
-###Availability
+## Availability
 contact: sales@multiqtl.com. tel: 972-4824-0449\. FAX: 972-4824-6554. address: MultiQTL Ltd, Institute of Evolution, Haifa University, Haifa, Israel 31905
-
-

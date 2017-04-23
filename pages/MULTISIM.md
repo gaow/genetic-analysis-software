@@ -1,20 +1,19 @@
-##MULTISIM
-###Version
+# MULTISIM
+
+## Version
 1.1
 
-###Description
+## Description
 analyze the numbers of individuals that founded new populations following a bottleneck or founding event
 
-###Author
+## Author
 Mohamed Noor (email: noor@duke.edu)
 
-###URL
+## URL
 http://www.biology.duke.edu/noorlab/multsim.html
 
-###OS
+## OS
 MS-DOS
 
-###Reference
+## Reference
 Noor, Pascual, Smith (2000), "Genetic variation in the spread of Drosophila subobscura from a nonequilibrium population", Evolution, 54:696-703.
-
-

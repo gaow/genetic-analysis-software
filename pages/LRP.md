@@ -1,23 +1,22 @@
-##LRP
-###Full Name
+# LRP
+
+## Full Name
 Linkage Report Program
 
-###Other Name
+## Other Name
 LINKAGE/LRP
 
-###Description
+## Description
 part of the LINKAGE auxiliary program
 
-###Author
+## Author
 Peter Cartwright (Univ Utah, now Cimarron Software [pc@cimsoft.com](mailto:pc@cimsoft.com))
 
-###URL
+## URL
 http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 
-###Language
+## Language
 C and Pascal
 
-###OS
+## OS
 UNIX, VMS, MS-DOS, OS2
-
-

@@ -1,15 +1,14 @@
-##HAPLOVISUAL
-###Author
+# HAPLOVISUAL
+
+## Author
 * Esko Ukkonen
 * Pasi Rastas
 
-###URL
+## URL
 http://www.cs.helsinki.fi/u/prastas/haplovisual/
 
-###Language
+## Language
 java
 
-###Reference
+## Reference
 Ukkonen (2002), "Finding founder sequences from a set of recombinants" Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).
-
-

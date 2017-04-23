@@ -1,21 +1,20 @@
-##DPPH
-###Full Name
+# DPPH
+
+## Full Name
 Direct method for Perfect Phylogeney Haplotyping
 
-###Description
+## Description
 similar to the BPPH program
 
-###Author
+## Author
 * Ren-Hua Chuang
 * Dan Gusfield (UC Davis) (email: gusfield@cs.ucdavis.edu)
 
-###URL
+## URL
 http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html
 
-###OS
+## OS
 Linux, MacOS
 
-###Reference
+## Reference
 Bafna, Gusfield, Lancia, Yooseph (2003), "Haplotyping as perfect phylogeny: a direct approach", Journal of Computational Biology, 10(3):323-340.
-
-

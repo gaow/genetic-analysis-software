@@ -1,23 +1,22 @@
-##UTIL
-###Full Name
+# UTIL
+
+## Full Name
 statistical genetics UTILity programs
 
-###Author
+## Author
 Jurg Ott (Rockefeller University, email:ott@rockefeller.edu)
 
-###URL
+## URL
 http://lab.rockefeller.edu/ott/programs
 
-###Language
+## Language
 Pascal
 
-###OS
+## OS
 MS-Windows, Linux
 
-###EXE
+## EXE
 multiple, binom, chiprob, conting, equiv, hist, hwe, ibd, mapfun, nocom, norinv, norprob, par, pvalues, relrisk, sexdif, tprob, trend
 
-###Reference
+## Reference
 Ott (1999), Analysis of human genetic linkage 3rd edition (Johns Hospkins University Press, Baltimore).
-
-

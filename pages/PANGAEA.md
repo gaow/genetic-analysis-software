@@ -1,24 +1,23 @@
-##PANGAEA
-###Full Name
+# PANGAEA
+
+## Full Name
 Pedigree ANalysis for Genetics (And Epidemiological Attributes)
 
-###Description
-Collection of nine packages for genetic analysis 
- The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
+## Description
+Collection of nine packages for genetic analysis
+The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
 
-###Author
+## Author
 many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).
 
-###URL
+## URL
 http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 
-###Language
+## Language
 C or C++
 
-###OS
+## OS
 UNIX (Compaq, Solaris, and others), Linux
 
-###Related
+## Related
 BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK
-
-

@@ -1,23 +1,22 @@
-##WGCNA
-###Full Name
+# WGCNA
+
+## Full Name
 Weighted Gene Co-expression Network Analysis
 
-###Year
+## Year
 2005-2013
 
-###Author
+## Author
 Steve Horvath, Chaochao (Ricky) Cai, Jun Dong, Tova Fuller, Peter Langfelder, Wen Lin, Michael Mason, Jeremy Miller, Mike Oldham, Anja Presson, Lin Song, Kellen Winden, Yafeng Zhang, Jason Aten, Marc Carlson, Sud Doss, Anatole Ghazalpour, Chi-ying Lee, Ai Li, Chris Plaisier, Moira Regelson, Lin Wang, Andy Yip, Bin Zhang, Wei Zhao
 
-###URL
+## URL
 http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork
 
-###Language
+## Language
 R
 
-###Reference
+## Reference
 Bin Zhang and Steve Horvath (2005) "A General Framework for Weighted Gene Co-Expression Network Analysis", Statistical Applications in Genetics and Molecular Biology: Vol. 4: No. 1, Article 17 PMID: 16646834
 
-###Tag
+## Tag
 gene expression, network
-
-

@@ -1,31 +1,30 @@
-##FASTSLINK
-###Full Name
+# FASTSLINK
+
+## Full Name
 faster SLINK
 
-###Description
+## Description
 a faster version of SLINK
 
-###Author
+## Author
 Daniel E. Weeks (University of Oxford, University of Pittsburgh)
 
-###URL
+## URL
 * http://watson.hgen.pitt.edu/register/soft_doc.html
 * registration page at: http://watson.hgen.pitt.edu/register
 
-###Language
+## Language
 C
 
-###OS
+## OS
 UNIX
 
-###EXE
+## EXE
 slink
 
-###Reference
+## Reference
 * Am Soc Hum Genet annual meeting 1990 (Weeks, Ott, Lathrop, Am J Hum Genet, suppl 47, A204 (1990)).
 * online manual pages (same as slink)
 
-###Related
+## Related
 SLINK
-
-

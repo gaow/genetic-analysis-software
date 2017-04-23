@@ -1,11 +1,10 @@
-##MECPM
-###Full Name
+# MECPM
+
+## Full Name
 Maximum Entropy Conditional Probability Moldeling
 
-###URL
+## URL
 http://www.cbil.ece.vt.edu/ResearchOngoingSNP.htm
 
-###Reference
+## Reference
 Miller, Zhang, Yu, Liu, Chen, Langefeld, Herrington, Wang (2009), "An algorithm for learning maximum entropy probability models of disease risk that efficiently searches and sparingly encodes multilocus genomic interactions", Bioinformatics, to appear.
-
-

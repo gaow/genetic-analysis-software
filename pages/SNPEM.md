@@ -1,14 +1,13 @@
-##SNPEM
-###Full Name
+# SNPEM
+
+## Full Name
 SNP Expectation Maximization
 
-###Description
+## Description
 EM algorithm estimations of SNP haplotypes
 
-###URL
+## URL
 http://polymorphism.ucsd.edu/snpem/
 
-###OS
+## OS
 web-based
-
-

@@ -1,17 +1,16 @@
-##TFPGA
-###Full Name
+# TFPGA
+
+## Full Name
 Tools For Population Genetic Analyses
 
-###Description
+## Description
 This program calculates descriptive statistics, genetic distances, and F-statistics. It also performs tests for Hardy-Weinberg equilibrium, exact tests for genetic differentiation, Mantel tests, and UPGMA cluster analyses.
 
-###Author
+## Author
 Mark Miller (email: mark.miller@usu.edu)
 
-###URL
+## URL
 http://www.marksgeneticsoftware.net/
 
-###OS
+## OS
 MS-Windows
-
-

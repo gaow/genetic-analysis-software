@@ -1,20 +1,19 @@
-##TDTPOWER
-###Version
+# TDTPOWER
+
+## Version
 1.0b (Aug 2001)
 
-###Description
+## Description
 calculates the sample size required for obtaining a prescribed power against a specified alternative for TDT.
 
-###Author
+## Author
 Michael Knapp (Univ Bonn)
 
-###URL
+## URL
 http://www.uni-bonn.de/~umt70e/soft.htm
 
-###Language
+## Language
 SAS macro
 
-###Reference
+## Reference
 M Knapp (1999), "A note on power approximations for the transmission/disequilibrium test", American Journal of Human Genetics, 64(4):1177-1185
-
-

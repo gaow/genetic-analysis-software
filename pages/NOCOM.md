@@ -1,24 +1,23 @@
-##NOCOM
-###Version
+# NOCOM
+
+## Version
 Aug 1992
 
-###Description
+## Description
 estimate parameters for mixture of normal distributions
 
-###Author
+## Author
 Jurg Ott (Rockefeller University)
 
-###URL
+## URL
 http://lab.rockefeller.edu/ott/programs
 
-###Language
+## Language
 FORTRAN
 
-###OS
+## OS
 MS-DOS, OS2
 
-###Reference
+## Reference
 * Ott (1979), "Detection of rare major genes in lipid levels", Human Genetics, 51:79-91.
 * online user's guide
-
-

@@ -1,29 +1,28 @@
-##KING
-###Full Name
+# KING
+
+## Full Name
 Kinship-based INference for Gwas
 
-###Version
+## Version
 1.0.0 (2010)
 
-###Description
+## Description
 KING is a toolset that makes use of high-throughput SNP data typically seen in a genome-wide association study (GWAS) for applications such as family relationship inference and population structure identification
 
-###Author
+## Author
 Wei-Min Chen (University of Virginia)
 
-###URL
+## URL
 http://people.virginia.edu/~wc9c/KING/
 
-###Language
+## Language
 C++
 
-###OS
+## OS
 Linux (64bit), MS-Windows, MS-DOS, MacOS, Ubuntu (32bit)
 
-###EXE
+## EXE
 king
 
-###Reference
+## Reference
 Manichaikul, Mychaleckyj, Rich, Daly, Sale, Chen (2010), "Robust relationship inference in genome wide association studies", Bioinformatics. 2010 Nov 15;26(22):2867-73
-
-

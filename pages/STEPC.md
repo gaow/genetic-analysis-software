@@ -1,16 +1,15 @@
-##STEPC
-###Full Name
+# STEPC
+
+## Full Name
 STatistical Explanation for Positional Cloning
 
-###Author
+## Author
 * Lei Sun
 * Nancy COx
 * Mary Sara McPeek
 
-###URL
+## URL
 http://hg-wen.uchicago.edu/software.html
 
-###Reference
+## Reference
 Sun, Cox, McPeek (2002) "A statistical method for identification of polymorphisms that explain a linkage result", American Journal of Human Genetics, 70(2):399-411\. [ html]
-
-

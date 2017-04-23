@@ -1,20 +1,19 @@
-##PAWE-3D
-###Full Name
+# PAWE-3D
+
+## Full Name
 Power for Association With Error in 3D
 
-###Author
+## Author
 * D Gordon
 * C Haynes
 * J Blumenfeld
 * SJ Finch
 
-###URL
+## URL
 http://linkage.rockefeller.edu/pawe3d/
 
-###OS
+## OS
 web-based
 
-###Reference
+## Reference
 Gordon, Haynes, Blumenfeld, Finch (2005), "PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits", Bioinformatics, 21:3935-3937.
-
-

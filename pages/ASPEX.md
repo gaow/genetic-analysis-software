@@ -1,30 +1,29 @@
-##ASPEX
-###Full Name
+# ASPEX
+
+## Full Name
 Affected Sib Pairs EXclusion map
 
-###Version
+## Version
 2.5 (September 2003)
 
-###Description
+## Description
 a set of programs for performing multipoint exclusion mapping of affected sibling pair data for discrete traits.
 
-###Author
+## Author
 David Hinds (email: dahinds@users.sourceforge.net) Neil Risch (Stanford Univ)
 
-###URL
+## URL
 * http://aspex.sourceforge.net/
 *  ftp://lahmed.stanford.edu/pub/aspex
 
-###Language
+## Language
 C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.teleport.com/pub/users/pturner/acegr)
 
-###OS
+## OS
 UNIX (Solaris/SunOS/IRIX/OSF-1), Linux
 
-###EXE
+## EXE
 sib_ibd, sib_tdt, sib_phase, sib_map, sib_kin, sib_clean
 
-###Reference
+## Reference
 online manual (PDF)
-
-

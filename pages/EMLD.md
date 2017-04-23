@@ -1,26 +1,25 @@
-##EMLD
-###Full Name
+# EMLD
+
+## Full Name
 EM estimation of haplotype frequencies and LD calculation
 
-###Version
+## Version
 September 2003
 
-###Description
+## Description
 A quick and handy program to calculate pair-wise linkage disequilibrium based on SNP genotype data from unrelated individuals. EM algorithm is used to estimate pair-wise haplotype frequencies. The output file is in the format of input file for GOLD program, thus it can be directly plug into GOLD to get LD plots.
 
-###Author
+## Author
 Dakai Zhu (email: dkz@mdanderson.org)
 
-###URL
+## URL
 http://epi.mdanderson.org/~qhuang/Software/pub.htm
 
-###Language
+## Language
 Java
 
-###OS
+## OS
 UNIX, MS-Windows
 
-###EXE
+## EXE
 emld
-
-

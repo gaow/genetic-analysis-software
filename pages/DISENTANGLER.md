@@ -1,20 +1,19 @@
-##DISENTANGLER
-###Version
+# DISENTANGLER
+
+## Version
 October 2011
 
-###Description
+## Description
 The disentangler is a visualization technique for linkage disequilibrium mapping and haplotype analysis of multiple multi-allelic genetic markers.
 
-###Author
+## Author
 K Kumasaka et al.
 
-###URL
+## URL
 http://kumasakanatsuhiko.jp/projects/disentangler/
 
-###Language
+## Language
 Java/JRE1.5
 
-###Reference
+## Reference
 Okada et al. (2011), "HLA-Cw*1202-B*5201-DRB1*1502 haplotype increases risk for ulcerative colitis but reduces risk for Crohn's disease", Gastroenterology, 141(3):864-871.
-
-

@@ -1,14 +1,13 @@
-##HAPBLOCK 2
-###Version
+# HAPBLOCK 2
+
+## Version
 April 2004
 
-###Author
+## Author
 Adrian Paul Mander (Boston College) (email: adrian.mander@mrc-hnr.cam.ac.uk)
 
-###URL
+## URL
 http://econpapers.repec.org/software/bocbocode/s438902.htm
 
-###Language
+## Language
 Stata
-
-

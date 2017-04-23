@@ -1,20 +1,19 @@
-##SNP CHART
-###Description
+# SNP CHART
+
+## Description
 The purpose of this software is to generate visual patterns that can be easily interpreted as a single specific Single Nucleotide Polymorphism (SNP) genotype, based on reiterative pattern recognition from validated SNP data
 
-###Author
+## Author
 Scott Tebbutt (email: scott.tebbutt@hli.ubc.ca)
 
-###URL
+## URL
 http://www.flintbox.com/public/project/500/
 
-###Language
+## Language
 Java
 
-###OS
+## OS
 web-based
 
-###Reference
+## Reference
 Tebbutt, Opushnyev, Tripp, Kassamali, Alexander, Andersen (2005), "SNP Chart: an integrated platform for visualization and interpretation of microarray genotyping data", Bioinformatics, 21(1):124-127.
-
-

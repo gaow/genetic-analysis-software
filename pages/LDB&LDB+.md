@@ -1,11 +1,12 @@
-##LDB/LDB+
-###Full Name
+# LDB/LDB+
+
+## Full Name
 Location DataBase
 
-###Description
+## Description
 integrate genetic linkage map and physical map
 
-###Author
+## Author
 * A Collins ( arc@southampton.ac.uk)
 * NE Morton
 * S. Lawrence
@@ -14,19 +15,17 @@ integrate genetic linkage map and physical map
 * Paul Linehan
 * Pietro Lio (University of Southampton, UK)
 
-###URL
+## URL
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb
 * http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+
 
-###Language
+## Language
 FORTRAN
 
-###OS
+## OS
 UNIX(SunOS/..)
 
-###Reference
+## Reference
 * Morton (1991), Annals of Human Genetics, 55:235-241.
 * Morton, Collins, Lawrence, Shield (1992), Annals of Human Genetics, 56:223-232.
 * online manual and user guide
-
-

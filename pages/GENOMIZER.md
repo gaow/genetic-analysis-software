@@ -1,24 +1,23 @@
-##GENOMIZER
-###Version
+# GENOMIZER
+
+## Version
 1.0
 
-###Description
+## Description
 Genomizer is a platform independent Java program for the analysis of genome wide association experiments.
 
-###Author
+## Author
 * Andre Franke (email: a.franke@mucosa.de)
 * Jochen Hampe
 
-###URL
+## URL
 http://www.ikmb.uni-kiel.de/genomizer/
 
-###Language
+## Language
 Java
 
-###OS
+## OS
 MS-Windows, Linux
 
-###Reference
+## Reference
 Franke, Wollstein, Teuber, Wittig, Lu, Hoffmann, Nurnberg, Krawczak, Schreiber, Hampe (2006), "GENOMIZER: an integrated analysis system for genome-wide association data", Human Mutation, 27(6):583-588
-
-

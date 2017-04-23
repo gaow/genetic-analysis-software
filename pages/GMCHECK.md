@@ -1,17 +1,16 @@
-##GMCHECK
-###Description
+# GMCHECK
+
+## Description
 GMCheck finds the posterior probabilities for data errors for genotypes and phenotypes in pedigree data
 
-###Author
+## Author
 Alun Thomas (email: alun@genepi.med.utah.edu)
 
-###URL
+## URL
 http://episun7.med.utah.edu/~alun/gmcheck/
 
-###Language
+## Language
 Java
 
-###Reference
+## Reference
 Thomas (2005), "GMCheck: Bayesian error checking for pedigree genotypes and phenotypes", Bioinformatics, 21(14):3187-3189.
-
-

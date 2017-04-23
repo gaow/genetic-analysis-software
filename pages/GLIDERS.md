@@ -1,14 +1,13 @@
-##GLIDERS
-###Full Name
+# GLIDERS
+
+## Full Name
 Genome-wide LInkage DisEquilibrium Repository and Search engine
 
-###Description
+## Description
 HapMap based long-range LD search engine
 
-###Author
+## Author
 Robert Lawrence (Wellcome Trust Sanger Institute)
 
-###URL
+## URL
 http://mather.well.ox.ac.uk/GLIDERS/
-
-

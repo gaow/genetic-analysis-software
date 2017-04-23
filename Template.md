@@ -1,48 +1,48 @@
-## NAME
+# NAME
 
-### Full name
+## Full name
 ...
 
-### Other names
+## Other names
 ...
 
-### Description
+## Description
 ...
 
-### Version
+## Version
 ...
 
-### Year
+## Year
 ...
 
-### Authors
+## Authors
 * John Doe (email: jd1@gmail.com)
 * Jane Doe (email: jd2@gmail.com)
 
-### URL
+## URL
 * https://
 
-### Language
+## Language
 * C++
 * Python
 
-### OS
+## OS
 * Linux
 * MacOS
 
-### EXEC
+## EXEC
 (Executable program names, if applicable)
 
-### Reference
+## Reference
 * Doe J et al. (1999), ...
 * Doe J et al. (2003), ...
 
-### Availablity
+## Availablity
 ...
 
-### Related software
+## Related software
 ...
 
-### Tag
+## Tag
 * R
 * graphics

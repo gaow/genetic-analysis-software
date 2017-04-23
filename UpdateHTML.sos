@@ -5,59 +5,7 @@
 # This script compiles all `*.md` files in `pages` folder via bookdown
 # and pushes the book to `gh-pages` branch
 
-[parameters]
-data_dir = 'pages'
-disqus_tpl = '''
-<!DOCTYPE html>
-<html>
-
-<head>
-
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>An Alphabetic List of Genetic Analysis Software</title>
-  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-  <meta name="description" content="Discussion page">
-  <meta name="generator" content="bookdown 0.0.72 and GitBook 2.6.7">
-
-  <meta property="og:title" content="An Alphabetic List of Genetic Analysis Software" />
-  <meta property="og:type" content="book" />
-  <meta property="og:description" content="Discussion page" />
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="An Alphabetic List of Genetic Analysis Software" />
-  <meta name="twitter:description" content="Discussion page" />
-<meta name="author" content="© Gao Wang / Ott lab">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link href="../style.css" rel="stylesheet" />
-</head>
-
-<body>
-<h2>Comments on PAGE_NAME</h2>
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = 'PAGE_URL';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = 'PAGE_IDENTIFIER'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        var d = document, s = d.createElement('script');
-        s.src = '//genetic-analysis-software.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-</body>
-</html>
-'''
+parameter: data_dir = 'pages'
 
 [default_1]
 # Download gh-pages branch
@@ -65,7 +13,6 @@ output: 'gh-pages/.gitignore'
 run:
 rm -rf gh-pages
 git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
-mkdir -p gh-pages/discuss
 
 [default_2]
 # Update alphabetic TOC
@@ -78,39 +25,56 @@ def get_meta(files):
         if os.path.basename(f) == 'README.md':
            continue
         lines = [x.strip() for x in open(f).readlines() if x.strip()]
+        if len(lines) == 0:
+           continue
         data[f] = {}
-        if not lines[0].startswith('##') or lines[0].startswith('###'):
-            raise ValueError('The first line of document "{}" must start with "##" followed by software name'.format(f))
-        data[f]['name'] = lines[0][2:].strip()
+        if not lines[0].startswith('#') or lines[0].startswith('##'):
+            raise ValueError('The first line of document "{}" must start with "#" followed by software name'.format(f))
+        data[f]['name'] = lines[0][1:].strip()
         try:
-          data[f]['full_name'] = lines[[x.lower() for x in lines].index('###full name') + 1]
+          data[f]['full_name'] = lines[[x.lower() for x in lines].index('## full name') + 1]
         except:
-          try:
-            data[f]['full_name'] = lines[[x.lower() for x in lines].index('### full name') + 1]
-          except:
-            pass
+          pass
     return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower()))
 
 meta = get_meta(glob.glob('${data_dir}/*.md'))
 categories = []
-with open('alphabet.md', 'w') as f, open('/tmp/gas.md', 'w') as f2:
-     f.write('\n# Alphabetic List')
-     for k in meta:
-         category = '\\#' if re.match(r"[-+]?\d+$", meta[k]['name'][0]) is not None else meta[k]['name'][0].upper()
-         if category not in categories:
-            categories.append(category)
-            f.write('\n## {}\n'.format(category))
-            f2.write('\n# {}\n\n---\n\n'.format(category))
-         desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
-         html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
-         link = '{}-1.html#{}'.format(category.lower(), html_name)
-         f.write('* [{}]({}){}\n'.format(meta[k]['name'], link, desc_text))
-         comments_str = '\n### [Comments on {}](discuss/{}.html)\n'.format(meta[k]['name'], html_name)
-         f2.write(open(k).read() + comments_str + '\n---\n\n')
-         disqus_page = '''${disqus_tpl}'''.replace('PAGE_URL', 'http://gaow.github.io/genetic-analysis-software/discuss/{}.html'.format(html_name)).replace('PAGE_IDENTIFIER', html_name).replace('PAGE_NAME', meta[k]['name'])
-         with open('gh-pages/discuss/{}.html'.format(html_name), 'w') as f3:
-             f3.write(disqus_page)
+contents = OrderedDict()
+toc = OrderedDict()
+for k in meta:
+    category = '1' if re.match(r"[-+]?\d+$", meta[k]['name'][0]) is not None else meta[k]['name'][0].upper()
+    if category not in categories:
+       categories.append(category)
+       toc[category] = '\n## {}\n----\n'.format(category)
+    if category not in contents:
+       contents[category] = OrderedDict() 
+    desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
+    html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
+    toc[category] += '* [{}]({}){}\n'.format(meta[k]['name'], html_name, desc_text)
+    lines = open(k).readlines()
+    contents[category][(lines[0].strip("#").strip(), html_name)] = '\n'.join(lines[1:]).strip()
 
+idx = 1
+for k in contents:
+    with open('website/content/{}/_index.md'.format(k.lower()), 'w') as f:
+         f.write('+++\nicon = "<b>{}. </b>"\nweight = 0\ntitle = "{}"\n+++\n\n'.format(idx, k))
+         f.write(toc[k])
+    idx += 1
+    for kk in contents[k]:
+        with open('website/content/{}/{}.md'.format(k.lower(), kk[1]), 'w') as f:
+             f.write('---\ntitle: {}\nweight: 15\ntoc: true\n---\n\n'.format(kk[0]))
+             f.write(contents[k][kk])
+
+with open('website/content/0/_index.md', 'w') as f:
+     f.write('+++\nweight = 0\ntitle = "Genetic Analysis Software"\n+++\n\n')
+     f.write('# Welcome ... \nto the Rockefeller list of Genetic Analysis Software!')
+with open('website/content/0/about.md', 'w') as f:
+     f.write('---\ntitle: About\nweight: 15\ntoc: true\n---\n\n')
+     f.write(open('Home.md').read())
+with open('website/content/0/lists.md', 'w') as f:
+     f.write('---\ntitle: Other lists\nweight: 15\ntoc: true\n---\n\n')
+     f.write(open('Others.md').read())
+ 
 [default_3]
 # Compile pages via bookdown
 run:

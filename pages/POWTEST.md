@@ -1,11 +1,10 @@
-##POWTEST
-###Description
+# POWTEST
+
+## Description
 Excel spreadsheet to calculate power of affected sibpairs and TDT analyses
 
-###Author
+## Author
 Dave Curtis
 
-###URL
+## URL
 http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
-
-

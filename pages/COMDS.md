@@ -1,23 +1,22 @@
-##COMDS
-###Description
+# COMDS
+
+## Description
 for combined segregation and linkage analysis, incorporating severity and diathesis.
 
-###Author
+## Author
 NE Morton (University of Southampton, UK)
 
-###URL
+## URL
 http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/comds
 
-###Language
+## Language
 SUN FORTRAN (the command "fsplit" is needed)
 
-###OS
+## OS
 UNIX (SunOS/..)
 
-###EXE
+## EXE
 list1,com1, comds (shell script)
 
-###Reference
+## Reference
 manual (November 1993)
-
-

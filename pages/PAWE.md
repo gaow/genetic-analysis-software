@@ -1,21 +1,20 @@
-##PAWE
-###Full Name
+# PAWE
+
+## Full Name
 Power for Association With Error
 
-###Version
+## Version
 Dec 2002
 
-###Description
+## Description
 Power and sample size calculations for genetic case-control association studies allowing for errors
 
-###Author
+## Author
 * Derek Gordon (email: gordon@linkage.rockefeller.edu)
 * assisted by Michael Nothnagel
 
-###URL
+## URL
 http://linkage.rockefeller.edu/pawe/
 
-###Reference
+## Reference
 Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.
-
-

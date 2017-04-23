@@ -1,20 +1,19 @@
-##GAS
-###Full Name
+# GAS
+
+## Full Name
 Genetic Analysis System
 
-###Version
+## Version
 2.0 (Dec 1995)
 
-###Description
+## Description
 statistical analysis of genetic linkage data, sib-pair analysis, association studies
 
-###Author
+## Author
 Alan Young ( ayoung@vax.ox.ac.uk)
 
-###URL
+## URL
 http://users.ox.ac.uk/~ayoung/gas.html .
 
-###OS
+## OS
 MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS
-
-

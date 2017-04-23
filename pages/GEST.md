@@ -1,14 +1,13 @@
-##GEST
-###Full Name
+# GEST
+
+## Full Name
 Gene-Environment interaction and STability
 
-###Author
+## Author
 Yasuo Ukai (University of Tokyo, Japan)
 
-###URL
+## URL
 http://lbm.ab.a.u-tokyo.ac.jp/~ukai/gest98.html
 
-###Reference
+## Reference
 Ukai, Nesumi, Yakano (1996), "A package of computer programs for the statistical analysis of genotype x environment interaction and stability GEST" (in Japanese), Breeding Science, 46:73-79.
-
-

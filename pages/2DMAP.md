@@ -1,21 +1,20 @@
-##2DMAP
-###Description
+# 2DMAP
+
+## Description
 constructing 2-d crossover-based map
 
-###Author
+## Author
 Edward Kort ( edward@episun2.med.utah.edu)
 
-###URL
+## URL
 * http://www.genlink.wustl.edu/software
 * ftp://mapper.wustl.edu/pub/two-d
 
-###OS
+## OS
 MS-DOS
 
-###EXE
+## EXE
 pic-2d, 2d-map, 2d-color
 
-###Reference
+## Reference
 Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.
-
-

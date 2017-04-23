@@ -1,24 +1,23 @@
-##SNP ASSISTANT
-###Version
+# SNP ASSISTANT
+
+## Version
 1.0.11 (April 2004)
 
-###Description
+## Description
 SNP data managing, import & export from linkage format, data validation, pairwise LD calculation and visualisation, case-control and TDT tests, visual comparison of two datasets, relationships testing. Suitable for large projects.
 
-###Author
+## Author
 * Biodata Ltd.
 * Estonia (snpassistant@biodata.ee)
 
-###URL
+## URL
 http://www.biodata.ee/SNPassistant.htm (30 days trial version)
 
-###Language
+## Language
 C++
 
-###OS
+## OS
 MS-Windows(95 and newer)
 
-###Reference
+## Reference
 online manual: http://www.biodata.ee/sa/SNP_Assistant_Manual_1.0.7.pdf
-
-

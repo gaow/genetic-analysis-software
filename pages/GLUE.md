@@ -1,23 +1,22 @@
-##GLUE
-###Full Name
+# GLUE
+
+## Full Name
 Genetic Linkage User Environment
 
-###Version
+## Version
 3.30 (Aug 2002)
 
-###Description
+## Description
 A web interface to several commonly used statistical genetics programs, including Linkage, Genehunter, Merlin, Unphased, and Transmit. It simplifies their use through graphical selection of program options, automation of multiple analyses, and viewing of graphical output. GLUE is available to HGMP account holders; registration is free to all academic users.
 
-###Author
+## Author
 Frank Dudbridge (email: frank.dudbridge@mrc-bsu.cam.ac.uk)
 
-###URL
+## URL
 http://portal.litbio.org/Registered/Webapp/glue/
 
-###Language
+## Language
 Perl
 
-###OS
+## OS
 any web browser
-
-

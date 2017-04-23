@@ -1,5 +1,4 @@
-##R/GC R/GCF
-###Related
+# R/GC R/GCF
+
+## Related
 GC/GCF
-
-

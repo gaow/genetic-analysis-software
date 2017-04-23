@@ -1,26 +1,25 @@
-##MADELINE
-###Version
+# MADELINE
+
+## Version
 0.935 (July 2004)
 
-###Description
+## Description
 Madeline is a program designed for preparing, visualizing, and exploring human pedigree data used in genetic linkage studies. In addition to converting pedigree and marker data into various formats required by linkage analysis software, Madeline also provides useful functionality for querying pedigree data sets and drawing pedigrees.
 
-###Author
+## Author
 Edward Trager (email: ehtrager@umich.edu)
 
-###URL
+## URL
 http://eyegene.ophthy.med.umich.edu/
 
-###Language
+## Language
 C
 
-###OS
+## OS
 UNIX (Solaris/FreeBSD/OpenBSD/MacOS), MS-Windows, Cygwin, Linux,
 
-###EXE
+## EXE
 madeline
 
-###Reference
+## Reference
 http://eyegene.ophthy.med.umich.edu/madeline-0.935/
-
-

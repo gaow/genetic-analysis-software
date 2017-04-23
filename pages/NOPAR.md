@@ -1,24 +1,23 @@
-##NOPAR
-###Version
+# NOPAR
+
+## Version
 Aug 1995
 
-###Description
+## Description
 non-parametric linkage and association tests primarily for a quantitative trait
 
-###Author
+## Author
 * A Collins (email: arc@southampton.ac.uk)
 * NE Morton. (University of Southampton, UK)
 
-###URL
+## URL
 http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/nopar
 
-###Language
+## Language
 FORTRAN
 
-###OS
+## OS
 UNIX(SunOS)
 
-###Reference
+## Reference
 Collins,Morton (1995), Human Heredity, 45:311-318.
-
-

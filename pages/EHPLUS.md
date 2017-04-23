@@ -1,26 +1,25 @@
-##EHPLUS
-###Version
+# EHPLUS
+
+## Version
 2.0
 
-###Author
+## Author
 Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
 
-###URL
+## URL
 http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
 
-###Language
+## Language
 C
 
-###OS
+## OS
 UNIX(Solaris/DEC alpha/..), MS-Windows
 
-###EXE
+## EXE
 ehplus
 
-###Reference
+## Reference
 Zhao, Curtis, Sham (2000), "Model-free and permutation tests for allelic associations", Human Heredity, 50(2):133-139.
 
-###Related
+## Related
 EH, FASTEHPLUS
-
-
