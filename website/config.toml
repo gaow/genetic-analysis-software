@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Genetic Analysis Software | The Rockefeller List"
+baseURL = "https://gaow.github.io/genetic-analysis-software/"
+theme = "hugo-theme-learn"
