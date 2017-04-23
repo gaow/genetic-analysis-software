@@ -16,6 +16,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-1/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
 &lt;p&gt;haplotype resolution using imperfect phylogeny&lt;/p&gt;
@@ -45,6 +47,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-2/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -80,6 +84,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-sample/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;HAP-SAMPLE is a web application for simulating SNP genotypes for case-control and affected-child trio studies by resampling from Phase I/II HapMap SNP data. The user provides a list of SNPs to be &amp;ldquo;genotyped,&amp;rdquo; along with a disease model file that describes causal SNPs and their effect sizes. The simulation tool is appropriate for candidate regions or whole-genome scans.&lt;/p&gt;
@@ -105,6 +111,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapar/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -148,6 +156,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapassoc/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
 &lt;p&gt;R/HAPASSOC&lt;/p&gt;
@@ -161,6 +171,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapblock/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -208,6 +220,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapblock-2/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
 &lt;p&gt;April 2004&lt;/p&gt;
@@ -233,6 +247,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapgen/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
@@ -270,6 +286,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapinferx/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
 &lt;p&gt;(Jul 1999)&lt;/p&gt;
@@ -299,6 +317,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo-1/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -354,6 +374,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo-2/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
 &lt;p&gt;2.5 (1998)&lt;/p&gt;
@@ -395,6 +417,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo.stat/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
 
@@ -450,6 +474,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/haploblock/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
 &lt;p&gt;1.2 (April 28, 2004)&lt;/p&gt;
@@ -500,6 +526,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/h/haploblockfinder/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
 &lt;p&gt;0.7&lt;/p&gt;
@@ -537,6 +565,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplobuild/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 

@@ -16,6 +16,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/v/vaast/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
 &lt;p&gt;Variant Annotation, Analysis and Search Tool&lt;/p&gt;
@@ -46,6 +48,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/v/varscan/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;VarScan is a platform-independent, technology-independent software tool for identifying SNPs and indels in massively parallel sequencing of individual and pooled samples. Given data for a single sample, VarScan identifies and filters germline variants based on read counts, base quality, and allele frequency. Given data for a tumor-normal pair, VarScan also determines the somatic status of each variant (Germline, Somatic, or LOH) by comparing read counts between samples.&lt;/p&gt;
@@ -71,6 +75,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/v/vg/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -106,6 +112,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/v/vh/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
 &lt;p&gt;visual haplotype&lt;/p&gt;
@@ -139,6 +147,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/v/vitesse/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
 
@@ -192,6 +202,8 @@
       <guid>https://gaow.github.io/genetic-analysis-software/v/variant-association-tools/</guid>
       <description>
 
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
 &lt;p&gt;Variant Association Tools inherits the intuitive command-line interface of variant tools with re-design and implementation of its infrastructure to accommodate the scale of dataset generated from nowadays sequencing efforts on large populations.&lt;/p&gt;
@@ -243,6 +255,8 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/v/variant-tools/</guid>
       <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
 
 &lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
 
