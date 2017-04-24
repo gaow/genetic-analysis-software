@@ -83,26 +83,26 @@ for k in meta:
     lines = open(k).readlines()
     contents[category][(lines[0].strip("#").strip(), html_name)] = '\n'.join(lines[1:]).strip()
 
-idx = 1
+idx = 4
 for k in contents:
     with open('website/content/{}/_index.md'.format(k.lower()), 'w') as f:
-         f.write('+++\nicon = "<b>{}. </b>"\nweight = 0\ntitle = "{}"\n+++\n\n'.format(idx, k if k != '1' else '#'))
+         f.write('+++\nweight = {}\ntitle = "{}"\n+++\n\n'.format(idx, k if k != '1' else '#'))
          f.write(toc[k])
     idx += 1
-    for kk in contents[k]:
+    for num, kk in enumerate(contents[k]):
         with open('website/content/{}/{}.md'.format(k.lower(), kk[1]), 'w') as f:
-             f.write('---\ntitle: {}\nweight: 15\ntoc: true\n---\n\n'.format(kk[0]))
+             f.write('---\ntitle: {2}{0}. {1}\ntoc: true\nweight: {0}\n---\n\n'.format(num + 1, kk[0], k if k != '1' else ''))
              f.write(contents[k][kk])
              f.write('''${disqus_tpl}'''.replace('PAGE_URL', 'http://gaow.github.io/genetic-analysis-software/{}/{}'.format(k.lower(), kk[1])).replace('PAGE_IDENTIFIER', kk[1]))
 
 with open('website/content/0/_index.md', 'w') as f:
-     f.write('+++\nweight = 0\ntitle = "Genetic Analysis Software"\n+++\n\n')
+     f.write('+++\nweight = 1\ntitle = "Genetic Analysis Software"\n+++\n\n')
      f.write('# Welcome ... \nto the Rockefeller list of Genetic Analysis Software!')
 with open('website/content/0/about.md', 'w') as f:
-     f.write('---\ntitle: About\nweight: 15\ntoc: true\n---\n\n')
+     f.write('---\ntitle: About\nweight: 2\ntoc: true\n---\n\n')
      f.write(open('Home.md').read())
 with open('website/content/0/lists.md', 'w') as f:
-     f.write('---\ntitle: Other lists\nweight: 15\ntoc: true\n---\n\n')
+     f.write('---\ntitle: Other lists\nweight: 3\ntoc: true\n---\n\n')
      f.write(open('Others.md').read())
  
 [default_3]
