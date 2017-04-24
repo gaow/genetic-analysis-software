@@ -44,7 +44,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.
+&lt;h2 id=&#34;fain-kort-chance-nguyen-redd-econ-barker-1995-nature-genetics-9-3-261-265&#34;&gt;Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -71,7 +72,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -110,7 +111,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20(8):1325-1326.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Zapata, Carollo, Rodriguez (2001), &amp;ldquo;Sampling variance and distribution of the D&amp;rsquo; measure of overall gametic disequlibrium between multiallelic loci&amp;rdquo;, Annals of Human Genetics, 65:395-406.
+&lt;li&gt;&lt;h2 id=&#34;zapata-carollo-rodriguez-2001-sampling-variance-and-distribution-of-the-d-measure-of-overall-gametic-disequlibrium-between-multiallelic-loci-annals-of-human-genetics-65-395-406&#34;&gt;Zapata, Carollo, Rodriguez (2001), &amp;ldquo;Sampling variance and distribution of the D&amp;rsquo; measure of overall gametic disequlibrium between multiallelic loci&amp;rdquo;, Annals of Human Genetics, 65:395-406.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -137,8 +140,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -170,7 +172,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.
+&lt;h2 id=&#34;brinza-and-zelikovsky-2006-2snp-scalable-phasing-based-on-2-snp-haplotypes-bioinformatics-22-3-371-373&#34;&gt;Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -197,7 +200,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -256,7 +259,9 @@
 
 &lt;li&gt;&lt;p&gt;Amos (1994), &amp;ldquo;Robust variance-components approach for assessing genetic linkage in pedigrees&amp;rdquo;, American Journal of Human Genetics, 54:535-543. [&lt;a href=&#34;http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1918121&#34;&gt;abstract&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;de Andreade, Amos, Thiel (1999), &amp;ldquo;Methods to estimate genetic parameters for quantitative traits&amp;rdquo;, Genetic Epidemiology, 17(1):64-76.
+&lt;li&gt;&lt;h2 id=&#34;de-andreade-amos-thiel-1999-methods-to-estimate-genetic-parameters-for-quantitative-traits-genetic-epidemiology-17-1-64-76&#34;&gt;de Andreade, Amos, Thiel (1999), &amp;ldquo;Methods to estimate genetic parameters for quantitative traits&amp;rdquo;, Genetic Epidemiology, 17(1):64-76.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -283,8 +288,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -300,7 +304,8 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;R/ADEGENET
+&lt;h2 id=&#34;r-adegenet&#34;&gt;R/ADEGENET&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -327,7 +332,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -392,7 +397,9 @@
 
 &lt;li&gt;&lt;p&gt;CJ Hoggart, EJ Parra, MD Shriver, C Bonilla, RA Kittles, DC Clayton, PM McKeigue (2003), &amp;ldquo;Control of confounding of genetic associations in stratified populations&amp;rdquo;, American Journal of Human Genetics, 72(6):1492-1504&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;PM McKeigue, J Carpenter, EJ Parra, MD Shriver (2000), &amp;ldquo;Estimation of admixture and detection of linkage in admixed populations by a Bayesian approach: application to African-American populations&amp;rdquo;, Annals of Human Genetics, 64:171-186.
+&lt;li&gt;&lt;h2 id=&#34;pm-mckeigue-j-carpenter-ej-parra-md-shriver-2000-estimation-of-admixture-and-detection-of-linkage-in-admixed-populations-by-a-bayesian-approach-application-to-african-american-populations-annals-of-human-genetics-64-171-186&#34;&gt;PM McKeigue, J Carpenter, EJ Parra, MD Shriver (2000), &amp;ldquo;Estimation of admixture and detection of linkage in admixed populations by a Bayesian approach: application to African-American populations&amp;rdquo;, Annals of Human Genetics, 64:171-186.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -419,8 +426,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -452,7 +458,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.
+&lt;h2 id=&#34;graham-thompson-2000-a-coalescent-model-of-ancestry-for-a-rare-allele-genetics-156-375-384&#34;&gt;Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -479,7 +486,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -523,7 +530,8 @@
 
 &lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
 
-&lt;p&gt;UNIX, Linux
+&lt;h2 id=&#34;unix-linux&#34;&gt;UNIX, Linux&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -550,7 +558,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -594,7 +602,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual
+&lt;h2 id=&#34;collins-morton-1998-mapping-a-disease-locus-by-allelic-association-proceedings-of-the-national-academy-of-sciences-95-1741-1745-online-manual&#34;&gt;Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -621,7 +630,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -674,7 +683,9 @@
 
 &lt;li&gt;&lt;p&gt;Gudbjartsson, Thorvaldsson, Gunnarsson, Kong, Ingolfsdottir (2004), &amp;ldquo;Decision diagram based multipoint linkage analysis: ALLEGRO2&amp;rdquo;, American Journal of Human Genetics, 75(suppl):?.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), &amp;ldquo;Allegro version 2&amp;rdquo;, Nature Genetics, 37:1015-1016. &lt;strong&gt;PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM&lt;/strong&gt;
+&lt;li&gt;&lt;h2 id=&#34;gudbjartsson-thorvaldsson-kong-gunnarsson-ingolfsdottir-2005-allegro-version-2-nature-genetics-37-1015-1016-please-cite-this-reference-when-using-the-allegro2-program&#34;&gt;Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), &amp;ldquo;Allegro version 2&amp;rdquo;, Nature Genetics, 37:1015-1016. &lt;strong&gt;PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM&lt;/strong&gt;&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -701,8 +712,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -752,7 +762,8 @@
 
 &lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
 
-&lt;p&gt;allelix.dll
+&lt;h2 id=&#34;allelix-dll&#34;&gt;allelix.dll&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -779,7 +790,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -823,7 +834,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage analysis using 10K SNP array data&amp;rdquo;, Bioinformatics, 21(9):2123-2125.
+&lt;h2 id=&#34;ruschendorf-nurnberg-2005-alohomora-a-tool-for-linkage-analysis-using-10k-snp-array-data-bioinformatics-21-9-2123-2125&#34;&gt;Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage analysis using 10K SNP array data&amp;rdquo;, Bioinformatics, 21(9):2123-2125.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -850,7 +862,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -908,7 +920,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Mansfield, Brown, Green, Carothers, Morris, Evans, Wright (1994), &amp;ldquo;Automation of genetic linkage analysis using fluorescent microsatellite markers&amp;rdquo;, Genomics, 24(2):225-233.
+&lt;h2 id=&#34;mansfield-brown-green-carothers-morris-evans-wright-1994-automation-of-genetic-linkage-analysis-using-fluorescent-microsatellite-markers-genomics-24-2-225-233&#34;&gt;Mansfield, Brown, Green, Carothers, Morris, Evans, Wright (1994), &amp;ldquo;Automation of genetic linkage analysis using fluorescent microsatellite markers&amp;rdquo;, Genomics, 24(2):225-233.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -935,7 +948,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -977,7 +990,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Bardel, Danjean, Hugot, Darlu, Genin (2005), &amp;ldquo;On the use of haplotype phylogeny to detect disease susceptibility loci&amp;rdquo;, BMC Genetics, 6:24.
+&lt;h2 id=&#34;bardel-danjean-hugot-darlu-genin-2005-on-the-use-of-haplotype-phylogeny-to-detect-disease-susceptibility-loci-bmc-genetics-6-24&#34;&gt;Bardel, Danjean, Hugot, Darlu, Genin (2005), &amp;ldquo;On the use of haplotype phylogeny to detect disease susceptibility loci&amp;rdquo;, BMC Genetics, 6:24.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -1004,7 +1018,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -1040,7 +1054,8 @@
 
 &lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
 
-&lt;p&gt;UNIX, Linux
+&lt;h2 id=&#34;unix-linux&#34;&gt;UNIX, Linux&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -1067,7 +1082,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     

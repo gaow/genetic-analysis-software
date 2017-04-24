@@ -40,7 +40,8 @@
 
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
-&lt;p&gt;R/S-PLUS
+&lt;h2 id=&#34;r-s-plus&#34;&gt;R/S-PLUS&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -67,7 +68,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -114,7 +115,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Li, Jiang, Ho, Song, Sham (2007), &amp;ldquo;IGG: A tool to integrate GeneChips for genetic studies&amp;rdquo;, Bioinformatics, 23(22):3105-3107.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Li, Jiang, Kao, Sham, Song (2009), &amp;ldquo;IGG3: a tool to rapidly integrate large genotype datasets for whole-genome imputation and individual-level meta-analysis&amp;rdquo;, Bioinformatics, 25(11):1449-1450.
+&lt;li&gt;&lt;h2 id=&#34;li-jiang-kao-sham-song-2009-igg3-a-tool-to-rapidly-integrate-large-genotype-datasets-for-whole-genome-imputation-and-individual-level-meta-analysis-bioinformatics-25-11-1449-1450&#34;&gt;Li, Jiang, Kao, Sham, Song (2009), &amp;ldquo;IGG3: a tool to rapidly integrate large genotype datasets for whole-genome imputation and individual-level meta-analysis&amp;rdquo;, Bioinformatics, 25(11):1449-1450.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -141,8 +144,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -174,7 +176,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &amp;ldquo;A genotype calling algorithm for the Illumina BeadArray platform&amp;rdquo;, Bioinformatics, 23(20):2741-2746.
+&lt;h2 id=&#34;teo-inouye-small-gwilliam-deloukas-kwiatkowski-clark-2007-a-genotype-calling-algorithm-for-the-illumina-beadarray-platform-bioinformatics-23-20-2741-2746&#34;&gt;Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &amp;ldquo;A genotype calling algorithm for the Illumina BeadArray platform&amp;rdquo;, Bioinformatics, 23(20):2741-2746.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -201,7 +204,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -245,7 +248,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Knapp, Strauch (2004), &amp;ldquo;Affected-sib-pair test for linkage based on constraints for identical-by-descent distributions corresponding to disease models with imprinting&amp;rdquo;, Genetic Epidemiology, 26:273-285 (Erratum: 28:288).
+&lt;h2 id=&#34;knapp-strauch-2004-affected-sib-pair-test-for-linkage-based-on-constraints-for-identical-by-descent-distributions-corresponding-to-disease-models-with-imprinting-genetic-epidemiology-26-273-285-erratum-28-288&#34;&gt;Knapp, Strauch (2004), &amp;ldquo;Affected-sib-pair test for linkage based on constraints for identical-by-descent distributions corresponding to disease models with imprinting&amp;rdquo;, Genetic Epidemiology, 26:273-285 (Erratum: 28:288).&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -272,7 +276,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -311,7 +315,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Marchini, Howie, Myers, McVean, Donnelly (2007), &amp;ldquo;A new multipoint method for genome-wide association studies via imputation of genotypes&amp;rdquo;, Nature Genetics, 39:906-913.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Howie, Donnelly, Marchini (2009), &amp;ldquo;A flexible and accurate genotype imputation method for the next generation of genome-wide association studies&amp;rdquo;, PLoS Genetics, 5(6):e1000529
+&lt;li&gt;&lt;h2 id=&#34;howie-donnelly-marchini-2009-a-flexible-and-accurate-genotype-imputation-method-for-the-next-generation-of-genome-wide-association-studies-plos-genetics-5-6-e1000529&#34;&gt;Howie, Donnelly, Marchini (2009), &amp;ldquo;A flexible and accurate genotype imputation method for the next generation of genome-wide association studies&amp;rdquo;, PLoS Genetics, 5(6):e1000529&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -338,8 +344,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -379,7 +384,8 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;PANGAEA
+&lt;h2 id=&#34;pangaea&#34;&gt;PANGAEA&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -406,7 +412,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -444,7 +450,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Yang, Wang, Gingle (2005), &amp;ldquo;IntegratedMap: a web interface for integrating genetic map data&amp;rdquo;, Bioinformatics, 21(9):2126-2127.
+&lt;h2 id=&#34;yang-wang-gingle-2005-integratedmap-a-web-interface-for-integrating-genetic-map-data-bioinformatics-21-9-2126-2127&#34;&gt;Yang, Wang, Gingle (2005), &amp;ldquo;IntegratedMap: a web interface for integrating genetic map data&amp;rdquo;, Bioinformatics, 21(9):2126-2127.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -471,7 +478,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -515,7 +522,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Herold, Steffens, Brockschmidt, Baur, Becker (2009), &amp;ldquo;INTERSNP: genome-wide interaction analysis guided by a priori information&amp;rdquo;, Bioinformatics, 25(24):3275-3281
+&lt;h2 id=&#34;herold-steffens-brockschmidt-baur-becker-2009-intersnp-genome-wide-interaction-analysis-guided-by-a-priori-information-bioinformatics-25-24-3275-3281&#34;&gt;Herold, Steffens, Brockschmidt, Baur, Becker (2009), &amp;ldquo;INTERSNP: genome-wide interaction analysis guided by a priori information&amp;rdquo;, Bioinformatics, 25(24):3275-3281&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -542,7 +550,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     

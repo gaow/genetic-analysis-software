@@ -35,7 +35,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://research.calit2.net/hap/&#34;&gt;http://research.calit2.net/hap/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.columbia.edu/compbio/hap/&#34;&gt;http://www.cs.columbia.edu/compbio/hap/&lt;/a&gt;
+&lt;li&gt;&lt;h2 id=&#34;http-www-cs-columbia-edu-compbio-hap&#34;&gt;&lt;a href=&#34;http://www.cs.columbia.edu/compbio/hap/&#34;&gt;http://www.cs.columbia.edu/compbio/hap/&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -62,8 +64,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -99,7 +100,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.
+&lt;h2 id=&#34;zhao-2004-2ld-genecounting-and-hap-computer-programs-for-linkage-disequilibrium-analysis-bioinformatics-20-1325-1326&#34;&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -126,7 +128,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -154,7 +156,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), &amp;ldquo;Simulating association studies: a data-based resampling method for candidate regions or whole genome scans&amp;rdquo;, preprint.
+&lt;h2 id=&#34;wright-huang-guan-gamiel-jeffreis-barry-pardo-manuel-sullivan-wilhelmsen-zou-2007-simulating-association-studies-a-data-based-resampling-method-for-candidate-regions-or-whole-genome-scans-preprint&#34;&gt;Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), &amp;ldquo;Simulating association studies: a data-based resampling method for candidate regions or whole genome scans&amp;rdquo;, preprint.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -181,7 +184,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -225,7 +228,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Wang, Xu (2003), &amp;ldquo;Haplotype inference by maximum parsimony&amp;rdquo;, Bioinformatics, 19(14):1773-1780.
+&lt;h2 id=&#34;wang-xu-2003-haplotype-inference-by-maximum-parsimony-bioinformatics-19-14-1773-1780&#34;&gt;Wang, Xu (2003), &amp;ldquo;Haplotype inference by maximum parsimony&amp;rdquo;, Bioinformatics, 19(14):1773-1780.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -252,7 +256,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -268,7 +272,8 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;R/HAPASSOC
+&lt;h2 id=&#34;r-hapassoc&#34;&gt;R/HAPASSOC&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -295,7 +300,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -342,7 +347,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.
+&lt;li&gt;&lt;h2 id=&#34;zhang-qin-chen-liu-waterman-sun-2005-hapblock-haplotype-block-partitioning-and-tag-snp-selection-software-using-a-set-of-dynamic-programming-algorithms-bioinformatics-21-1-131-134&#34;&gt;Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -369,8 +376,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -398,7 +404,8 @@
 
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
-&lt;p&gt;Stata
+&lt;h2 id=&#34;stata&#34;&gt;Stata&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -425,7 +432,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -463,7 +470,8 @@
 
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
-&lt;p&gt;C++
+&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -490,7 +498,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -522,7 +530,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.
+&lt;h2 id=&#34;clark-1990-inference-of-haplotype-from-pcr-amplified-samples-of-diploid-populations-molecular-biology-and-evolution-7-111-122&#34;&gt;Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -549,7 +558,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -604,7 +613,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Sobel, Lange, O&amp;rsquo;Connell and Weeks, in &amp;ldquo;Genetic Mapping and DNA Sequencing&amp;rdquo; (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Weeks, Sobel, O&amp;rsquo;Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507
+&lt;li&gt;&lt;h2 id=&#34;weeks-sobel-o-connell-lange-1995-american-journal-of-human-genetics-56-6-1506-1507&#34;&gt;Weeks, Sobel, O&amp;rsquo;Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -631,8 +642,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -676,7 +686,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.
+&lt;h2 id=&#34;hawley-kidd-1995-haplo-a-program-using-the-em-algorithm-to-estimate-the-frequencies-of-multi-site-haplotypes-journal-of-heredity-86-409-411&#34;&gt;Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -703,7 +714,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -759,7 +770,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434
+&lt;h2 id=&#34;schaid-rowland-tines-jacobson-poland-2002-american-journal-of-human-genetics-70-2-2-425-434&#34;&gt;Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -786,7 +798,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -837,7 +849,9 @@
 
 &lt;li&gt;&lt;p&gt;Instruction Manual: &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;LD Mapping Supplement &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&lt;/a&gt;
+&lt;li&gt;&lt;h2 id=&#34;ld-mapping-supplement-http-bioinfo-cs-technion-ac-il-haploblock-haploblock-mapping-pdf&#34;&gt;LD Mapping Supplement &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -864,8 +878,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+
 </description>
     </item>
     
@@ -905,7 +918,8 @@
 
 &lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
 
-&lt;p&gt;haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
+&lt;h2 id=&#34;haploblockfinder-hbfwrapper-pl-showldmatrix-pl-drawblocks-pl&#34;&gt;haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -932,7 +946,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -976,7 +990,8 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Laramie, Wilk, DeStefano, Myers (2007), &amp;ldquo;HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies&amp;rdquo;, Bioinformatics, 23(16):2190-2192.
+&lt;h2 id=&#34;laramie-wilk-destefano-myers-2007-haplobuild-an-algorithm-to-construct-non-contiguous-associated-haplotypes-in-family-based-genetic-studies-bioinformatics-23-16-2190-2192&#34;&gt;Laramie, Wilk, DeStefano, Myers (2007), &amp;ldquo;HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies&amp;rdquo;, Bioinformatics, 23(16):2190-2192.&lt;/h2&gt;
+
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -1003,7 +1018,7 @@
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;/p&gt;
+
 </description>
     </item>
     
