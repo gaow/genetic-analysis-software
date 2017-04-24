@@ -9,7 +9,11 @@ CASPAR's main novel feature is conditional linkage analyses, in which the popula
 
 ## Author
 * Richa Agarwala (email: richa@helix.nih.gov)
-* Alejandro Schaffer (email: schaffer@helix.nih.gov); other participants include Jeremy Buhler
+* Alejandro Schaffer (email: schaffer@helix.nih.gov); 
+
+Other participants include 
+
+* Jeremy Buhler
 * Kenneth Gabbay
 * Marek Kimmel
 * David Owerbach
