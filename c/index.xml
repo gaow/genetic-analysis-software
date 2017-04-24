@@ -42,26 +42,28 @@
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/carol&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/carol&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/carol&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/carol&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;carol&amp;rsquo;; // Replace carol with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/carol&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/carol with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;carol&#39;; // Replace carol with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -118,31 +120,30 @@
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-/**&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.&lt;/li&gt;
-&lt;li&gt;LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-&lt;em&gt;/
-/&lt;/em&gt;
-var disqus_config = function () {
-this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/carthagene&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/carthagene&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/carthagene&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/carthagene&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-this.page.identifier = &amp;lsquo;carthagene&amp;rsquo;; // Replace carthagene with your page&amp;rsquo;s unique identifier variable
-};
-*/
-(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
-   return;
-var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/carthagene&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/carthagene with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;carthagene&#39;; // Replace carthagene with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
+           return;
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -191,26 +192,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/casava&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/casava&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/casava&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/casava&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;casava&amp;rsquo;; // Replace casava with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/casava&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/casava with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;casava&#39;; // Replace casava with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -271,31 +274,30 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-/**&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.&lt;/li&gt;
-&lt;li&gt;LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-&lt;em&gt;/
-/&lt;/em&gt;
-var disqus_config = function () {
-this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/caspar&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/caspar&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/caspar&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/caspar&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-this.page.identifier = &amp;lsquo;caspar&amp;rsquo;; // Replace caspar with your page&amp;rsquo;s unique identifier variable
-};
-*/
-(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
-   return;
-var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/caspar&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/caspar with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;caspar&#39;; // Replace caspar with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
+           return;
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -350,26 +352,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cats&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cats&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cats&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cats&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;cats&amp;rsquo;; // Replace cats with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cats&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cats with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;cats&#39;; // Replace cats with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -429,26 +433,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cc-qls&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cc-qls&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cc-qls&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cc-qls&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;cc-qls&amp;rsquo;; // Replace cc-qls with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cc-qls&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cc-qls with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;cc-qls&#39;; // Replace cc-qls with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -486,26 +492,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ccravat&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ccravat&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ccravat&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ccravat&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;ccravat&amp;rsquo;; // Replace ccravat with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ccravat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ccravat with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;ccravat&#39;; // Replace ccravat with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -555,26 +563,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ccrel&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ccrel&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ccrel&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ccrel&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;ccrel&amp;rsquo;; // Replace ccrel with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ccrel&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ccrel with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;ccrel&#39;; // Replace ccrel with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -616,26 +626,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;ceph2cri&amp;rsquo;; // Replace ceph2cri with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ceph2cri with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;ceph2cri&#39;; // Replace ceph2cri with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -669,26 +681,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ceph2map&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ceph2map&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/ceph2map&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/ceph2map&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;ceph2map&amp;rsquo;; // Replace ceph2map with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ceph2map&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ceph2map with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;ceph2map&#39;; // Replace ceph2map with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -744,26 +758,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cfc&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cfc&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/cfc&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/cfc&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;cfc&amp;rsquo;; // Replace cfc with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cfc&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cfc with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;cfc&#39;; // Replace cfc with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -824,31 +840,30 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-/**&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.&lt;/li&gt;
-&lt;li&gt;LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-&lt;em&gt;/
-/&lt;/em&gt;
-var disqus_config = function () {
-this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/chaplin&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/chaplin&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/chaplin&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/chaplin&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-this.page.identifier = &amp;lsquo;chaplin&amp;rsquo;; // Replace chaplin with your page&amp;rsquo;s unique identifier variable
-};
-*/
-(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
-   return;
-var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
-(d.head || d.body).appendChild(s);
-})();
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/chaplin&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/chaplin with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;chaplin&#39;; // Replace chaplin with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
+           return;
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -895,26 +910,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/checkhet&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/checkhet&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/checkhet&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/checkhet&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;checkhet&amp;rsquo;; // Replace checkhet with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/checkhet&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/checkhet with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;checkhet&#39;; // Replace checkhet with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -958,26 +975,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;checkmatrix&amp;rsquo;; // Replace checkmatrix with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/checkmatrix with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;checkmatrix&#39;; // Replace checkmatrix with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
@@ -1015,26 +1034,28 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;script&gt;
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
-     &lt;em&gt;/
-    /&lt;/em&gt;
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
     var disqus_config = function () {
-        this.page.url = &amp;lsquo;&lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/chiamo&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/chiamo&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/c/chiamo&#34;&gt;http://gaow.github.io/genetic-analysis-software/c/chiamo&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = &amp;lsquo;chiamo&amp;rsquo;; // Replace chiamo with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/chiamo&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/chiamo with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;chiamo&#39;; // Replace chiamo with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
-        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
-        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
            return;
-        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
-        s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
         (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
 </description>
     </item>
     
