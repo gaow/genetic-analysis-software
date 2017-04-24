@@ -70,18 +70,21 @@ meta = get_meta(glob.glob('${data_dir}/*.md'))
 categories = []
 contents = OrderedDict()
 toc = OrderedDict()
+idx = 1
 for k in meta:
     category = '1' if re.match(r"[-+]?\d+$", meta[k]['name'][0]) is not None else meta[k]['name'][0].upper()
     if category not in categories:
+       idx = 1
        categories.append(category)
-       toc[category] = '\n## {}\n----\n'.format(category if category != '1' else '\\#')
+       toc[category] = '\n## {}\n\n----\n\n'.format(category if category != '1' else '\\#')
     if category not in contents:
        contents[category] = OrderedDict() 
     desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
     html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
-    toc[category] += '* [{}]({}){}\n'.format(meta[k]['name'], html_name, desc_text)
+    toc[category] += '{}. [{}]({}){}\n'.format(idx, meta[k]['name'], html_name, desc_text)
     lines = open(k).readlines()
     contents[category][(lines[0].strip("#").strip(), html_name)] = '\n'.join(lines[1:]).strip()
+    idx += 1
 
 idx = 4
 for k in contents:
@@ -91,7 +94,7 @@ for k in contents:
     idx += 1
     for num, kk in enumerate(contents[k]):
         with open('website/content/{}/{}.md'.format(k.lower(), kk[1]), 'w') as f:
-             f.write('---\ntitle: {2}{0}. {1}\ntoc: true\nweight: {0}\n---\n\n'.format(num + 1, kk[0], k if k != '1' else ''))
+             f.write('---\ntitle: {1}\ntoc: true\nweight: {0}\n---\n\n'.format(num + 1, kk[0]))
              f.write(contents[k][kk])
              f.write('''${disqus_tpl}'''.replace('PAGE_URL', 'http://gaow.github.io/genetic-analysis-software/{}/{}'.format(k.lower(), kk[1])).replace('PAGE_IDENTIFIER', kk[1]))
 
