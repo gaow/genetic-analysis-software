@@ -8,6 +8,7 @@
 parameter: data_dir = 'pages'
 parameter: disqus_tpl = '''
 {{< raw >}}
+<hr size="2">
 <div id="disqus_thread"></div>
 <script>
     /**
