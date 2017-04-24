@@ -53,8 +53,8 @@
      &lt;em&gt;/
     /&lt;/em&gt;
     var disqus_config = function () {
-        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2dmap&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2dmap&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2dmap&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2dmap&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = 2dmap; // Replace 2dmap with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2dmap&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2dmap&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2dmap&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2dmap&#39;&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = &amp;lsquo;2dmap&amp;rsquo;; // Replace &amp;lsquo;2dmap&amp;rsquo; with your page&amp;rsquo;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
@@ -114,8 +114,8 @@
 &lt;em&gt;/
 /&lt;/em&gt;
 var disqus_config = function () {
-this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2ld&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2ld&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2ld&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2ld&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-this.page.identifier = 2ld; // Replace 2ld with your page&amp;rsquo;s unique identifier variable
+this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2ld&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2ld&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2ld&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2ld&#39;&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
+this.page.identifier = &amp;lsquo;2ld&amp;rsquo;; // Replace &amp;lsquo;2ld&amp;rsquo; with your page&amp;rsquo;s unique identifier variable
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
@@ -168,8 +168,8 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
      &lt;em&gt;/
     /&lt;/em&gt;
     var disqus_config = function () {
-        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2snp&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2snp&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/2snp&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/2snp&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = 2snp; // Replace 2snp with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2snp&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2snp&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/1/&#39;2snp&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/1/&#39;2snp&#39;&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = &amp;lsquo;2snp&amp;rsquo;; // Replace &amp;lsquo;2snp&amp;rsquo; with your page&amp;rsquo;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

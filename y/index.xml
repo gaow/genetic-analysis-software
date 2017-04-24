@@ -29,8 +29,8 @@
      &lt;em&gt;/
     /&lt;/em&gt;
     var disqus_config = function () {
-        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/y/yy&#34;&gt;http://gaow.github.io/genetic-analysis-software/y/yy&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/y/yy&#34;&gt;http://gaow.github.io/genetic-analysis-software/y/yy&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
-        this.page.identifier = yy; // Replace yy with your page&amp;rsquo;s unique identifier variable
+        this.page.url = &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/y/&#39;yy&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/y/&#39;yy&#39;&lt;/a&gt;;  // Replace &lt;a href=&#34;http://gaow.github.io/genetic-analysis-software/y/&#39;yy&#39;&#34;&gt;http://gaow.github.io/genetic-analysis-software/y/&#39;yy&#39;&lt;/a&gt; with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = &amp;lsquo;yy&amp;rsquo;; // Replace &amp;lsquo;yy&amp;rsquo; with your page&amp;rsquo;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
