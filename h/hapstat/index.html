@@ -4900,6 +4900,7 @@
 <li><p>Lin, Zeng (2006), &ldquo;Likelihood-based inference on haplotype effects in genetic association studies (with discussion)&rdquo;, Journal of American Statistical Association, 101:89-118.</p></li>
 
 <li><p>Zeng, Lin, Avery, North, Bray (2006), &ldquo;Efficient semiparametric estimation of haplotype-disease associations in case-cohort and nested case-control studies&rdquo;, Biostatistics, 7(3):486-502.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4915,6 +4916,10 @@ this.page.identifier = &lsquo;hapstat&rsquo;; // Replace hapstat with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

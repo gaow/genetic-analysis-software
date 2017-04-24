@@ -4897,6 +4897,7 @@
 <li><p><a href="http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/">http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/</a></p></li>
 
 <li><p><a href="http://cran.r-project.org/web/packages/stepwise/index.html">http://cran.r-project.org/web/packages/stepwise/index.html</a>
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4912,6 +4913,10 @@ this.page.identifier = &lsquo;rstepwise&rsquo;; // Replace rstepwise with your p
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

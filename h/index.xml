@@ -36,6 +36,7 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://research.calit2.net/hap/&#34;&gt;http://research.calit2.net/hap/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.columbia.edu/compbio/hap/&#34;&gt;http://www.cs.columbia.edu/compbio/hap/&lt;/a&gt;
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -51,6 +52,10 @@ this.page.identifier = &amp;lsquo;hap-1&amp;rsquo;; // Replace hap-1 with your p
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -96,6 +101,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -109,6 +115,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -144,6 +154,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), &amp;ldquo;Simulating association studies: a data-based resampling method for candidate regions or whole genome scans&amp;rdquo;, preprint.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -157,6 +168,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -208,6 +223,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Wang, Xu (2003), &amp;ldquo;Haplotype inference by maximum parsimony&amp;rdquo;, Bioinformatics, 19(14):1773-1780.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -221,6 +237,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -244,6 +264,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
 &lt;p&gt;R/HAPASSOC
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -257,6 +278,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -311,6 +336,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -326,6 +352,10 @@ this.page.identifier = &amp;lsquo;hapblock&amp;rsquo;; // Replace hapblock with 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -363,6 +393,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
 &lt;p&gt;Stata
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -376,6 +407,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -421,6 +456,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
 &lt;p&gt;C++
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -434,6 +470,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -473,6 +513,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -486,6 +527,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -548,6 +593,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Sobel, Lange, O&amp;rsquo;Connell and Weeks, in &amp;ldquo;Genetic Mapping and DNA Sequencing&amp;rdquo; (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Weeks, Sobel, O&amp;rsquo;Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -563,6 +609,10 @@ this.page.identifier = &amp;lsquo;haplo-1&amp;rsquo;; // Replace haplo-1 with yo
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -616,6 +666,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -629,6 +680,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -692,6 +747,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -705,6 +761,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -763,6 +823,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Instruction Manual: &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;LD Mapping Supplement &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&lt;/a&gt;
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -778,6 +839,10 @@ this.page.identifier = &amp;lsquo;haploblock&amp;rsquo;; // Replace haploblock w
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -827,6 +892,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
 
 &lt;p&gt;haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -840,6 +906,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -891,6 +961,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Laramie, Wilk, DeStefano, Myers (2007), &amp;ldquo;HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies&amp;rdquo;, Bioinformatics, 23(16):2190-2192.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -904,6 +975,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());

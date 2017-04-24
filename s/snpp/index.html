@@ -4920,6 +4920,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Zhao, Li, Guo, Xu, Li, Deng (2005), &ldquo;SNPP: automating large-scale SNP genotype data management&rdquo;, Bioinformatics, 21:266-268
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4933,6 +4934,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

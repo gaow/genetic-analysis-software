@@ -49,6 +49,7 @@
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;R Kilpikari, MJ Sillanpaa (2003), &amp;ldquo;Bayesian analysis of multilocus association in quantitative and qualitative traits&amp;rdquo;, Genetic Epidemiology, 25:122-135.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -62,6 +63,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -113,6 +118,7 @@
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Zhang, Roeder, Wallstrom, Devlin (2003), &amp;ldquo;Integration of associative statistics over genomic regions using Bayesian Adaptive Regression Splines&amp;rdquo;, Human Genomics, 1:20-29.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -126,6 +132,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -176,6 +186,7 @@
 &lt;li&gt;&lt;p&gt;Balding (2003), &amp;ldquo;Likelihood-based inference for genetic correlation coefficients&amp;rdquo;, Theoretical Population Biology, 63:221-230&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Beaumont, Balding (2004), &amp;ldquo;Identifying adaptive genetic divergence among populations from genome scans&amp;rdquo;, Molecular Ecology, 13:969-980.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -191,6 +202,10 @@ this.page.identifier = &amp;lsquo;bayesfst&amp;rsquo;; // Replace bayesfst with 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -242,6 +257,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;V Vazquez, A Vicentin, L Vazquez, and G Martinez (2002) &amp;ldquo;Nuevo programa BDGen, como base de datos y herramienta de analisis estadistico de patrones geneticos&amp;rdquo;. VII meeting of the Spanish-Portuguese Group for the International Society for Forensic Genertics. Barcelona, June 2002.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -255,6 +271,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -321,6 +341,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Browning SR and Browning BR (2007), &amp;ldquo;Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering&amp;rdquo;, American Journal of Human Genetics, 81(5):1084-1097&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Browning BR and Browning SR (2007), &amp;ldquo;Efficient multilocus association testing for whole genome association studies using localized haplotype clustering&amp;rdquo;, Genetic Epidemiology, 31:365-375.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -336,6 +357,10 @@ this.page.identifier = &amp;lsquo;beagle&amp;rsquo;; // Replace beagle with your
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -381,6 +406,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Browning, Yu (2009), &amp;ldquo;Simultaneous genotype calling and haplotype phase inference improves genotype accuracy and reduces false positive associations for genome-wide association studies&amp;rdquo;, American Journal of Human Genetics, 85:847-861.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -394,6 +420,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -445,6 +475,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Zhang, Liu (2007), &amp;ldquo;Bayesian inference of epistatic interactions in case-control studies&amp;rdquo;, Nature, 39:1167-1173.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -458,6 +489,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -513,6 +548,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Morton (1996), Proceedings of the National Academy of Sciences , 93:3471-3476; Collins, Morton (1996), Proceedings of the National Academy of Sciences , 93:9177-9181; Lio, Morton (1997), Proceedings of the National Academy of Sciences , 94:5344-5348; online manual
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -526,6 +562,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -569,6 +609,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Servin, Stephens (2007), &amp;ldquo;Imputation-based analysis of association studies: candidate genes and quantitative traits&amp;rdquo;, PLoS Genetics, 3(7):e114. &lt;a href=&#34;http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114&#34;&gt;http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114&lt;/a&gt;
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -582,6 +623,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -613,6 +658,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.htbiology.com/software.php&#34;&gt;http://www.htbiology.com/software.php&lt;/a&gt;
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -626,6 +672,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -683,6 +733,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Nielsen, Leidner, Haynes, Krauthammer, Kreek (2007), &amp;ldquo;The BiolAD-DB system - an informatics system for clinical and genetic data&amp;rdquo;, Molecular Diagnosis &amp;amp; Therapy, 11(1):15-19.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -696,6 +747,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -731,6 +786,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Korn, Kuruvilla, McCarroll, Wysoker, Nemesh, Cawley, Hubbell, Veitch, Collins, Darvishi, Lee, Nizzari, Gabriel, Purcell, Daly, Altshuler (2008), &amp;ldquo;Integrated genotype calling and association analysis of SNPs, common copy number polymorphisms and rare CNVs&amp;rdquo;, Nature Genetics, 40:1253-1260.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -744,6 +800,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -790,6 +850,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Liu, Sabatti, Teng, Keats, Risch (2001), &amp;ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&amp;rdquo;, Genome Research, 11:1716-1724.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Lu, Niu, Liu (2003), &amp;ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&amp;rdquo;, Genome Research, 13:2112-2117.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -805,6 +866,10 @@ this.page.identifier = &amp;lsquo;blade&amp;rsquo;; // Replace blade with your p
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -864,6 +929,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Jensen, Kong and Kjaerulff, &amp;ldquo;Blocking-Gibbs Sampling in Very Large Probabilistic Expert Systems&amp;rdquo;, International Journal of Human-Computer Studies, 647-666 (1995).
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -877,6 +943,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -916,6 +986,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Abad-Grau, Montes, Sebastiani (2006), &amp;ldquo;Building chromosome-wide LD maps&amp;rdquo;, Bioinformatics, 22(16):1933-1934.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -929,6 +1000,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());

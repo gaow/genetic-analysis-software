@@ -4913,6 +4913,7 @@
 <li><p>Instruction Manual: <a href="http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf">http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf</a></p></li>
 
 <li><p>LD Mapping Supplement <a href="http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf">http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf</a>
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4928,6 +4929,10 @@ this.page.identifier = &lsquo;haploblock&rsquo;; // Replace haploblock with your
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4923,6 +4923,7 @@
 <li><p>Wilson, Kim, Sung, Cai, McMahon, Sorant (2009), &ldquo;Tiled Regression: the use of regression methods in hotspot defined genomic segments to identify independent genetic variants responsible for variation in quantitative traits&rdquo;, Abstract 142. In: &ldquo;Abstracts from the Eighteenth Annual Meeting of the International Genetic Epidemiology Society&rdquo;, Genetic Epidemiology, 33:793.</p></li>
 
 <li><p>Sorant, Cai, Sung, Kim, Wilson (2010), &ldquo;Tiled Regression Analysis Package (TRAP): software implementation of tiled regression methodology&rdquo;, Abstract 244. In: &ldquo;Abstracts from the nineteenth annual meeting of the International Genetic Epidemiology Society&rdquo;, Genetic Epidemiology, 34:984-985.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4938,6 +4939,10 @@ this.page.identifier = &lsquo;trap&rsquo;; // Replace trap with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

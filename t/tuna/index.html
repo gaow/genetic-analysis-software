@@ -4896,6 +4896,7 @@
 <li><p>Nicolae (2006), &ldquo;Testing untyped alleles (TUNA) - applications to genome-wide association studies&rdquo;, Genetic Epidemiology, 30(8):718-727.</p></li>
 
 <li><p>Wen, Nicolae (2007), &ldquo;Case-control association studies of untyped markers with TUNA&rdquo;, Bioinformatics, 24(3):435-437.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4911,6 +4912,10 @@ this.page.identifier = &lsquo;tuna&rsquo;; // Replace tuna with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

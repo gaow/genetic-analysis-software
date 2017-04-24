@@ -4922,6 +4922,7 @@
 <li><p>Amos (1994), &ldquo;Robust variance-components approach for assessing genetic linkage in pedigrees&rdquo;, American Journal of Human Genetics, 54:535-543. [<a href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1918121">abstract</a>]</p></li>
 
 <li><p>de Andreade, Amos, Thiel (1999), &ldquo;Methods to estimate genetic parameters for quantitative traits&rdquo;, Genetic Epidemiology, 17(1):64-76.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4937,6 +4938,10 @@ this.page.identifier = &lsquo;act&rsquo;; // Replace act with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

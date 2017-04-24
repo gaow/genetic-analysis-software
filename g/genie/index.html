@@ -4923,6 +4923,7 @@
 <li><p>Curtin, Wong, Allen-Brady, Camp (2007), &ldquo;PedGenie: meta genetic association testing in mixed family and case-control designs&rdquo;, BMC Bioinformatics, 8:448.</p></li>
 
 <li><p>Abo, Knight, Wong, Cox, Camp (2008), &ldquo;hapConstructor: automatic construction and testing of haplotypes in a Monte Carlo framework&rdquo;, Bioinformatics, 24(18):2105-2107.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4938,6 +4939,10 @@ this.page.identifier = &lsquo;genie&rsquo;; // Replace genie with your page&rsqu
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

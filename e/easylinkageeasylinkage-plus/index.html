@@ -4917,6 +4917,7 @@
 <li><p>Lindner, Hoffmann (2005), &ldquo;easyLINKAGE: A PERL script for easy and automated two-/multi-point linkage analyses&rdquo;, Bioinformatics, 21(3):405-407.</p></li>
 
 <li><p>Hoffmann, Lindner (2005), &ldquo;easyLINKAGE-Plus - automated linkage analyses using large-scale SNP data&rdquo; Bioinformatics, 21(17):3565-3567.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4932,6 +4933,10 @@ this.page.identifier = &lsquo;easylinkageeasylinkage-plus&rsquo;; // Replace eas
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

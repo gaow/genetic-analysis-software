@@ -4916,6 +4916,7 @@
 <li><p>Basten,Weir,Zeng (1994), &ldquo;Zmap-a QTL cartographer&rdquo;, in Proceedings of the 5th World Congress on Genetics Applied to Livestock Production: Computing Strategies and Software, vol 22, eds. Smith, Gavora, Chesnais, Fairfull, Gibson, Kennedy, Burnside.</p></li>
 
 <li><p>online manual
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4931,6 +4932,10 @@ this.page.identifier = &lsquo;qtl-cartographer&rsquo;; // Replace qtl-cartograph
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

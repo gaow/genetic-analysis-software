@@ -37,6 +37,7 @@
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Yandell, Huff, Hu, Singleton, Moore, Xing, Jorde, Reese (2011), &amp;ldquo;A probabilistic disease-gene finder for personal genomes&amp;rdquo;, Genome Research, 21(9):1529-1542.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -50,6 +51,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -85,6 +90,7 @@
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Koboldt, Chen, Wylie, Larson, McLellan, Mardis, Weinstock, Wilson, Ding (2009), &amp;ldquo;VarScan: variant detection in massively parallel sequencing of individual and pooled samples&amp;rdquo;, Bioinformatics, 25:2283-2285.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -98,6 +104,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -140,6 +150,7 @@
 &lt;li&gt;&lt;p&gt;Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -155,6 +166,10 @@ this.page.identifier = &amp;lsquo;vg&amp;rsquo;; // Replace vg with your page&am
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -199,6 +214,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -214,6 +230,10 @@ this.page.identifier = &amp;lsquo;vh&amp;rsquo;; // Replace vh with your page&am
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -276,6 +296,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;li&gt;&lt;p&gt;O&amp;rsquo;Connell,Weeks (1995), Nature Genetics, 11:402-408.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;online README file
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -291,6 +312,10 @@ this.page.identifier = &amp;lsquo;vitesse&amp;rsquo;; // Replace vitesse with yo
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -354,6 +379,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
 
 &lt;p&gt;Rare variant association testing
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -367,6 +393,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -434,6 +464,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
 
 &lt;p&gt;NGS variant filtering, annotation
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -447,6 +478,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());

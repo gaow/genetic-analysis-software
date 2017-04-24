@@ -4899,6 +4899,7 @@
 <li><p>Zhao (2004), &ldquo;2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis&rdquo;, Bioinformatics, 20(8):1325-1326.</p></li>
 
 <li><p>Zapata, Carollo, Rodriguez (2001), &ldquo;Sampling variance and distribution of the D&rsquo; measure of overall gametic disequlibrium between multiallelic loci&rdquo;, Annals of Human Genetics, 65:395-406.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4914,6 +4915,10 @@ this.page.identifier = &lsquo;2ld&rsquo;; // Replace 2ld with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

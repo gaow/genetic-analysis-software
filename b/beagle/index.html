@@ -4920,6 +4920,7 @@
 <li><p>Browning SR and Browning BR (2007), &ldquo;Rapid and accurate haplotype phasing and missing-data inference for whole-genome association studies by use of localized haplotype clustering&rdquo;, American Journal of Human Genetics, 81(5):1084-1097</p></li>
 
 <li><p>Browning BR and Browning SR (2007), &ldquo;Efficient multilocus association testing for whole genome association studies using localized haplotype clustering&rdquo;, Genetic Epidemiology, 31:365-375.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4935,6 +4936,10 @@ this.page.identifier = &lsquo;beagle&rsquo;; // Replace beagle with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

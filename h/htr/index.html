@@ -4915,6 +4915,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002), &ldquo;Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals&rdquo;, Human Heredity, 53:79-91.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4928,6 +4929,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

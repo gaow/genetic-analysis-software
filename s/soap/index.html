@@ -4901,6 +4901,7 @@
 <li><p>Li, Li, Fang, et al. (2009), &ldquo;SNP detection for massively parallel whole-genome resequencing&rdquo;, Genome Research, 19:1124-1132.</p></li>
 
 <li><p>Li, Yu, Li, Lam, Yiu, Kristiansen, Wang (2009), &ldquo;SOAP2: an improved ultrafast tool for short read alignment&rdquo;, Bioinformatics, 25(15):1966-1967.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4916,6 +4917,10 @@ this.page.identifier = &lsquo;soap&rsquo;; // Replace soap with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

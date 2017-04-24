@@ -4894,6 +4894,7 @@
 <li><p>Rastas, Koivisto, Mannila, Ukkonen (2005), &ldquo;A Hidden Markov Technique for Haplotype Reconstruction&rdquo;, 5th Workshop on Algorithms in Bioinformatics - WABI 2005</p></li>
 
 <li><p>Rastas, Koivisto, Mannila, Ukkonen (2008), &ldquo;Phasing genotypes using a hidden Markov model&rdquo;, in eds. I Mandoiu and A Zelikovsky, Bioinformatics Algorithms: Techniques and Applications, pp. 373-391 (Wiley).
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4909,6 +4910,10 @@ this.page.identifier = &lsquo;hit&rsquo;; // Replace hit with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

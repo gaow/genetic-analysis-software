@@ -4913,6 +4913,7 @@
 <li><p>J Wang, RW Williams, EJ Chesler, KF Manly (2003), &ldquo;WebQTL: Web-based complex trait analysis&rdquo;, Neuroinformatics 1(4):299-308.</p></li>
 
 <li><p>EJ Chesler, J Wang, L Lu, Y Qu, KF Manly, RW Williams (2003), &ldquo;Genetic correlates of gene expression in recombinant inbred strains: a relational model system to explore neurobehavioral phenotypes&rdquo;, Neuroinformatics, 1(4):343-357.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4928,6 +4929,10 @@ this.page.identifier = &lsquo;webqtl&rsquo;; // Replace webqtl with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

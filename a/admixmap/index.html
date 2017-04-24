@@ -4928,6 +4928,7 @@
 <li><p>CJ Hoggart, EJ Parra, MD Shriver, C Bonilla, RA Kittles, DC Clayton, PM McKeigue (2003), &ldquo;Control of confounding of genetic associations in stratified populations&rdquo;, American Journal of Human Genetics, 72(6):1492-1504</p></li>
 
 <li><p>PM McKeigue, J Carpenter, EJ Parra, MD Shriver (2000), &ldquo;Estimation of admixture and detection of linkage in admixed populations by a Bayesian approach: application to African-American populations&rdquo;, Annals of Human Genetics, 64:171-186.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4943,6 +4944,10 @@ this.page.identifier = &lsquo;admixmap&rsquo;; // Replace admixmap with your pag
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

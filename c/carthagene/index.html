@@ -4914,6 +4914,7 @@
 <li><p>Schiex,Gaspin, Proceedings of the International Conference on Intelligent Systems for Molecular Biology (ISMB) (1997).</p></li>
 
 <li><p>Givry, Bouchez, Chabrier, Milan, Schiex (2005), &ldquo;CARTHAGENE: multipopulation integrated genetic and radiation hybrid mapping&rdquo;, Bioinformatics, 21(8):1703-1704.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4929,6 +4930,10 @@ this.page.identifier = &lsquo;carthagene&rsquo;; // Replace carthagene with your
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

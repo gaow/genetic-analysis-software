@@ -4905,6 +4905,7 @@
 <li><p>Zhao, Li, Khalid (2003), &ldquo;A method for assessing disease associations with SNP haplotypes and environmental variables in case-control&rdquo;, American Journal of Human Genetics, 72(5):1231-1250</p></li>
 
 <li><p>Li, Khalid, Carlson, Zhao (2003), &ldquo;Estimating haplotype frequencies and standard errors for multiple single nucleotide polymorphisms&rdquo;, Biostatistics, 4:513-522.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4920,6 +4921,10 @@ this.page.identifier = &lsquo;hplus&rsquo;; // Replace hplus with your page&rsqu
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

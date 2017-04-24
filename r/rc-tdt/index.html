@@ -4906,6 +4906,7 @@
 <li><p>Knapp (1999b), &ldquo;Using exact P values to compare the power between the reconstruction-combined transmission/disequilibrium test and the sib transmission/disequilibrium test&rdquo; (letter), American Journal of Human Genetics, 65:1208-1210. [ html]</p></li>
 
 <li><p>Horvath, Laird, Knapp (2000), &ldquo;The transmission/disequilibrium test and parental-genotype reconstruction for X-chromosomal markers&rdquo;, American Journal of Human Genetics, 66(3):1161-1167. [ html]
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4921,6 +4922,10 @@ this.page.identifier = &lsquo;rc-tdt&rsquo;; // Replace rc-tdt with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

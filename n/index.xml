@@ -48,6 +48,7 @@
 &lt;li&gt;&lt;p&gt;Ott (1979), &amp;ldquo;Detection of rare major genes in lipid levels&amp;rdquo;, Human Genetics, 51:79-91.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;online user&amp;rsquo;s guide
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 /**&lt;/p&gt;
@@ -63,6 +64,10 @@ this.page.identifier = &amp;lsquo;nocom&amp;rsquo;; // Replace nocom with your p
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+// discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+   return;
 var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
 s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -116,6 +121,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Collins,Morton (1995), Human Heredity, 45:311-318.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -129,6 +135,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
@@ -164,6 +174,7 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;Lemire (2005), &amp;ldquo;A simple nonparametric multipoint procedure to test for linkage through mothers or fathers as well as imprinting effects in the presence of linkage&amp;rdquo;, BMC Genetics, 6(Suppl 1):S159.
+
 &lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
     /**
@@ -177,6 +188,10 @@ s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&amp;rsquo;t ever inject Disqus on localhost&amp;ndash;it creates unwanted
+        // discussions from &amp;lsquo;localhost:1313&amp;rsquo; on your Disqus account&amp;hellip;
+        if (window.location.hostname == &amp;ldquo;localhost&amp;rdquo;)
+           return;
         var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
         s.src = &amp;lsquo;//genetic-analysis-software.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());

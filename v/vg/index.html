@@ -4894,6 +4894,7 @@
 <li><p>Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&rdquo;, Nature Genetics, 19:233-240.</p></li>
 
 <li><p>Rieder, Taylor, Clark, Nickerson (1999), &ldquo;Sequence variation in the human angiotensin converting enzyme&rdquo;, Nature Genetics, 22:59-60.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4909,6 +4910,10 @@ this.page.identifier = &lsquo;vg&rsquo;; // Replace vg with your page&rsquo;s un
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

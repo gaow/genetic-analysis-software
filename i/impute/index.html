@@ -4898,6 +4898,7 @@
 <li><p>Marchini, Howie, Myers, McVean, Donnelly (2007), &ldquo;A new multipoint method for genome-wide association studies via imputation of genotypes&rdquo;, Nature Genetics, 39:906-913.</p></li>
 
 <li><p>Howie, Donnelly, Marchini (2009), &ldquo;A flexible and accurate genotype imputation method for the next generation of genome-wide association studies&rdquo;, PLoS Genetics, 5(6):e1000529
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4913,6 +4914,10 @@ this.page.identifier = &lsquo;impute&rsquo;; // Replace impute with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

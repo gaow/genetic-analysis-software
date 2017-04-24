@@ -4912,6 +4912,7 @@
 <li><p>Davis, Schroeder, Goldin, Weeks (1996), &ldquo;Nonparametric simulation-based statistics for detecting linkage in general pedigrees&rdquo;, American Journal of Human Genetics, 58(4):867-880</p></li>
 
 <li><p>online README file
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4927,6 +4928,10 @@ this.page.identifier = &lsquo;simibd&rsquo;; // Replace simibd with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

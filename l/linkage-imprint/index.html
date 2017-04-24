@@ -4915,6 +4915,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Shete and Zhou (2005), &ldquo;Parametric approach to genomic imprinting analysis with applications to Angelman&rsquo;s Syndrome&rdquo;, Human Heredity, 59:26-33.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4928,6 +4929,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4909,6 +4909,7 @@
 <li><p>K Strauch (2003), &ldquo;Parametric linkage analysis with automatic optimization of the disease model parameters&rdquo;. American Journal of Human Genetics 73(Suppl1):A2624.</p></li>
 
 <li><p>Dietter, Mattheisen, Fuerst, Rueschendorf, Wienker, Strauch (2007), &ldquo;Linkage analysis using sex-specific recombination fractions with GENEHUNTER-MODSCORE&rdquo;, Bioinformatics, 23(1):64-70.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4924,6 +4925,10 @@ this.page.identifier = &lsquo;genehunter-modscore&rsquo;; // Replace genehunter-
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

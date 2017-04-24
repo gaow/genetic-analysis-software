@@ -4916,6 +4916,7 @@
 <li><p>Sobel, Lange, O&rsquo;Connell and Weeks, in &ldquo;Genetic Mapping and DNA Sequencing&rdquo; (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).</p></li>
 
 <li><p>Weeks, Sobel, O&rsquo;Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4931,6 +4932,10 @@ this.page.identifier = &lsquo;haplo-1&rsquo;; // Replace haplo-1 with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4899,6 +4899,7 @@
 <li><p>Ritchie, Hahn, Roodi, Bailey, Dupont, Parl, Moore (2001), &ldquo;Multifactorial dimensionality reduction reveals high-order interactions among estrogen metabolism genes in sporadic breat cancer&rdquo;, American Journal of Human Genetics, 69:138-147.</p></li>
 
 <li><p>Moore, Gilbert, Tsai, Chiang, Holden, Barney, White (2006), &ldquo;A flexible computational framework for detecting, characterizing, and interpreting statistical patterns of epistasis in genetic studies of human disease susceptibility&rdquo;, Journal of Theoretical Biology, 241:252-261.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4914,6 +4915,10 @@ this.page.identifier = &lsquo;mdr&rsquo;; // Replace mdr with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

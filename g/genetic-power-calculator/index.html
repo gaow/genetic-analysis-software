@@ -4898,6 +4898,7 @@
 <li><p>Sham, Cherny, Purcell, Hewitt (2000), &ldquo;Power of linkage versus association analysis of quantitative traits, by use of variance-components models, for sibship data&rdquo;, American Journal of Human Genetics, 66(5):1616-1630</p></li>
 
 <li><p>Purcell, Cherny, Sham (2003), &ldquo;Genetic Power Calculator: design of linkage and association genetic mapping studies of complex traits&rdquo;, Bioinformatics, 19(1):149-150.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4913,6 +4914,10 @@ this.page.identifier = &lsquo;genetic-power-calculator&rsquo;; // Replace geneti
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

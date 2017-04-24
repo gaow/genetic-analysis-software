@@ -4908,6 +4908,7 @@
 <li><p>Ng, Henikoff (2003), &ldquo;SIFT: Predicting amino acid changes that affect protein function&rdquo;, Nucleic Acids Research, 31:3812-3814.</p></li>
 
 <li><p>Kumar, Henikoff, Ng (2009), &ldquo;Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm&rdquo;, Nature Protocols, 4:1073-1081.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4923,6 +4924,10 @@ this.page.identifier = &lsquo;sift&rsquo;; // Replace sift with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

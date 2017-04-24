@@ -4930,6 +4930,7 @@
 <li><p>Ehm, Cottingham, Kimmel (1995), J. Biological Systems, 3(1), 13-25.</p></li>
 
 <li><p>Ehm, Cottingham, Kimmel (1996), &ldquo;Error detection for genetic data, using likelihood methods&rdquo;, American Journal of Human Genetics, 58(1):225-234
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4945,6 +4946,10 @@ this.page.identifier = &lsquo;genocheck&rsquo;; // Replace genocheck with your p
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

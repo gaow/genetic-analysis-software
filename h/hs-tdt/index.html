@@ -4899,6 +4899,7 @@
 <li><p>Zhang, Sha, Chen, Dong, Jiang (2003), &ldquo;Transmission/disequilibrium test based on haplotype sharing for tightly linked markers&rdquo;, American Journal of Human Genetics, 73(3):566-579</p></li>
 
 <li><p>Zhang, Sha, Chen, Dong, Jiang (2004), &ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&rdquo; (letter), American Journal of Human Genetics, 74(3):591-593
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4914,6 +4915,10 @@ this.page.identifier = &lsquo;hs-tdt&rsquo;; // Replace hs-tdt with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

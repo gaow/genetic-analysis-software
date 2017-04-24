@@ -4907,6 +4907,7 @@
 <li><p>module USERM14: Stringham, Boehnke (1996), &ldquo;Identifying marker typing incompatibilities in linkage analysis&rdquo;, American Journal of Human Genetics, 59(4):946-950</p></li>
 
 <li><p>Lange, Cantor, Horvath, Perola, Sabatti, Sinsheimer, Sobel (2001), Am. J. Hum. Genet. 69(suppl), A1886.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4922,6 +4923,10 @@ this.page.identifier = &lsquo;mendel&rsquo;; // Replace mendel with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

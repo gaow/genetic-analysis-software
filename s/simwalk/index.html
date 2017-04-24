@@ -4923,6 +4923,7 @@
 <li><p>SIMWALK manual</p></li>
 
 <li><p>FAQ-O-MATIC: <a href="http://watson.hgen.pitt.edu/fom-serve/cache/20.html">http://watson.hgen.pitt.edu/fom-serve/cache/20.html</a>
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4938,6 +4939,10 @@ this.page.identifier = &lsquo;simwalk&rsquo;; // Replace simwalk with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

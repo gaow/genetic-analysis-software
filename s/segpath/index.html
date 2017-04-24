@@ -4889,6 +4889,7 @@
 <li><p>Province, Rao (1995), &ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&rdquo;, Genetic Epidemiology, 12(2):203-219.</p></li>
 
 <li><p>Province, Rice, Borecki, Gu, Kraja, Rao (2003), &ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&rdquo;, Genetic Epidemiology, 24(2):128-138.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4904,6 +4905,10 @@ this.page.identifier = &lsquo;segpath&rsquo;; // Replace segpath with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

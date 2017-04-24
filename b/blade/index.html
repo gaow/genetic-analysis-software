@@ -4898,6 +4898,7 @@
 <li><p>Liu, Sabatti, Teng, Keats, Risch (2001), &ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&rdquo;, Genome Research, 11:1716-1724.</p></li>
 
 <li><p>Lu, Niu, Liu (2003), &ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&rdquo;, Genome Research, 13:2112-2117.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4913,6 +4914,10 @@ this.page.identifier = &lsquo;blade&rsquo;; // Replace blade with your page&rsqu
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

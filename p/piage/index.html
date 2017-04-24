@@ -4915,6 +4915,7 @@
 <li><p>Gauderman (2002), &ldquo;Sample size requirements for matched case-control studies of gene-environment interaction&rdquo;, Statistics in Medicine, 21:35-50.</p></li>
 
 <li><p>Kraft, Yen, Stram, Morrison, Gauderman (2007), &ldquo;Exploiting gene-environment interaction to detect genetic associations&rdquo;, Human Heredity, 63:1141-1119.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4930,6 +4931,10 @@ this.page.identifier = &lsquo;piage&rsquo;; // Replace piage with your page&rsqu
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

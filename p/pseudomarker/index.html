@@ -4915,6 +4915,7 @@
 <li><p>Goring, Terwilliger (2000), &ldquo;Linkage analysis in the presence of errors IV: joint pseudomarker analysis of linkage and/or linkage disequilibrium on a mixture of pedigrees and singletons when the mode of inheritance cannot be accurately specified&rdquo;, American Journal of Human Genetics, 66(4):1310-1327</p></li>
 
 <li><p>Hiekkalinna, Schäffer, Lambert, Norrgrann, Göring, Terwilliger (2011), &ldquo;PSEUDOMARKER: a powerful program for joint linkage and/or linkage disequilibrium analysis on mixtures of singletons and related individuals&rdquo;, Human Heredity, 71:256-266
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4930,6 +4931,10 @@ this.page.identifier = &lsquo;pseudomarker&rsquo;; // Replace pseudomarker with 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

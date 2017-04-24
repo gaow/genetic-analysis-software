@@ -4910,6 +4910,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Obreiter, Fischer, Chang-Claude, Beckmann (2005), &ldquo;SDMinP: a program to control the family wise error rate using step-down minP adjusted p-values&rdquo;, Bioinformatics, 21(14):3183-3184.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4923,6 +4924,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

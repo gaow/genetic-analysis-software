@@ -4920,6 +4920,7 @@
 <li><p>MP Bass, ER Martin, ER Hauser(2002), Am J Hum Genet, suppl 71:569.</p></li>
 
 <li><p>MP Bass, ER Martin, ER Hauser (2004), &ldquo;Pedigree generation for analysis of genetic linkage and association&rdquo;, Proceedings of the Pacific Symposium on Biocomputing, pp.93-103.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4935,6 +4936,10 @@ this.page.identifier = &lsquo;simla&rsquo;; // Replace simla with your page&rsqu
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

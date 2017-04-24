@@ -4918,6 +4918,7 @@
 <li><p>Becker, Valentonyte, Croucher, Strauch, Schreiber, Hampe, Knapp (2006), &ldquo;Identification of probable genotyping errors by consideration of haplotypes&rdquo;, European Journal of Human Genetics, 14:450-8.</p></li>
 
 <li><p>Becker, Baur, Knapp (2006), &ldquo;Detection of parent-of-origin effects using haplotype analysis&rdquo;, Human Heredity, 62:64-76
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4933,6 +4934,10 @@ this.page.identifier = &lsquo;famhap&rsquo;; // Replace famhap with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4886,6 +4886,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&rdquo;, Annals of Human Genetics, 66:183-193.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4899,6 +4900,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

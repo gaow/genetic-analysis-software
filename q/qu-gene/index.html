@@ -4915,6 +4915,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Podlich, Cooper (1998), &ldquo;QU-GENE: a simulation platform for quantitative analysis of genetic models&rdquo;, Bioinformatics. 14:632-653. Online manual: <a href="http://pig.ag.uq.edu.au/qu-gene/manual.htm">http://pig.ag.uq.edu.au/qu-gene/manual.htm</a>
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4928,6 +4929,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

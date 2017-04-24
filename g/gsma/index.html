@@ -4910,6 +4910,7 @@
 <li><p>Wise et al. (1999), Annals of Human Genetics, 63:263-272.</p></li>
 
 <li><p>Levinson et al., (2003), American Journal of Human Genetics, 73(1):17-33
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4925,6 +4926,10 @@ this.page.identifier = &lsquo;gsma&rsquo;; // Replace gsma with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

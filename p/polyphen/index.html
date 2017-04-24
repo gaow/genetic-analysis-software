@@ -4895,6 +4895,7 @@
 <li><p>Ramensky, Bork, Sunyaev (2002), &ldquo;Human non-synonymous SNPs: server and survey&rdquo;, Nucleic Acids Research, 30:3894-3900.</p></li>
 
 <li><p>Adzhubei, Schmidt, Peshkin, Ramensky, Gerasimova, Bork, Kondrashov, Sunyaev (2010), &ldquo;A method and server for predicting damaging missense mutations&rdquo;, Nature Methods, 7:248-249.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4910,6 +4911,10 @@ this.page.identifier = &lsquo;polyphen&rsquo;; // Replace polyphen with your pag
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

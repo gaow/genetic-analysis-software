@@ -4915,6 +4915,7 @@
 <li><p>ER Hauser, M Boehnke, SW Guo, N Risch (1996), Genetics Epidemiology. 13:117-137.</p></li>
 
 <li><p>ER Hauser, M Boehnke M (1998), Biometrics, 54:1238-1246.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4930,6 +4931,10 @@ this.page.identifier = &lsquo;siblink&rsquo;; // Replace siblink with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

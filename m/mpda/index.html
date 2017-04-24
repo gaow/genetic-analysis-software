@@ -4929,6 +4929,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Yang, Huang, Li, Lin, Yu, Diccianni, Wu, Chen, Fann (2008), &ldquo;MPDA: Microarray Pooled DNA Analyzer&rdquo;, BMC Bioinformatics, 9:196.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4942,6 +4943,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

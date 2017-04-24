@@ -4891,6 +4891,7 @@
 <li><p>Gu, Rao (1997), &ldquo;A linkage strategy for detection of human quantitative-trait loci: I. Generalized relative risk ratios and power of sib pairs with extreme trait values&rdquo;,. American Journal of Human Genetics, 61(1):200-210</p></li>
 
 <li><p>Gu, Rao (1997), &ldquo;A linkage strategy for detection of human quantitative-trait loci: II. Optimization of study designs based on extreme sib pairs and generalized relative risk ratios&rdquo;, American Journal of Human Genetics, 61(1):211-222
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4906,6 +4907,10 @@ this.page.identifier = &lsquo;edac&rsquo;; // Replace edac with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

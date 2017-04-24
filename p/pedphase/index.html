@@ -4899,6 +4899,7 @@
 <li><p>Li, Jiang (2003), &ldquo;Effecient rule-based haplotyping algorithms for pedigree data&rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.197-206.</p></li>
 
 <li><p>Li, Jiang (2004), &ldquo; An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming&rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.101-110.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4914,6 +4915,10 @@ this.page.identifier = &lsquo;pedphase&rsquo;; // Replace pedphase with your pag
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4906,6 +4906,7 @@
 <h2 id="reference">Reference</h2>
 
 <p>Lemire (2006), &ldquo;SUP: An extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values&rdquo;, BMC Genetics, 7:40.
+
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -4919,6 +4920,10 @@
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+        // discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+        if (window.location.hostname == &ldquo;localhost&rdquo;)
+           return;
         var d = document, s = d.createElement(&lsquo;script&rsquo;);
         s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
         s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

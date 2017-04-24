@@ -4919,6 +4919,7 @@
 <li><p>Roy-Gagnon (2004), &ldquo;Theoretical and applied investigations of a Regression of Offspring on Mid-Parent approach: Familial idiopathic scoliosis&rdquo;, Ph.D. dissertaion. Johns Hopkins University.</p></li>
 
 <li><p>Pugh, Papanicolaou, Justice, Roy-Gagnon, Sorant, Kingman, Wilson (2001), &ldquo;Comparison of variance components, ANOVA and regression of offspring on midparent (ROMP) methods for SNP markers&rdquo;, Genetic Epidemiology, 21(Suppl 1):S794-S799.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4934,6 +4935,10 @@ this.page.identifier = &lsquo;romprev&rsquo;; // Replace romprev with your page&
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

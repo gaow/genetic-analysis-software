@@ -4920,6 +4920,7 @@
 <li><p>ER Hauser, MP Bass, ER Martin, RM Watanabe, WL Duren, M Boehnke (2001), Am J Hum Genet, suppl 69:529.</p></li>
 
 <li><p>ER Hauser, RM Watanabe, WL Duren, MP Bass, CD Langefeld, M Boehnke (2004), &ldquo;Ordered subset analysis in genetic linkage mapping of complex traits&rdquo;, Genetic Epidemiology, 27(1):53-63.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4935,6 +4936,10 @@ this.page.identifier = &lsquo;osa&rsquo;; // Replace osa with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

@@ -4902,6 +4902,7 @@
 <li><p>Balding (2003), &ldquo;Likelihood-based inference for genetic correlation coefficients&rdquo;, Theoretical Population Biology, 63:221-230</p></li>
 
 <li><p>Beaumont, Balding (2004), &ldquo;Identifying adaptive genetic divergence among populations from genome scans&rdquo;, Molecular Ecology, 13:969-980.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4917,6 +4918,10 @@ this.page.identifier = &lsquo;bayesfst&rsquo;; // Replace bayesfst with your pag
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

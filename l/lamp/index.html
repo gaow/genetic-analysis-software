@@ -4918,6 +4918,7 @@
 <li><p>Li, Boehnke, Abecasis (2006), &ldquo;Efficient study designs for test of genetic association using sibship data and unrelated cases and controls&rdquo;, American Journal of Human Genetics, 78(5):778-792</p></li>
 
 <li><p>Li, Boehnke, Abecasis (2005), &ldquo;Joint Modeling of Linkage and Association: Identifying SNPs Responsible for a Linkage Signal&rdquo;, American Journal of Human Genetics, 76(6):934-949
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4933,6 +4934,10 @@ this.page.identifier = &lsquo;lamp&rsquo;; // Replace lamp with your page&rsquo;
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

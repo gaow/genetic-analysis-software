@@ -4917,6 +4917,7 @@
 <li><p>Z Skrivanek, S Lin, ME Irwin (2003), &ldquo;Linkage Analysis with Sequential Imputation&rdquo;, Genetic Epidemiology, 25:25-35.</p></li>
 
 <li><p>S Lin, Z Skrivanek, M Irwin (2003), &ldquo;Haplotyping using SIMPLE - caution on ignoring interference&rdquo;, Genetic Epidemiology, 25:384-387.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4932,6 +4933,10 @@ this.page.identifier = &lsquo;simple&rsquo;; // Replace simple with your page&rs
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());

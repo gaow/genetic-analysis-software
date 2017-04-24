@@ -4909,6 +4909,7 @@
 <li><p>Li, Jiang, Ho, Song, Sham (2007), &ldquo;IGG: A tool to integrate GeneChips for genetic studies&rdquo;, Bioinformatics, 23(22):3105-3107.</p></li>
 
 <li><p>Li, Jiang, Kao, Sham, Song (2009), &ldquo;IGG3: a tool to rapidly integrate large genotype datasets for whole-genome imputation and individual-level meta-analysis&rdquo;, Bioinformatics, 25(11):1449-1450.
+
 <div id="disqus_thread"></div>
 <script>
 /**</p>
@@ -4924,6 +4925,10 @@ this.page.identifier = &lsquo;igg&rsquo;; // Replace igg with your page&rsquo;s 
 };
 */
 (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+// Don&rsquo;t ever inject Disqus on localhost&ndash;it creates unwanted
+// discussions from &lsquo;localhost:1313&rsquo; on your Disqus account&hellip;
+if (window.location.hostname == &ldquo;localhost&rdquo;)
+   return;
 var d = document, s = d.createElement(&lsquo;script&rsquo;);
 s.src = &lsquo;//genetic-analysis-software.disqus.com/embed.js&rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
 s.setAttribute(&lsquo;data-timestamp&rsquo;, +new Date());
