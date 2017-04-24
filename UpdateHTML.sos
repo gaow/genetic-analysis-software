@@ -6,6 +6,34 @@
 # and pushes the book to `gh-pages` branch
 
 parameter: data_dir = 'pages'
+parameter: disqus_tpl = '''
+{{< raw >}}
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = 'PAGE_URL';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'PAGE_IDENTIFIER'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don't ever inject Disqus on localhost--it creates unwanted
+        // discussions from 'localhost:1313' on your Disqus account...
+        if (window.location.hostname == "localhost")
+           return;
+        var d = document, s = d.createElement('script');
+        s.src = '//genetic-analysis-software.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{{< /raw >}}
+'''
 
 [default_1]
 # Download gh-pages branch
@@ -64,6 +92,7 @@ for k in contents:
         with open('website/content/{}/{}.md'.format(k.lower(), kk[1]), 'w') as f:
              f.write('---\ntitle: {}\nweight: 15\ntoc: true\n---\n\n'.format(kk[0]))
              f.write(contents[k][kk])
+             f.write('''${disqus_tpl}'''.replace('PAGE_URL', 'http://gaow.github.io/genetic-analysis-software/{}/{}'.format(k.lower(), kk[1])).replace('PAGE_IDENTIFIER', kk[1]))
 
 with open('website/content/0/_index.md', 'w') as f:
      f.write('+++\nweight = 0\ntitle = "Genetic Analysis Software"\n+++\n\n')

@@ -5,7 +5,7 @@
 | [R](../../r) 	| [S](../../s) 	| [T](../../t) 	| [U](../../u) 	| [V](../../v) 	| [W](../../w) 	| [X](../../x) 	| [Y](../../y) 	| [Z](../../z)  	|
 
 ## Scope
-This page, historically known as the "Rockefeller list", is a list of computer programs for genetics analysis, including but not limiting to topics of:
+This page, historically known as the "Alphabetic List of Genetic Analysis Software", or the "Rockefeller list", is a list of computer programs for genetics analysis, including but not limiting to topics of:
 
 * Genetic linkage analysis for human pedigree data
 * QTL analysis for animal/plant breeding data
