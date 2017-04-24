@@ -36,7 +36,27 @@
 
 &lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
 
-&lt;p&gt;Java&lt;/p&gt;
+&lt;p&gt;Java
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -64,7 +84,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Falchi, Fuchsberger (2008), &amp;ldquo;Jenti: an efficient tool for mining complex inbred genealogies&amp;rdquo;, Bioinformatics, 24(5):724-726.&lt;/p&gt;
+&lt;p&gt;Falchi, Fuchsberger (2008), &amp;ldquo;Jenti: an efficient tool for mining complex inbred genealogies&amp;rdquo;, Bioinformatics, 24(5):724-726.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -118,7 +158,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Carter, McCaskie, Palmer (2006), &amp;ldquo;JLIN: A java based linkage disequilibrium plotter&amp;rdquo;, BMC Bioinformatics, 7:60.&lt;/p&gt;
+&lt;p&gt;Carter, McCaskie, Palmer (2006), &amp;ldquo;JLIN: A java based linkage disequilibrium plotter&amp;rdquo;, BMC Bioinformatics, 7:60.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -166,7 +226,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;JW Van Ooijen, RE Voorrips (2001), &amp;ldquo;JoinMap &amp;trade; 3.0: Software for the calculation of genetic linkage maps&amp;rdquo;, Plant Research International, Wageningen, Netherlands; Stam (1993), The Plant Journal, 3, 739-744.&lt;/p&gt;
+&lt;p&gt;JW Van Ooijen, RE Voorrips (2001), &amp;ldquo;JoinMap &amp;trade; 3.0: Software for the calculation of genetic linkage maps&amp;rdquo;, Plant Research International, Wageningen, Netherlands; Stam (1993), The Plant Journal, 3, 739-744.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -210,7 +290,27 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;GENEPI.JAR&lt;/p&gt;
+&lt;p&gt;GENEPI.JAR
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -46,7 +46,27 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK&lt;/p&gt;
+&lt;p&gt;BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -100,7 +120,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;manual (version 5, PDF) online manual (version 4) (from Wellcome Trust)&lt;/p&gt;
+&lt;p&gt;manual (version 5, PDF) online manual (version 4) (from Wellcome Trust)
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -132,7 +172,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.&lt;/p&gt;
+&lt;p&gt;Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -164,7 +224,27 @@
 
 &lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
 
-&lt;p&gt;price&lt;/p&gt;
+&lt;p&gt;price
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -200,7 +280,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Zamer, Tripp, Ellis, Daley (2009), &amp;ldquo;Path: a tool to facilitate pathway-based genetic association analysis&amp;rdquo;, Bioinformatics, 25(18):2444-2446.&lt;/p&gt;
+&lt;p&gt;Zamer, Tripp, Ellis, Daley (2009), &amp;ldquo;Path: a tool to facilitate pathway-based genetic association analysis&amp;rdquo;, Bioinformatics, 25(18):2444-2446.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -240,7 +340,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.&lt;/p&gt;
+&lt;p&gt;Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -280,7 +400,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.&lt;/p&gt;
+&lt;p&gt;Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -328,7 +468,27 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;FBAT&lt;/p&gt;
+&lt;p&gt;FBAT
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -368,7 +528,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.&lt;/p&gt;
+&lt;p&gt;Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -412,7 +592,27 @@
 
 &lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
 
-&lt;p&gt;pdpsys&lt;/p&gt;
+&lt;p&gt;pdpsys
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -452,7 +652,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Martin, Monks, Warren, Kaplan (2000), American Journal of Human Genetics, 67(1):146-154&lt;/p&gt;
+&lt;p&gt;Martin, Monks, Warren, Kaplan (2000), American Journal of Human Genetics, 67(1):146-154
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -514,7 +734,27 @@
 
 &lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
 
-&lt;p&gt;site license US$99.&lt;/p&gt;
+&lt;p&gt;site license US$99.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -554,7 +794,27 @@
 
 &lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
 
-&lt;p&gt;pedagree&lt;/p&gt;
+&lt;p&gt;pedagree
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -597,7 +857,30 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;FAQ-O-MATIC: &lt;a href=&#34;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&#34;&gt;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;FAQ-O-MATIC: &lt;a href=&#34;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&#34;&gt;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&lt;/a&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+/**&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.&lt;/li&gt;
+&lt;li&gt;LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+&lt;em&gt;/
+/&lt;/em&gt;
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+};
+*/
+(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -642,7 +925,27 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;PEDPACK in PANGAEA&lt;/p&gt;
+&lt;p&gt;PEDPACK in PANGAEA
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     

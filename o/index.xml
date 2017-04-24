@@ -48,7 +48,27 @@
 
 &lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
 
-&lt;p&gt;any platform with Java 1.6 or later&lt;/p&gt;
+&lt;p&gt;any platform with Java 1.6 or later
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -64,7 +84,27 @@
 
 &lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
 
-&lt;p&gt;R/ONEMAP&lt;/p&gt;
+&lt;p&gt;R/ONEMAP
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -121,7 +161,30 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;ER Hauser, MP Bass, ER Martin, RM Watanabe, WL Duren, M Boehnke (2001), Am J Hum Genet, suppl 69:529.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;ER Hauser, RM Watanabe, WL Duren, MP Bass, CD Langefeld, M Boehnke (2004), &amp;ldquo;Ordered subset analysis in genetic linkage mapping of complex traits&amp;rdquo;, Genetic Epidemiology, 27(1):53-63.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ER Hauser, RM Watanabe, WL Duren, MP Bass, CD Langefeld, M Boehnke (2004), &amp;ldquo;Ordered subset analysis in genetic linkage mapping of complex traits&amp;rdquo;, Genetic Epidemiology, 27(1):53-63.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+/**&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.&lt;/li&gt;
+&lt;li&gt;LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+&lt;em&gt;/
+/&lt;/em&gt;
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+};
+*/
+(function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -158,7 +221,27 @@
 
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
-&lt;p&gt;Bonis, Furlong, Sanz (2006), &amp;ldquo;OSIRIS: a tool for retrieving literature about sequence variants&amp;rdquo;, Bioinformatics, 22(20):2567-2569.&lt;/p&gt;
+&lt;p&gt;Bonis, Furlong, Sanz (2006), &amp;ldquo;OSIRIS: a tool for retrieving literature about sequence variants&amp;rdquo;, Bioinformatics, 22(20):2567-2569.
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: &lt;a href=&#34;https://disqus.com/admin/universalcode/#configuration-variables&#34;&gt;https://disqus.com/admin/universalcode/#configuration-variables&lt;/a&gt;
+     &lt;em&gt;/
+    /&lt;/em&gt;
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&amp;rsquo;s canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&amp;rsquo;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement(&amp;lsquo;script&amp;rsquo;);
+        s.src = &amp;lsquo;//gaotwang.disqus.com/embed.js&amp;rsquo;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&amp;lsquo;data-timestamp&amp;rsquo;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 </description>
     </item>
     
