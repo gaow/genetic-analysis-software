@@ -2,54 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>X on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/x/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/x/</link>
     <description>Recent content in X on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/x/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/x/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>X1. XX</title>
+      <title>XX</title>
       <link>https://gaow.github.io/genetic-analysis-software/x/xx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/x/xx/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full name&lt;/h2&gt;
-
-&lt;p&gt;There is currently no software registered
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/x/xx&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/x/xx with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;xx&#39;; // Replace xx with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full name There is currently no software registered   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/x/xx&#39;; // Replace http://gaow.github.io/genetic-analysis-software/x/xx with your page&#39;s canonical URL variable this.page.identifier = &#39;xx&#39;; // Replace xx with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
   </channel>

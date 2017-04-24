@@ -2,1056 +2,1008 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/p/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/p/</link>
     <description>Recent content in P on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/p/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/p/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>P1. P_ACT</title>
+      <title>P_ACT</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/p_act/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/p_act/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;P-values: Adjustment for Correlated Tests&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;P_ACT is an R program that adjusts sets of up to 1000 p-values from association tests between correlated traits and SNPs for multiple testing, accounting for the correlation between tests.&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://csg.sph.umich.edu/boehnke/p_act.php&#34;&gt;http://csg.sph.umich.edu/boehnke/p_act.php&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Conneely, Boehnke (2007), &amp;ldquo;So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests&amp;rdquo;, American Journal of Human Genetics, 81(6):1158-1168
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/p_act&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/p_act with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;p_act&#39;; // Replace p_act with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name P-values: Adjustment for Correlated Tests
+Version 1.2
+Description P_ACT is an R program that adjusts sets of up to 1000 p-values from association tests between correlated traits and SNPs for multiple testing, accounting for the correlation between tests.
+URL http://csg.sph.umich.edu/boehnke/p_act.php
+Reference Conneely, Boehnke (2007), &amp;ldquo;So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests&amp;rdquo;, American Journal of Human Genetics, 81(6):1158-1168   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>P2. PANGAEA</title>
+      <title>PANGAEA</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pangaea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pangaea/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Pedigree ANalysis for Genetics (And Epidemiological Attributes)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Collection of nine packages for genetic analysis&lt;/p&gt;
-
-&lt;p&gt;The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C or C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX (Compaq, Solaris, and others), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;BOREL, ECLIPSE, HARDY, INSEGT, LOKI, MCLEEPS, MORGAN, PEDFIDDLER, PEDPACK
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pangaea&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pangaea with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pangaea&#39;; // Replace pangaea with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree ANalysis for Genetics (And Epidemiological Attributes)
+Description Collection of nine packages for genetic analysis
+The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
+Author many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).
+URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
+Language C or C++
+OS UNIX (Compaq, Solaris, and others), Linux</description>
     </item>
     
     <item>
-      <title>P3. PAP</title>
+      <title>PAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Pedigree Analysis Package&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;6.0 (December 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;it can perform (1) compute the likelihood of specified parameter values; (2) compute the probability of each genotype for pedigree members; (3) simulate phenotypes for output into files; (4) maximize the likelihood over specified parameters (with or without standard errors); (5) compute the standard errors of parameters for unknown estimates; (6) simulate phenotypes and estimate parameter values; (7) estimate expected lod score; (8) compute a grid of likelihood over one or two parameters. New additions to V5: assortative mating; TDT; additive multi-locus models&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Sandra Hasstedt (University of Utah, email: sandy@genetics.utah.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Peter Cartwright contributed to versions 2&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;3; many others contributed to version 1 (University of Utah)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://hasstedt.genetics.utah.edu/&#34;&gt;http://hasstedt.genetics.utah.edu/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN 77&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;preped, descstat, prepap,simul, papdr (with 8 options),gpe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;manual (version 5, PDF) online manual (version 4) (from Wellcome Trust)
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pap&#39;; // Replace pap with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree Analysis Package
+Version 6.0 (December 2006)
+Description it can perform (1) compute the likelihood of specified parameter values; (2) compute the probability of each genotype for pedigree members; (3) simulate phenotypes for output into files; (4) maximize the likelihood over specified parameters (with or without standard errors); (5) compute the standard errors of parameters for unknown estimates; (6) simulate phenotypes and estimate parameter values; (7) estimate expected lod score; (8) compute a grid of likelihood over one or two parameters.</description>
     </item>
     
     <item>
-      <title>P4. PARENTE</title>
+      <title>PARENTE</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/parente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/parente/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2 (February 2003)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;parentage inference using molecular data from diploid codominant markers&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Stephanie Blanc-Manel (email: stephanie.manel@ujf-grenoble.fr)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www2.ujf-grenoble.fr/leca/membres/manel.html&#34;&gt;http://www2.ujf-grenoble.fr/leca/membres/manel.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/parente&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/parente with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;parente&#39;; // Replace parente with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (February 2003)
+Description parentage inference using molecular data from diploid codominant markers
+Author Stephanie Blanc-Manel (email: stephanie.manel@ujf-grenoble.fr)
+URL http://www2.ujf-grenoble.fr/leca/membres/manel.html
+Reference Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
-      <title>P5. PASS PEDIGREE</title>
+      <title>PASS PEDIGREE</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pass-pedigree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pass-pedigree/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;PASS Pedigree is drawing the most complex family trees in a matter of minutes instead of hours of work. The basis of this is an algorithm for automatically builing a family tree. Of course, manual adjustments in the family tree can be made for your specific requirements. PASS Pedigree meets all international conventions concerning the drawing of pedigrees. A converter can convert historical Cyrillic pedigrees automatically to PASS Pedigree. Unlike before, all your family trees are stored in one single database. PASS Pedigree can intelligently connect to many genetic centers (e.g. three genetic centers in the Netherlands) with the existing patient information, via the lab system HELIX based on HL7 techniques.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;PASS (Pro Active Software Solutions) Software&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.pass-software.com/Producten/PASSPedigree.aspx&#34;&gt;http://www.pass-software.com/Producten/PASSPedigree.aspx&lt;/a&gt; (in Dutch)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.pass-software.com/Producten/PASSPedigree/tabid/113/language/en-US/Default.aspx&#34;&gt;http://www.pass-software.com/Producten/PASSPedigree/tabid/113/language/en-US/Default.aspx&lt;/a&gt; (in English)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
-
-&lt;p&gt;price
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pass-pedigree&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pass-pedigree with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pass-pedigree&#39;; // Replace pass-pedigree with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description PASS Pedigree is drawing the most complex family trees in a matter of minutes instead of hours of work. The basis of this is an algorithm for automatically builing a family tree. Of course, manual adjustments in the family tree can be made for your specific requirements. PASS Pedigree meets all international conventions concerning the drawing of pedigrees. A converter can convert historical Cyrillic pedigrees automatically to PASS Pedigree.</description>
     </item>
     
     <item>
-      <title>P6. PATH</title>
+      <title>PATH</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/path/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/path/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0.7 (September 28, 2009)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The Path web application is a first-step bioinformatics approach to investigate gene-gene interactions in genetic association studies. Path is designed to do: 1. Interface your SNP data with biological information from several online bioinformatics databases. 2. Generate biologically plausible hypotheses for testing gene-gene interactions. 3. Select a subset of SNPs and conduct SNP-SNP interaction tests. 4. Store analysis results. 5. Explore analysis results through interactive plots and summary tables.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;email: genapha@mrl.ubc.ca&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://genapha.icapture.ubc.ca/PathTutorial/&#34;&gt;http://genapha.icapture.ubc.ca/PathTutorial/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Zamer, Tripp, Ellis, Daley (2009), &amp;ldquo;Path: a tool to facilitate pathway-based genetic association analysis&amp;rdquo;, Bioinformatics, 25(18):2444-2446.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/path&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/path with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;path&#39;; // Replace path with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.7 (September 28, 2009)
+Description The Path web application is a first-step bioinformatics approach to investigate gene-gene interactions in genetic association studies. Path is designed to do: 1. Interface your SNP data with biological information from several online bioinformatics databases. 2. Generate biologically plausible hypotheses for testing gene-gene interactions. 3. Select a subset of SNPs and conduct SNP-SNP interaction tests.</description>
     </item>
     
     <item>
-      <title>P7. PAWE</title>
+      <title>PAWE</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pawe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pawe/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Power for Association With Error&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;Dec 2002&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Power and sample size calculations for genetic case-control association studies allowing for errors&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Derek Gordon (email: gordon@linkage.rockefeller.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;assisted by Michael Nothnagel&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://linkage.rockefeller.edu/pawe/&#34;&gt;http://linkage.rockefeller.edu/pawe/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pawe&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pawe with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pawe&#39;; // Replace pawe with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Power for Association With Error
+Version Dec 2002
+Description Power and sample size calculations for genetic case-control association studies allowing for errors
+Author  Derek Gordon (email: gordon@linkage.rockefeller.edu)
+ assisted by Michael Nothnagel
+  URL http://linkage.rockefeller.edu/pawe/
+Reference Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>P8. PAWE-3D</title>
+      <title>PAWE-3D</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pawe-3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pawe-3d/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Power for Association With Error in 3D&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;D Gordon&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;C Haynes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;J Blumenfeld&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;SJ Finch&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://linkage.rockefeller.edu/pawe3d/&#34;&gt;http://linkage.rockefeller.edu/pawe3d/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;web-based&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pawe-3d&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pawe-3d with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pawe-3d&#39;; // Replace pawe-3d with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Power for Association With Error in 3D
+Author  D Gordon
+ C Haynes
+ J Blumenfeld
+ SJ Finch
+  URL http://linkage.rockefeller.edu/pawe3d/
+OS web-based
+Reference Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>P9. PBAT</title>
+      <title>PBAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pbat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pbat/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Power calculation of family-Based Association Tests&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;3.6.1&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;PBAT is an interactive software package that provides tools for the design and the data analysis of family-based association studies.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Christoph Lange (email: clange@hsph.harvard.edu) (Harvard Univ).&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.biostat.harvard.edu/~clange/default.htm&#34;&gt;http://www.biostat.harvard.edu/~clange/default.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the noninformative families in family-based association tests: A powerful new testing strategy&amp;rdquo;, American Journal of Human Genetics, 73(4):801-811&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lange, DeMeo, Silverman, Weiss, Laird (2004), &amp;ldquo;PBAT: tools for family-based association studies&amp;rdquo;, American Journal of Human Genetics, 74(2):367-369&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Steen, Lange (2005), &amp;ldquo;PBAT: A comprehensive software package for genome-wide association analysis of complex family-based studies&amp;rdquo;, Human Genomics, 2(1):67-69.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hoffmann, Lange (2006), &amp;ldquo;P2BAT: a massive parallel implementation of PBAT for genome-wide association studies in R&amp;rdquo;, Bioinformatics, 22:3103-3105.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;FBAT
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pbat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pbat with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pbat&#39;; // Replace pbat with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Power calculation of family-Based Association Tests
+Version 3.6.1
+Description PBAT is an interactive software package that provides tools for the design and the data analysis of family-based association studies.
+Author Christoph Lange (email: clange@hsph.harvard.edu) (Harvard Univ).
+URL http://www.biostat.harvard.edu/~clange/default.htm
+Reference  Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the noninformative families in family-based association tests: A powerful new testing strategy&amp;rdquo;, American Journal of Human Genetics, 73(4):801-811</description>
     </item>
     
     <item>
-      <title>P10. PDA</title>
+      <title>PDA</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pda/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Pooled DNA Analyzer&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a tool for analyses of pooled DNA data&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Hsin-Chou Yang&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chia-Ching Pan&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chin-Yu Lin&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&#34;&gt;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pda&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pda with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pda&#39;; // Replace pda with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pooled DNA Analyzer
+Description a tool for analyses of pooled DNA data
+Author  Hsin-Chou Yang
+ Chia-Ching Pan
+ Chin-Yu Lin
+ Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)
+  URL http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
+Reference Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>P11. PDPSYS</title>
+      <title>PDPSYS</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pdpsys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pdpsys/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Pedigree Data Processing SYStem&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (November 1998)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;PDPSys is a Windows-based system designed for pedigree data management, providing a graphical interface for pedigree construction and output.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Fil Quiaoit (Fred Hutchinson Cancer Research Center, email: fquiaoit@fhcrc.org)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cougar.fhcrc.org/software.php&#34;&gt;http://cougar.fhcrc.org/software.php&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Visual Basic, MS-Access&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (95)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;pdpsys
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pdpsys&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pdpsys with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pdpsys&#39;; // Replace pdpsys with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree Data Processing SYStem
+Version 1.0 (November 1998)
+Description PDPSys is a Windows-based system designed for pedigree data management, providing a graphical interface for pedigree construction and output.
+Author Fil Quiaoit (Fred Hutchinson Cancer Research Center, email: fquiaoit@fhcrc.org)
+URL http://cougar.fhcrc.org/software.php
+Language Visual Basic, MS-Access
+OS MS-Windows (95)
+EXE pdpsys   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>P12. PDT</title>
+      <title>PDT</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pdt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pdt/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;pedigree disequilibrium test&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;5.1&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The PDT analysis program allows the user to evaluate evidence of linkage disequilibrium (LD) in general pedigree data. All family data may be used without nullifying the validity of the association test, even when there is more than one affected in a family. The PDT program performs both allele-specific and genotype-specific LD analysis of individual markers. Version 5.1 adds the ability to perform genotype-specific analysis over marker sets.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Eden Martin (Duke Univ)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.chg.duke.edu/software/pdt.html&#34;&gt;http://www.chg.duke.edu/software/pdt.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Martin, Monks, Warren, Kaplan (2000), American Journal of Human Genetics, 67(1):146-154
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pdt&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pdt with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pdt&#39;; // Replace pdt with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name pedigree disequilibrium test
+Version 5.1
+Description The PDT analysis program allows the user to evaluate evidence of linkage disequilibrium (LD) in general pedigree data. All family data may be used without nullifying the validity of the association test, even when there is more than one affected in a family. The PDT program performs both allele-specific and genotype-specific LD analysis of individual markers.</description>
     </item>
     
     <item>
-      <title>P13. PED</title>
+      <title>PED</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/ped/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/ped/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;PEdigree Drawing software&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;5.1.0 (October 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Powerful pedigree drawing program with two drawing modes: Input mode for fast and automatic drawing; edit mode for text annotations, legends, special symbols. Both input and edit mode provide auto numbering, auto resizing of symbols and fonts, and zooming. PED 4.2a complies with the &amp;ldquo;Recommendations for standardized human pedigree nomenclature&amp;rdquo;. Apart from fully sizeable printed output, pedigrees can be exported as metafiles to virtually any Windows word processor or drawing program.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Hansjoerg Plendl (email: plendl@medgen.uni-kiel.de)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.medgen.de/index.html&#34;&gt;http://www.medgen.de/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.medgen.de/ped/index.htm&#34;&gt;http://www.medgen.de/ped/index.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Visual Smalltalk&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (95/98/NT)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;ped.exe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Bennet, Steinhaus, Uhrich, O&amp;rsquo;Sullivan, Resta, Lochner-Doyle, Markel, Vincent, Hamanishi(1995), &amp;ldquo;Recommendations for standardized human pedigree nomenclature. pedigree standardization task force of the national society of genetic counselors&amp;rdquo;, American Journal of Human Genetics, 56(3):745-752&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A Golla (1997), Medizinische Genetik, 4:595-597.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;H Plendl (1998), Medizinische Genetik, 1:50-51.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
-
-&lt;p&gt;site license US$99.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/ped&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/ped with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ped&#39;; // Replace ped with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PEdigree Drawing software
+Version 5.1.0 (October 2006)
+Description Powerful pedigree drawing program with two drawing modes: Input mode for fast and automatic drawing; edit mode for text annotations, legends, special symbols. Both input and edit mode provide auto numbering, auto resizing of symbols and fonts, and zooming. PED 4.2a complies with the &amp;ldquo;Recommendations for standardized human pedigree nomenclature&amp;rdquo;. Apart from fully sizeable printed output, pedigrees can be exported as metafiles to virtually any Windows word processor or drawing program.</description>
     </item>
     
     <item>
-      <title>P14. PEDAGREE</title>
+      <title>PEDAGREE</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pedagree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedagree/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.00 (February 2002)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a program for detecting autosomal marker Mendelian incompatibilities in pedigree data&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Christine Couillault (email: kristin.c@free.fr)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://pedagree.free.fr/&#34;&gt;http://pedagree.free.fr/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C, C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux, MS-Windows, MS-DOS,&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;pedagree
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pedagree&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pedagree with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pedagree&#39;; // Replace pedagree with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.00 (February 2002)
+Description a program for detecting autosomal marker Mendelian incompatibilities in pedigree data
+Author Christine Couillault (email: kristin.c@free.fr)
+URL http://pedagree.free.fr/
+Language C, C++
+OS UNIX, Linux, MS-Windows, MS-DOS,
+EXE pedagree   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
-      <title>P15. PEDCHECK</title>
+      <title>PEDCHECK</title>
       <link>https://gaow.github.io/genetic-analysis-software/p/pedcheck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedcheck/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (November 1998)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;identifying all Mendelian inconsistencies in pedigree data.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;J. R. O&amp;rsquo;Connell (email: jeff@sherlock.hgen.pitt.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register&#34;&gt;http://watson.hgen.pitt.edu/register&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C, C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(SunOS/Solaris/Compaq-Alpha/SGI-IRIX/..)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;FAQ-O-MATIC: &lt;a href=&#34;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&#34;&gt;http://watson.hgen.pitt.edu/fom-serve/cache/8.html&lt;/a&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pedcheck&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/p/pedcheck with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;pedcheck&#39;; // Replace pedcheck with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0 (November 1998)
+Description identifying all Mendelian inconsistencies in pedigree data.
+Author J. R. O&amp;rsquo;Connell (email: jeff@sherlock.hgen.pitt.edu)
+URL http://watson.hgen.pitt.edu/register
+Language C, C++
+OS UNIX(SunOS/Solaris/Compaq-Alpha/SGI-IRIX/..)
+Reference  Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266</description>
+    </item>
+    
+    <item>
+      <title>PEDFIDDLER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedfiddler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedfiddler/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.5 (August 2005)
+Description This suite of six programs can be used as a stand-alone extension of the pedigree drawing facilities found in the publicly available version of PEDPACK.
+Author  J C. Loredo-Osti (email: josti@bagel.epi.mcgill.ca)
+ Kenneth Morgan (email: ken@bagel.epi.mcgill.ca); Window version adapted by Michael Li (email:lina@u.washington.edu).
+  URL http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml
+Language C,C++
+OS UNIX (OSF1, and Solaris 2.</description>
+    </item>
+    
+    <item>
+      <title>PEDHUNTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedhunter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedhunter/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a software package that facilitates creation and verification of pedigrees within large genealogies.
+Author  Agarwala
+ Biesecker
+ Hopkins
+ Francomano
+ Schffer (NIH)
+  URL http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/pedhunter.html
+Reference Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), &amp;ldquo;Software for constructing and verifying pedigrees within large genealogies and an application to the Old Order Amish of Lancaster county&amp;rdquo;, Genome Research, 8:211-221.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDIGRAPH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedigraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedigraph/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.3
+Description A pedigree visualization program specifically designed to draw large, complex pedigrees.
+Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu)
+ Yang Da (University of Minnesota, email: yda@umn.edu)
+  URL http://animalgene.umn.edu/pedigraph/
+Language C,C++
+OS MS-Windows, Linux
+EXE pedigraph
+Reference J Garbe, Y Da (2003), Pedigraph user manual Version 1.1. Department of Animal Science, University of Minnesota.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDIGREE-VISUALIZER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author Limsoon Wong (National University of Singapore, Singapore)
+URL http://research.i2r.a-star.edu.sg:8080/kleisli/demos/pedigree/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer&#39;; // Replace http://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer with your page&#39;s canonical URL variable this.</description>
+    </item>
+    
+    <item>
+      <title>PEDIGREE/DRAW</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedigreedraw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedigreedraw/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 6
+Description pedigree drawing
+Author  Bennett Dyke (email: bdyke@darwin.sfbr.org)
+ Paul Mamelka (contact person, email: paul@darwin.sfbr.org)
+ J. MacCleur
+ Southwest Foundation for Biomedical Research
+  URL  http://www.pedigree-draw.com/
+ ftp://www.sfbr.org/pub/pedmgt/peddrw
+  OS MacOS
+EXE PedDraw
+Reference Am Soc Hum Genet annual meeting 1987 (Dyke, Mamelka, Am J. Hum Genet, suppl 41, A253 (1987))
+Availability disk and user&amp;rsquo;s guide: US$45; user&amp;rsquo;s guide: US$20; upgrade for disk: US$15;   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDIGREEQUERY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedigreequery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedigreequery/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description allows drawing pedigrees with a difficult structure, those containing consanguinity loops, and those individuals with multiple mates or several related families
+Author A Kirichenko
+URL  http://mga.bionet.nsc.ru/soft/index.html
+ http://mga.bionet.nsc.ru/PedigreeQuery/PedigreeQuery.html (in Russian)
+  Reference A Kirichenko (2003), &amp;ldquo;PedigreeQuery - software for pedigree drawing&amp;rdquo; (abstract), American Journal of Human Genetics, suppl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDJAVA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedjava/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedjava/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PedJava
+Version 1.1
+Description Allows pedigree entry and retrieval from an internet browser into a distant MS ACCESS database. Includes IP access restriction, automatic numbering of families and individuals and database consistency checks.
+Author  Matthias Wjst (email: wjst@gsf.de)
+ Juergen Knauth (email: woodoo@bigfoot.de)
+  URL http://cooke.gsf.de/wjst/download.cfm
+Language JDK
+OS no restriction for client, server WIN 95/NT</description>
+    </item>
+    
+    <item>
+      <title>PEDMANAGER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedmanager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedmanager/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Other Name MAPMAKER/PEDMANAGER
+Version 0.9 (1997)
+Author Mary Pat Daly (previously Mary Pat Reeve) (MIT/Whitehead)
+URL http://www-genome.wi.mit.edu/ftp/distribution/software/pedmanager/
+Language C
+OS UNIX
+EXE pedprep   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>PEDPACK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedpack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedpack/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version Version 2.2, July 1996
+Description Programs for pedigree analysis, including segregation analysis, gene extinction, and pedigree graphics.
+Author  A.W. Thomas (Versions 1.0, 3.0, 3.1)
+ E.A. Thompson (University of Washington, email: thompson@stat.washington.edu)
+ C.J. Geyer (University of Minnesota, email: charlie@stat.umn.edu)
+  URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
+Language C
+OS UNIX(Compaq-Alpha/..)
+Reference  Thomas, IMA J. Math Appl Med Biol, 5, 210-213 (1988)</description>
+    </item>
+    
+    <item>
+      <title>PEDPEEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedpeel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedpeel/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description The program prepares pedigree data for calculation of Elston-Stewarts&amp;rsquo; likelihood function. It finds an optimal way to peel a pedigree and returns text file containing 7 description arrays
+Author  Nadezhda Belonogova (email: adg101@mail.ru)
+ Tatiana I. Axenovich
+  URL http://mga.bionet.nsc.ru/soft/pedpeel/
+Reference Belonogova, Axenovich (2007), &amp;ldquo;Optimal peeling order for pedigrees with incomplete genotypic information&amp;rdquo;, Computational Biology and Chemistry , 31(3):173-177.</description>
+    </item>
+    
+    <item>
+      <title>PEDPHASE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedphase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedphase/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description inferring haplotypes from genotypes on pedigree data
+Author Jing Li(email: jingli@eecs.cwru.edu)
+URL http://vorlon.case.edu/~jxl175/haplotyping.html
+OS MS-Windows
+Reference  Li, Jiang (2003), &amp;ldquo;Effecient rule-based haplotyping algorithms for pedigree data&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.197-206.
+ Li, Jiang (2004), &amp;ldquo; An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.</description>
+    </item>
+    
+    <item>
+      <title>PEDPLOT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedplot/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Pedigree Plotting Program for the Pedfile Format
+Author  JE Stajich (email: jason@chg.mc.duke.edu)
+ C Haynes (email: carol@chgd.mc.duke.edu)
+ MA Pericak-Vance (Duke University Medical Center)
+  URL http://www.chg.duke.edu/software/pedplot.html
+Language C++, Postscript
+OS UNIX(Sparc-Solaris 2.5/DEC UNIX 4.0/x86-Solaris 2.6)
+EXE pedplot
+Reference Am Soc Hum Genet annual meeting 1998 (Stajich, Haynes, Pericak-Vance, Am J Hum Genet, suppl, 63,A242).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDRAW/WPEDRAW</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedrawwpedraw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedrawwpedraw/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window version of PEDRAW)
+Version 2.5
+Description a pedigree drawing program using LINKAGE data files
+Author Dave Curtis (email: dcurtis@hgmp.mrc.ac.uk)
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+ ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+  Language C++
+OS MS-DOS, MS-Windows, X-window
+Reference Curtis (1990), Annals of Human Genetics, 54:365-367.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PEDSCRIPT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedscript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedscript/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2004 (not actively maintained)
+Description PedScript is a tool that allows scripting of simple modifications to pedigree files.
+URL http://genome.sph.umich.edu/wiki/PedScript
+EXE anonymize, mendelcheck, nuke, trim, sample   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>PEDSTATS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedstats/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.6.8
+Description PEDSTATS does error checking and data summary of large or small data sets in QTDT, LINKAGE or MENDEL format. Checks for basic formatting errors, disconnected family groups, ancestor-descendant loops and can detect all Mendelian (including X-linked) inheritance errors in any pedigree without loops. Produces text and graphical (PDF) summaries of the family structure, trait and marker information of pedigree data and can break down summaries by sex, relative pair type or family.</description>
+    </item>
+    
+    <item>
+      <title>PEDSYS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedsys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedsys/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description a full-scale database system developed as a specialized tool for management of genetic, pedigree and demographic data.
+Author  Bennett Dyke (email: bdyke@darwin.sfbr.org)
+ Paul Mamelka (email: paul@darwin.sfbr.org)
+  URL  http://www.sfbr.org/sfbr/public/software/pedsys/pedsys.html
+ ftp://www.sfbr.org/pub/pedmgt/pedsys
+  OS UNIX(SunOS,Solaris), MS-DOS, MacOS
+Availability disks or tapes and user&amp;rsquo;s manual: US$55; user&amp;rsquo;s manual: US$30; disk for registered users: US$20. person to contact: Linda Freeman-Shade, Dept Genetics, Southwest Foundation for Biomedical Research, P.</description>
+    </item>
+    
+    <item>
+      <title>PEDVIZAPI</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pedvizapi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pedvizapi/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PEDigree VIsualiZation API
+Version 0.15 (November 2007)
+Description PEDVIZAPI is a Java Api for the visual analysis of large and complex pedigrees. It provides all the necessary functionality for the interactive exploration of extended genealogies. Available packages are mostly focused on a static representation or cannot be added to an existing application; the goal of this open-source library is to provide an application program interface that enables the efficient construction of visual analytic applications for the analysis of family based data.</description>
+    </item>
+    
+    <item>
+      <title>PEER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/peer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/peer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description PEER is a collection of Bayesian approaches to infer hidden determinants and their effects from gene expression profiles using factor analysis methods. It can be used to detect eQTL.
+URL http://www.sanger.ac.uk/resources/software/peer/
+Language C++
+Reference Stegle, Parts, Durbin, Winn (2010), &amp;ldquo;A Bayesian framework to account for complex non-genetic factors in gene expression levels greatly increases power in eQTL studies&amp;rdquo;, PLoS Computational Biology, 6:e1000770.</description>
+    </item>
+    
+    <item>
+      <title>PELICAN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pelican/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pelican/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree Editor for LInkage Computer ANalysis
+Description It is a utility for graphically editing the pedigree data files used by programs such as FASTLINK, VITESSE, GENEHUNTER and MERLIN.
+Author Frank Dudbridge (MRC, email: frank.dudbridge@mrc-bsu.cam.ac.uk)
+URL http://www.mrc-bsu.cam.ac.uk/personal/frank/software/pelican/
+Language Java
+Reference F Dudbridge, T Carver, GW Williams (2004), &amp;ldquo;Pelican: pedigree editor for linkage computer analysis&amp;rdquo;, Bioinformatics, 20(14):2327-2328.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PHASE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/phase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/phase/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0 (Sept 2003)
+Description This program implements a new statistical method for reconstructing haplotypes from population genotype data.
+New for v2: (1) the introduction of a new computational approach, resulting in much faster haplotype resolution. (2) the introduction of a new model that allows for recombination and decay of Linkage Disequilibrium (LD) with distance, which results in more accurate haplotype estimates.</description>
+    </item>
+    
+    <item>
+      <title>PIAGE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/piage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/piage/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Power of Indirect Association Studies of Gene-Environment Interactions
+Version 1.0 (March 2008)
+Description The program PIAGE performs estimation of power and sample sizes required to detect genetic and environmental main, as well as gene-environment interaction (GxE) effects in indirect matched case-control studies (1:1 matching). When the hypothesis of GxE is tested, power/sample size will be estimated for the detection of GxE, as well as for the detection of genetic and environmental marginal effects.</description>
+    </item>
+    
+    <item>
+      <title>PL-EM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pl-em/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pl-em/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms
+Author  Jun Liu
+ Steve Qin
+ Tianhua Niu (Harvard Univ)
+  URL http://www.people.fas.harvard.edu/~junliu/plem/
+Reference Qin, Niu, Liu (2002), &amp;ldquo;Partition-ligation-expectation-maximization algorithm for haplotype inference with single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, (letter), 71(5):1242-1247-?   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PLABQTL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/plabqtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/plabqtl/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PLAnt Breeding QTL analysis
+Author HF Utz (email: utzf@uni-hohenheim.de)
+URL https://www.uni-hohenheim.de/plantbreeding/software/
+Reference Utz, Melchinger (1996), &amp;ldquo;PLABQTL: A program for composite interval mapping of QTL&amp;rdquo;, JAG   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>PLABSIM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/plabsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/plabsim/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PLAnt Breeding SIMulation
+Version 1.0.1 (June 2005)
+Author Matthias Frisch (email: frisch@uni-hohenheim.de)
+URL http://www.uni-hohenheim.de/~frisch/software.html
+Language C++
+OS UNIX(AIX), Linux, MS-Windows(NT)
+Reference Frisch, Bohn, Melchinger (2000), &amp;ldquo;PLABSIM: software for simulation of marker-assisted backcrossing&amp;rdquo;, Journal of Heredity, 91:86-87.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>PLAYPUS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/playpus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/playpus/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description an integrated variant caller
+Author  Gerton Lunter
+ Martin Goodson (Wellcome Trust Centre of Human Genetics, Oxford Univ)
+  URL http://www.well.ox.ac.uk/platypus   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>PLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/plink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/plink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.03
+Description a whole-genome association analysis toolset
+Author Shaun Purcell
+URL http://pngu.mgh.harvard.edu/purcell/plink/
+Reference Purcell, Neale, Todd-Brown, Thomas, Ferreira, Bender, Maller, de Bakker, Daly, Sham (2007), &amp;ldquo;PLINK: a toolset for whole-genome association and population-based linkage analysis&amp;rdquo;, American Journal of Human Genetics, 81(3):559-575
+Related PLINK/SEQ   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PLINK/SEQ</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/plinkseq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/plinkseq/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description PLINK/SEQ is an open-source C/C++ library for working with human genetic variation data. The specific focus is to provide a platform for analytic tool development for variation data from large-scale resequencing projects, particularly whole-exome and whole-genome studies. However, the library could in principle be applied to other types of genetic studies, including whole-genome association studies of common SNPs.
+URL http://atgu.</description>
+    </item>
+    
+    <item>
+      <title>POINTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pointer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pointer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description for complex segregation analysis with the mixed model (major locus and polygenes).
+Author  NE Morton (University of Southampton, UK)
+ D.C. Rao
+ J-M. Lalouel
+  URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/pointer
+Language SUN FORTRAN (especially, the command &amp;ldquo;fsplit&amp;rdquo; is needed)
+OS UNIX (SunOS/..)
+Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;rdquo; (Karger, 1983).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POLYMORPHISM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/polymorphism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/polymorphism/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.4 (June 1999)
+Description calculating the heterozygosity, PIC, and LIC values for polymorphic markers
+Author  Tianhua Niu
+ Sc.D. (Harvard Medical School, email: tniu@hohp.harvard.edu)
+  Language C
+OS UNIX
+EXE powerlic
+Reference  Guo, Elston (1999), &amp;ldquo;Linkage information content of polymorphic genetic markers&amp;rdquo;, Human Heredity, 49:112-118.
+ Niu, Struk, Lindpaintner (2001), Human Heredity, 52(2):102-109.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POLYMUTT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/polymutt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/polymutt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name POLYmorphism and de novo MUTaTion call in families with sequencing data
+Description The program polymutt implemented a likelihood-based framework for calling single nucleotide variants and detecting de novo point mutation events in families for next-generation sequencing data. The program takes as input genotype likelihood format (GLF) files which can be generated following the Creation of GLF files instruction and outputs the result in the [VCF] format.</description>
+    </item>
+    
+    <item>
+      <title>POLYPHEN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/polyphen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/polyphen/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name POLYmorphism PHENotyping
+Description PolyPhen-2 is a tool which predicts possible impact of an amino acid substitution on the structure and function of a human protein using straightforward physical and comparative considerations. It can be used in prioritize functional SNPs in a genetic study.
+URL  http://genetics.bwh.harvard.edu/pph2/ (POLYPHEN-2)
+ http://genetics.bwh.harvard.edu/pph/ (POLYPHEN-1)
+  Reference  Sunyaev, Eisenhaber, Rodchenkov, Eisenhaber, Tumanyan, Kuznetsov (1999), &amp;ldquo;PSIC: profile extraction from sequence alignments with position-specific counts of independent observations&amp;rdquo;, Protein Engineering, 12:387-394.</description>
+    </item>
+    
+    <item>
+      <title>POOL_STR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pool_str/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pool_str/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name POOLing alleles of Short Tandem Repeat markers
+Version 1.1
+Author  Yurii Aulchenko
+ Aida Bertoli-Avella
+ Cornelia van Duijn (Erasmus University Medical School, The Netherlands)
+  URL  http://www.geneticepi.com/Research/software/software.html
+ http://www.geneticepi.com/Research/software/pool_str-1.1.tar.gz
+  Reference Aulchenko, Beroli-Avella, van Duijn (2005), &amp;ldquo;A method for pooling alleles from different genotyping experiments&amp;rdquo;, Annals of Human Genetics, 69(2):233-238.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POOLSCORE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/poolscore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/poolscore/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a program for analysis of case-control genetic association studies using allele frequency measurements on DNA pools
+Author Paul McKeiger (email: paul.mckeigue@ucd.ie) (University College Dublin, Ireland)
+URL http://www.homepages.ed.ac.uk/pmckeigu/pooling/poolscore.htm
+Language R
+EXE poolscore.R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>POPDIST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/popdist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/popdist/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1.2
+Description POPDIST calculates a number of different genetic identities, phylogeny reconstructing measures, and distance reconstructing measures
+Author Bernt Guldbrandtsen (email: bg@genetics.agrsci.dk)
+URL http://genetics.agrsci.dk/~bg/popgen/
+OS UNIX (AIX/IRIX/DECalpha), Linux, MacOS, MS-DOS, MS-Windows(95)
+Reference Guldbrandtsen, Tokiuk, Loeschcke (2000), &amp;ldquo;POPDIST, version 1.1.1: a program to calculate population genetic distance and identity measures&amp;rdquo;, Journal of Heredity, 91:178-179.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POPGEN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/popgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/popgen/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description POPGEN is an R package that specifically focuses on statistical and population genetics methods. The motivation behind the package is to produce an easy to use interface to many of the commonly used methods and models used in statistical and population genetics and an alternative interface for some of the methodology produced by our group.
+Author Jonathan Marchini (email: marchini@stats.</description>
+    </item>
+    
+    <item>
+      <title>POWER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/power/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 3.0
+Description windows-based program for computation of sample size and power for binary outcome studies (case-control and cohort studies) based on a logistic-like regression model with one covariate or two covariates (e.g., gene-exposure interactions).
+URL http://dceg.cancer.gov/POWER/
+OS MS-Window
+Reference Garcia-Closas, Lubin (1999), &amp;ldquo;Power and sample size calculations in case-control studies of gene-environmental interactions: Comments on different approaches&amp;rdquo;, American Journal of Epidemiology, 149:689-693.</description>
+    </item>
+    
+    <item>
+      <title>POWERMARKER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/powermarker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/powermarker/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 3.25 (February 2006)
+Description PowerMarker is a comprehensive set of statistical methods for genetic marker data analysis, designed especially for SSR/SNP data analysis. PowerMarker builds a powerful user interface around both new and traditional statistical methods for population genetic analysis. See analysis to check out the versatility of PowerMarker. PowerMarker is also a 2D Viewer - which was used intensively for visualizing linkage disequilibria results.</description>
+    </item>
+    
+    <item>
+      <title>POWERTRIM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/powertrim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/powertrim/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description automate the decision to remove objects from a pedigree with a minimum loss information
+Author  Tricia Thornton
+ Jonathan Haines (Venderbilt University Medical Center)
+  URL http://phg.mc.vanderbilt.edu/content/powertrim
+Language Perl
+Reference Thornton, Haines (2003), &amp;ldquo;PowerTrim: an automated decision support algorithm for preprocessing family-based genetic data&amp;rdquo;, American Journal of Human Genetics, 72(5):1280-1281   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POWQ</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/powq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/powq/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description A user-friendly, graphical package for power evaluation and enhancement planning through variance component linkage analysis in a multipoint framework.
+Author Mario Falchi (email: mario.falchi@kcl.ac.uk) Cesare Cappio Borlino
+URL http://www.twin-research.ac.uk/WebPowQ/PowQ.htm
+Reference Falchi and Borlino (2006), &amp;ldquo;PowQ: a user-friendly package for the design of variance component multipoint linkage analysis studies&amp;rdquo;, Bioinformatics, 22(11):1404-1405.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>POWTEST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/powtest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/powtest/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Excel spreadsheet to calculate power of affected sibpairs and TDT analyses
+Author Dave Curtis
+URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/powtest&#39;; // Replace http://gaow.</description>
+    </item>
+    
+    <item>
+      <title>PREPLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/preplink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/preplink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name MAKE PEDfiles
+Other Name LINKAGE/PREPLINK
+Description part of the LINKAGE auxiliary program
+Author Peter Cartwright (University of Utah, now Cimarron Software pc@cimsoft.com)
+URL http://lab.rockefeller.edu/ott/programs or
+Language C and Pascal
+OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>PREST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/prest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/prest/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree RElationship Statistical Test
+Version 3.0.2 (February 2005)
+Description PREST is a program that detects pedigree errors in general outbred pedigrees by use of genome-screen data. When a potential pedigree error is detected, our companion program, ALTERTEST, determines which relationships are compatible with the observed genotype data. Both programs are freely available on the web.
+Author  Lei Sun</description>
+    </item>
+    
+    <item>
+      <title>PRESTO</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/presto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/presto/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.1 (October 2007)
+Description PRESTO performs permutation testing and computes empirical distributions of order statistics for one and two stage association studies with stratified or unstratified data.
+Author Brian L Browning (email: b.browning@auckland.ac.nz)
+URL http://faculty.washington.edu/browning/presto/presto.html
+Language Java
+OS MS-Windows, UNIX (Solaris/..), Linux, MacOS
+Reference Browning (2008), &amp;ldquo;PRESTO: Rapid calculation of order statistic distributions and multiple-testing adjusted P-values via permutation for one and two-stage genetic association studies&amp;rdquo;, BMC Bioinformatics, 9:309.</description>
+    </item>
+    
+    <item>
+      <title>PROBMAX</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/probmax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/probmax/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny
+Author Roy Danzmann (email: rdanzman@uoguelph.ca)
+URL http://www.uoguelph.ca/~rdanzman/software/PROBMAX/
+Reference Danzmann (1997), &amp;ldquo;PROBMAX: a computer program for assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny&amp;rdquo;, Journal of Heredity, 88:333.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PROC QTL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/proc-qtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/proc-qtl/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0 (January 2009)
+Description PROC QTL is a user defined SAS procedure for mapping quantitative trait loci (QTL). Since this procedure is not a built-in SAS procedure, users need to obtain a copy of the executable file of PROC QTL and install the software in their personal computers before PROC QTL can be executed. Of course, users need a regular SAS license prior to the installation of PROC QTL.</description>
+    </item>
+    
+    <item>
+      <title>PROFILER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/profiler/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/profiler/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description A flexible tool to generate the probability distribution of joint multilocus genotypes defined by sets of individuals within the pedigree and sets of markers within the framework map.
+Author Jeff O&amp;rsquo;Connell
+URL http://www.molecular-haplotype.org/profiler/profiler_intro.htm
+OS Linux, UNIX(Solaris)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>PROGENY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/progeny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/progeny/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Progeny Software, LLC
+Version 6.8 (December 2006)
+Description Fully customizable, multi-user relational database with an integrated pedigree drawing component to manage genetic and pedigree data in one database. Manage Pedigrees, Individuals, SNPs, STRs, Samples, Plates, Genotypes and exports to multiple analysis platforms.
+Author David Deram (Progeny Software, LLC)
+URL http://www.progenygenetics.com/
+Language C++ and Active X Controls
+OS MS-Windows (95/98/2000/ME/NT/XP)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PRT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/prt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/prt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Pedigree Reconstruction Tools
+Version 1.2
+Description Partition of single generation into sibling groups
+Author Anthony Almudevar (Dept Biostatistics, Computational Biology, University of Rochester Medical Center, email: anthony_almudevar@urmc.rochester.edu)
+URL http://www.urmc.rochester.edu/smd/biostat/Projects/Help/PC/Software_Listings.htm
+OS MS-Windows
+EXE msg_proj
+Reference A Almudevar, C Field (1999), &amp;ldquo;Estimation of single generation sibling relationships based on DNA markers&amp;rdquo;, J. Agricultural, Biological and Environmental Statistics, 4(2):136-165.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PSAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/psat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/psat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Population Stratification Association Test
+Author  G Kimmel
+ MI Jordan
+ E Halperin
+ R Shamir
+ RM Karp
+  URL http://acgt.cs.tau.ac.il/psat/
+Reference Kimmel, Jordan, Halperin, Shamir, Karp (2007), &amp;ldquo;A randomization test for controlling population stratification in whole-genome association studies&amp;rdquo;, American Journal of Human Genetics, 81(5):895-905   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PSEUDO</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pseudo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pseudo/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.3.5
+Description Pseudo estimates genomewide empirical p-values for Kong and Cox tests of linkage using the replicate pool method, which for many data sets, improves upon the computational efficiency of conventional gene-dropping methods by several orders of magnitude. This allows Pseudo to handle data sets with large families and makes it particularly applicable to those situations where p-value estimation by standard methods is computationally prohibitive.</description>
+    </item>
+    
+    <item>
+      <title>PSEUDOMARKER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pseudomarker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pseudomarker/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.6b (November 2011)
+Description PSEUDOMARKER is a linkage analysis software for joint linkage and/or linkage disequilibrium analysis. PSEUDOMARKER can analyze different data structures jointly such as cases-controls, trios, sib-pairs, sib-ships, and extended families.
+Author  Tero Hiekkalinna (email: tero.hiekkalinna@helsinki.fi)
+ Joseph D Terwilliger
+ Petri Norrgrann
+  URL http://www.helsinki.fi/~tsjuntun/pseudomarker/
+Language C/C++
+OS Linux
+EXE pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknownpseudo</description>
+    </item>
+    
+    <item>
+      <title>PSEUDOMARKER.M</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pseudomarker.m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pseudomarker.m/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.03
+Description PSEUDOMARKER is a set of programs written in MATLAB for the analysis of QTL data from inbred line crosses.
+Author  Saunak Sen
+ Gary Churhcill (Jackson Lab, email: pseudomarker@jax.org)
+  URL http://www.jax.org/staff/churchill/labsite/software/pseudomarker/index.html
+Language MATLAB
+Reference Sen, Churchill (2001), &amp;ldquo;A statistical framework for quantitative trait mapping&amp;rdquo;, Genetics, 159:371-387.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>PYPOP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/p/pypop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/p/pypop/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name PYthon for POPulation genetics
+Version beta 0.7.0 (September 2008)
+Author  Alex Lancaster
+ Mark P Nelson
+ Richard M Single
+ Diogo Meyer
+ Glenys Thomson
+  URL http://www.pypop.org/
+Language Python
+OS MS-Windows(98/2000/XP), Linux
+Reference  Lancaster, Nelson, Single, Meyer, Thomson (2003), &amp;ldquo;PyPop: a software framework for population genomics: analyzing large-scale multi-locus genotype data&amp;rdquo;, Proceedings of the Pacific Symposium on Biocomputing, 8:514-525.</description>
     </item>
     
   </channel>

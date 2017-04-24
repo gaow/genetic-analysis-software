@@ -2,1030 +2,503 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/l/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/l/</link>
     <description>Recent content in L on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/l/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/l/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>L1. L-POP</title>
+      <title>L-POP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/l-pop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/l-pop/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;Jan 2001&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured.&lt;/p&gt;
-
-&lt;p&gt;Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes.&lt;/p&gt;
-
-&lt;p&gt;L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Shaun Purcell&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pak Sham&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://statgen.iop.kcl.ac.uk/lpop/&#34;&gt;http://statgen.iop.kcl.ac.uk/lpop/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-DOS&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;lpop
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/l-pop&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/l-pop with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;l-pop&#39;; // Replace l-pop with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version Jan 2001
+Description L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured.
+Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes.
+L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.</description>
     </item>
     
     <item>
-      <title>L2. LAMARC</title>
+      <title>LAMARC</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lamarc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lamarc/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Likelihood Analysis with Metropolis Algorithm using Random Coalescence&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0.2 (August 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The LAMARC program estimates effective population sizes, exponential population growth rates, and past migration rates between two or n populations, and simultaneously estimates the per-nucleotide recombination rate. Currently Lamarc can use DNA or RNA sequence data, SNP data, and microsatellite data.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Mary Kuhner&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jon Yamato&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Peter Beerli (email: lamarc@gs.washington.edu)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://evolution.genetics.washington.edu/lamarc/lamarc_prog.html&#34;&gt;http://evolution.genetics.washington.edu/lamarc/lamarc_prog.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Linux, MS-Windows, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;lamarc, migrate, coalesce, fluctuate, recombine
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lamarc&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lamarc with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lamarc&#39;; // Replace lamarc with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Likelihood Analysis with Metropolis Algorithm using Random Coalescence
+Version 2.0.2 (August 2005)
+Description The LAMARC program estimates effective population sizes, exponential population growth rates, and past migration rates between two or n populations, and simultaneously estimates the per-nucleotide recombination rate. Currently Lamarc can use DNA or RNA sequence data, SNP data, and microsatellite data.
+Author  Mary Kuhner</description>
     </item>
     
     <item>
-      <title>L3. LAMBDAA</title>
+      <title>LAMBDAA</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lambdaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lambdaa/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;AP Morris (email: amorris@well.ox.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.reading.ac.uk/Statistics/genetics/software.html&#34;&gt;http://www.reading.ac.uk/Statistics/genetics/software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test for detecting patterns of disease-marker association&amp;rdquo;, Annals of Human Genetics, 61:335-350.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lambdaa&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lambdaa with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lambdaa&#39;; // Replace lambdaa with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author AP Morris (email: amorris@well.ox.ac.uk)
+URL http://www.reading.ac.uk/Statistics/genetics/software.html
+Reference Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test for detecting patterns of disease-marker association&amp;rdquo;, Annals of Human Genetics, 61:335-350.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
-      <title>L4. LAMP</title>
+      <title>LAMP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lamp/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Linkage and Association Modeling in Pedigrees&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.0.9&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;LAMP carries out parametric association analysis in samples of unrelated individuals, trios or large families. In addition to a test-statistic, a genetic model is estimated for each SNP. The approach is based on retrospective likelihood and can be used to analyze selected samples.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Goncalo Abecasis (email: goncalo@umich.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mingyao Li&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/abecasis/LAMP/download/&#34;&gt;http://www.sph.umich.edu/csg/abecasis/LAMP/download/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, LINUX, MS-Windows, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;lamp&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Li, Boehnke, Abecasis (2006), &amp;ldquo;Efficient study designs for test of genetic association using sibship data and unrelated cases and controls&amp;rdquo;, American Journal of Human Genetics, 78(5):778-792&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Li, Boehnke, Abecasis (2005), &amp;ldquo;Joint Modeling of Linkage and Association: Identifying SNPs Responsible for a Linkage Signal&amp;rdquo;, American Journal of Human Genetics, 76(6):934-949
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lamp&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lamp with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lamp&#39;; // Replace lamp with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage and Association Modeling in Pedigrees
+Version 0.0.9
+Description LAMP carries out parametric association analysis in samples of unrelated individuals, trios or large families. In addition to a test-statistic, a genetic model is estimated for each SNP. The approach is based on retrospective likelihood and can be used to analyze selected samples.
+Author  Goncalo Abecasis (email: goncalo@umich.edu)</description>
     </item>
     
     <item>
-      <title>L5. LAPSTRUCT</title>
+      <title>LAPSTRUCT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lapstruct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lapstruct/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;LAPlacian eigenfunctions learn population STRUCTure&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;LAPSTRUCT is a free program to describe population structure using biomarker data ( typically SNPs, CNVs etc.) available in a population sample. The main features different from PCA are: (1)geometrically motivated and graphic model based; (2)robustness of outliers.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Jun Zhang&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;P Niyogi&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;MS McPeek&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html&#34;&gt;http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Zhang, Niyogi, McPeek (2009), &amp;ldquo;Laplacian eigenfunctions learn population structure&amp;rdquo;, PLoS ONE, 4(12):e7928.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lapstruct&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lapstruct with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lapstruct&#39;; // Replace lapstruct with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name LAPlacian eigenfunctions learn population STRUCTure
+Description LAPSTRUCT is a free program to describe population structure using biomarker data ( typically SNPs, CNVs etc.) available in a population sample. The main features different from PCA are: (1)geometrically motivated and graphic model based; (2)robustness of outliers.
+Author  Jun Zhang
+ P Niyogi
+ MS McPeek
+  URL http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html</description>
     </item>
     
     <item>
-      <title>L6. LCP</title>
+      <title>LCP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lcp/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Linkage Control Program&lt;/p&gt;
-
-&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
-
-&lt;p&gt;LINKAGE&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;This is a 16 bit program and will not run on 64 bit PCs, see &lt;a href=&#34;http://www.jurgott.org/linkage/LinkagePC.html&#34;&gt;http://www.jurgott.org/linkage/LinkagePC.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;part of the LINKAGE auxiliary programs&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Peter Cartwright (Univ Utah, now Cimarron Software &lt;a href=&#34;mailto:pc@cimsoft.com&#34;&gt;pc@cimsoft.com&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lab.rockefeller.edu/ott/programs&#34;&gt;http://lab.rockefeller.edu/ott/programs&lt;/a&gt; or &lt;a href=&#34;https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis&#34;&gt;https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis&lt;/a&gt; (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C and Pascal&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, VMS, MS-DOS, OS2
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lcp&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lcp with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lcp&#39;; // Replace lcp with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage Control Program
+Other Name LINKAGE
+Version This is a 16 bit program and will not run on 64 bit PCs, see http://www.jurgott.org/linkage/LinkagePC.html
+Description part of the LINKAGE auxiliary programs
+Author Peter Cartwright (Univ Utah, now Cimarron Software pc@cimsoft.com)
+URL http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
+Language C and Pascal</description>
     </item>
     
     <item>
-      <title>L7. LDA</title>
+      <title>LDA</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/lda/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Linkage Disequilibrium Analyzer&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;LDA is a Java program for analyzing the pairwise linkage disequilibrium.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Keyue Ding (email: keyued@chgb.org.cn)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kaixin Zhou&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fuchu He&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Yan Shen&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.chgb.org.cn/lda/lda.htm&#34;&gt;http://www.chgb.org.cn/lda/lda.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Java&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, Linux, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/lda&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/lda with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;lda&#39;; // Replace lda with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage Disequilibrium Analyzer
+Description LDA is a Java program for analyzing the pairwise linkage disequilibrium.
+Author  Keyue Ding (email: keyued@chgb.org.cn)
+ Kaixin Zhou
+ Fuchu He
+ Yan Shen
+  URL http://www.chgb.org.cn/lda/lda.htm
+Language Java
+OS MS-Windows, Linux, MacOS
+Reference Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>L8. LDB/LDB&#43;</title>
+      <title>LDB/LDB&#43;</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldbldb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldbldb/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Location DataBase&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;integrate genetic linkage map and physical map&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;A Collins ( arc@southampton.ac.uk)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;NE Morton&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;S. Lawrence&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;D. Shields&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jonathan Teague&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Paul Linehan&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pietro Lio (University of Southampton, UK)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(SunOS/..)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Morton (1991), Annals of Human Genetics, 55:235-241.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Morton, Collins, Lawrence, Shield (1992), Annals of Human Genetics, 56:223-232.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;online manual and user guide
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldbldb&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldbldb with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldbldb&#39;; // Replace ldbldb with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Location DataBase
+Description integrate genetic linkage map and physical map
+Author  A Collins ( arc@southampton.ac.uk)
+ NE Morton
+ S. Lawrence
+ D. Shields
+ Jonathan Teague
+ Paul Linehan
+ Pietro Lio (University of Southampton, UK)
+  URL  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb
+ http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+
+  Language FORTRAN
+OS UNIX(SunOS/..)
+Reference  Morton (1991), Annals of Human Genetics, 55:235-241.</description>
     </item>
     
     <item>
-      <title>L9. LDGROUP</title>
+      <title>LDGROUP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldgroup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldgroup/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;Nov 2007&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;inkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Fumihiko Takeuchi (email: fumihiko@takeuchi.name)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.fumihiko.takeuchi.name/publications.html&#34;&gt;http://www.fumihiko.takeuchi.name/publications.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), &amp;ldquo;Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs&amp;rdquo;, Genetics, 170:291-304.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldgroup&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldgroup with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldgroup&#39;; // Replace ldgroup with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version Nov 2007
+Description inkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs.
+Author Fumihiko Takeuchi (email: fumihiko@takeuchi.name)
+URL http://www.fumihiko.takeuchi.name/publications.html
+Language R
+Reference Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), &amp;ldquo;Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs&amp;rdquo;, Genetics, 170:291-304.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>L10. LDHAT</title>
+      <title>LDHAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldhat/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a package for the analysis of recombination rates from population genetic data&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Gil McVean (email: mcvean@stats.ox.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~mcvean/LDhat/&#34;&gt;http://www.stats.ox.ac.uk/~mcvean/LDhat/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;DOS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;The fine-scale structure of recombination rate variation in the human genome&amp;rdquo;, Science, 304:581-584.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldhat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldhat with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldhat&#39;; // Replace ldhat with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description a package for the analysis of recombination rates from population genetic data
+Author Gil McVean (email: mcvean@stats.ox.ac.uk)
+URL http://www.stats.ox.ac.uk/~mcvean/LDhat/
+Language C
+OS DOS
+Reference McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;The fine-scale structure of recombination rate variation in the human genome&amp;rdquo;, Science, 304:581-584.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>L11. LDHEATMAP</title>
+      <title>LDHEATMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;R/LDHEATMAP
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldheatmap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldheatmap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldheatmap&#39;; // Replace ldheatmap with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/LDHEATMAP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldheatmap&#39;; // Replace http://gaow.github.io/genetic-analysis-software/l/ldheatmap with your page&#39;s canonical URL variable this.page.identifier = &#39;ldheatmap&#39;; // Replace ldheatmap with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
-      <title>L12. LDMAP</title>
+      <title>LDMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldmap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (November 2004)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;LDMAP is a program for constructing linkage disequilibrium (LD) maps.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Andy Collins (email: a.r.collins@soton.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;online manual: &lt;a href=&#34;http://cedar.genetics.soton.ac.uk/public_html/helpld.html&#34;&gt;http://cedar.genetics.soton.ac.uk/public_html/helpld.html&lt;/a&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldmap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldmap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldmap&#39;; // Replace ldmap with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0 (November 2004)
+Description LDMAP is a program for constructing linkage disequilibrium (LD) maps.
+Author Andy Collins (email: a.r.collins@soton.ac.uk)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP
+Language C
+OS UNIX(Solaris)
+Reference online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
-      <title>L13. LDMET</title>
+      <title>LDMET</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldmet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldmet/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;KL Ayres (email: k.l.ayres@reading.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.reading.ac.uk/Statistics/genetics/software.html&#34;&gt;http://www.reading.ac.uk/Statistics/genetics/software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium from multi-locus data&amp;rdquo;, Genetics, 157:413-423.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldmet&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldmet with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldmet&#39;; // Replace ldmet with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author KL Ayres (email: k.l.ayres@reading.ac.uk)
+URL http://www.reading.ac.uk/Statistics/genetics/software.html
+Language C
+Reference Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium from multi-locus data&amp;rdquo;, Genetics, 157:413-423.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
-      <title>L14. LDSELECT</title>
+      <title>LDSELECT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldselect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldselect/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The program analyzes patterns of linkage disequilibrium (LD) between polymorphic sites in a locus, and bins the SNPs on the basis of a threshold level of LD as measured by r2.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Deborah A. Nickerson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mark Rieder&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Chris Carlson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Qian Yi (Univ of Washington)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://droog.gs.washington.edu/ldSelect.html&#34;&gt;http://droog.gs.washington.edu/ldSelect.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldselect&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldselect with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldselect&#39;; // Replace ldselect with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0
+Description The program analyzes patterns of linkage disequilibrium (LD) between polymorphic sites in a locus, and bins the SNPs on the basis of a threshold level of LD as measured by r2.
+Author  Deborah A. Nickerson
+ Mark Rieder
+ Chris Carlson
+ Qian Yi (Univ of Washington)
+  URL http://droog.gs.washington.edu/ldSelect.html
+Reference Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>L15. LDSUPPORT</title>
+      <title>LDSUPPORT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldsupport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldsupport/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Yutaka Kitamura (Institute of Rheumatology, Tokyo Women;s Medical University, email: kitamura@ior.twmu.ac.jp)&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &amp;ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&amp;rdquo;, Annals of Human Genetics, 66:183-193.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldsupport&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/l/ldsupport with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ldsupport&#39;; // Replace ldsupport with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author Yutaka Kitamura (Institute of Rheumatology, Tokyo Women;s Medical University, email: kitamura@ior.twmu.ac.jp)
+Language C
+OS UNIX, Linux
+Reference Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &amp;ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&amp;rdquo;, Annals of Human Genetics, 66:183-193.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LEA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lea/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Likelihood-based Estimation of Admixture
+Author  Olivier Langella
+ Lounes Chikhi
+ Mark Beaumont
+  URL http://www.cnrs-gif.fr/pge/bioinfo/lea/index.php?lang=en
+Language C++
+OS MS-Windows
+EXE lea.exe
+Reference Langella, Chikhi, Beaumont (2001), &amp;ldquo;LEA (Likelihood-based estimation of admixture): a program to simultaneously estimate admixture and the time since admixture&amp;rdquo;, Molecular Ecology Notes, 1(4):357-358.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LINKAGE - CEPH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/linkage---ceph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/linkage---ceph/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name LINKAGE CEPH (three-generation) pedigrees
+Version 5.1, 5.2
+Author  Mark Lathrop
+ J. Lalouel
+ C. Julier
+ Jurg Ott
+  URL http://lab.rockefeller.edu/ott/programs
+Language Pascal
+OS MS-DOS, OS2, UNIX,VMS
+EXE cfactor,cilink,clodscore,cmap
+Reference  Lathrop,Lalouel,Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.
+ online user&amp;rsquo;s guide (may 93)
+  Related FASTLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LINKAGE - general pedigrees</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/linkage---general-pedigrees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/linkage---general-pedigrees/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 5.1, 5.2, 6.0 (testing)
+Author  5.1
+ 5.2: Mark Lathrop
+ J. Lalouel
+ C. Julier
+ Jurg Ott;
+ 6.0: Alan Young
+ Daniel Weeks
+ Mark Lathrop
+  URL http://lab.rockefeller.edu/ott/programs
+Language 5.1, 5.2: Pascal ; 6.0: C
+OS MS-DOS, OS2, UNIX, VMS
+EXE 5.1, 5.2: unknown, mlink, ilink, lodscore, linkmap; 6.0: linkage
+Reference  Lathrop, Lalouel, Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.</description>
+    </item>
+    
+    <item>
+      <title>LINKAGE-IMPRINT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/linkage-imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/linkage-imprint/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name LINKAGE allowing for IMPRINITING
+Version January 2005
+Description We have developed a parametric model-based approach to analyzing pedigree data for genomic imprinting. We have modified widely used LINKAGE program to incorporate imprinting. In addition, the LINKAGE-IMPRINT program allows for the use of sex-specific recombination in the analysis, which is of particular importance in a genome-wide analysis for imprinted genes.</description>
+    </item>
+    
+    <item>
+      <title>LINKBASE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/linkbase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/linkbase/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version beta 0.95
+Description an easy and practical database-program made for researchers who want to connect the genotype data produced by automatic sequencers [ ABI Prism 377 (Perkin Elmer) and ALF (Pharmacia) ] to linkage and sib-pair programs.
+Author Aki Suomalainen (Dept of Human Molecular Genetics, Natl Pub Health Institute, Finland, aki.suomalainen@ktl.fi)
+URL http://www.ktl.fi/molbio/software/linkbase/index.html
+Language Delphi 1.0
+OS MS-Windows (3.1/95/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LIPED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/liped/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/liped/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Likelihoods in Pedigrees
+Author Jurg Ott (Columbia Univ)
+URL http://lab.rockefeller.edu/ott/programs
+Language FORTRAN
+OS Windows
+Reference  Ott (1974), &amp;ldquo;Estimation of the recombination fraction in human pedigrees: efficient computation of the likelihood for human linkage studies.&amp;ldquo;, American Journal of Human Genetics, 26(5):588-597
+ online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LNKTOCRI</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lnktocri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lnktocri/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Conversion of LINKAGE format data files to CRI-MAP format
+Author  Jillian Blaschak
+ Tara Cox Matise (email: matise@biology.rutgers.edu)
+  URL  http://compgen.rutgers.edu/multimap/
+ http://compgen.rutgers.edu/multimap/src/other/lnktocri.p
+  Language Pascal
+OS UNIX, MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>LOCUSMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/locusmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/locusmap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1
+Description A computer package designed for rapid linkage analysis and map construction of loci with a variety of inheritance modes.
+Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu)
+ Yang Da (University of Minnesota, email: yda@umn.edu)
+  URL http://animalgene.umn.edu/locusmap/index.html
+Language Fortran 90&amp;frasl;95
+OS MS-Windows,Linux
+EXE locusmap
+Reference J Garbe, Y Da (2003), Locusmap user manual Version 1.</description>
+    </item>
+    
+    <item>
+      <title>LOCUSZOOM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/locuszoom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/locuszoom/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description LocusZoom is designed to facilitate viewing of local association results together with useful information about a locus, such as the location and orientation of the genes it includes, linkage disequilibrium coefficients and local estimates of recombination rates. It was developed by popular demand, as a result of many questions we have had about &amp;ldquo;How did you make the figures in your talk?</description>
+    </item>
+    
+    <item>
+      <title>LOGINSERM_ESTIHAPLO</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/loginserm_estihaplo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/loginserm_estihaplo/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author Pierre-Antoine Gourraud (Unite INSERM, 558-Faculte de Medecine email: gourraud@cict.fr)
+Reference Gourraud, Genin, Cambon-Thomsen (2004), &amp;ldquo;Handling missing values in population data: consequences for maximum likelihood estimation of haplotype frequencies&amp;rdquo;, European Journal of Human Genetics, 12:805-812.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>LOH-LINKAGE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/loh-linkage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/loh-linkage/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a program using loss of heterozygosity data to enhance the power to detect linkage in cancer families.
+Author  Klaus Rohde (Max Delbruck Center for Molecular Medicine, Germany) (rohde@mdc-berlin.de)
+ Mauro F. Santibanez Koref
+ M Dawn Teare
+  URL http://www.bioinf.mdc-berlin.de/~rohde/
+Language C
+OS UNIX
+Reference  Rohde et al, (1995), Human Heredity, 45:337-345.
+ Teare et al, J Med Genet 1994; 31:448-452.</description>
+    </item>
+    
+    <item>
+      <title>LOKI</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/loki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/loki/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.4.5 (March 2003)
+Description Program for analyses a quantitative trait observed on large pedigrees using Markov chain Monte Carlo multipoint linkage and segregation analysis. The trait may be determined by multiple loci.
+Author Simon C. Heath (Centre National de Genotypage) (email: heath@cng.fr)
+URL  http://www.stat.washington.edu/thompson/Genepi/Loki.shtml
+ http://loki.homeunix.net
+  Language C
+OS UNIX(Solaris 2.5, OSF1 3.2, and others), Linux (2.</description>
+    </item>
+    
+    <item>
+      <title>LOT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lot/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage analysis of Ordinal Traits
+Author Heping Zhang (email: heping@peace.med.yale.edu)
+URL http://peace.med.yale.edu/pub/LOT/
+Language C++
+OS MS-Windows, Linux, UNIX(Solaris)
+Reference Feng, Leckman, Zhang (2004), &amp;ldquo;Linkage analysis of ordinal traits for pedigree data&amp;rdquo;, Proceedings of the National Academy of Sciences , 101:16739-16744.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LRP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lrp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lrp/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage Report Program
+Other Name LINKAGE/LRP
+Description part of the LINKAGE auxiliary program
+Author Peter Cartwright (Univ Utah, now Cimarron Software pc@cimsoft.com)
+URL http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
+Language C and Pascal
+OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>LRTAE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lrtae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lrtae/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Likelihood Ratio Test Allowing for Errors
+Version 1.3.1 (June 2005)
+Description The purpose of this program is to compute a likelihood ratio test statistic that increases power to detect genetic association in the presence of phenotype, genotype, and/or haplotype misclassification errors. In addition, the program produces asymptotically unbiased estimates of frequency parameters.
+Author  Chad Haynes
+ Derek Gordon (email: Gordon@dls.</description>
+    </item>
+    
+    <item>
+      <title>LSP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/lsp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/lsp/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Linkage Setup Program
+Other Name LINKAGE/LSP
+Version This is a 16 bit program and will not run on 64 bit PCs, see http://www.jurgott.org/linkage/LinkagePC.html
+Description part of the LINKAGE auxiliary programs
+Author Peter Cartwright (Univ Utah, now Cimarron Software pc@cimsoft.com)
+URL http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
+Language C and Pascal</description>
+    </item>
+    
+    <item>
+      <title>LTSOFT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/l/ltsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/l/ltsoft/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0 beta
+Description LTSOFT is a software suite designed to more powerfully leverage clinical-covariates such as age, bmi, smoking status, and gender when conducting case-control association studies. Including these covariates in standard regression models is not only suboptimal, but can in many instances reduce power. LTSOFT employs a liability threshold model approach that takes advantage of known epidemiological results to better model the covariates&amp;rsquo; relationship to the phenotype of interest</description>
     </item>
     
   </channel>

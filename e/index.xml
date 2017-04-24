@@ -2,1054 +2,322 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>E on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/e/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/e/</link>
     <description>Recent content in E on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/e/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/e/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>E1. EAGLET</title>
+      <title>EAGLET</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/eaglet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/eaglet/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Efficient Analysis of Genetic Linkage: Testing and Estimation&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.1&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;EAGLET is a software package that provides a number of improved statistics for detecting linkage and estimating trait location. EAGLET uses multiple subsamples of dense SNP data to detect linkage with increased power, and to construct sharp 95% confidence intervals for the true trait location. Subsamples with minimal amounts of LD are repeatedly drawn from the original dense SNP data, and the linkage information across subsamples is then combined. This minimizes the false positive evidence for linkage that LD can create in classical multipoint linkage analysis due to an apparent excess in allele sharing among affecteds. Another attractive feature of EAGLET is that by using multiple subsamples, as opposed to one, EAGLET&amp;rsquo;s estimate of trait location is greatly improved. EAGLET can be used to generate subsamples for custom linkage packages as well, and computes standard LD statistics via the EM algorithm.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;William C.L. Stewart (email: ws2267@columbia.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.columbia.edu/~ws2267/SOFT/EAGLET/eaglet.html&#34;&gt;http://www.columbia.edu/~ws2267/SOFT/EAGLET/eaglet.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Perl, C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Linux, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;eaglet.pl&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Stewart, Peljto, Greenberg (2009), &amp;ldquo;Multiple subsampling of dense SNP data localizes disease genes with increased precision&amp;rdquo;, Human Heredity, to appear.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/eaglet&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/eaglet with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;eaglet&#39;; // Replace eaglet with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Efficient Analysis of Genetic Linkage: Testing and Estimation
+Version 1.1
+Description EAGLET is a software package that provides a number of improved statistics for detecting linkage and estimating trait location. EAGLET uses multiple subsamples of dense SNP data to detect linkage with increased power, and to construct sharp 95% confidence intervals for the true trait location. Subsamples with minimal amounts of LD are repeatedly drawn from the original dense SNP data, and the linkage information across subsamples is then combined.</description>
     </item>
     
     <item>
-      <title>E2. EASYLINKAGE/EASYLINKAGE-PLUS</title>
+      <title>EASYLINKAGE/EASYLINKAGE-PLUS</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/easylinkageeasylinkage-plus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/easylinkageeasylinkage-plus/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;5.02&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;easyLINKAGE combines automated setup and performance of linkage analyses and simulation under an easy to handle graphical user interface for Microsoft Windows 2000/XP and standard UNIX systems. The program package supports currently single-point linkage analyses (FastLink, SPLink, SuperLink), multi-point linkage analyses (GeneHunter, GeneHunter Plus, GeneHunter-Imprinting/-TwoLocus, Allegro, SimWalk, Merlin), and the simulation package SLink, and provides genome-wide as well as chromosomal postscript plots of LOD scores, NPL scores, P values, and many other parameters. The software can analyze STRPs as well as SNP chip data from Affymetrix, Illumina, or self-defined SNP data. The program performs single- and multi-point simulation studies.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Tom H Lindner (email: t-lindner@gmx.de)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Katrin Hoffmann (email: khoffma@gmx.de)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://compbio.charite.de/genetik/hoffmann/easyLINKAGE/&#34;&gt;http://compbio.charite.de/genetik/hoffmann/easyLINKAGE/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://sourceforge.net/projects/easylinkage/&#34;&gt;http://sourceforge.net/projects/easylinkage/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Perl v5.8 (program can be provided as PERL script or as a compiled exe for the use in Windows)&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows(2000/XP), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;linkage_v5.02.exe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lindner, Hoffmann (2005), &amp;ldquo;easyLINKAGE: A PERL script for easy and automated two-/multi-point linkage analyses&amp;rdquo;, Bioinformatics, 21(3):405-407.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hoffmann, Lindner (2005), &amp;ldquo;easyLINKAGE-Plus - automated linkage analyses using large-scale SNP data&amp;rdquo; Bioinformatics, 21(17):3565-3567.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/easylinkageeasylinkage-plus&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/easylinkageeasylinkage-plus with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;easylinkageeasylinkage-plus&#39;; // Replace easylinkageeasylinkage-plus with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 5.02
+Description easyLINKAGE combines automated setup and performance of linkage analyses and simulation under an easy to handle graphical user interface for Microsoft Windows 2000/XP and standard UNIX systems. The program package supports currently single-point linkage analyses (FastLink, SPLink, SuperLink), multi-point linkage analyses (GeneHunter, GeneHunter Plus, GeneHunter-Imprinting/-TwoLocus, Allegro, SimWalk, Merlin), and the simulation package SLink, and provides genome-wide as well as chromosomal postscript plots of LOD scores, NPL scores, P values, and many other parameters.</description>
     </item>
     
     <item>
-      <title>E3. EASYPOP</title>
+      <title>EASYPOP</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/easypop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/easypop/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0.1 (July 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;EASYPOP is a computer program allowing to simulate population genetics datasets. It allows generating genetic data for haploid, diploid, and haplodiploid organisms under a variety of mating systems. It includes various migration and mutation models. Output can be generated for the FSTAT, GENEPOP, and ARLEQUIN genetic analysis packages.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Francois Balloux (email: fb255@gen.cam.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.unil.ch/dee/page36926_fr.html&#34;&gt;http://www.unil.ch/dee/page36926_fr.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (95/98/NT/2000/XP), MacOS(X)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Balloux (2001), &amp;ldquo;EASYPOP (Version 1.7): a computer program for population genetics simulations&amp;rdquo;, Journal of Heredity, 92:301-302.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/easypop&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/easypop with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;easypop&#39;; // Replace easypop with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0.1 (July 2006)
+Description EASYPOP is a computer program allowing to simulate population genetics datasets. It allows generating genetic data for haploid, diploid, and haplodiploid organisms under a variety of mating systems. It includes various migration and mutation models. Output can be generated for the FSTAT, GENEPOP, and ARLEQUIN genetic analysis packages.
+Author Francois Balloux (email: fb255@gen.cam.ac.uk)
+URL http://www.unil.ch/dee/page36926_fr.html</description>
     </item>
     
     <item>
-      <title>E4. ECLIPSE</title>
+      <title>ECLIPSE</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/eclipse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/eclipse/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Error Correcting Likelihoods In Pedigree Structure Estimation.&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.1 (October 2003)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;A set of three programs, preproc, eclipse2 and eclipse3 which analyze genetic marker data for genotypic errors and pedigree errors. Using a single preprocessing program (preproc), eclipse2 analyzes data on pairs of individuals, and eclise3 analyzes data jointly on trios.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Solveig Sieberts (email: solly@stat.washington.edu) based on some earlier prototype routines by Jochen Kumm.&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/Eclipse.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/Eclipse.shtml&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Tested on Unix (Compaq Tru64 V5.0A)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;prepro, eclipse2, eclipse3&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;PANGAEA
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/eclipse&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/eclipse with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;eclipse&#39;; // Replace eclipse with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Error Correcting Likelihoods In Pedigree Structure Estimation.
+Version 1.1 (October 2003)
+Description A set of three programs, preproc, eclipse2 and eclipse3 which analyze genetic marker data for genotypic errors and pedigree errors. Using a single preprocessing program (preproc), eclipse2 analyzes data on pairs of individuals, and eclise3 analyzes data jointly on trios.
+Author Solveig Sieberts (email: solly@stat.washington.edu) based on some earlier prototype routines by Jochen Kumm.</description>
     </item>
     
     <item>
-      <title>E5. EDAC</title>
+      <title>EDAC</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/edac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/edac/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;power calculator for Extremely Discordant And Concordant sibpairs&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;C Charles Gu&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.biostat.wustl.edu/~gc/cgi-bin/calcpwr.cgi&#34;&gt;http://www.biostat.wustl.edu/~gc/cgi-bin/calcpwr.cgi&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Gu, Todorov, Rao (1996), &amp;ldquo;Combining extremely concordant sibpairs with extremely discordant sibpairs provides a cost effective way to linkage analysis of QTL&amp;rdquo;, Genetic Epidemiology, 13:513-533.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Gu, Rao (1997), &amp;ldquo;A linkage strategy for detection of human quantitative-trait loci: I. Generalized relative risk ratios and power of sib pairs with extreme trait values&amp;rdquo;,. American Journal of Human Genetics, 61(1):200-210&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Gu, Rao (1997), &amp;ldquo;A linkage strategy for detection of human quantitative-trait loci: II. Optimization of study designs based on extreme sib pairs and generalized relative risk ratios&amp;rdquo;, American Journal of Human Genetics, 61(1):211-222
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/edac&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/edac with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;edac&#39;; // Replace edac with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name power calculator for Extremely Discordant And Concordant sibpairs
+Author C Charles Gu
+URL http://www.biostat.wustl.edu/~gc/cgi-bin/calcpwr.cgi
+Reference  Gu, Todorov, Rao (1996), &amp;ldquo;Combining extremely concordant sibpairs with extremely discordant sibpairs provides a cost effective way to linkage analysis of QTL&amp;rdquo;, Genetic Epidemiology, 13:513-533.
+ Gu, Rao (1997), &amp;ldquo;A linkage strategy for detection of human quantitative-trait loci: I. Generalized relative risk ratios and power of sib pairs with extreme trait values&amp;rdquo;,.</description>
     </item>
     
     <item>
-      <title>E6. EH</title>
+      <title>EH</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/eh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/eh/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Estimating Haplotype-frequencies&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Xiaoli Xie&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jurg Ott (Columbia University; Rockefeller University)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://lab.rockefeller.edu/ott/programs&#34;&gt;http://lab.rockefeller.edu/ott/programs&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Pascal&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-DOS, UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;eh&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1993 (Xie, Ott (1993), &amp;ldquo;Testing linkage disequilibrium between a disease gene and marker loci&amp;rdquo;, Am J Hum Genet, 53 (suppl), 1107 (&lt;a href=&#34;http://www.jurgott.org/linkage/absXieOtt1993.pdf&#34;&gt;abstract&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;online user&amp;rsquo;s guide&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;a product review from: &lt;a href=&#34;http://www.scienceboard.net/resources/prodreviews.asp?cat=22&amp;amp;product=440&#34;&gt;http://www.scienceboard.net/resources/prodreviews.asp?cat=22&amp;amp;product=440&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;EHPLUS, FASTEHPLUS, EHP
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/eh&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/eh with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;eh&#39;; // Replace eh with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Estimating Haplotype-frequencies
+Author  Xiaoli Xie
+ Jurg Ott (Columbia University; Rockefeller University)
+  URL http://lab.rockefeller.edu/ott/programs
+Language Pascal
+OS MS-DOS, UNIX
+EXE eh
+Reference  Am Soc Hum Genet annual meeting 1993 (Xie, Ott (1993), &amp;ldquo;Testing linkage disequilibrium between a disease gene and marker loci&amp;rdquo;, Am J Hum Genet, 53 (suppl), 1107 (abstract)
+ online user&amp;rsquo;s guide</description>
     </item>
     
     <item>
-      <title>E7. EHAP</title>
+      <title>EHAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/ehap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/ehap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;detecting association between haplotypes and phenotypes&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Howard Seltman&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Shawn Wood (University of Pittburg)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm&#34;&gt;http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;ehap.exe, haplinmod.exe
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/ehap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/ehap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ehap&#39;; // Replace ehap with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description detecting association between haplotypes and phenotypes
+Author  Howard Seltman
+ Shawn Wood (University of Pittburg)
+  URL http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm
+EXE ehap.exe, haplinmod.exe   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
-      <title>E8. EHP</title>
+      <title>EHP</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/ehp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/ehp/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Estimation of Haplotype frequencies from Pooled DNA samples&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;This program provides variance estimates for haplotype frequency estimates, it allows several kinds of missing information in the genotype data, it also allows for combined genotype data of different pool sizes. This program can be used for testing haplotype-disease associations in case control studies by calculating the likelihood ratio test: 2 log(likelihood for cases) + 2 log(likelihood for controls) - 2 log(likelihood for case+controls).&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Yaning Yang (University of Science, Technology, Hefei, Anhui Province, China) (email: ynyang@gmail.com)&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R/S-plus&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Y Yang et al. (2003), &amp;ldquo;Efficiency of single-nucleotide polymorphism haplotype estimation from pooled DNA&amp;rdquo;, Proceedings of the National Academy of Sciences , 100(12):7225-7230.&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;EH
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/ehp&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/ehp with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ehp&#39;; // Replace ehp with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Estimation of Haplotype frequencies from Pooled DNA samples
+Description This program provides variance estimates for haplotype frequency estimates, it allows several kinds of missing information in the genotype data, it also allows for combined genotype data of different pool sizes. This program can be used for testing haplotype-disease associations in case control studies by calculating the likelihood ratio test: 2 log(likelihood for cases) + 2 log(likelihood for controls) - 2 log(likelihood for case+controls).</description>
     </item>
     
     <item>
-      <title>E9. EHPLUS</title>
+      <title>EHPLUS</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/ehplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/ehplus/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&#34;&gt;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris/DEC alpha/..), MS-Windows&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;ehplus&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Zhao, Curtis, Sham (2000), &amp;ldquo;Model-free and permutation tests for allelic associations&amp;rdquo;, Human Heredity, 50(2):133-139.&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;EH, FASTEHPLUS
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/ehplus&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/ehplus with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ehplus&#39;; // Replace ehplus with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Author Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
+URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
+Language C
+OS UNIX(Solaris/DEC alpha/..), MS-Windows
+EXE ehplus
+Reference Zhao, Curtis, Sham (2000), &amp;ldquo;Model-free and permutation tests for allelic associations&amp;rdquo;, Human Heredity, 50(2):133-139.
+Related EH, FASTEHPLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>E10. EIGENSOFT/EIGENSTRAT</title>
+      <title>EIGENSOFT/EIGENSTRAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/eigensofteigenstrat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/eigensofteigenstrat/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;4.2 (August 2011)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Alkes Price&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David Reich (Harvard Medical School)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.hsph.harvard.edu/faculty/alkes-price/software/&#34;&gt;http://www.hsph.harvard.edu/faculty/alkes-price/software/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://genepath.med.harvard.edu/~reich/Software.htm&#34;&gt;http://genepath.med.harvard.edu/~reich/Software.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://genepath.med.harvard.edu/~reich/EIGENSTRAT.htm&#34;&gt;http://genepath.med.harvard.edu/~reich/EIGENSTRAT.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Price, Patterson, Plenge, Weinblatt, Shadick, Reich (2006), &amp;ldquo;Principal components analysis corrects for stratification in genome-wide association studies&amp;rdquo;, Nature Genetics, 38(8):904-909.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/eigensofteigenstrat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/eigensofteigenstrat with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;eigensofteigenstrat&#39;; // Replace eigensofteigenstrat with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 4.2 (August 2011)
+Author  Alkes Price
+ David Reich (Harvard Medical School)
+  URL  http://www.hsph.harvard.edu/faculty/alkes-price/software/
+ http://genepath.med.harvard.edu/~reich/Software.htm
+ http://genepath.med.harvard.edu/~reich/EIGENSTRAT.htm
+  OS Linux
+Reference Price, Patterson, Plenge, Weinblatt, Shadick, Reich (2006), &amp;ldquo;Principal components analysis corrects for stratification in genome-wide association studies&amp;rdquo;, Nature Genetics, 38(8):904-909.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>E11. EM-DECODER</title>
+      <title>EM-DECODER</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/em-decoder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/em-decoder/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a haplotype inference program&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Steve Qin&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;(email: qin@stat.harvard.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jun S Liu (email: jliu@stat.harvard.edu)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.people.fas.harvard.edu/~junliu/em/em.htm&#34;&gt;http://www.people.fas.harvard.edu/~junliu/em/em.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/em-decoder&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/em-decoder with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;em-decoder&#39;; // Replace em-decoder with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a haplotype inference program
+Author  Steve Qin
+ (email: qin@stat.harvard.edu)
+ Jun S Liu (email: jliu@stat.harvard.edu)
+  URL http://www.people.fas.harvard.edu/~junliu/em/em.htm
+Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>E12. EMLD</title>
+      <title>EMLD</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/emld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/emld/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;EM estimation of haplotype frequencies and LD calculation&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;September 2003&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;A quick and handy program to calculate pair-wise linkage disequilibrium based on SNP genotype data from unrelated individuals. EM algorithm is used to estimate pair-wise haplotype frequencies. The output file is in the format of input file for GOLD program, thus it can be directly plug into GOLD to get LD plots.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Dakai Zhu (email: dkz@mdanderson.org)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://epi.mdanderson.org/~qhuang/Software/pub.htm&#34;&gt;http://epi.mdanderson.org/~qhuang/Software/pub.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Java&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, MS-Windows&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;emld
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/emld&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/emld with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;emld&#39;; // Replace emld with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name EM estimation of haplotype frequencies and LD calculation
+Version September 2003
+Description A quick and handy program to calculate pair-wise linkage disequilibrium based on SNP genotype data from unrelated individuals. EM algorithm is used to estimate pair-wise haplotype frequencies. The output file is in the format of input file for GOLD program, thus it can be directly plug into GOLD to get LD plots.</description>
     </item>
     
     <item>
-      <title>E13. ENDOG</title>
+      <title>ENDOG</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/endog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/endog/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;4.0 (November 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The program calculates individual inbreeding (F) and average relatedness (AR) coefficients. Additionally, users can compute useful parameters in population genetics such as: the number of ancestors explaining genetic variability; the genetic importance of the herds; F statistics from genealogical information.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Juan Pablo Gutierrez Garcia&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ucm.es/info/prodanim/html/JP_Web.htm&#34;&gt;http://www.ucm.es/info/prodanim/html/JP_Web.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN 77
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/endog&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/endog with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;endog&#39;; // Replace endog with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 4.0 (November 2006)
+Description The program calculates individual inbreeding (F) and average relatedness (AR) coefficients. Additionally, users can compute useful parameters in population genetics such as: the number of ancestors explaining genetic variability; the genetic importance of the herds; F statistics from genealogical information.
+Author Juan Pablo Gutierrez Garcia
+URL http://www.ucm.es/info/prodanim/html/JP_Web.htm
+Language FORTRAN 77   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>E14. ENTROPY BLOCKER</title>
+      <title>ENTROPY BLOCKER</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/entropy-blocker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/entropy-blocker/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.7&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;aiming at identifying &amp;ldquo;haplotype blocks&amp;rdquo;. The likelihood of the data is calculated minus the model complexity. The resulting blocks have very low diversity and the linkage disequilibrium with SNP&amp;rsquo;s outside the blocks is low.&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wpicr.wpic.pitt.edu/WPICCompGen/blocks.htm&#34;&gt;http://wpicr.wpic.pitt.edu/WPICCompGen/blocks.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, Linux
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/entropy-blocker&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/entropy-blocker with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;entropy-blocker&#39;; // Replace entropy-blocker with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.7
+Description aiming at identifying &amp;ldquo;haplotype blocks&amp;rdquo;. The likelihood of the data is calculated minus the model complexity. The resulting blocks have very low diversity and the linkage disequilibrium with SNP&amp;rsquo;s outside the blocks is low.
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/blocks.htm
+Language R
+OS MS-Windows, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>E15. EPDT</title>
+      <title>EPDT</title>
       <link>https://gaow.github.io/genetic-analysis-software/e/epdt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/e/epdt/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Extended Pedigree Disequilibrium Test&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (2004)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;EPDT is a major advancement in detecting linkage/disequilibrium signals # between genetic markers and disease loci, particularly if only one # or a few large pedigrees are available. The strategy differs from # conventional approaches that require at least a moderate number of # families to attain adequate statistical power. The proposed testing # procedure is advantageous in that it provides high statistical power # coupled with reduced sample collection. Furthermore, the proposed # method avoids problems such as potential population stratification # and genetic heterogeneity, and is robust with respect to misspecification # of phenotype.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Chun-Liang Chen&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&#34;&gt;http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Yang, Chen, Fann &amp;ldquo;A pedigree-based disequilibrium test for a single extended pedigree&amp;rdquo;. preprint.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/e/epdt&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/e/epdt with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;epdt&#39;; // Replace epdt with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Extended Pedigree Disequilibrium Test
+Version 1.0 (2004)
+Description EPDT is a major advancement in detecting linkage/disequilibrium signals # between genetic markers and disease loci, particularly if only one # or a few large pedigrees are available. The strategy differs from # conventional approaches that require at least a moderate number of # families to attain adequate statistical power. The proposed testing # procedure is advantageous in that it provides high statistical power # coupled with reduced sample collection.</description>
+    </item>
+    
+    <item>
+      <title>EPISTACY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/epistacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/epistacy/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Author Jim Holland (email: james_holland@ncsu.edu)
+URL http://www4.ncsu.edu/~jholland/Epistacy/epistacy.htm
+Language SAS
+Reference Holland (1998), &amp;ldquo;EPISTACY: A SAS program for detecting two-locus epistatic interactions using genetic marker information&amp;rdquo;, Journal of Heredity, 89:374-375.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>EQTL EXPLORER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/eqtl-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/eqtl-explorer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 5.0
+Description EQTL EXPORER is an eQTL visualization tool that allows users to mine and understand data from a repository of genetical genomics experiments
+Author  Michael Mueller
+ Jonathan Mangion (Imperial College, UK)
+  URL http://web.bioinformatics.ic.ac.uk/eqtlexplorer/
+Language Java
+Reference Mueller, Goel, Thimma, Dickens, Aitman, Mangion (2006), &amp;ldquo;eQTL Explorer: integrated mining of combined genetic linkage and expression experiments&amp;rdquo;, Bioinformatics, 22(4):509-511.</description>
+    </item>
+    
+    <item>
+      <title>ERPA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/erpa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/erpa/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Extended Relative Pair Analysis
+Description non-parametric analysis
+Author Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+ ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+  Language C
+OS MS-DOS
+Reference Curtis, Sham (1994), Annals of Human Genetics, 58:151-162.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>ET-TDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/et-tdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/et-tdt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Evolutionary Tree - Transmission Disequilibrium Test
+Author Kathryn Roeder (Carnegie Mellon, email: roeder@stat.cmu.edu)
+URL  http://www.stat.cmu.edu/~roeder/=ettdt/
+ ftp://wpicf.wpic.pitt.edu/WPICCompgen/ettdt/index.html
+  OS MS-DOS
+EXE inferhap.exe, ettdt.exe
+Reference Selman, Roeder, Devlin (2001), &amp;ldquo;Transmission/Disequilibrium Test Meets Measured haplotype analysis: family-based association analysis guided by evolution of haplotypes&amp;rdquo;, American Journal of Human Genetics, 68(5):1250-1263   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>ETDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/etdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/etdt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name extended transmission/disequilibrium test
+Description TDT test on markers with more than two alleles using a logistic regression analysis.
+Author  P.C. Sham (King&amp;rsquo;s College London, UK)
+ Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
+  URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+ ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+  Language C
+OS MS-DOS
+Reference Sham, Curtis (1995), Annals of Human Genetics, 59:323-336.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>EVOKER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/evoker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/evoker/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version May 2010
+Description Evoker is a graphical tool for visualizing genotype intensity data in order to assess genotype calls as part of quality control procedures for genome-wide association studies. It provides a solution to the computational and storage problems related to being able to work with the huge volumes of data generated by such projects by implementing a compact, binary format that allows rapid access to data, even with hundreds of thousands of observations.</description>
+    </item>
+    
+    <item>
+      <title>EXOMEPICKS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/e/exomepicks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/e/exomepicks/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description ExomePicks is a program that suggests individuals to be sequenced in a large pedigree. ExomePicks assumes that a genotyping chip or another cost effective means will be used to determine IBD sharing in the pedigree and that, subsequently, one would like to sequence a minimal number of individuals and use their sequences together with IBD information to deduce the sequence of other individuals in the pedigree.</description>
     </item>
     
   </channel>

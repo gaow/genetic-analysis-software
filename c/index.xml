@@ -2,1082 +2,460 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/c/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/c/</link>
     <description>Recent content in C on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/c/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/c/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>C1. CAROL</title>
+      <title>CAROL</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/carol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/carol/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Combined Annotation scoRing toOL&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CAROL is a combined functional annotation score of non-synonymous coding variants. A major challenge in interpreting whole-exome data is predicting which of the discovered variants are deleterious or neutral. To address this question in silico, we have developed a score called Combined Annotation scoRing toOL (CAROL),which combines information from two bioinformatics tools: PolyPhen-2 and SIFT, in order to improve the prediction of the effect of non-synonymous coding variants. The combination of annotation tools can help improve automated prediction of whole-genome/exome non-synonymous variant functional consequences.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Eleftheria Zeggini&amp;rsquo;s group (Wellcome Trust Sanger Institute)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/carol/&#34;&gt;http://www.sanger.ac.uk/resources/software/carol/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/carol&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/carol with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;carol&#39;; // Replace carol with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Combined Annotation scoRing toOL
+Description CAROL is a combined functional annotation score of non-synonymous coding variants. A major challenge in interpreting whole-exome data is predicting which of the discovered variants are deleterious or neutral. To address this question in silico, we have developed a score called Combined Annotation scoRing toOL (CAROL),which combines information from two bioinformatics tools: PolyPhen-2 and SIFT, in order to improve the prediction of the effect of non-synonymous coding variants.</description>
     </item>
     
     <item>
-      <title>C2. CARTHAGENE</title>
+      <title>CARTHAGENE</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/carthagene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/carthagene/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (January 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;It is a genetic/radiation hybrid mapping software. CARTHAGENE looks for multiple populations maximum likelihood consensus maps using a fast EM algorithm for maximum likelihood estimation and powerful ordering algorithms inspired from TSP (Traveling Salesman Problem) technology. It can handle large data sets made up of different populations (either F2 backcross, recombinant inbred lines, F2 intercross, phase known outbreds, haploid/diploid radiation hybrids). It can also exploit existing syntenic relationships between the organism mapped and a reference (sequenced) organism for accurate dense RH mapping.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;P Chabrier&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;D de Givry&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;T Faraut&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;C Gaspin&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;T Schiex (INRA, Toulouse, France)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.inra.fr/mia/T/CarthaGene/&#34;&gt;http://www.inra.fr/mia/T/CarthaGene/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++,Tcl/Tk&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, UNIX(Solaris), Linux. Sources are available for other operating systems (GPL/QPL).&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Schiex,Gaspin, Proceedings of the International Conference on Intelligent Systems for Molecular Biology (ISMB) (1997).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Givry, Bouchez, Chabrier, Milan, Schiex (2005), &amp;ldquo;CARTHAGENE: multipopulation integrated genetic and radiation hybrid mapping&amp;rdquo;, Bioinformatics, 21(8):1703-1704.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/carthagene&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/carthagene with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;carthagene&#39;; // Replace carthagene with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0 (January 2006)
+Description It is a genetic/radiation hybrid mapping software. CARTHAGENE looks for multiple populations maximum likelihood consensus maps using a fast EM algorithm for maximum likelihood estimation and powerful ordering algorithms inspired from TSP (Traveling Salesman Problem) technology. It can handle large data sets made up of different populations (either F2 backcross, recombinant inbred lines, F2 intercross, phase known outbreds, haploid/diploid radiation hybrids).</description>
     </item>
     
     <item>
-      <title>C3. CASAVA</title>
+      <title>CASAVA</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/casava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/casava/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Consensus Assessment of Sequence And VAriation&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;v1.6&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Illumina&amp;rsquo;s CASAVA software captures summary information for resequencing and counting studies and places the data in a compact structure for visualization within GenomeStudio Software or publicly available analysis tools. CASAVA can create genomic builds, call SNPs, detects indels, and count reads from data generated from one or more runs of the Genome Analyzer across a broad range of sequencing applications.&lt;/p&gt;
-
-&lt;p&gt;v.1.6 highlights:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;complete secondary analysis software package, including facilities for alignment, reference-guided assembly, SNP/indel calling and counting for RNA applications.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;new methods for gapped, multiseed alignments that reduce artifactual mismatches.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;new indel detection method, and improved SNP calling on longer Genome Analyzer reads.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;(Illumina)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.illumina.com/software/genome_analyzer_software.ilmn&#34;&gt;http://www.illumina.com/software/genome_analyzer_software.ilmn&lt;/a&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/casava&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/casava with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;casava&#39;; // Replace casava with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Consensus Assessment of Sequence And VAriation
+Version v1.6
+Description Illumina&amp;rsquo;s CASAVA software captures summary information for resequencing and counting studies and places the data in a compact structure for visualization within GenomeStudio Software or publicly available analysis tools. CASAVA can create genomic builds, call SNPs, detects indels, and count reads from data generated from one or more runs of the Genome Analyzer across a broad range of sequencing applications.</description>
     </item>
     
     <item>
-      <title>C4. CASPAR</title>
+      <title>CASPAR</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/caspar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/caspar/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Computerized Affected Sibling Pair Analyzer and Reporter&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CASPAR&amp;rsquo;s main novel feature is conditional linkage analyses, in which the population can be subdivided according to criteria at some loci and analyzed for linkage at other loci. CASPAR uses simulation to overcome the problems inherent in such multiple testing.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Richa Agarwala (email: richa@helix.nih.gov)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Alejandro Schaffer (email: schaffer@helix.nih.gov);&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other participants include&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Jeremy Buhler&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kenneth Gabbay&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Marek Kimmel&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David Owerbach&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/caspar.html&#34;&gt;http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/caspar.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://fastlink.nih.gov/pub/caspar&#34;&gt;ftp://fastlink.nih.gov/pub/caspar&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Am Soc Hum Genet annual meeting 1995 (Buhler, et. al. American Journal of Human Genetics, 57 Supp, A171 (1995));&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Buhler, et. al. (1997) Human Heredity, 47(4):211-222.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/caspar&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/caspar with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;caspar&#39;; // Replace caspar with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Computerized Affected Sibling Pair Analyzer and Reporter
+Description CASPAR&amp;rsquo;s main novel feature is conditional linkage analyses, in which the population can be subdivided according to criteria at some loci and analyzed for linkage at other loci. CASPAR uses simulation to overcome the problems inherent in such multiple testing.
+Author  Richa Agarwala (email: richa@helix.nih.gov)
+ Alejandro Schaffer (email: schaffer@helix.</description>
     </item>
     
     <item>
-      <title>C5. CATS</title>
+      <title>CATS</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/cats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/cats/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;power Calculator for Association with Two Stage design&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.0.1&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CATS calculates the power and other useful quantities for two-stage genome-wide association studies&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Andrew Skol (email: askol@umich.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sph.umich.edu/csg/abecasis/CaTS/&#34;&gt;http://www.sph.umich.edu/csg/abecasis/CaTS/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux, MS-Windows, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;cats (graphical interface for MS-Windows, MacOS, and Linux), cats-test (Linux command line)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Skol, Scott, Abecasis, Boehnke (2006), &amp;ldquo;Joint analysis is more efficient than replication-based analysis for two-stage genome-wide association studies&amp;rdquo;, Nature Genetics, 38:209-213.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cats&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cats with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;cats&#39;; // Replace cats with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name power Calculator for Association with Two Stage design
+Version 0.0.1
+Description CATS calculates the power and other useful quantities for two-stage genome-wide association studies
+Author Andrew Skol (email: askol@umich.edu)
+URL http://www.sph.umich.edu/csg/abecasis/CaTS/
+Language C++
+OS UNIX, Linux, MS-Windows, MacOS
+EXE cats (graphical interface for MS-Windows, MacOS, and Linux), cats-test (Linux command line)
+Reference Skol, Scott, Abecasis, Boehnke (2006), &amp;ldquo;Joint analysis is more efficient than replication-based analysis for two-stage genome-wide association studies&amp;rdquo;, Nature Genetics, 38:209-213.</description>
     </item>
     
     <item>
-      <title>C6. CC-QLS</title>
+      <title>CC-QLS</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/cc-qls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/cc-qls/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Case-Control Quasi-Likelihood Score test&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.3 (March 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Catherine Bourgain&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sabine Hoffjan&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Raluca Nicolae&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dina Newman&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lori Steiner&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Karen Walker&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Rebecca Reynolds&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Carole Ober&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mary Sara McPeek&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/&#34;&gt;http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), &amp;ldquo;Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus&amp;rdquo;, American Journal of Human Genetics, 73(3):612-626
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cc-qls&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cc-qls with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;cc-qls&#39;; // Replace cc-qls with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Case-Control Quasi-Likelihood Score test
+Version 1.3 (March 2006)
+Author  Catherine Bourgain
+ Sabine Hoffjan
+ Raluca Nicolae
+ Dina Newman
+ Lori Steiner
+ Karen Walker
+ Rebecca Reynolds
+ Carole Ober
+ Mary Sara McPeek
+  URL http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/
+OS UNIX
+Reference Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), &amp;ldquo;Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus&amp;rdquo;, American Journal of Human Genetics, 73(3):612-626   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>C7. CCRAVAT</title>
+      <title>CCRAVAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/ccravat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/ccravat/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Case-Control RAre Variant Analysis Tool&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Enabling the analysis of rare variants in large-scale case control and quantitative trait association studies. CCRaVAT (Case-Control Rare Variant Analysis Tool) and QuTie (Quantitative Trait) are software packages that enable efficient large-scale analysis of rare variants across specific regions or genome-wide. These programs implement a rare variant super-locus or collapsing method that investigates the accumulation of rare variant alleles in either a case-control or quantitative trait study design.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Eleftheria Zeggini&amp;rsquo;s group (Wellcome Trust Sanger Institute)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/rarevariant/&#34;&gt;http://www.sanger.ac.uk/resources/software/rarevariant/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;QUTIE
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ccravat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ccravat with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ccravat&#39;; // Replace ccravat with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Case-Control RAre Variant Analysis Tool
+Description Enabling the analysis of rare variants in large-scale case control and quantitative trait association studies. CCRaVAT (Case-Control Rare Variant Analysis Tool) and QuTie (Quantitative Trait) are software packages that enable efficient large-scale analysis of rare variants across specific regions or genome-wide. These programs implement a rare variant super-locus or collapsing method that investigates the accumulation of rare variant alleles in either a case-control or quantitative trait study design.</description>
     </item>
     
     <item>
-      <title>C8. CCREL</title>
+      <title>CCREL</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/ccrel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/ccrel/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Case-Control association analysis with RELlated individuals&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.3 (December 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CCREL is a program for case-control genetic analysis that takes relatedness between individuals into account. It will perform single-marker and haplotypic tests, however it will only work with SNP or other biallelic markers.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Sharon R. Browning (e-mail: browning@stat.auckland.ac.nz)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stat.auckland.ac.nz/~browning/ccrel/ccrel.htm&#34;&gt;http://www.stat.auckland.ac.nz/~browning/ccrel/ccrel.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R with Perl and C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Unix/Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Browning, Briley, Briley, Chandra, Charnecki, Ehm, Johansson, Jones, Karter, Yarnall, Wagner (2005), &amp;ldquo;Case-control single marker and haplotypic association analysis of pedigree data&amp;rdquo;, Genetic Epidemiology, 28:110-122.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ccrel&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ccrel with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ccrel&#39;; // Replace ccrel with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Case-Control association analysis with RELlated individuals
+Version 0.3 (December 2005)
+Description CCREL is a program for case-control genetic analysis that takes relatedness between individuals into account. It will perform single-marker and haplotypic tests, however it will only work with SNP or other biallelic markers.
+Author Sharon R. Browning (e-mail: browning@stat.auckland.ac.nz)
+URL http://www.stat.auckland.ac.nz/~browning/ccrel/ccrel.htm
+Language R with Perl and C</description>
     </item>
     
     <item>
-      <title>C9. CEPH2CRI</title>
+      <title>CEPH2CRI</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/ceph2cri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/ceph2cri/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;May 1994&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;convert output from CEPH DBMS to CRIMAP format&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;John Attwood (Sanger Centre, UK) ( email: ja1@sanger.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.gene.ucl.ac.uk/public-files/packages/linkage_utils/ceph2cri/&#34;&gt;http://www.gene.ucl.ac.uk/public-files/packages/linkage_utils/ceph2cri/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Pascal&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-DOS
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ceph2cri&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ceph2cri with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ceph2cri&#39;; // Replace ceph2cri with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version May 1994
+Description convert output from CEPH DBMS to CRIMAP format
+Author John Attwood (Sanger Centre, UK) ( email: ja1@sanger.ac.uk)
+URL http://www.gene.ucl.ac.uk/public-files/packages/linkage_utils/ceph2cri/
+Language Pascal
+OS MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
-      <title>C10. CEPH2MAP</title>
+      <title>CEPH2MAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/ceph2map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/ceph2map/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;it is developed from crimap v2.4 for use with the map suite of programs.&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ceph2map&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ceph2map&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;ceph2map
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/ceph2map&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/ceph2map with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ceph2map&#39;; // Replace ceph2map with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description it is developed from crimap v2.4 for use with the map suite of programs.
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ceph2map
+Language C
+EXE ceph2map   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
-      <title>C11. CFC</title>
+      <title>CFC</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/cfc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/cfc/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Contribution, Inbreeding (F) and Coancestry&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (April 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;This is a general-purpose program for monitoring genetic diversity. CFC allows for several pedigree analyses such as: (1) computing inbreeding coefficients and relationships; (2) computing average relationships very quickly within and between specified groups of individuals; (3) computing average relatedness; (4) ancestral decomposition of the average or the individual inbreeding coefficient; (5) ancestral decomposition of the average coancestry; (6) optimizing matings to minimize the average inbreeding coefficients in the next generation; (7) computing founder equivalent, founder genome equivalent and effective number of non-founders; (8) computing numerator relationship matrix, its Cholesky decomposition and its inverse; (9) providing useful information on the structure of pedigrees&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Mehdi Sargolzaei (University of Guelph)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Hiroaki Iwaisaki&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jean-Jacques Colleau&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://agrews.agr.niigata-u.ac.jp/~iwsk/cfc.html&#34;&gt;http://agrews.agr.niigata-u.ac.jp/~iwsk/cfc.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Visual C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows(98/NT/XP)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;M Sargolzaei, H Iwaisaki, JJ Colleau (2006), &amp;ldquo;CFC: a tool for monitoring genetic diversity&amp;rdquo;, Proceedings of the 8th World Congress on Genetics Applied to Livestock Production, CD-Rom comm. N 27-28.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/cfc&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/cfc with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;cfc&#39;; // Replace cfc with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Contribution, Inbreeding (F) and Coancestry
+Version 1.0 (April 2006)
+Description This is a general-purpose program for monitoring genetic diversity. CFC allows for several pedigree analyses such as: (1) computing inbreeding coefficients and relationships; (2) computing average relationships very quickly within and between specified groups of individuals; (3) computing average relatedness; (4) ancestral decomposition of the average or the individual inbreeding coefficient; (5) ancestral decomposition of the average coancestry; (6) optimizing matings to minimize the average inbreeding coefficients in the next generation; (7) computing founder equivalent, founder genome equivalent and effective number of non-founders; (8) computing numerator relationship matrix, its Cholesky decomposition and its inverse; (9) providing useful information on the structure of pedigrees</description>
     </item>
     
     <item>
-      <title>C12. CHAPLIN</title>
+      <title>CHAPLIN</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/chaplin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/chaplin/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Case-control HAPLotype INference package&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2.2&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Chaplin is a software program for identifying specific haplotypes or haplotype features that are associated with disease using genotype data from a case-control study.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Richard Duncan&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Michael Epstein&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Glen Satten (Emory University)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.genetics.emory.edu/labs/epstein/software/chaplin/index.html&#34;&gt;http://www.genetics.emory.edu/labs/epstein/software/chaplin/index.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN90 (CVF 6.6) with IMSL routines&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (2000/XP)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;chaplin.exe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;M Epstein, G Satten (2003), &amp;ldquo;Inference on haplotype effects in case-control studies using unphased genotype data&amp;rdquo;, American Journal of Human Genetics, 73(6):1316-1329&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Satten, Epstein (2004), &amp;ldquo;Comparison of prospective and retrospective methods for haplotype inference in case-control studies&amp;rdquo;, Genetic Epidemiology, 27(3):192-201
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/chaplin&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/chaplin with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;chaplin&#39;; // Replace chaplin with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Case-control HAPLotype INference package
+Version 1.2.2
+Description Chaplin is a software program for identifying specific haplotypes or haplotype features that are associated with disease using genotype data from a case-control study.
+Author  Richard Duncan
+ Michael Epstein
+ Glen Satten (Emory University)
+  URL http://www.genetics.emory.edu/labs/epstein/software/chaplin/index.html
+Language FORTRAN90 (CVF 6.6) with IMSL routines
+OS MS-Windows (2000/XP)
+EXE chaplin.</description>
     </item>
     
     <item>
-      <title>C13. CHECKHET</title>
+      <title>CHECKHET</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/checkhet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/checkhet/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;March&amp;rsquo;02 version&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a program to detect genetically abnormal subjects in a case-control sample based on genotypes at multiple marker loci.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&#34;&gt;http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.smd.qmul.ac.uk/statgen/software/dcurtis/chhet10.zip&#34;&gt;http://www.smd.qmul.ac.uk/statgen/software/dcurtis/chhet10.zip&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;D Curtis, BV North, H Gurling, E Blaveri, PC Sham (2002), &amp;ldquo;A quick and simple method for detecting subjects with abnormal genetic background in case-control samples&amp;rdquo;, Annals of Human Genetics, 66:235-244.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/checkhet&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/checkhet with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;checkhet&#39;; // Replace checkhet with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version March&amp;rsquo;02 version
+Description a program to detect genetically abnormal subjects in a case-control sample based on genotypes at multiple marker loci.
+Author Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+ http://www.smd.qmul.ac.uk/statgen/software/dcurtis/chhet10.zip
+  OS MS-Windows, UNIX
+Reference D Curtis, BV North, H Gurling, E Blaveri, PC Sham (2002), &amp;ldquo;A quick and simple method for detecting subjects with abnormal genetic background in case-control samples&amp;rdquo;, Annals of Human Genetics, 66:235-244.</description>
     </item>
     
     <item>
-      <title>C14. CHECKMATRIX</title>
+      <title>CHECKMATRIX</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/checkmatrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/checkmatrix/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
-
-&lt;dl&gt;
-&lt;dd&gt;PY_MATRIX_2D&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;v248&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CheckMatrix serves as a visualization tool to validate constructed genetic maps. CheckMatrix generates graphical genotypes and two-dimensional heat plots of pairwise scores. Visualization of regions with positive and negative linkage as well as of allele fraction per marker simplifies genetic map validation without applying statistical approaches. CheckMatrix works in conjunction with MadMapper and freely available at &lt;a href=&#34;http://www.atgc.org/XLinkage/MadMapper/&#34;&gt;http://www.atgc.org/XLinkage/MadMapper/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Alexander Kozik (UC Davis)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.atgc.org/XLinkage/&#34;&gt;http://www.atgc.org/XLinkage/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Python
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/checkmatrix&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/checkmatrix with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;checkmatrix&#39;; // Replace checkmatrix with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Other Name  PY_MATRIX_2D  Version v248
+Description CheckMatrix serves as a visualization tool to validate constructed genetic maps. CheckMatrix generates graphical genotypes and two-dimensional heat plots of pairwise scores. Visualization of regions with positive and negative linkage as well as of allele fraction per marker simplifies genetic map validation without applying statistical approaches. CheckMatrix works in conjunction with MadMapper and freely available at http://www.</description>
     </item>
     
     <item>
-      <title>C15. CHIAMO</title>
+      <title>CHIAMO</title>
       <link>https://gaow.github.io/genetic-analysis-software/c/chiamo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/chiamo/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.2.1 (Oct 2007)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;CHIAMO is a program for calling genotypes from the Affymetrix 500K Mapping chip. The program allows for multiple cohorts which have potentially different intensity characteristics that can lead to elevated false-positive rates in genome-wide studies. The underlying model has a hierarchical structure that allows for correlation between the parameters of each cohort. The output files produced by CHIAMO feed directly into both the programs SNPTEST and IMPUTE. CHIAMO was used to call genotypes for the 7 genome-wide association studies carried out by the Wellcome Trust Case-Control Consortium (WTCCC).&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Jonathan Marchini&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~marchini/software/gwas/chiamo.html&#34;&gt;http://www.stats.ox.ac.uk/~marchini/software/gwas/chiamo.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Marchini, Spencer, Teo, Donnelly (2007), &amp;ldquo;A Bayesian hierarchical mixture model for genotype calling in a multi-cohort study&amp;rdquo;,
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/c/chiamo&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/c/chiamo with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;chiamo&#39;; // Replace chiamo with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.2.1 (Oct 2007)
+Description CHIAMO is a program for calling genotypes from the Affymetrix 500K Mapping chip. The program allows for multiple cohorts which have potentially different intensity characteristics that can lead to elevated false-positive rates in genome-wide studies. The underlying model has a hierarchical structure that allows for correlation between the parameters of each cohort. The output files produced by CHIAMO feed directly into both the programs SNPTEST and IMPUTE.</description>
+    </item>
+    
+    <item>
+      <title>CHIP2SPELL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/chip2spell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/chip2spell/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.2 (September 2009)
+Description Chip2Spell aims to speed up the preparation of linkage data files passed on to the Alohomora software for data from the Affymetrix or Illumina assays. Chip2Spell gathers the information necessary to supplement the genotype data (such as the genetic map of the markers and the population-specific allele frequencies) from publicly available annoation files from Affymetrix and Illumina.</description>
+    </item>
+    
+    <item>
+      <title>CHROMOSCAN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/chromoscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/chromoscan/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0
+Description CHROMOSCAN is an implementation of a genome-based scan statistic that detects genomic regions, which are statistically significant for targeted measurements, such as genetic associations with disease, gene expression profiles, DNA copy number variations, as well as other genome-based measurements.
+Author  Yan V Sun (email:yansun@umich.edu)
+ Douglas M Jacobsen
+ Sharon LR Kardia (email: kardiasoftware@umich.edu) (University of Michigan)</description>
+    </item>
+    
+    <item>
+      <title>CHROMOSEG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/chromoseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/chromoseg/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0
+Description A simulation program that simulates and plots (in real time) ancestral recombination graphs. This is currently primarily a teaching/educational tool.
+Author Eric C Anderson (email: eric.anderson@stanfordalumni.org)
+URL http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>CHROMSCAN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/chromscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/chromscan/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version beta (December 11, 2006)
+Description CHROMSCAN is a statistical based program for association mapping of disease genes. It utilises the Malecot model and the linkage disequilibrium (LD) map for the candidate region to analyse the genotypes derive from large sample of matched cases and controls.
+Author A.R. Collins (University of Southampton)
+URL http://www.som.soton.ac.uk/research/geneticsdiv/epidemiology/chromscan/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>CLUMP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/clump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/clump/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Monte Carlo method for assessing significance of a case-control association study with multi-allelic marker.
+Author Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+ ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+  Language C
+OS MS-DOS
+Reference Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>CLUSTAG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/clustag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/clustag/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2
+Description hierarchical clustering and graph methods for selecting tage SNPs
+Author  Sio Iong Ao
+ Michael K Ng (Dept of Mathematics, University of Hong Kong)
+ Kevin Yip
+ David Cheung (Dept of Computer Science, University of Hong Kong)
+ Pak Sham
+ Pui Yee Fong
+ Ian Melhado (Genome Research Center, University of Hong Kong)
+  URL http://hkumath.</description>
+    </item>
+    
+    <item>
+      <title>CMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/cmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/cmap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name genetic and comparative maps
+Version 0.06 (June 14, 2006)
+Description CMAP is a web-based tool that allows users to view comparisons of genetic and physical maps. The package also includes tools for curating map data.
+Author  Ken Y Clark (email: kclark@cshl.org)
+ Lincoln Stein (email: lstein@cshl.org)
+ Doreen Ware (email: ware@cshl.org)
+  URL  http://www.gmod.org/cmap/
+ https://sourceforge.</description>
+    </item>
+    
+    <item>
+      <title>COMBIN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/combin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/combin/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1
+Description Designed for the construction of highly saturated linkage maps, based on BC1, DH, Radiation Hybrid or CP (CrossPollinators) data sets. F2 is not supported.
+Author  Jaap Buntjer (Lab of Plant Breeding, Wageningen University. email: jaap.buntjer@users.pv.wau.nl)
+ Herman van Eck (email: herman.vaneck@users.pv.wau.nl)
+  URL http://www.dpw.wau.nl/pv/pub/combin/
+Language Visual Basic 5
+OS MS-Windows (95/98/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>COMDS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/comds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/comds/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description for combined segregation and linkage analysis, incorporating severity and diathesis.
+Author NE Morton (University of Southampton, UK)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/comds
+Language SUN FORTRAN (the command &amp;ldquo;fsplit&amp;rdquo; is needed)
+OS UNIX (SunOS/..)
+EXE list1,com1, comds (shell script)
+Reference manual (November 1993)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>COMPOSITELD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/compositeld/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/compositeld/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.2.1 (December 2006)
+Description A method to compute composite measures of linkage disequilibrium, their variances and covariances, and statistical tests, for all pairs of alleles from two loci when linkage phase is unkown. An extension of Weir and Cockerham (1989) to apply to multi-allelic loci.
+Author Daniel Schaid (Mayo Clinic)
+URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
+Language R/S-PLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>COPE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/cope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/cope/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name COllaborative Pedigree drawing Environment
+Description includes a Java program for drawing pedigrees and a standardized system for pedigree storage. Unlike other existing pedigree programs, this software is particularly intended for epidemiologists in the sense that it allows customized automatic drawing of large numbers of pedigrees and remote and distributed consultation of pedigrees.
+Author  L Brun-Samarcq
+ S Gallina</description>
+    </item>
+    
+    <item>
+      <title>COVIBD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/covibd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/covibd/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description CovIBD refines linkage analysis of affected sibpairs by considering attributes or environmental exposures thought to affect disease liability. This refinement utilizes a mixture model in which a disease mutation segregates in only a fraction of the sibships, with the rest of the sibships unlinked. Covariate information is used to predict membership within the two groups corresponding to the linked and unlinked sibships.</description>
+    </item>
+    
+    <item>
+      <title>CRIMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/crimap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/crimap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.4
+Description constructing multilocus linkage map
+Author Phil Green (Univ. of Washington, email: phg@u.washington.edu)
+URL http://compgen.rutgers.edu/Crimap/
+Language C
+OS UNIX, MS-Windows(XP)
+EXE crimap
+Reference  Lander, Green (1987), Proceedings of the National Academy of Sciences , 84:2363-2367.
+ documentation (version 2.4, 1990).
+ Tutorial (from biobase.dk)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>CRIMAP-PVM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/crimap-pvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/crimap-pvm/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name CRIMAP with Parallel Virtual Machine
+Description a parallel version of CRIMAP
+Author  Tara Matise (email: matise@biology.rutgers.edu)
+ Mark Schroeder
+ Donald Chiarulli
+ Daniel E. Weeks
+  URL http://compgen.rutgers.edu/multimap/crimappvm.html
+Language C, PVM
+Reference Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>CROSSFIND</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/crossfind/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/crossfind/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Other Name s: BREAKPOINT, BPT
+Version October 1995
+Description software for detecting and displaying well-characterized meiotic breakpoints in human family data. another program, CRIMAP, is used.
+Author J. Attwood (Sanger Centre, email: ja1@sanger.ac.uk)
+URL http://www.gene.ucl.ac.uk/public-files/packages/jattwood/
+Language C
+OS UNIX(SunOS)
+Reference Attwood, Povey (1996), Annals of Human Genetics, 60:487-498.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>CYRILLIC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/c/cyrillic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/c/cyrillic/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version version 3 (October 1999)
+Description pedigree drawing with fully integrated risk analysis and support for industry standard databases (MS Access and Corel Paradox). designed for genetic counselors and others who work with patients. if you use genetic marker data you need Cyrillic 2. (version 2) this version of Cyrillic draws pedigrees, works with genetic marker data, lets you do haplotyping and allows exports to a range of linkage analysis packages.</description>
     </item>
     
   </channel>

@@ -2,1024 +2,695 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>H on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/h/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/h/</link>
     <description>Recent content in H on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/h/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/h/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>H1. HAP 1</title>
+      <title>HAP 1</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-1/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;haplotype resolution using imperfect phylogeny&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;3.0&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Eleazar Eskin ( eeskin@cs.ucsd.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://research.calit2.net/hap/&#34;&gt;http://research.calit2.net/hap/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.columbia.edu/compbio/hap/&#34;&gt;http://www.cs.columbia.edu/compbio/hap/&lt;/a&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hap-1&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hap-1 with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hap-1&#39;; // Replace hap-1 with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name haplotype resolution using imperfect phylogeny
+Version 3.0
+Author Eleazar Eskin ( eeskin@cs.ucsd.edu)
+URL  http://research.calit2.net/hap/
+ http://www.cs.columbia.edu/compbio/hap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.</description>
     </item>
     
     <item>
-      <title>H2. HAP 2</title>
+      <title>HAP 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-2/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;HAPlotype analysis of polymorphic markers&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;(MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&#34;&gt;http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, UNIX(Solaris), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hap-2&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hap-2 with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hap-2&#39;; // Replace hap-2 with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HAPlotype analysis of polymorphic markers
+Author (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
+URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
+Language C
+OS MS-Windows, UNIX(Solaris), Linux
+Reference Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>H3. HAP-SAMPLE</title>
+      <title>HAP-SAMPLE</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-sample/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;HAP-SAMPLE is a web application for simulating SNP genotypes for case-control and affected-child trio studies by resampling from Phase I/II HapMap SNP data. The user provides a list of SNPs to be &amp;ldquo;genotyped,&amp;rdquo; along with a disease model file that describes causal SNPs and their effect sizes. The simulation tool is appropriate for candidate regions or whole-genome scans.&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.hapsample.org/&#34;&gt;http://www.hapsample.org/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;web-based&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Wright, Huang, Guan, Gamiel, Jeffreis, Barry, Pardo-Manuel, Sullivan, Wilhelmsen, Zou (2007), &amp;ldquo;Simulating association studies: a data-based resampling method for candidate regions or whole genome scans&amp;rdquo;, preprint.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hap-sample&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hap-sample with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hap-sample&#39;; // Replace hap-sample with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HAP-SAMPLE is a web application for simulating SNP genotypes for case-control and affected-child trio studies by resampling from Phase I/II HapMap SNP data. The user provides a list of SNPs to be &amp;ldquo;genotyped,&amp;rdquo; along with a disease model file that describes causal SNPs and their effect sizes. The simulation tool is appropriate for candidate regions or whole-genome scans.
+URL http://www.</description>
     </item>
     
     <item>
-      <title>H4. HAPAR</title>
+      <title>HAPAR</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapar/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;HAplotype inference by PARsimony&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;HAPAR is a program to infer haplotype from genotype data. It uses the parsimony principle, i.e. try to find the minimum number of haplotypes that can reconstruct the input genotypes.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Lusheng Wang (City University of Hong Kong)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Ying Xu (Stanford Univ)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://theory.stanford.edu/~xuying/hapar/&#34;&gt;http://theory.stanford.edu/~xuying/hapar/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.cs.cityu.edu.hk/~lwang/hapar/index.html&#34;&gt;http://www.cs.cityu.edu.hk/~lwang/hapar/index.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Window, UNIX(Solaris/..)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Wang, Xu (2003), &amp;ldquo;Haplotype inference by maximum parsimony&amp;rdquo;, Bioinformatics, 19(14):1773-1780.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapar&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapar with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapar&#39;; // Replace hapar with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HAplotype inference by PARsimony
+Description HAPAR is a program to infer haplotype from genotype data. It uses the parsimony principle, i.e. try to find the minimum number of haplotypes that can reconstruct the input genotypes.
+Author  Lusheng Wang (City University of Hong Kong)
+ Ying Xu (Stanford Univ)
+  URL  http://theory.stanford.edu/~xuying/hapar/
+ http://www.cs.cityu.edu.hk/~lwang/hapar/index.html
+  OS MS-Window, UNIX(Solaris/.</description>
     </item>
     
     <item>
-      <title>H5. HAPASSOC</title>
+      <title>HAPASSOC</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapassoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapassoc/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;R/HAPASSOC
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapassoc&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapassoc with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapassoc&#39;; // Replace hapassoc with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/HAPASSOC   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapassoc&#39;; // Replace http://gaow.github.io/genetic-analysis-software/h/hapassoc with your page&#39;s canonical URL variable this.page.identifier = &#39;hapassoc&#39;; // Replace hapassoc with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
-      <title>H6. HAPBLOCK</title>
+      <title>HAPBLOCK</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapblock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapblock/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;a dynamical programming algorithm for haplotype block partitioning&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2002&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Kui Zhang&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fengzhu Sun (USC)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www-hto.usc.edu/msms/HapBlock/&#34;&gt;http://www-hto.usc.edu/msms/HapBlock/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, Linux, UNIX(Solaris)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapblock&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapblock with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapblock&#39;; // Replace hapblock with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name a dynamical programming algorithm for haplotype block partitioning
+Version 2002
+Author  Kui Zhang
+ Fengzhu Sun (USC)
+  URL http://www-hto.usc.edu/msms/HapBlock/
+Language C
+OS MS-Windows, Linux, UNIX(Solaris)
+Reference  Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.
+ Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.</description>
     </item>
     
     <item>
-      <title>H7. HAPBLOCK 2</title>
+      <title>HAPBLOCK 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapblock-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapblock-2/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;April 2004&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Adrian Paul Mander (Boston College) (email: adrian.mander@mrc-hnr.cam.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://econpapers.repec.org/software/bocbocode/s438902.htm&#34;&gt;http://econpapers.repec.org/software/bocbocode/s438902.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Stata
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapblock-2&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapblock-2 with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapblock-2&#39;; // Replace hapblock-2 with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version April 2004
+Author Adrian Paul Mander (Boston College) (email: adrian.mander@mrc-hnr.cam.ac.uk)
+URL http://econpapers.repec.org/software/bocbocode/s438902.htm
+Language Stata   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapblock-2&#39;; // Replace http://gaow.github.io/genetic-analysis-software/h/hapblock-2 with your page&#39;s canonical URL variable this.</description>
     </item>
     
     <item>
-      <title>H8. HAPGEN</title>
+      <title>HAPGEN</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapgen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapgen/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.3.0 (Jan 2008)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;HAPGEN is a program thats simulates case control datasets at SNP markers and can output data in the FILE FORMAT used by IMPUTE, SNPTEST and GTOOL. The approach can handle markers in LD and can simulate datasets over large regions such as whole chromosomes. Hapgen simulates haplotypes by conditioning on a set of population haplotypes and an estimate of the fine-scale recombination rate across the region. The disease model is specified through the choice of a single SNP as the disease causing variant together with the relative risks of the genotypes at the disease SNP. The program is designed to work with publically available files that contain the haplotypes estimated as part of the HapMap project and the estimated fine-scale recombination map derived from that data. Hapgen is computationally tractable. On a modern desktop HAPGEN can simulate several thousand case and control data on a whole chromosome at Hapmap Phase 2 marker density within minutes. This program has been used to assess the power of several different commercially available genotyping chips, in the design stage of the 7 genome-wide association studies carried out by the Wellcome Trust Case-Control Consortium (WTCCC) and for evaluating the power of different methods for detecting association in genome-wide studies.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Zhan Su&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jonathan Marchini&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Peter Donnelly (Univ of Oxford, UK)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~marchini/software/gwas/hapgen.html&#34;&gt;http://www.stats.ox.ac.uk/~marchini/software/gwas/hapgen.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapgen&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapgen with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapgen&#39;; // Replace hapgen with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.3.0 (Jan 2008)
+Description HAPGEN is a program thats simulates case control datasets at SNP markers and can output data in the FILE FORMAT used by IMPUTE, SNPTEST and GTOOL. The approach can handle markers in LD and can simulate datasets over large regions such as whole chromosomes. Hapgen simulates haplotypes by conditioning on a set of population haplotypes and an estimate of the fine-scale recombination rate across the region.</description>
     </item>
     
     <item>
-      <title>H9. HAPINFERX</title>
+      <title>HAPINFERX</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapinferx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapinferx/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;(Jul 1999)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Andrew Clark (email: ac347@cornell.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;(temporary) source code , input example file , output example file&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapinferx&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/hapinferx with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;hapinferx&#39;; // Replace hapinferx with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version (Jul 1999)
+Author Andrew Clark (email: ac347@cornell.edu)
+URL (temporary) source code , input example file , output example file
+Language FORTRAN
+Reference Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>H10. HAPLO 1</title>
+      <title>HAPLO 1</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo-1/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Haplotyping with computation of conditional probabilities&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;version 1.00 (feb 5, 1996)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;assigns each person the haplotype with the highest conditional probability using Elston-Stewart algorithm&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Daniel E. Weeks (Pittsburgh)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Kenneth Lange (UCLA) (Collaborators: Jeffrey R O&amp;rsquo;Connell, Eric Sobel)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://watson.hgen.pitt.edu/register/soft_doc.html&#34;&gt;http://watson.hgen.pitt.edu/register/soft_doc.html&lt;/a&gt;,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;registration page at: &lt;a href=&#34;http://watson.hgen.pitt.edu/register&#34;&gt;http://watson.hgen.pitt.edu/register&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Fortran 77 (ANSI standard)&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX (SunOS/Solaris/HP)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Sobel, Lange, O&amp;rsquo;Connell and Weeks, in &amp;ldquo;Genetic Mapping and DNA Sequencing&amp;rdquo; (IMA Volumes in Mathematics and its Applications) eds. T.P. Speed and M.S. Waterman (Springer-Verlag, 1995).&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Weeks, Sobel, O&amp;rsquo;Connell, Lange (1995), American Journal of Human Genetics, 56(6):1506-1507
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haplo-1&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haplo-1 with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haplo-1&#39;; // Replace haplo-1 with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name  Haplotyping with computation of conditional probabilities
+ version 1.00 (feb 5, 1996)
+  Description assigns each person the haplotype with the highest conditional probability using Elston-Stewart algorithm
+Author  Daniel E. Weeks (Pittsburgh)
+ Kenneth Lange (UCLA) (Collaborators: Jeffrey R O&amp;rsquo;Connell, Eric Sobel)
+  URL  http://watson.hgen.pitt.edu/register/soft_doc.html,
+ registration page at: http://watson.hgen.pitt.edu/register
+  Language Fortran 77 (ANSI standard)</description>
     </item>
     
     <item>
-      <title>H11. HAPLO 2</title>
+      <title>HAPLO 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo-2/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.5 (1998)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Estimates frequencies of multi-site haplotypes using the EM algorithm&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ME Hawley&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;KK Kidd&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://krunch.med.yale.edu/haplo/&#34;&gt;http://krunch.med.yale.edu/haplo/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;DEC VAX&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haplo-2&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haplo-2 with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haplo-2&#39;; // Replace haplo-2 with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.5 (1998)
+Description Estimates frequencies of multi-site haplotypes using the EM algorithm
+Author  ME Hawley
+ KK Kidd
+  URL http://krunch.med.yale.edu/haplo/
+Language FORTRAN
+OS DEC VAX
+Reference Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>H12. HAPLO.STAT</title>
+      <title>HAPLO.STAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo.stat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo.stat/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;other-name&#34;&gt;Other Name&lt;/h2&gt;
-
-&lt;p&gt;HAPLO.SCORE&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2.0 (2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;A suite of routines for the analysis of indirectly measured haplotypes.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Dan Schaid&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jason Sinnwell&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Charles Rowland&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David Tines (Mayo Clinic)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm&#34;&gt;http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;S-plus 6.1.2, R 1.7.1&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;haplo.em, haplo.glm, haplo.score&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haplo.stat&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haplo.stat with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haplo.stat&#39;; // Replace haplo.stat with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Other Name HAPLO.SCORE
+Version 1.2.0 (2005)
+Description A suite of routines for the analysis of indirectly measured haplotypes.
+Author  Dan Schaid
+ Jason Sinnwell
+ Charles Rowland
+ David Tines (Mayo Clinic)
+  URL http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm
+Language S-plus 6.1.2, R 1.7.1
+OS UNIX
+EXE haplo.em, haplo.glm, haplo.score
+Reference Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>H13. HAPLOBLOCK</title>
+      <title>HAPLOBLOCK</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haploblock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haploblock/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2 (April 28, 2004)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;HAPLOBLOCK is a software package which provides an integrated approach to haplotype block identification, haplotype resolution and linkage disequilibrium mapping, suitable for high-density phased or unphased SNP data.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Gideon Greenspan (web/ftp: &lt;a href=&#34;http://www.gidgreen.com/&#34;&gt;http://www.gidgreen.com/&lt;/a&gt;) Dan Geiger (web/ftp: &lt;a href=&#34;http://www.cs.technion.ac.il/people/dang/&#34;&gt;http://www.cs.technion.ac.il/people/dang/&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris), Linux, MacOS X&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;haploblock_b, haploblock_n&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Greenspan, Geiger (2004), &amp;ldquo;Model-based inference of haplotype block variation&amp;rdquo;, Journal of Computational Biology, 11(2-3):493-504.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Greenspan, Geiger (2004), &amp;ldquo;High density linkage disequilibrium mapping using models of haplotype block variation&amp;rdquo;, Bioinformatics, 20(1):137-144.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Instruction Manual: &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Manual.pdf&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;LD Mapping Supplement &lt;a href=&#34;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&#34;&gt;http://bioinfo.cs.technion.ac.il/haploblock/HaploBlock_Mapping.pdf&lt;/a&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haploblock&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haploblock with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haploblock&#39;; // Replace haploblock with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (April 28, 2004)
+Description HAPLOBLOCK is a software package which provides an integrated approach to haplotype block identification, haplotype resolution and linkage disequilibrium mapping, suitable for high-density phased or unphased SNP data.
+Author Gideon Greenspan (web/ftp: http://www.gidgreen.com/) Dan Geiger (web/ftp: http://www.cs.technion.ac.il/people/dang/)
+URL http://bioinfo.cs.technion.ac.il/haploblock/
+Language C
+OS UNIX(Solaris), Linux, MacOS X
+EXE haploblock_b, haploblock_n
+Reference  Greenspan, Geiger (2004), &amp;ldquo;Model-based inference of haplotype block variation&amp;rdquo;, Journal of Computational Biology, 11(2-3):493-504.</description>
     </item>
     
     <item>
-      <title>H14. HAPLOBLOCKFINDER</title>
+      <title>HAPLOBLOCKFINDER</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haploblockfinder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haploblockfinder/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.7&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;HaploBlockFinder is a package for haplotype block identification, visualization and htSNP selection. It can also compare the haplotype block structure with local LD pattern. The program can be either run as a web service, or standalone executables on local machine.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Kun Zhang (kun.zhang@uth.tmc.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi&#34;&gt;http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C and Perl&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, MS-Windows&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.pl
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haploblockfinder&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haploblockfinder with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haploblockfinder&#39;; // Replace haploblockfinder with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.7
+Description HaploBlockFinder is a package for haplotype block identification, visualization and htSNP selection. It can also compare the haplotype block structure with local LD pattern. The program can be either run as a web service, or standalone executables on local machine.
+Author Kun Zhang (kun.zhang@uth.tmc.edu)
+URL http://cgi.uc.edu/cgi-bin/kzhang/haploBlockFinder.cgi
+Language C and Perl
+OS UNIX, MS-Windows
+EXE haploBlockFinder, hbfWrapper.pl, showLDmatrix.pl, drawBlocks.</description>
     </item>
     
     <item>
-      <title>H15. HAPLOBUILD</title>
+      <title>HAPLOBUILD</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplobuild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplobuild/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The analysis of large amounts of SNP data creates difficulties for the analysis of haplotypes and their association to traits of interest. Commonly fairly simple methods, such as two- or three-SNP sliding windows are used to create haplotypes across large regions, but these may be of limited value when adjacent SNPs are in strong LD and provide redundant information. We have created a novel program, &amp;ldquo;HaploBuild&amp;rdquo; for constructing and testing haplotypes for SNPs in close physical proximity to one another but which are not necessarily contiguous. Furthermore, the number of SNPs contained in the haplotype is not restricted, thereby permitting the evaluation of complex haplotype structures.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;JM Laramie&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;JB Wilk&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;AL DeStefano&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;RH Myers (Boston University)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://snp.bumc.bu.edu/modules.php?name=HaploBuild&#34;&gt;http://snp.bumc.bu.edu/modules.php?name=HaploBuild&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Perl&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Linux, MS-Windows, MacOS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Laramie, Wilk, DeStefano, Myers (2007), &amp;ldquo;HaploBuild: an algorithm to construct non-contiguous associated haplotypes in family based genetic studies&amp;rdquo;, Bioinformatics, 23(16):2190-2192.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/haplobuild&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/h/haplobuild with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;haplobuild&#39;; // Replace haplobuild with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description The analysis of large amounts of SNP data creates difficulties for the analysis of haplotypes and their association to traits of interest. Commonly fairly simple methods, such as two- or three-SNP sliding windows are used to create haplotypes across large regions, but these may be of limited value when adjacent SNPs are in strong LD and provide redundant information. We have created a novel program, &amp;ldquo;HaploBuild&amp;rdquo; for constructing and testing haplotypes for SNPs in close physical proximity to one another but which are not necessarily contiguous.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOCLUSTERS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haploclusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haploclusters/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a program designed to detect excess haplotypes sharing in datasets consisting of case and control haplotypes. Excess haplotype sharing can be seen around disease loci in case samples since LD persists longer here than in the controls where LD is persisting only according to the relatedness of the individuals in the population, i.e. the age of the population.
+Author Melanie Bahlo (email: bahlo@wehi.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOPAINTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplopainter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplopainter/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.027b
+Description A pedigree drawing program, suitable in processing haplotype outputs from GENEHUNTER, ALLEGRO, MERLIN, and SIMWALK
+Author  Holger Thiele
+ Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).
+  URL http://haplopainter.sourceforge.net/html/ManualIndex.htm
+Language Perl
+Reference Thiele, Nurnberg (2005), &amp;ldquo;HaploPainter: a tool for drawing pedigrees with complex haplotypes&amp;rdquo;, Bioinformatics, 21(8):1730-1732.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOPOOL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplopool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplopool/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HaploPool is a program for estimating haplotype frequencies either from genotypes of individuals or from genotypes of pooled individuals. The genotypes must be for a block of bi-allelic SNPs (meaning that the SNPs should be in linkage disequilibrium with each other). The program assumes that it is given many genotypes of unrelated diploid individuals in Hardy-Weinberg equilibrium. If the genotypes are from pooled DNA, the program assumes that every pool contains the same number of individuals and the individuals were chosen at random when placed into the pools.</description>
+    </item>
+    
+    <item>
+      <title>HAPLORE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplore/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HAPLOtype REconstruction in pedigrees
+Description haplotype reconstruction in general pedigree without recombination
+Author Hongyu Zhao (Yale, email: hongyu.zhao@yale.edu)
+URL http://bioinformatics.med.yale.edu/group/software.html
+Reference Zhang, Sun, Zhao (2005), &amp;ldquo;HAPLORE: a program for haplotype reconstruction in general pedigrees without recombination&amp;rdquo;, Bioinformatics, 21(1):90-103.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOREC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplorec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplorec/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description population-based haplotyping
+URL http://www.cs.helsinki.fi/group/genetics/haplotyping.html
+Reference Eronen, Geerts, Toivonen (2004), &amp;ldquo;A Markov Chain Approach to Reconstruction of Long Haplotypes&amp;rdquo;, Pacific Symposium on Biocomputing, 9:104-115.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplot/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.5 (March 1998)
+Description A simple program for graphical presentation of haplotype block structures, tagSNP selection and SNP variation.
+URL http://info.med.yale.edu/genetics/kkidd/programs.html
+Language FORTRAN
+OS VMS
+Reference Gu, Pakstis, Kidd (2005), &amp;ldquo;HAPLOT: a graphical comparison of haplotype blocks, tagSNP sets and SNP variation for multiple populations&amp;rdquo;, Bioinformatics, 21:3938-3939.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOTTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplotter/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HAPLOTTER is a web application that has been developed to display the results of a scan for positive selection in the human genome using the HapMap data. It can be used as a resource to examine various population genetic measures in a genomic region. Measures that are currently displayed include iHS (a statistic developed to detect recent positive selection), Fay and Wu&amp;rsquo;s H, Tajima&amp;rsquo;s D and Fst.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOTYPE ESTIMATION</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplotype-estimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplotype-estimation/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description The haplotype estimation service is available in two variants: one for genetic data from unrelated probands (e.g., case/control studies) and one for core family data
+Author  K Rohde
+ R Furst (MDC Berlin)
+  URL http://www.bioinf.mdc-berlin.de/projects/hap/
+Reference K Rohde, R Furst (2001), &amp;ldquo;Haplotyping and estimation of haplotype frequencies for closely linked biallelic multilocus genetic phenotypes including nuclear family information&amp;rdquo;, Human Mutation, 17(4):289-295.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOTYPER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplotyper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplotyper/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author  T Niu
+ Jun Liu (Harvard Univ)
+  URL http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm
+Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOVIEW</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haploview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haploview/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 3.32 (May 2006)
+Description Haploview is designed to simplify and expedite the process of haplotype analysis by providing a common interface to several tasks relating to such analyses. Haploview currently allows users to examine block structures, generate haplotypes in these blocks, run association tests, and save the data in a number of formats. All functionalities are highly customizable.
+Author Jeffrey Barrett (Whitehead Institute)</description>
+    </item>
+    
+    <item>
+      <title>HAPLOVISUAL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplovisual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplovisual/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author  Esko Ukkonen
+ Pasi Rastas
+  URL http://www.cs.helsinki.fi/u/prastas/haplovisual/
+Language java
+Reference Ukkonen (2002), &amp;ldquo;Finding founder sequences from a set of recombinants&amp;rdquo; Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>HAPLOWSER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/haplowser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/haplowser/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HAPLotype brOWSER
+URL http://embio.yonsei.ac.kr/haplowser/
+Language Java
+Reference Kim, Kim, Waterman, Park, Li (2009), &amp;ldquo;HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome&amp;rdquo;, Bioinformatics, 25(18):2430-2431.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>HAPMINER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapminer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapminer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1 (2006)
+Description HapMiner is a computer program for association mapping based on directly mining the haplotypes from case-control data via a density-based clustering algorithm. HapMiner can be applied to whole-genome screens, as well as candidate-gene studies in small genomic regions.
+Author Jing Li (email:jingli@eecs.case.edu)
+URL http://vorlon.case.edu/~jxl175/HapMiner.html
+OS MS-Windows, Linux
+Reference Li and Jiang (2005), &amp;ldquo;Haplotype-based linkage disequilibrium mapping via direct data mining&amp;rdquo;, Bioinformatics, 21(24):4384-4393.</description>
+    </item>
+    
+    <item>
+      <title>HAPMIX</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapmix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapmix/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (March 2011)
+Description HAPMIX is an application for accurately inferring chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.
+Author Alkes Price (Harvard Univ)
+URL http://www.hsph.harvard.edu/faculty/alkes-price/software/
+Reference Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, Reich, Myers (2009), &amp;ldquo;Sensitive detection of chromosomal segments of distinct ancestry in admixed populations&amp;rdquo;, PLoS Genetics, 5(6):e1000519   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPMIXMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapmixmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapmixmap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HAPMIXMAP is a program for modelling extended haplotypes in genetic association studies, similar to the FASTPHASE program.
+Author  Paul McKeigue (email: paul.mckeigue@ucd.ie)
+ David O&amp;rsquo;Donnell (University College Dublin, Ireland)
+  URL  http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html
+ http://sourceforge.net/projects/hapmixmap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>HAPPY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/happy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/happy/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name reconstructing HAPlotYpes
+Description a software package for Multipoint QTL Mapping in Genetically Heterogeneous Animals
+Author Richard Mott (Wellcome Trust Centre for Human Genetics, UK. rmott@well.ox.ac.uk)
+URL http://www.well.ox.ac.uk/~rmott/happy.html
+Language ANSI C (requires NAG C library)
+OS UNIX(IRIX,SunOS), Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPSCOPE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapscope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapscope/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HapScope includes a comprehensive analysis pipeline and a sophisticated visualization tool for analyzing functionally annotated haplotypes.
+Author Jinghui Zhang (National Cancer Institute, NIH)
+URL http://lpg.nci.nih.gov/lpg_small/protocols/HapScope/
+Reference Zhang, Rowe, Struewing, Buetow (2002), &amp;ldquo;HapScope: a software system for automated and visual analysis of functionally annotated haplotypes&amp;rdquo;, Nucleic Acid Research, 30:5213-5221.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HAPSIMU</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapsimu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapsimu/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HAPSIMU is based on real haplotype data from the HapMap ENCODE project. This platform can simulate heterogeneous populations with various known and controllable structures under the continuous migration model or the discrete model. Moreover, both qualitative and quantitative traits can be simulated using additive genetic model with various genetic parameters designated by users.
+Author  Feng Zhang
+ Hong-Wen Deng</description>
+    </item>
+    
+    <item>
+      <title>HAPSTAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hapstat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hapstat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description HAPSTAT is a user-friendly software interface for the statistical analysis of haplotype-disease association. HAPSTAT allows the user to estimate or test haplotype effects and haplotype-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty and study design. The current version considers cross-sectional, case-control and cohort studies.
+Author  Danyu Lin
+ Donglin Zeng (email: linsoft@bios.unc.edu)
+  URL http://www.</description>
+    </item>
+    
+    <item>
+      <title>HARDY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hardy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hardy/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version July 1996
+Description Markov chain Monte Carlo program for association in two-dimensional contingency tables, and for testing Hardy-Weinberg equilibrium.
+Author Sun-Wei Guo (U. Minnesota, guo_s@epivax.epi.umn.edu, E.A. Thompson (Univ Washington)
+URL http://www.stat.washington.edu/thompson/Genepi/Hardy.shtml
+Language C
+OS UNIX(DEC-UNIX/..)
+Reference Guo and Thompson (1992), Biometrics, 48, 361-372.
+Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HCLUST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hclust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hclust/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a simple clustering method that can be used to rapidly identify a set of tag SNP&amp;rsquo;s based upon genotype data
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/hclust/hclust.htm
+Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+    </item>
+    
+    <item>
+      <title>HEGESMA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hegesma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hegesma/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HEterogeneity and GEnome Search Meta Analysis
+Description HEGESMA is a comprehensive software for performing genome scan meta-analysis, a quantitative method to identify genetic regions (bins) with consistently increased linkage score across multiple genome scans, and for testing the heterogeneity of the results of each bin across scans. The program provides as an output the average of ranks and three heterogeneity statistics, as well as corresponding significance levels.</description>
+    </item>
+    
+    <item>
+      <title>HELIXTREE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/helixtree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/helixtree/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name HelixTree Genetic Association Software
+Version 6
+Description Comprehensive toolset for population-based association studies. Perform allele, genotype, haplotype, multi-locus, runs of homozygosity, copy number variation, and regression-based association analysis on case-control, quantitative trait, and categorical type data.
+Author  Christophe Lambert
+ Dmitri Zaykin
+ Douglas Hawkins
+ Stanley Young
+ Alan Menius
+ Meg Ehm
+ Mike Mosteller</description>
+    </item>
+    
+    <item>
+      <title>HIT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hit/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Haplotype Inference Technique
+Author Pasi Rastas
+URL http://www.cs.helsinki.fi/u/prastas/hit/
+Language java
+Reference  Rastas, Koivisto, Mannila, Ukkonen (2005), &amp;ldquo;A Hidden Markov Technique for Haplotype Reconstruction&amp;rdquo;, 5th Workshop on Algorithms in Bioinformatics - WABI 2005
+ Rastas, Koivisto, Mannila, Ukkonen (2008), &amp;ldquo;Phasing genotypes using a hidden Markov model&amp;rdquo;, in eds. I Mandoiu and A Zelikovsky, Bioinformatics Algorithms: Techniques and Applications, pp.</description>
+    </item>
+    
+    <item>
+      <title>HOMOG/HOMOGM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/homoghomogm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/homoghomogm/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version HOMOGM: Dec 1998
+Author Jurg Ott (Rockefeller University)
+URL http://lab.rockefeller.edu/ott/programs
+Language Pascal
+EXE homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
+Reference  Ott (1986), Genetic Epidemiology, Suppl,1,251-257.
+ online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>HOMOZYGOSITYMAPPER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/homozygositymapper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/homozygositymapper/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description A web-based approach of homozygosity mapping that can handle tens of thousands markers. User can upload their own SNP genotype files to our database. Intuitive graphic interface is provided to view the homozygous stretches, with the ability of zooming into single chromosomes or user-defined chromosome regions. The underlying genotypes in all samples are displayed. The software is also integrated with our candidate gene search engine, GeneDistiller, so that users can interactively determine the most promising gene.</description>
+    </item>
+    
+    <item>
+      <title>HOTSPOTTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hotspotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hotspotter/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2.1
+Description Hotspotter implements the PAC (Products of Approximate Conditional) model for estimating recombination rate
+Author Na Li
+URL http://www.biostat.umn.edu/~nali/SoftwareListing.html
+Language C++
+EXE rholike, hotspot, fullopt
+Reference Li, Stephens (2003), Genetics, 165(4):2213-2233.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>HPLUS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hplus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hplus/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.5
+Description HPlus is an analysis tool for performing haplotype estimation on genetic markers such as SNPs and microsatellites. It is able to handle datasets that include case-control status as well as covariates and marker location variables (such as gene name, chromosome location, etc).
+Author  Sue Li
+ RJ Laws
+ LuePing Zhao (Fred Hutchinson Cancer Research Center)</description>
+    </item>
+    
+    <item>
+      <title>HS-TDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hs-tdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hs-tdt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Haplotype Sharing Transmission Disequilibrium Test
+Description testing association using tightly linked markers in nuclear pedigrees
+Author Shuanglin Zhang (email: shuzhang@mtu.edu)
+URL http://www.math.mtu.edu/~shuzhang/software.html
+OS UNIX, MS-Windows
+Reference  Zhang, Sha, Chen, Dong, Jiang (2003), &amp;ldquo;Transmission/disequilibrium test based on haplotype sharing for tightly linked markers&amp;rdquo;, American Journal of Human Genetics, 73(3):566-579
+ Zhang, Sha, Chen, Dong, Jiang (2004), &amp;ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&amp;rdquo; (letter), American Journal of Human Genetics, 74(3):591-593   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HTR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/htr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/htr/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Haplotype Trend Regression
+Version Aug 2002
+Description Haplotype association mapping using unrelated individuals; &amp;ldquo;fixed&amp;rdquo; and &amp;ldquo;sliding&amp;rdquo; window analysis; overall tests and tests for individual haplotype effects
+Author Dmitri Zaykin
+URL  http://statgen.ncsu.edu/zaykin/htr.html
+ ftp://statgen.ncsu.edu/pub/zaykin/htr/
+  Language C++, Bash shell
+OS Window, UNIX(Solaris)
+EXE emgi.exe (fixed number of markers), bash emgi.sh (sliding window)
+Reference Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002), &amp;ldquo;Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals&amp;rdquo;, Human Heredity, 53:79-91.</description>
+    </item>
+    
+    <item>
+      <title>HTSNPER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/htsnper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/htsnper/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Haplotype Tagging SNPer
+Version 1.0 (Dec 2003)
+Description htSNPer is a Java program for characterizing the haplotype block structure and selecting haplotype tagging SNP
+Author  Keyue Ding
+ Jing Zhang (email: zhjing98@mails.tsinghua.edu.cn)
+ Kaixin Zhou
+ Yan Shen
+ Xuegong Zhang (Tsinghua University, China)
+  URL http://www.chgb.org.cn/htSNPer/htSNPer.html
+Language C++, JVM
+OS MS-Windows, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HWESTRATA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hwestrata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hwestrata/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Calculates an exact stratified test for HWE for diallelic markers, such as single nucleotide polymorphisms (SNPs), and an exact test for homogeneity of Hardy Weinberg disequilbrium. In addition, exact tests for HWE are calculated for each stratum.
+Author Daniel Schaid (Mayo Clinic) (email: schaid@mayo.edu)
+URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
+Language C
+OS UNIX(Solaris), MS-Windows(XP)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>HWMET</title>
+      <link>https://gaow.github.io/genetic-analysis-software/h/hwmet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/h/hwmet/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Bayesian estimation of the population inbreeding coefficient f
+Author KL Ayres (email: k.l.ayres@reading.ac.uk)
+URL http://www.reading.ac.uk/Statistics/genetics/software.html
+Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hwmet&#39;; // Replace http://gaow.</description>
     </item>
     
   </channel>

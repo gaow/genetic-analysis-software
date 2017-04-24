@@ -2,1070 +2,1139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/s/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/s/</link>
     <description>Recent content in S on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/s/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/s/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>S1. SAGE</title>
+      <title>SAGE</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sage/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Statistical Analysis for Genetic Epidemiology&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;5.3&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The S.A.G.E. software provides researchers with the tools necessary for various types of statistical genetic analysis of human family data.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;R Elston&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;J Bailey-Wilson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;G Bonney&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;L. Tran&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;B. Keats&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A. Wilson&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://darwin.cwru.edu/sage/&#34;&gt;http://darwin.cwru.edu/sage/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C [version 4.0 will be in C++]&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;assoc, fcor, freq, genibd, lodlink, lodpal, markerinfo, mlod, pedinfo, reltest, segreg, sibpal, tdtex
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sage&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sage with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sage&#39;; // Replace sage with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Statistical Analysis for Genetic Epidemiology
+Version 5.3
+Description The S.A.G.E. software provides researchers with the tools necessary for various types of statistical genetic analysis of human family data.
+Author  R Elston
+ J Bailey-Wilson
+ G Bonney
+ L. Tran
+ B. Keats
+ A. Wilson
+  URL http://darwin.cwru.edu/sage/
+Language C [version 4.0 will be in C++]</description>
     </item>
     
     <item>
-      <title>S2. SAMTOOLS</title>
+      <title>SAMTOOLS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/samtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/samtools/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Sequence Alignment/Map TOOLS&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format. The parts that relevant to genetic analysis include SNP and indel callings.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Heng Li (Broad Institute)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Richard Durbin (Wellcome Trust Sanger Institute) et al.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://samtools.sourceforge.net/&#34;&gt;http://samtools.sourceforge.net/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C, C++, Java, Perl, Python, Ruby, Common LISP, Haskell&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Li, Handsaker, Wysoker, Fennell, Ruan, Homer, Marth, Abecasis, Durbin, and 1000 Genome Project Data Processing Subgroup (2009), &amp;ldquo;The sequence alignment/map (SAM) format and SAMtools&amp;rdquo;, Bioinformatics, 25:2078-2079.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/samtools&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/samtools with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;samtools&#39;; // Replace samtools with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sequence Alignment/Map TOOLS
+Description SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format. The parts that relevant to genetic analysis include SNP and indel callings.
+Author  Heng Li (Broad Institute)
+ Richard Durbin (Wellcome Trust Sanger Institute) et al.
+  URL http://samtools.sourceforge.net/</description>
     </item>
     
     <item>
-      <title>S3. SAS/GENETICS</title>
+      <title>SAS/GENETICS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasgenetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sasgenetics/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;add-on to the SAS System, Release 8.2&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Software for summarizing marker properties (allele &amp;amp; genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;W Czika&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;X Yu&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows, UNIX(HPUX/AIXR/Solaris/..), MVS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;introduction&lt;/p&gt;
-
-&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
-
-&lt;p&gt;please contact shannon.conners@jmp.com for details
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sasgenetics&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sasgenetics with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sasgenetics&#39;; // Replace sasgenetics with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version add-on to the SAS System, Release 8.2
+Description Software for summarizing marker properties (allele &amp;amp; genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests
+Author  W Czika
+ X Yu
+  Language C
+OS MS-Windows, UNIX(HPUX/AIXR/Solaris/.</description>
     </item>
     
     <item>
-      <title>S4. SASGENE</title>
+      <title>SASGENE</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasgene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sasgene/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.2 (March 1999)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a SAS computer program for gene segregation and linkage analysis in breeding population&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Jinsheng Liu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Todd Wehner&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sandy Donaghy&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&#34;&gt;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;SAS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sasgene&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sasgene with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sasgene&#39;; // Replace sasgene with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (March 1999)
+Description a SAS computer program for gene segregation and linkage analysis in breeding population
+Author  Jinsheng Liu
+ Todd Wehner
+ Sandy Donaghy
+  URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
+Language SAS
+Reference Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>S5. SASQUANT</title>
+      <title>SASQUANT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasquant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sasquant/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.1 (May 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a SAS software program to estimate genetic effects and heritabilities of quantitative traits in breeding populations consisting of six related generations&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Gabriele Gusmini&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Todd Wehner&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sandy B. Donaghy&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&#34;&gt;http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;SAS&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Gusmini, Wehner, Donaghy (2007), &amp;ldquo;SASQuant: A SAS software program to estimate genetic effects and heritabilities of quantitative traits in populations consisting of six related generations&amp;rdquo;, Journal of Heredity, 98(4):345-350.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sasquant&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sasquant with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sasquant&#39;; // Replace sasquant with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1 (May 2005)
+Description a SAS software program to estimate genetic effects and heritabilities of quantitative traits in breeding populations consisting of six related generations
+Author  Gabriele Gusmini
+ Todd Wehner
+ Sandy B. Donaghy
+  URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
+Language SAS
+Reference Gusmini, Wehner, Donaghy (2007), &amp;ldquo;SASQuant: A SAS software program to estimate genetic effects and heritabilities of quantitative traits in populations consisting of six related generations&amp;rdquo;, Journal of Heredity, 98(4):345-350.</description>
     </item>
     
     <item>
-      <title>S6. SCORE-SEQ</title>
+      <title>SCORE-SEQ</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/score-seq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/score-seq/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;SCORE-Seq is a command-line program for detecting disease associations with rare variants in sequencing studies. The mutation information is aggregated across multiple variant sites of a gene through a weighted linear combination and then related to disease phenotypes through appropriate regression models. The weights can be constant or dependent on allele frequencies and phenotypes. The association testing is based on score-type statistics. The allele-frequency threshold can be fixed or variable. Statistical significance can be assessed by using asymptotic normal approximation or resampling. The current release covers binary and continuous traits with arbitrary covariates under case-control and cross-sectional sampling.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Danyu Lin&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Zheng-Zheng Tang (Univ North Carolina)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.bios.unc.edu/~lin/software/SCORE-Seq/&#34;&gt;http://www.bios.unc.edu/~lin/software/SCORE-Seq/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Lin, Tang (2011), &amp;ldquo;A general framework for detecting disease associations with rare variants in sequencing studies&amp;rdquo;, American Journal of Human Genetics, 89:354-367.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/score-seq&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/score-seq with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;score-seq&#39;; // Replace score-seq with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SCORE-type tests for detecting disease associations with rare variants in SEQuencing Studies
+Description SCORE-Seq is a command-line program for detecting disease associations with rare variants in sequencing studies. The mutation information is aggregated across multiple variant sites of a gene through a weighted linear combination and then related to disease phenotypes through appropriate regression models. The weights can be constant or dependent on allele frequencies and phenotypes.</description>
     </item>
     
     <item>
-      <title>S7. SCOUT</title>
+      <title>SCOUT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/scout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/scout/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.00 (Jan 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Scout is a software program for conducting combined association analysis of triads and unrelated subjects&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Richard Duncan&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Michael Epstein (Emory University, email: statgen@genetics.emory.edu)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.genetics.emory.edu/labs/epstein/software/scout/index.html&#34;&gt;http://www.genetics.emory.edu/labs/epstein/software/scout/index.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Fortran (CVF 6.6) with IMSL routines&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows(2000/XP)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;scout_cl.exe, scout_gui.exe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Epstein, Veal, Trembath, Barker, Li, Satten (2005), &amp;ldquo;Genetic association analysis using data from triads and unrelated subjects&amp;rdquo;, American Journal of Human Genetics, 76(4):592-608. [ html]
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/scout&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/scout with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;scout&#39;; // Replace scout with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.00 (Jan 2006)
+Description Scout is a software program for conducting combined association analysis of triads and unrelated subjects
+Author  Richard Duncan
+ Michael Epstein (Emory University, email: statgen@genetics.emory.edu)
+  URL http://www.genetics.emory.edu/labs/epstein/software/scout/index.html
+Language Fortran (CVF 6.6) with IMSL routines
+OS MS-Windows(2000/XP)
+EXE scout_cl.exe, scout_gui.exe
+Reference Epstein, Veal, Trembath, Barker, Li, Satten (2005), &amp;ldquo;Genetic association analysis using data from triads and unrelated subjects&amp;rdquo;, American Journal of Human Genetics, 76(4):592-608.</description>
     </item>
     
     <item>
-      <title>S8. SDMINP</title>
+      <title>SDMINP</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sdminp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sdminp/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Step-Down MIN P-value&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (December 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;SDMinP is an easy-to-use program for fast calculation of empirical and adjusted p-values for correlated and uncorrelated hypotheses in multiple testing experiments. It is based on the Free Step-Down Resampling Method for controlling the Family Wise Error Rate, originally proposed by Westfall and Young (1993), and implements a variation of the efficient algorithm of Ge et al. (2003), in which the originally necessary re-sampling effort was reduced considerably and the method made computationally more feasible. The program is independent of the underlying test statistic and works with provided observed and permutation test statistics.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Markus Obreiter&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lars Beckmann (email: l.beckmann@dkfz.de)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.dkfz.de/SDMinP/&#34;&gt;http://www.dkfz.de/SDMinP/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Python 2.3.5&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux, MS-Windows&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Obreiter, Fischer, Chang-Claude, Beckmann (2005), &amp;ldquo;SDMinP: a program to control the family wise error rate using step-down minP adjusted p-values&amp;rdquo;, Bioinformatics, 21(14):3183-3184.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sdminp&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sdminp with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sdminp&#39;; // Replace sdminp with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Step-Down MIN P-value
+Version 1.0 (December 2005)
+Description SDMinP is an easy-to-use program for fast calculation of empirical and adjusted p-values for correlated and uncorrelated hypotheses in multiple testing experiments. It is based on the Free Step-Down Resampling Method for controlling the Family Wise Error Rate, originally proposed by Westfall and Young (1993), and implements a variation of the efficient algorithm of Ge et al.</description>
     </item>
     
     <item>
-      <title>S9. SEGPATH</title>
+      <title>SEGPATH</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/segpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/segpath/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;SEGregation analysis and PATH analysis&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Michael A. Province (email: mike@wubios.wustl.edu)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.biostat.wustl.edu/~mike/segpath/&#34;&gt;http://www.biostat.wustl.edu/~mike/segpath/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Province, Rao (1995), &amp;ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&amp;rdquo;, Genetic Epidemiology, 12(2):203-219.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Province, Rice, Borecki, Gu, Kraja, Rao (2003), &amp;ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&amp;rdquo;, Genetic Epidemiology, 24(2):128-138.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/segpath&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/segpath with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;segpath&#39;; // Replace segpath with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SEGregation analysis and PATH analysis
+Author Michael A. Province (email: mike@wubios.wustl.edu)
+URL http://www.biostat.wustl.edu/~mike/segpath/
+Reference  Province, Rao (1995), &amp;ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&amp;rdquo;, Genetic Epidemiology, 12(2):203-219.
+ Province, Rice, Borecki, Gu, Kraja, Rao (2003), &amp;ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&amp;rdquo;, Genetic Epidemiology, 24(2):128-138.</description>
     </item>
     
     <item>
-      <title>S10. SELSIM</title>
+      <title>SELSIM</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/selsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/selsim/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.1 (June 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;When designing methods which provide the necessary power to detect regions of the genome which have experience historical selective pressures it is important to consider which patterns of genetic diversity are indicative of particular forms of natural selection. SELSIM is a program which can simulate population genetic data in which a single site has experienced natural selection.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Chris Spencer (Univ of Oxford, email: spencer@stats.ox.ac.uk)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/mathgen/software.html&#34;&gt;http://www.stats.ox.ac.uk/mathgen/software.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html&#34;&gt;http://www.stats.ox.ac.uk/~spencer/SelSim/Controlfile.html&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C,C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows(XP), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Spencer, Coop (2004), &amp;ldquo;SelSim: a program to simulate population genetic data with natural selection and recombination&amp;rdquo;, Bioinformatics, 20:3673-3675.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/selsim&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/selsim with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;selsim&#39;; // Replace selsim with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.1 (June 2005)
+Description When designing methods which provide the necessary power to detect regions of the genome which have experience historical selective pressures it is important to consider which patterns of genetic diversity are indicative of particular forms of natural selection. SELSIM is a program which can simulate population genetic data in which a single site has experienced natural selection.</description>
     </item>
     
     <item>
-      <title>S11. SEQUENCE LD/SEQUENCE LDHOT</title>
+      <title>SEQUENCE LD/SEQUENCE LDHOT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets).&lt;/p&gt;
-
-&lt;p&gt;The program sequenceLDhot is a method for detecting recombination hotspots from population genetic data. It takes as input phased (i.e. haplotype) data, together with an estimate of the background recombination rate within the region (this is allowed to vary across the region). Then sequenceLDhot considers a grid of putative hotspot positions, and for each putative hotspot calculates a likelihood ratio statistics for the presence of a hotspot.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Paul Fearnhead (Department of Mathematics, Statistics, Lancaster University, UK)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.maths.lancs.ac.uk/~fearnhea/Software.html&#34;&gt;http://www.maths.lancs.ac.uk/~fearnhea/Software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Fearnhead, Donnelly (2002), &amp;ldquo;Approximate likelihood methods for estimating local recombination rates&amp;rdquo;, Journal of the Royal Statistical Society series B, 64:657-680.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Fearnhead (2006), &amp;ldquo;SequenceLDhot: detecting recombination hotspots&amp;rdquo;, Bioinformatics, 22:3061-3066.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sequence-ldsequence-ldhot&#39;; // Replace sequence-ldsequence-ldhot with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description The program sequenceLD analyzes sequence data. It obtains an approximation to the likelihood of a summary of the data (as such it can be thought of as a marginal likelihood approach). It does not use all the information in the data, but computationally it can be substantially more efficient than the full-likelihood methods (and hence able to analyze larger data sets).</description>
     </item>
     
     <item>
-      <title>S12. SGS</title>
+      <title>SGS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sgs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sgs/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0d&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Bernd Degen&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://software.bfh-inst2.de/download3.html&#34;&gt;http://software.bfh-inst2.de/download3.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;VisualBasic&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (95/98/00/NT)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Degen, Petit, Kremer (2001), &amp;ldquo;SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations&amp;rdquo;, Journal of Heredity, 92(5):447-448.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sgs&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sgs with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sgs&#39;; // Replace sgs with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0d
+Author Bernd Degen
+URL http://software.bfh-inst2.de/download3.html
+Language VisualBasic
+OS MS-Windows (95/98/00/NT)
+Reference Degen, Petit, Kremer (2001), &amp;ldquo;SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations&amp;rdquo;, Journal of Heredity, 92(5):447-448.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>S13. SIB-PAIR</title>
+      <title>SIB-PAIR</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sib-pair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/sib-pair/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.00a (January 2007)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Program SIB-PAIR performs a number of simple analyses of family data that tend to be &amp;ldquo;nonparametric&amp;rdquo; or &amp;ldquo;robust&amp;rdquo; in nature, includes IBD and IBS based APM, Haseman-Elston sib pair, TDT and association analyses.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;David Duffy (Queensland Institute of Med Res, Australia, davidd@qimr.edu.au)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www2.qimr.edu.au/davidD&#34;&gt;http://www2.qimr.edu.au/davidD&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Fortran77&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.J. Hum. Genet. suppl. 61, A197 (1997)); online manual page
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/sib-pair&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/sib-pair with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;sib-pair&#39;; // Replace sib-pair with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.00a (January 2007)
+Description Program SIB-PAIR performs a number of simple analyses of family data that tend to be &amp;ldquo;nonparametric&amp;rdquo; or &amp;ldquo;robust&amp;rdquo; in nature, includes IBD and IBS based APM, Haseman-Elston sib pair, TDT and association analyses.
+Author David Duffy (Queensland Institute of Med Res, Australia, davidd@qimr.edu.au)
+URL http://www2.qimr.edu.au/davidD
+Language Fortran77
+Reference Am. Soc. Hum. Genet. Annual Meeting 1997 (Duffy, Am.</description>
     </item>
     
     <item>
-      <title>S14. SIBERROR</title>
+      <title>SIBERROR</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/siberror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/siberror/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;SibError&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (November 20, 1997)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;SibError is an algorithm that identifies pedigree errors in sibship data. Examples include half siblings, unrelated individuals, identical twins, and parental exclusions. The test statistic is based on the summation of the number of alleles shared by a pair of relatives for a large number of markers and the number of alleles and allele frequencies for those markers.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Drs. Meg Gelder Ehm (mge37216@glaxowellcome.com)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Michael Wagner ( mw29911@glaxowellcome.com) (Glaxo Wellcome, Inc.)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;siberror&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Ehm, Wagner (1998), &amp;ldquo;Test statistic to detect errors in sib-pair relationship&amp;rdquo;, American Journal of Human Genetics, 62(1):181-188
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/siberror&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/siberror with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;siberror&#39;; // Replace siberror with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SibError
+Version 1.0 (November 20, 1997)
+Description SibError is an algorithm that identifies pedigree errors in sibship data. Examples include half siblings, unrelated individuals, identical twins, and parental exclusions. The test statistic is based on the summation of the number of alleles shared by a pair of relatives for a large number of markers and the number of alleles and allele frequencies for those markers.</description>
     </item>
     
     <item>
-      <title>S15. SIBLINK</title>
+      <title>SIBLINK</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/siblink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/siblink/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;3.0&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;SIBLINK allows the user to perform multipoint linkage analysis based on estimated IBD sharing between affected sibpairs. IBD sharing is inferred from IBS status, given marker genotypes, frequencies, and locations. Resulting LOD scores are maximized across a grid of possible disease locations and IBD sharing vectors.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Elizabeth Hauser&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mike Boehnke&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;William Duren&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wwwchg.duhs.duke.edu/software/siblink.html&#34;&gt;http://wwwchg.duhs.duke.edu/software/siblink.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris), Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;siblink3.0&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ER Hauser, M Boehnke, SW Guo, N Risch (1996), Genetics Epidemiology. 13:117-137.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ER Hauser, M Boehnke M (1998), Biometrics, 54:1238-1246.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/siblink&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/s/siblink with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;siblink&#39;; // Replace siblink with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 3.0
+Description SIBLINK allows the user to perform multipoint linkage analysis based on estimated IBD sharing between affected sibpairs. IBD sharing is inferred from IBS status, given marker genotypes, frequencies, and locations. Resulting LOD scores are maximized across a grid of possible disease locations and IBD sharing vectors.
+Author  Elizabeth Hauser
+ Mike Boehnke
+ William Duren
+  URL http://wwwchg.</description>
+    </item>
+    
+    <item>
+      <title>SIBMED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sibmed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sibmed/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SIBling Mutation and Error Detection
+Version 1.0
+Description SIBMED identifies likely genotyping errors and mutations for a sib pair in the context of multipoint mapping.
+Author  Julie A Douglas
+ Michael Boehnke (Univ Michigan)
+  URL http://csg.sph.umich.edu/boehnke/sibmed.php
+Language FORTRAN 77
+OS MS-Windows, UNIX
+EXE sibmed.exe
+Reference Douglas, Boehnke, Lange (2000), &amp;ldquo;A multipoint method for detecting genotyping errors and mutations in sibling-pair linkage data&amp;rdquo;, American Journal of Human Genetics, 66(4):1287-1297.</description>
+    </item>
+    
+    <item>
+      <title>SIBSIM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sibsim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sibsim/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.1.2 (November 2005)
+Description Simulates either genotype and/or quantitative phenotype data in family structures in a modern, easy to use and highly scalable way. It is based on XML, completely written in C++ and published under the GNU General Public License.
+Author Daniel Franke (University Hospital Schleswig-Holstein)
+URL http://www.imbs.uni-luebeck.de/pub/sibsim/index.html
+Language C++, XML
+OS UNIX
+Reference D Franke, A Kleensang and A Ziegler (2006), &amp;ldquo;SIBSIM, quantitative phenotype simulation in extended pedigrees&amp;rdquo;, GMS Med Inform Biom Epidemiol, 2(1):Doc04.</description>
+    </item>
+    
+    <item>
+      <title>SIFT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sift/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sorting Intolerant From Tolerant
+Description SIFT predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids. SIFT can be applied to naturally occurring nonsynonymous polymorphisms and laboratory-induced missense mutations.
+Author  Pauling Ng (Genome Institute of Singapore)
+ Steven Henikoff (Fred Hutchinson Cancer Research Institute)
+  URL  http://sift.</description>
+    </item>
+    
+    <item>
+      <title>SILCLOD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/silclod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/silclod/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SIgnificance Levels and Critical LODs
+Description calculate nominal significance levels and critical LOD scores depending on the length of the investigated region, number of chromosomes, and the cross-over rate. The global significance level as well as the precision of the calculation have to be specified.
+Author Andreas Ziegler (email: koenigir@imbs.uni-luebeck.de)
+URL http://www.imbs.uni-luebeck.de/pub/silcLOD/index.html
+Reference E Lander, L Kruglyak (1995), &amp;ldquo;Genetic dissection of complex traits: guidelines for interpreting and reporting linkage results&amp;rdquo;, Nature Genetics, 11:241-247.</description>
+    </item>
+    
+    <item>
+      <title>SIMCOAL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simcoal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simcoal/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SIMulate COAlescence
+Version 1.0
+Author Laurent Excoffier (email: laurent.excoffier@zoo.unibe.ch)
+URL http://cmpg.unibe.ch/software/simcoal/
+Language C++
+OS MS-Windows(9X/NT)
+EXE simcoal, sim_coal
+Reference Excoffier, Novembre, Schneider (2000), &amp;ldquo;SIMCOAL: a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography&amp;rdquo;, Journal of Heredity, 91:506-509.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SIMHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simhap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simhap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SIMulation-based HAPlotypic analysis
+Version 1.0.2 (January 2009)
+Description SimHap uses biallelic SNP genotype data to impute haplotype frequencies at the individual level. SimHap also tests for haplotype associations with outcomes of interest while incorporating the uncertainty around inferred haplotypes into the modelling procedure. SimHap allows epidemiological (ie, non-genetic) and both single SNP and haplotype association analyses of quantitative Normal, binary, longitudinal and right-censored outcomes under a range of genetic models.</description>
+    </item>
+    
+    <item>
+      <title>SIMIBD</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simibd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simibd/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.21 (Jan 1997)
+Author  Sean Davis ( davis@moriarty.hgen.pitt.edu)
+ Daniel E. Weeks
+  URL  http://watson.hgen.pitt.edu/register/soft_doc.html, http://watson.hgen.pitt.edu/~davis/
+ http://watson.hgen.pitt.edu/register
+  Language C
+OS UNIX(SunOS/Solaris/HP/DEC-UNIX)
+EXE simibd, xslink
+Reference  Davis, Schroeder, Goldin, Weeks (1996), &amp;ldquo;Nonparametric simulation-based statistics for detecting linkage in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 58(4):867-880
+ online README file   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SIMLA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simla/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SIMulation of pedigree data for Linkage and Association studies
+Version 2.3 (Oct 2003)
+Description SIMLA is a SIMulation program that generates data sets of families for use in Linkage and Association studies. It allows the user flexibility in specifying marker and disease placement, locus heterogeneity, disequilibrium between markers and between markers and disease loci. Output is in the form of a LINKAGE pedigree file and is easily utilized, either directly or with minimal reformatting, as input for various genetic analysis packages</description>
+    </item>
+    
+    <item>
+      <title>SIMLA 3</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simla-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simla-3/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 3.2, 3.3 with graphic user interface
+Description SIMLA is a simulation program that generates data sets of families for use in linkage and association studies. SIMLA_3.2 is a major upgrade to versions 2.3 and 3.0 that provides the ability to simulate two disease loci and two environmental covariates. Gene-gene and gene-environment interactions may also be simulated which jointly determine the disease risk of all pedigree members.</description>
+    </item>
+    
+    <item>
+      <title>SIMLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simlink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 4.12 (April 1997)
+Description a computer program to estimate the probability (&amp;ldquo;power&amp;rdquo;) of detecting linkage given family history information on a set of identified pedigrees.
+Author Michael Boehnke ( boehnke@sph.umich.edu)
+URL http://csg.sph.umich.edu/boehnke/simlink.php
+Language FORTRAN
+OS MS-DOS, UNIX(SunOS/..), VMS
+Reference  Boehnke (1986), &amp;ldquo;Estimating the power of a proposed linkage study: a practical computer simulation approach&amp;rdquo;, American Journal of Human Genetics, 39(4):513-527</description>
+    </item>
+    
+    <item>
+      <title>SIMM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simm/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description A gene dropping simulation software
+Author Mathieu Lemire (email:mlemire@sdf.lonestar.org)
+URL http://mlemire.freeshell.org/software.html
+Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3&amp;rdquo;, American Journal of Human Genetics, 75:571-586.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SIMPED</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simped/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simped/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description SimPed is a program that quickly generates haplotypes and/or genotype data for a large number of marker loci (&amp;gt;20,000) for pedigrees of virtually any size and complexity. Haplotypes and/or genotypes are generated using user specified genetic map distances and haplotypes and/or allele frequencies.
+Author  SM Leal
+ K Yan
+ B Müller-Myhsok
+  URL http://www.hgsc.bcm.tmc.edu/genemapping
+Language C</description>
+    </item>
+    
+    <item>
+      <title>SIMPLE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simple/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sequential Imputation for MultiPoint Linkage Estimation
+Description Calculates linkage statistics, such as lod scores and NPL statistics by Sequential Imputation.
+Author  S Lin
+ Z Skrivanek
+ M Irwin (Ohio State Univ)
+  URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/SIMPLE/
+Language C
+OS UNIX(Solaris)
+EXE simple, scan
+Reference  M Irwin, N Cox, A Kong (1994), &amp;ldquo;Sequential imputation for multilocus linkage analysis&amp;rdquo;, Proceedings of the National Academy of Sciences , 91:1684-1688</description>
+    </item>
+    
+    <item>
+      <title>SIMULAPLOT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simulaplot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simulaplot/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0
+Description SIMLAPLOT is a tool designed to help visualize the joint effect of genes and continuous environmental covariates on complex human disease simulation models. SIMLAPLOT takes as input the set of genetic model parameters used to generate the data, including risk ratios for genotypes (G), a normally distributed environmental covariate (E) and their interaction (GxE), or the risk ratio for a continuous covariate that is itself influenced by a quantitative trait locus (QTL) and thus follows a mixture normal distribution.</description>
+    </item>
+    
+    <item>
+      <title>SIMULATE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simulate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simulate/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a program to simulate genotypes in family members for a map of linked markers unlinked to a given affection status locus. the output is ready for analysis with UNKNOWN, ISIM, LSIM, or MSIM of the SLINK package.
+Author  Joseph Terwilliger
+ http://linkage.cpmc.columbia.edu/
+  URL http://www.helsinki.fi/~tsjuntun/linkage/analyze/
+Language Pascal
+OS MS-DOS, VMS, UNIX
+Reference online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SIMUPOP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simupop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simupop/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.6.0 (Jan 2005)
+Description simuPOP is a forward-based population genetics simulation program. It is capable of simulating very complex evolution processes on large (think of millions) populations. Major features include variable population size; many built-in and hybrid (write in python) mutation, migration, selection models. simuPOP can be extended in Python so there is no limit on what you can do with it.</description>
+    </item>
+    
+    <item>
+      <title>SIMWALK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/simwalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/simwalk/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Other Name SIMWALK/SIMCROSS
+Version SIMCROSS: June 1995; SIMWALK2: 2.91 (December 2004)
+Description programs for generating optimal haplotype configurations on general pedigrees using a likelihood-based approach to correctly take intermarker recombination fractions into account. simcross ignores untyped parts of the pedigree, and it uses simulated annealing. simwalk combines simulated annealing with random walk method.
+Author Eric Sobel (UCLA. email: simwalk@genetics.ucla.edu (in collaboration with Kenneth Lange, Jeffrey O&amp;rsquo;Connell,, Daniel E.</description>
+    </item>
+    
+    <item>
+      <title>SKAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/skat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/skat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNP-set (Sequence) Kernel Association Test
+Description SKAT is a SNP-set (e.g., a gene or a region) level test for association between a set of rare (or common) variants and dichotomous or quantitative phenotypes. SKAT aggregates individual score test statistics of SNPs in a SNP set and efficiently computes SNP-set level p-values, e.g. a gene or a region level p-value, while adjusting for covariates, such as principal components to account for population stratification.</description>
+    </item>
+    
+    <item>
+      <title>SLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/slink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/slink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Author  Daniel E. Weeks
+ Jurg Ott
+  URL http://lab.rockefeller.edu/ott/programs
+Language Pascal
+OS MS-DOS
+EXE slink, isim, lsim, msim
+Reference  Ott (1989), Proceedings of the National Academy of Sciences , 86:4175-4178.
+ Weeks, Ott, Lathrop (1990), American Journal of Human Genetics, 47(suppl):A204.
+ online documentation
+ FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/20.html
+  Related FASTSLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SMOOTH</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/smooth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/smooth/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2008
+Description The construction of accurate linkage maps is not so much depending on the quality of the mapping software, but mostly on the marker data quality. Missing values and scoring errors can severely influence the calculated marker order. The software tool SMOOTH recognises and removes the most unrealistic data points. This software was used to construct the 10,000 marker potato map.</description>
+    </item>
+    
+    <item>
+      <title>SNAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Suite of Nucleotide Analysis Programs
+Description The exploration of DNA sequence variation for making inferences on evolutionary processes in populations requires the coordinated implementation of a Suite of Nucleotide Analysis Programs (SNAP), each bound by specific assumptions and limitations. We have developed a workbench tool to make existing population genetic software more accessible and to facilitate the integration of new tools for analyzing patterns of DNA sequence variation, within a phylogenetic context.</description>
+    </item>
+    
+    <item>
+      <title>SNAP 2</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snap-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snap-2/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNp Annotation and Proxy search
+Version 1.0 (August 2008)
+Description SNAP finds proxy SNPs based on linkage disequilibrium, physical distance and/or membership in more than 15 selected commercial genotyping arrays. Pair-wise linkage disequilibrium is pre-calculated based on phased genotype data from the International HapMap Project . Information about the genotyping arrays is based on data published by the vendors.</description>
+    </item>
+    
+    <item>
+      <title>SNAP 3</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snap-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snap-3/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Simulation of sNp haplotype data And Phenotypic traits
+Description The SNaP program can be used to generate SNP haplotype sequence data of unrelated individuals and nuclear families with a fixed or random number of children.
+Author Michael Nothnagel (email: nothnagel@medinfo.uni-kiel.de)
+URL http://capella.uni-kiel.de/snap/snap.htm
+Language C
+OS Linux, UNIX(Solaris), MS-Windows
+Reference Am Soc Hum Genet annual meeting (2002) Nothnagel (2002), &amp;ldquo;Simulation of LD block-structured SNP haplotype data and its use for the analysis of case-control data by supervised learning methods&amp;rdquo;, Am J.</description>
+    </item>
+    
+    <item>
+      <title>SNIPPEEP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snippeep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snippeep/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description SnipPeep is an interactive graphic interface to visualise results from whole genome genotyping. It allows one to visualise single subjects and groups of subjects, and provides a direct connection with the UCSC Genome Browser.
+Author  Roberto Toro
+ (email: rto@pasteur.fr)
+ Thomas Bourgeron (email: thomasb@pasteur.fr)
+  URL http://snippeep.sourceforge.net/
+Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SNP ASSISTANT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snp-assistant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snp-assistant/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.11 (April 2004)
+Description SNP data managing, import &amp;amp; export from linkage format, data validation, pairwise LD calculation and visualisation, case-control and TDT tests, visual comparison of two datasets, relationships testing. Suitable for large projects.
+Author  Biodata Ltd.
+ Estonia (snpassistant@biodata.ee)
+  URL http://www.biodata.ee/SNPassistant.htm (30 days trial version)
+Language C++
+OS MS-Windows(95 and newer)
+Reference online manual: http://www.</description>
+    </item>
+    
+    <item>
+      <title>SNP CHART</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snp-chart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snp-chart/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description The purpose of this software is to generate visual patterns that can be easily interpreted as a single specific Single Nucleotide Polymorphism (SNP) genotype, based on reiterative pattern recognition from validated SNP data
+Author Scott Tebbutt (email: scott.tebbutt@hli.ubc.ca)
+URL http://www.flintbox.com/public/project/500/
+Language Java
+OS web-based
+Reference Tebbutt, Opushnyev, Tripp, Kassamali, Alexander, Andersen (2005), &amp;ldquo;SNP Chart: an integrated platform for visualization and interpretation of microarray genotyping data&amp;rdquo;, Bioinformatics, 21(1):124-127.</description>
+    </item>
+    
+    <item>
+      <title>SNP HITLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snp-hitlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snp-hitlink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNP HIgh-Throughput LINKage analysis system
+Version 5.1 (May 2010)
+Description SNP HiTLink is a computer program providing a useful pipeline to directly connect SNP data and linkage analysis program. SNP HiTLink currently supports the data from SNP chips provided by Affymetrix (Mapping 100k/500k array set, Genome-Wide Human SNP array 5.0/6.0) and Illumina (recently supported), carrying out typical linkage analysis programs of MLINK (FASTLINK/ LINKAGE package), Superlink, Merlin and Allegro.</description>
+    </item>
+    
+    <item>
+      <title>SNP-HWE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snp-hwe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snp-hwe/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a fast exact Hardy-Weinberg Equilibrium test for SNPs
+Author  Janis Wigginton (email: &amp;ldquo;a href=&amp;ldquo;mailto:wiggie@umich.edu&amp;rdquo;&amp;gt; wiggie@umich.edu)
+ Goncalo Abecasis
+  URL http://www.sph.umich.edu/csg/abecasis/Exact/index.html
+Language Fortran, C,C++, R
+Reference Wigginton, Cutler, Abecasis (2005), &amp;ldquo;A note on exact tests of Hardy-Weinberg equilibrium&amp;rdquo;, American Journal of Human Genetics, 76(5):887-893. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SNP.PLOTTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snp.plotter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snp.plotter/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/SNP.PLOTTER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/snp.plotter&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/snp.plotter with your page&#39;s canonical URL variable this.page.identifier = &#39;snp.plotter&#39;; // Replace snp.plotter with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+    </item>
+    
+    <item>
+      <title>SNPALYZE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpalyze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpalyze/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 6.0 (December 2006)
+Author dynacom.co.jp
+URL http://www.dynacom.co.jp/e/products/package/snpalyze/index.html
+OS MS-Windows (98/Me/NT4.0/2000/XP)
+Reference Shimo-Onoda, Tanaka, Furushima, Nakajima, Toh, Harata, Yone, Komiya, Adachi, Nakamura, Fujimiya, Inoue(2002), &amp;ldquo;Akaike&amp;rsquo;s information criterion for a measure of linkage disequilibrium&amp;rdquo;, J Hum Genet, 47(12): 649-655.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>SNPEM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpem/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNP Expectation Maximization
+Description EM algorithm estimations of SNP haplotypes
+URL http://polymorphism.ucsd.edu/snpem/
+OS web-based   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/snpem&#39;; // Replace http://gaow.</description>
+    </item>
+    
+    <item>
+      <title>SNPFILE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpfile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpfile/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description SNPFile is a library and API for manipulating large SNP datasets with associated meta-data, such as marker names, marker locations, individuals&amp;rsquo; phenotypes, etc. in an I/O efficient binary file format. In its core, SNPFile assumes very little about the metadata associated with markers and individuals, but leaves this up to application program protocols.
+URL http://www.daimi.au.dk/~mailund/SNPFile/
+Language C++
+OS Linux, UNIX</description>
+    </item>
+    
+    <item>
+      <title>SNPHAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snphap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snphap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.3.1
+Description a program for estimating frequencies of haplotypes of large numbers of diallelic markers from unphased genotype data from unrelated subjects
+Author  David Clayton
+ Cambridge Institute
+ david.clayton@cimr.cam.ac.uk
+  URL http://www-gene.cimr.cam.ac.uk/clayton/software/
+Language C,C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>SNPHARVESTER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpharvester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpharvester/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description a powerful tool for detecting epistatic interactions in genome-wide association studies
+URL http://bioinformatics.ust.hk/SNPHarvester.html
+Language java
+Reference Yang, He, Wan, Yang, Xue, Yu (2009), &amp;ldquo;SNPHarvester: a filtering-based approach for detecting epistatic interactions in genome-wide association studies&amp;rdquo;, Bioinformatics, 25:504-511.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>SNPLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snplink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snplink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal. SNPLINK requires these other programs installed on the system: MERLIN (used for nonparametric analysis), ALLEGRO (used for parametric analysis), R and PERL, all are freely available.
+Author Emily Webb (The Institute for Cancer Research, email: emily.webb@icr.ac.uk)
+URL http://www.icr.ac.uk/cancgen/molgen/MolPopGen_Bioinformatics.htm
+Language Perl
+OS UNIX
+Reference Webb, Sellick, Houlston (2005), &amp;ldquo;SNPLINK: multipoint linkage analysis of densely distributed SNP data incorporating automated linkage disequilibrium removal&amp;rdquo;, Bioinformatics, 21:3060-3061.</description>
+    </item>
+    
+    <item>
+      <title>SNPMSTAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpmstat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpmstat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNP Missing data STATistics
+Version 4.0
+Description SNPMStat is a command-line program for the statistical analysis of SNP-disease association in case-control/cohort/cross-sectional studies with potentially missing genotype data. SNPMStat allows the user to estimate or test SNP effects and SNP-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty, study design and gene-environment dependence. For SNPs without missing data, the program performs the standard association analysis.</description>
+    </item>
+    
+    <item>
+      <title>SNPP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpp/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Single Nucleotide Polymorphism Processor
+Version 1.0 (2003)
+Description a dynamic general database management system to manage high-throughput SNP genotyping data. It provides several functions, including data importing with comparison, Mendelian inheritance check within pedigrees, data compiling and exporting. Furthermore, SNPP may generate files for repeat genotyping and transform them into files that can be executed by a liquid handling system.</description>
+    </item>
+    
+    <item>
+      <title>SNPSTATS</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snpstats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snpstats/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name SNP STATisticS
+Description SNPStats is a simple, ready-to-use software which has been designed to analyze genetic-epidemiology studies of association using SNPs.
+Author Victor Moreno (email: v.moreno@ico.scs.es) Xavier Sole (email: x.sole@ico.scs.es)
+URL http://bioinfo.iconcologia.net/snpstats/
+OS web-based
+Reference Sole, Guino, Valls, Iniesta, Moreno (2006), &amp;ldquo;SNPStats: a web tool for the analysis of association studies&amp;rdquo;, Bioinformatics, 22(15):1928-1929.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SNPTEST</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/snptest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/snptest/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1.5 (May 2008)
+Description SNPTEST is a program for the analysis of single SNP association in genome-wide studies. The tests implemented can cater for binary (case-control) and quantitative phenotypes, can condition upon an arbitrary set of covariates and properly account for the uncertainty in genotypes. The program is designed to work seamlessly with the output of both the genotype calling program CHIAMO, the genotype imputation program IMPUTE and the program GTOOL.</description>
+    </item>
+    
+    <item>
+      <title>SOAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/soap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/soap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Short Oligonucleotide Analysis Package
+Description SOAP provides full solution to next generation sequencing data analysis. Currently, it consists of a new alignment tool (SOAPaligner/soap2), a re-sequencing consensus sequence builder (SOAPsnp), an indel finder (SOAPindel), a structural variation scanner (SOAPsv) and a de novo short reads assembler (SOAPdenovo).
+URL  http://soap.genomics.org.cn/
+ http://soap.genomics.org.cn/soap3.html (SOAP3)
+ http://soap.genomics.org.cn/soapsnp.html (SOAP SNP)
+ http://soap.</description>
+    </item>
+    
+    <item>
+      <title>SOLAR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/solar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/solar/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sequential Oligogenic Linkage Analysis Routines
+Version 4.0.7 (December 2006).
+Description OLAR is a flexible and extensive software package for genetic variance components analysis, including linkage analysis, quantitative genetic analysis, and covariate screening. Operations are included for calculation of marker-specific or multipoint identity-by-descent (IBD) matrices in pedigrees of arbitrary size and complexity, and for linkage analysis of quantitative traits which may involve multiple loci (oligogenic analysis), dominance effects, and epistasis.</description>
+    </item>
+    
+    <item>
+      <title>SPAM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/spam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/spam/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Statistics Program for Analysing Mixtures
+Version 3.7b
+Description SPAM estimates the relative contributions of discrete populations to a mixture sample, solving what is commonly referred to in fisheries as the mixed stock analysis or genetic stock identification problem.
+URL http://www.genetics.cf.adfg.state.ak.us/software/spampage.php
+Reference Debevec, Gates, Masuda, Pella, Reynolds, Seeb (2000), &amp;ldquo;SPAM (version 3.2): statistics program for analyzing mixtures&amp;rdquo;, Journal of Heredity, 91:509-511.</description>
+    </item>
+    
+    <item>
+      <title>SPECTRAL-GEM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/spectral-gem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/spectral-gem/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/SPECTRAL-GEM   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/spectral-gem&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/spectral-gem with your page&#39;s canonical URL variable this.page.identifier = &#39;spectral-gem&#39;; // Replace spectral-gem with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+    </item>
+    
+    <item>
+      <title>SPERM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sperm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sperm/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description analysis of sperm typing data.
+Author  Kenneth Lange (UCLA)
+ Laura Lazzeroni
+  URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
+Language FORTRAN77
+Reference Lazzeroni, Arnheim, Schmitt, Lange (1994), &amp;ldquo;Multipoint mapping calculations for sperm-typing data&amp;rdquo;, American Journal of Human Genetics, 55(3):431-436   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SPERMSEG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/spermseg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/spermseg/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description analysis of segregation in single-sperm data
+Author MS McPeek ( mcpeek@galton.uchicago.eduUniv Chicago)
+URL http://galton.uchicago.edu/~mcpeek/software/spermseg
+Language C
+Reference MS McPeek (1999), &amp;ldquo;SPERMSEG: analysis of segregation distortion in single-sperm data&amp;rdquo;, American Journal of Human Genetics, 65(4):1195-1197. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>SPIP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/spip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/spip/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Simulate Pedigree In Population
+Description Simulate pedigrees and genetic data in age-structured populations
+Author  Eric C Anderson
+ K.K. Dunham (Southwest Fisherie Science Center)
+  URL  http://swfsc.noaa.gov/staff.aspx?id=740
+ http://swfsc.noaa.gov/textblock.aspx?Division=FED&amp;amp;id=3434
+  Language C
+Reference Anderson, Dunham (2005), &amp;ldquo;SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations&amp;rdquo;, Molecular Ecology Notes, 5(2):459-461.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SPLAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/splat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/splat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sib Pair Linkage Analysis Testing
+Version 1.0 (2006)
+Description SPLAT can calculate virtually any linkage test statistic under several sib pair study designs: affected, discordant, unaffected, and pairs defined by threshold values for quantitative traits, such as extreme discordant sib pairs. It uses the EM algorithm to compute maximum likelihood estimates of sharing (subject to any user-specified domain restrictions or null hypotheses) and then plots lod scores versus chromosomal position.</description>
+    </item>
+    
+    <item>
+      <title>SPLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/splink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/splink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name affected Sib Pairs LINKage analysis
+Version 1.09 (Nov 1999)
+Description linkage analysis using affected sib pairs
+Author  David Clayton
+ Cambridge Institute
+ david.clayton@cimr.cam.ac.uk
+  URL http://www-gene.cimr.cam.ac.uk/clayton/software/
+Language c++
+OS UNIX(SunOS/..), MS-DOS
+EXE splink, ped2spl
+Reference  Holmans (1993), &amp;ldquo;Asymptotic properties of affected-sib-pair linkage analysis&amp;rdquo;, American Journal of Human Genetics, 52(2):362-374
+ Holmans and Clayton (1995), submitted.</description>
+    </item>
+    
+    <item>
+      <title>SPREG</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/spreg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/spreg/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Secondary Phenotype REGression analysis
+Version 2.0
+Description SPREG is a computer program for performing regression analysis of secondary phenotype data in case-control association studies. Secondary phenotypes are quantitative or qualitative traits other than the case-control status. Because the case-control sample is not a random sample of the general population, standard statistical analysis of secondary phenotype data can yield very misleading results.</description>
+    </item>
+    
+    <item>
+      <title>SQTDT/SPDT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sqtdtspdt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sqtdtspdt/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description semiparametric family-based association
+Author  Guoqing Diao (email: gdiao@gmu.edu)
+ Danyu Lin
+  URL http://www.bios.unc.edu/~lin/software/SQTDT/
+OS Linux
+Reference Diao, Lin (2006), &amp;ldquo;Improving the power of association tests for quantitative traits in family studies&amp;rdquo;, Genetic Epidemiology, 30:301-313.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+    </item>
+    
+    <item>
+      <title>SQTL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sqtl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sqtl/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Semiparametric QTL mapping in general pedigrees
+Author  Guoqing Diao (email: gdiao@gmu.edu)
+ Danyu Lin
+  URL http://www.bios.unc.edu/~lin/software/SQTL/
+OS Linux
+Reference Diao, Lin (2005), &amp;ldquo;A powerful and robust method for mapping quantitative trait loci in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 77(1):97-111. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>sQTLSeekerR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sqtlseekerr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sqtlseekerr/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version github / R 3.1+
+Description sQTLseekeR is a R package to detect splicing QTLs (sQTLs), which are variants associated with change in the splicing pattern of a gene. Here, splicing patterns are modeled by the relative expression of the transcripts of a gene.
+Year 2014
+Author  Jean Monlong
+ Roderic Guigó
+  URL http://big.crg.cat/computational_biology_of_rna_processing/sqtlseeker
+Language R
+Reference Monlong, J.</description>
+    </item>
+    
+    <item>
+      <title>SSAHASNP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/ssahasnp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/ssahasnp/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sequence Search and Alignment by Hashing Algorithm for SNP detection
+Description ssahaSNP is a polymorphism detection tool. It detects homozygous SNPs and indels by aligning shotgun reads to the finished genome sequence. Highly repetitive elements are filtered out by ignoring those kmer words with high occurrence numbers. For those less repetitive or non-repetitive reads, we place them uniquely on the reference genome sequence and find the best alignment according to the pair-wise alignment score if there are multiple seeded regions.</description>
+    </item>
+    
+    <item>
+      <title>START</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/start/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Finds starting points for MCMC analysis performed on large, complex pedigrees and polymorphic markers.
+Author  Y Luo
+ S Lin (Ohio State Univ)
+  URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/
+OS UNIX(Solaris), Linux
+Reference Y Luo, S Lin (2003), &amp;ldquo;Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees&amp;rdquo;, Genetic Epidemiology, 25:14-24.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>STEPC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/stepc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/stepc/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name STatistical Explanation for Positional Cloning
+Author  Lei Sun
+ Nancy COx
+ Mary Sara McPeek
+  URL http://hg-wen.uchicago.edu/software.html
+Reference Sun, Cox, McPeek (2002) &amp;ldquo;A statistical method for identification of polymorphisms that explain a linkage result&amp;rdquo;, American Journal of Human Genetics, 70(2):399-411. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>STEPWISE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/stepwise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/stepwise/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/STEPWISE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/stepwise&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/stepwise with your page&#39;s canonical URL variable this.page.identifier = &#39;stepwise&#39;; // Replace stepwise with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+    </item>
+    
+    <item>
+      <title>STRAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/strat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/strat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.1
+Description a companion program to structure. This is a structured association method, for use in association mapping, enabling valid case-control studies even in the presence of population structure.
+Author Jonathan Pritchard (email: pritch@genetics.uchicago.edu)
+URL http://pritch.bsd.uchicago.edu/software/STRAT.html
+OS MS-DOS, MS-Windows,UNIX(Solaris), Linux
+Reference JK Pritchard, M Stephens, NA Rosenberg, P Donnelly (2000), &amp;ldquo;Association mapping in structured populations&amp;rdquo;, American Journal of Human Genetics, 67(1):170-181.</description>
+    </item>
+    
+    <item>
+      <title>STRUCTURE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/structure/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.1 (August 2004)
+Description using multi-locus genotype data to investigate population structure. Its uses include inferring the presence of distinct populations, assigning individuals to populations, studying hybrid zones, identifying migrants and admixed individuals, and estimating population allele frequencies in situations where many individuals are migrants or admixed. It can be applied to most of the commonly-used genetic markers, including microsatellites, RFLPs and SNPs.</description>
+    </item>
+    
+    <item>
+      <title>SUMSTAT</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sumstat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sumstat/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description assess the joint disease association of multiple unlinked SNPs via sums of SNP specific test statistics. Genome-wide significance levels are obtained by per mutation analysis.
+Author  Josephine Hoh
+ Jurg Ott (email: ottjurg@yahoo.com)
+  URL http://lab.rockefeller.edu/ott/programs
+Language Free Pascal
+OS MS-Windows, Linux
+Reference Hoh, Wille, Ott (2001), &amp;ldquo;Trimming, weighting, and grouping SNPs in human case-control association studies&amp;rdquo;, Genome Research, 11:2115-2119   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SUP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sup/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Slink Utility Program
+Version 060629
+Description an extension to SLINK/FastSLINK to allow more marker loci to be simulated in pedigrees conditional on trait values and in linkage equilibrium or disequilibrium with a trait locus.
+Author Mathieu Lemire (email: mlemire@sdf.lonestar.org)
+URL http://mlemire.freeshell.org/software.html
+Language C,C++
+OS UNIX, LINUX, CYGWIN
+Reference Lemire (2006), &amp;ldquo;SUP: An extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values&amp;rdquo;, BMC Genetics, 7:40.</description>
+    </item>
+    
+    <item>
+      <title>SUPERLINK</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/superlink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/superlink/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.6 (March 2006)
+Description the program performs exact linkage analysis with the same input-output relationships as in standard genetic linkage programs such as LINKAGE, FASTLINK, VITESSE, but can run larger files than previous programs.
+Author Ma&amp;rsquo;ayan Fishelson (email: fmaayan@cs.technion.ac.il)
+URL http://bioinfo.cs.technion.ac.il/superlink/
+OS UNIX, MS-Windows, Linux, MacOS X
+Reference M Fishelson, D Geiger (2002), Bioinformatics, 18(suppl 1):S189-S198.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SVA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sva/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Sequence Variant Analyzer
+Version v1.10 (March 2011)
+Description SVA is a software tool that assigns a predicted biological function to variants identified in next-generation sequencing studies and provides a browser to visualize the variants in their genomic contexts. SVA also provides for flexible interaction with software implementing variant association tests allowing users to consider both the bioinformatic annotation of identified variants and the strength of their associations with studied traits.</description>
+    </item>
+    
+    <item>
+      <title>SVCC</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/svcc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/svcc/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Semiparametric Variance-Component for Censored data
+Author  Guoqing Diao (email: gdiao@gmu.edu)
+ Danyu Lin
+  URL http://www.bios.unc.edu/~lin/software/SVCC/
+OS Linux
+Reference Diao, Lin (2006), &amp;ldquo;Semiparametric variance-component models for linkage and association analyses of censored trait data&amp;rdquo;, Genetic Epidemiology, 30:570-581.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>SWEEP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/sweep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/sweep/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version December 2005
+Description SWEEP allows large-scale analysis of haplotype structure in genomes for the primary purpose of detecting evidence of natural selection. Primarily, it uses the Long Range Haplotype test to look for alleles of high frequency with long-range linkage disequilibrium, which suggest the haplotype rapidly rose to high frequency before recombination could break down associations with nearby markers. SWEEP takes phased genotype data as input, detects all haplotype blocks in that data, and then determines the frequency and long-range LD for each allele in each block.</description>
+    </item>
+    
+    <item>
+      <title>SYZYGY</title>
+      <link>https://gaow.github.io/genetic-analysis-software/s/syzygy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/s/syzygy/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Syzygy is a targeted sequencing post processing analysis tool that allows: 1. SNP and indel detection; 2. Allele frequency estimation; 3. Single-marker association test; 4. Group-wise marker test association; 5. Experimental QC summary (%dbSNP, Ts/Tv, Ns/S); 6. Power to detect variant.
+URL http://www.broadinstitute.org/software/syzygy/
+Reference Rivas et al. (2011), &amp;ldquo;Deep resequencing of GWAS loci identifies independent rare variants associated with inflammatory bowel disease&amp;rdquo;, Nature Genetics, in press.</description>
     </item>
     
   </channel>

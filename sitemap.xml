@@ -2590,7 +2590,17 @@
   </url>
   
   <url>
+    <loc>https://gaow.github.io/genetic-analysis-software/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gaow.github.io/genetic-analysis-software/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gaow.github.io/genetic-analysis-software/tags/</loc>
     <priority>0</priority>
   </url>
   

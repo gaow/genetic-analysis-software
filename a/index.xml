@@ -2,1102 +2,418 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A on Genetic Analysis Software | The Rockefeller List</title>
-    <link>https://gaow.github.io/genetic-analysis-software/a/index.xml</link>
+    <link>https://gaow.github.io/genetic-analysis-software/a/</link>
     <description>Recent content in A on Genetic Analysis Software | The Rockefeller List</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gaow.github.io/genetic-analysis-software/a/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gaow.github.io/genetic-analysis-software/a/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>A1. ACT</title>
+      <title>ACT</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/act/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/act/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Analysis of Complex Traits&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.1 (Mar 17, 2000)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;It contains the following modules: ibd, calculates the proportion of gene shared identical by decent for a nuclear family; ibdn, (modified program of ERPA), which implements a method for assessing increased-allele sharing between all pairs of affected relatives within a pedigree; multic, multivariate analysis for complex traits; ml, estimation of variance components using maximum likelihood; ql, estimation of variance components using quasi likelihood; relcov, generates first degree relationship coefficients for extended families; sim2s, the simulation program that was used to test ACT; cage, Cohort Analysis for Genetic Epidemiology; gh: GeneHunter, heavily modified to assist multipoint calculation using multic; TDT: TDT programs written in SAS; gcc and f77 compilers are necessary. Executable programs are included for compatible operating systems, i.e., Solaris2.6.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Christopher I. Amos (email: camos@request.mdacc.tmc.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Mariza de Andrade (email: mandrade@request.mdacc.tmc.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;JianFang Chen (email: cjf@request.mdacc.tmc.edu)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.epigenetic.org/Linkage/act.html&#34;&gt;http://www.epigenetic.org/Linkage/act.html&lt;/a&gt;, &lt;a href=&#34;http://www.epigenetic.org/Linkage/act.tar.gz&#34;&gt;http://www.epigenetic.org/Linkage/act.tar.gz&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;FORTRAN77, C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX(Solaris 2.4/..)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;ibd, ml, ql, he, ibdn, multic&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Amos, et al (1996), &amp;ldquo;Assessing genetic linkage and association with robust components of variance approaches&amp;rdquo;, Annals of Human Genetics, 60:143-160.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Amos (1994), &amp;ldquo;Robust variance-components approach for assessing genetic linkage in pedigrees&amp;rdquo;, American Journal of Human Genetics, 54:535-543. [&lt;a href=&#34;http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1918121&#34;&gt;abstract&lt;/a&gt;]&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;de Andreade, Amos, Thiel (1999), &amp;ldquo;Methods to estimate genetic parameters for quantitative traits&amp;rdquo;, Genetic Epidemiology, 17(1):64-76.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/act&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/act with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;act&#39;; // Replace act with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Analysis of Complex Traits
+Version 1.1 (Mar 17, 2000)
+Description It contains the following modules: ibd, calculates the proportion of gene shared identical by decent for a nuclear family; ibdn, (modified program of ERPA), which implements a method for assessing increased-allele sharing between all pairs of affected relatives within a pedigree; multic, multivariate analysis for complex traits; ml, estimation of variance components using maximum likelihood; ql, estimation of variance components using quasi likelihood; relcov, generates first degree relationship coefficients for extended families; sim2s, the simulation program that was used to test ACT; cage, Cohort Analysis for Genetic Epidemiology; gh: GeneHunter, heavily modified to assist multipoint calculation using multic; TDT: TDT programs written in SAS; gcc and f77 compilers are necessary.</description>
     </item>
     
     <item>
-      <title>A2. ADEGENET</title>
+      <title>ADEGENET</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/adegenet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/adegenet/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;related&#34;&gt;Related&lt;/h2&gt;
-
-&lt;p&gt;R/ADEGENET
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/adegenet&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/adegenet with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;adegenet&#39;; // Replace adegenet with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Related R/ADEGENET   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/adegenet&#39;; // Replace http://gaow.github.io/genetic-analysis-software/a/adegenet with your page&#39;s canonical URL variable this.page.identifier = &#39;adegenet&#39;; // Replace adegenet with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
-      <title>A3. ADMIXMAP</title>
+      <title>ADMIXMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/admixmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/admixmap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Admixture mapping&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;3.7 (2007)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;ADMIXMAP is a general-purpose program for modelling admixture, using marker genotypes and trait data on a sample of individuals from an admixed population (such as African-Americans), where the markers have been chosen to have extreme differentials in allele frequencies between two or more of the ancestral populations between which admixture has occurred. The main difference between ADMIXMAP and classical programs for estimation of admixture such as ADMIX is that ADMIXMAP is based on a multilevel model for the distribution of individual admixture in the population and the stochastic variation of ancestry on hybrid chromosomes. This makes it possible to model the associations of ancestry between linked marker loci, and the association of a trait with individual admixture or with ancestry at a linked marker locus.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Clive Hoggart&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nigel Wetters&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David Clayton&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David O&amp;rsquo;Donnell (email: david.odonnell@ucd.ie)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Paul McKeigue (email: paul.mckeigue@ucd.ie)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.homepages.ed.ac.uk/pmckeigu/admixmap/index.html&#34;&gt;http://www.homepages.ed.ac.uk/pmckeigu/admixmap/index.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;Linux, MS-Windows&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;admixmap, admixmap.pl, and some R scripts to process the output&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;PM McKeigue (2005), &amp;ldquo;Prospects for admixture mapping of complex traits&amp;rdquo;, American Journal of Human Genetics, 76(1):1-7&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;CJ Hoggart, MD Shriver, RA Kittles, DG Clayton, PM McKeigue (2004), &amp;ldquo;Design and analysis of admixture mapping studies&amp;rdquo;, American Journal of Human Genetics, 74(5):965-978&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;CJ Hoggart, EJ Parra, MD Shriver, C Bonilla, RA Kittles, DC Clayton, PM McKeigue (2003), &amp;ldquo;Control of confounding of genetic associations in stratified populations&amp;rdquo;, American Journal of Human Genetics, 72(6):1492-1504&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;PM McKeigue, J Carpenter, EJ Parra, MD Shriver (2000), &amp;ldquo;Estimation of admixture and detection of linkage in admixed populations by a Bayesian approach: application to African-American populations&amp;rdquo;, Annals of Human Genetics, 64:171-186.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/admixmap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/admixmap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;admixmap&#39;; // Replace admixmap with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Admixture mapping
+Version 3.7 (2007)
+Description ADMIXMAP is a general-purpose program for modelling admixture, using marker genotypes and trait data on a sample of individuals from an admixed population (such as African-Americans), where the markers have been chosen to have extreme differentials in allele frequencies between two or more of the ancestral populations between which admixture has occurred. The main difference between ADMIXMAP and classical programs for estimation of admixture such as ADMIX is that ADMIXMAP is based on a multilevel model for the distribution of individual admixture in the population and the stochastic variation of ancestry on hybrid chromosomes.</description>
     </item>
     
     <item>
-      <title>A4. AGEINF</title>
+      <title>AGEINF</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/ageinf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/ageinf/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;inference of the age of a rare, selectively-neutral mutation&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Jinko Graham&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.math.sfu.ca/~jgraham/Papers/Programs/AgeCode/&#34;&gt;http://www.math.sfu.ca/~jgraham/Papers/Programs/AgeCode/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/ageinf&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/ageinf with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ageinf&#39;; // Replace ageinf with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description inference of the age of a rare, selectively-neutral mutation
+Author Jinko Graham
+URL http://www.math.sfu.ca/~jgraham/Papers/Programs/AgeCode/
+Language C
+Reference Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
-      <title>A5. ALBERT</title>
+      <title>ALBERT</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/albert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/albert/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;A Likelihood Based Estimation of Risk in Trios&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;1.0 (May 2006)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;ALBERT is a program that estimates genotype relative risks, genotyping error rates and population risk allele frequencies from marker genotype data in case-parent trios. ALBERT uses the distribution of trio marker genotypes to compute maximum likelihood estimates for the parameters.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Adele Mitchell&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Elizabeth A Thompson (University of Washington)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.stat.washington.edu/thompson/Genepi/Albert/albert.shtml&#34;&gt;http://www.stat.washington.edu/thompson/Genepi/Albert/albert.shtml&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/albert&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/albert with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;albert&#39;; // Replace albert with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name A Likelihood Based Estimation of Risk in Trios
+Version 1.0 (May 2006)
+Description ALBERT is a program that estimates genotype relative risks, genotyping error rates and population risk allele frequencies from marker genotype data in case-parent trios. ALBERT uses the distribution of trio marker genotypes to compute maximum likelihood estimates for the parameters.
+Author  Adele Mitchell
+ Elizabeth A Thompson (University of Washington)</description>
     </item>
     
     <item>
-      <title>A6. ALLASS</title>
+      <title>ALLASS</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/allass/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;February 2002&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;A Collins (email: arc@soton.ac.uk)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;NE Morton (University of Southampton, UK)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ALLASS&#34;&gt;http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ALLASS&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX (SUN..)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;allass&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/allass&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/allass with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;allass&#39;; // Replace allass with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version February 2002
+Author  A Collins (email: arc@soton.ac.uk)
+ NE Morton (University of Southampton, UK)
+  URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ALLASS
+Language C
+OS UNIX (SUN..)
+EXE allass
+Reference Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
-      <title>A7. ALLEGRO</title>
+      <title>ALLEGRO</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allegro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/allegro/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0 (October 2005)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a faster version of GENEHUNTER and Allegro 1.2 (several degrees of increase of speed, can handle bigger families, up to 50 bits)&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Daniel F Gudbjartsson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;TA Thorvaldsson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;G Gunnarsson&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Augustine Kong&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A Ingolfsdottir (DeCode Genetics, Inc. Iceland) send email to: allegro@decode.is&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.decode.com/software/&#34;&gt;http://www.decode.com/software/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;D Gudbjartsson, K Jonasson, CA Kong (1999), &amp;ldquo;Fast multipoint linkage calculation with Allegro&amp;rdquo;, American Journal of Human Genetics, 65(suppl):A60.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Gudbjartsson, Jonasson, Frigge, Kong (2000) &amp;ldquo;Allegro, a new computer program for multipoint linkage analysis&amp;rdquo;, Nature Genetics, 25:12-13.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Gudbjartsson, Thorvaldsson, Gunnarsson, Kong, Ingolfsdottir (2004), &amp;ldquo;Decision diagram based multipoint linkage analysis: ALLEGRO2&amp;rdquo;, American Journal of Human Genetics, 75(suppl):?.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Gudbjartsson, Thorvaldsson, Kong, Gunnarsson, Ingolfsdottir (2005), &amp;ldquo;Allegro version 2&amp;rdquo;, Nature Genetics, 37:1015-1016. &lt;strong&gt;PLEASE CITE THIS REFERENCE WHEN USING THE ALLEGRO2 PROGRAM&lt;/strong&gt;
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/allegro&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/allegro with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;allegro&#39;; // Replace allegro with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0 (October 2005)
+Description a faster version of GENEHUNTER and Allegro 1.2 (several degrees of increase of speed, can handle bigger families, up to 50 bits)
+Author  Daniel F Gudbjartsson
+ TA Thorvaldsson
+ G Gunnarsson
+ Augustine Kong
+ A Ingolfsdottir (DeCode Genetics, Inc. Iceland) send email to: allegro@decode.is
+  URL http://www.decode.com/software/
+Language C++
+Reference  D Gudbjartsson, K Jonasson, CA Kong (1999), &amp;ldquo;Fast multipoint linkage calculation with Allegro&amp;rdquo;, American Journal of Human Genetics, 65(suppl):A60.</description>
     </item>
     
     <item>
-      <title>A8. ALLELIX</title>
+      <title>ALLELIX</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allelix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/allelix/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Allelix - Paternity Linkage Analysis Online&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;December 2001&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;One can enter the alleles of commonly used STR by clicking the mouse. The algorithm calculates the paternity index and the Essen-Moeller probability of kinship for the deficiency- and the trio case. Everybody can use the network-software online after registering. The usage on the internet is free. Academic users can ask me to unlock an option to display the details (formulas/frequencies etc.) and to have an export-funktion to MS Word. The program is in German and (non-professional) English. An expansion to other languages is easy, if somebody helps us with the translation. For those who are interested to have the software running on their own intranet (for database security reasons) an individual agreement can be found.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Thomas Krahn (biotix) (email: tk@biotix.de)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Stefan Zinke (Software Erstellung- und Beratung, Germany)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dr. Michael Kraft (biotix)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.allelix.net&#34;&gt;http://www.allelix.net&lt;/a&gt; (German version is: &lt;a href=&#34;http://www.allelix.de&#34;&gt;http://www.allelix.de&lt;/a&gt;)&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C++, Java Script&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (2000 &amp;amp;IIS/ME &amp;amp; Personal Webserver)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;allelix.dll
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/allelix&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/allelix with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;allelix&#39;; // Replace allelix with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Allelix - Paternity Linkage Analysis Online
+Version December 2001
+Description One can enter the alleles of commonly used STR by clicking the mouse. The algorithm calculates the paternity index and the Essen-Moeller probability of kinship for the deficiency- and the trio case. Everybody can use the network-software online after registering. The usage on the internet is free. Academic users can ask me to unlock an option to display the details (formulas/frequencies etc.</description>
     </item>
     
     <item>
-      <title>A9. ALOHOMORA</title>
+      <title>ALOHOMORA</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/alohomora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/alohomora/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;0.33 (October 2009)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;designed to facilitate genome-wide linkage studies performed with high-density single nucleotide polymorphism (SNP) marker panels such as the Affymetrix GeneChip&amp;reg; Human Mapping 10K Array.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Franz Ruschendorf (email: fruesch@mdc-berlin.de)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Peter Nurnberg&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://gmc.mdc-berlin.de/alohomora/&#34;&gt;http://gmc.mdc-berlin.de/alohomora/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;perl&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Window, Linux, UNIX (Solaris/..)&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage analysis using 10K SNP array data&amp;rdquo;, Bioinformatics, 21(9):2123-2125.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/alohomora&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/alohomora with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;alohomora&#39;; // Replace alohomora with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.33 (October 2009)
+Description designed to facilitate genome-wide linkage studies performed with high-density single nucleotide polymorphism (SNP) marker panels such as the Affymetrix GeneChip&amp;reg; Human Mapping 10K Array.
+Author  Franz Ruschendorf (email: fruesch@mdc-berlin.de)
+ Peter Nurnberg
+  URL http://gmc.mdc-berlin.de/alohomora/
+Language perl
+OS MS-Window, Linux, UNIX (Solaris/..)
+Reference Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage analysis using 10K SNP array data&amp;rdquo;, Bioinformatics, 21(9):2123-2125.</description>
     </item>
     
     <item>
-      <title>A10. ALP</title>
+      <title>ALP</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/alp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/alp/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Automated Linkage Preprocessor&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;v1.40 (August 1995)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;ALP is a Microsoft Windows application designed to analyse microsatellite DNA fragments separated on an Automated Laser Fluorescence sequencer.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Alastair Brown (email: alastair.brown@hgu.mrc.ac.uk)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Daryll Green&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Steve Woess (MRC Human Genetics Unit, Edinburgh, UK).&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.hgu.mrc.ac.uk/Softdata/ALP/&#34;&gt;http://www.hgu.mrc.ac.uk/Softdata/ALP/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.hgu.mrc.ac.uk/pub/ALP&#34;&gt;ftp://ftp.hgu.mrc.ac.uk/pub/ALP&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;C&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;MS-Windows (3.1/95/NT)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;alpw.exe&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Mansfield, Brown, Green, Carothers, Morris, Evans, Wright (1994), &amp;ldquo;Automation of genetic linkage analysis using fluorescent microsatellite markers&amp;rdquo;, Genomics, 24(2):225-233.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/alp&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/alp with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;alp&#39;; // Replace alp with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Automated Linkage Preprocessor
+Version v1.40 (August 1995)
+Description ALP is a Microsoft Windows application designed to analyse microsatellite DNA fragments separated on an Automated Laser Fluorescence sequencer.
+Author  Alastair Brown (email: alastair.brown@hgu.mrc.ac.uk)
+ Daryll Green
+ Steve Woess (MRC Human Genetics Unit, Edinburgh, UK).
+  URL  http://www.hgu.mrc.ac.uk/Softdata/ALP/
+ ftp://ftp.hgu.mrc.ac.uk/pub/ALP
+  Language C
+OS MS-Windows (3.</description>
     </item>
     
     <item>
-      <title>A11. Altrans</title>
+      <title>Altrans</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/altrans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/altrans/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads&lt;/p&gt;
-
-&lt;h2 id=&#34;year&#34;&gt;Year&lt;/h2&gt;
-
-&lt;p&gt;2015&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ongen H.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dermitzakis E.T.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Ongen H., Dermitzakis E.T. (2015) submitted&lt;/p&gt;
-
-&lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
-
-&lt;p&gt;splicing
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/altrans&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/altrans with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;altrans&#39;; // Replace altrans with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads
+Year 2015
+Author  Ongen H.
+ Dermitzakis E.T.
+  Reference Ongen H., Dermitzakis E.T. (2015) submitted
+Tag splicing   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
-      <title>A12. ALTREE</title>
+      <title>ALTREE</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/altree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/altree/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;ALTREE performs these two phylogeny-based analysis: (1) it tests the association between a candidate gene and a disease; (2) it pinpoints markers (SNPs) that are putative disease susceptibility loci&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Claire Bardel (email: bardel@vjf.inserm.fr)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Vincent Danjean&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jean-Pierre Hugot&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Pierre Darlu&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Emmanuelle Génin&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://claire.bardel.free.fr/software.html&#34;&gt;http://claire.bardel.free.fr/software.html&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;altree, altree-convert, altree-add-s&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Bardel, Danjean, Hugot, Darlu, Genin (2005), &amp;ldquo;On the use of haplotype phylogeny to detect disease susceptibility loci&amp;rdquo;, BMC Genetics, 6:24.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/altree&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/altree with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;altree&#39;; // Replace altree with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description ALTREE performs these two phylogeny-based analysis: (1) it tests the association between a candidate gene and a disease; (2) it pinpoints markers (SNPs) that are putative disease susceptibility loci
+Author  Claire Bardel (email: bardel@vjf.inserm.fr)
+ Vincent Danjean
+ Jean-Pierre Hugot
+ Pierre Darlu
+ Emmanuelle Génin
+  URL http://claire.bardel.free.fr/software.html
+EXE altree, altree-convert, altree-add-s
+Reference Bardel, Danjean, Hugot, Darlu, Genin (2005), &amp;ldquo;On the use of haplotype phylogeny to detect disease susceptibility loci&amp;rdquo;, BMC Genetics, 6:24.</description>
     </item>
     
     <item>
-      <title>A13. AMELIA</title>
+      <title>AMELIA</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/amelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/amelia/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;full-name&#34;&gt;Full Name&lt;/h2&gt;
-
-&lt;p&gt;Allele Matching Empirical Locus-specific Integrated Association test&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;AMELIA is a program that employs allele matching to analyse the effects of rare variants within a specific locus. There is increasing evidence that rare variants play a role in some complex traits, but their analysis is not straightforward. Locus-based tests become necessary due to low power in rare variant single-point association analyses. In addition, variant quality scores are available for sequencing data, but are rarely taken into account. To enable this analysis, AMELIA has been developed as an allele-matching approach that is robust to the presence of both directions of effect for variants within the locus analysed.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Eleftheria Zeggini&amp;rsquo;s group (Wellcome Trust Sanger Institute)&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.sanger.ac.uk/resources/software/amelia/&#34;&gt;http://www.sanger.ac.uk/resources/software/amelia/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;R&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/amelia&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/amelia with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;amelia&#39;; // Replace amelia with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Allele Matching Empirical Locus-specific Integrated Association test
+Description AMELIA is a program that employs allele matching to analyse the effects of rare variants within a specific locus. There is increasing evidence that rare variants play a role in some complex traits, but their analysis is not straightforward. Locus-based tests become necessary due to low power in rare variant single-point association analyses.</description>
     </item>
     
     <item>
-      <title>A14. ANALYZE</title>
+      <title>ANALYZE</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/analyze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/analyze/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.1 (feb 14, 1996)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;a set of useful accessory programs to the LINKAGE package. It simplifies the performance of a large array of parametric and nonparametric tests for linkage and association on data entered in LINKAGE format pedigree and parameter files.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;p&gt;Joseph Terwilliger&lt;/p&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.helsinki.fi/~tsjuntun/linkage/analyze/&#34;&gt;http://www.helsinki.fi/~tsjuntun/linkage/analyze/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://linkage.cpmc.columbia.edu/index_files/Page434.htm&#34;&gt;http://linkage.cpmc.columbia.edu/index_files/Page434.htm&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/linkage_cpmc_columbia/analyze/&#34;&gt;ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/linkage_cpmc_columbia/analyze/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Pascal&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX (SunOS/Solaris/OSF1..)&lt;/p&gt;
-
-&lt;h2 id=&#34;exe&#34;&gt;EXE&lt;/h2&gt;
-
-&lt;p&gt;analysis (script), analyzeprep, downfreq, extract, (homog), homogpos, homogpre, hrrlamb, hrrlambprep, hrrmult, hrrprep, interpretation, locusorder, pedprepare, polylocus, sib2link, sibpairna, sibprepna, tdtlikena
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/analyze&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/analyze with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;analyze&#39;; // Replace analyze with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.1 (feb 14, 1996)
+Description a set of useful accessory programs to the LINKAGE package. It simplifies the performance of a large array of parametric and nonparametric tests for linkage and association on data entered in LINKAGE format pedigree and parameter files.
+Author Joseph Terwilliger
+URL  http://www.helsinki.fi/~tsjuntun/linkage/analyze/
+ http://linkage.cpmc.columbia.edu/index_files/Page434.htm
+ ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/linkage_cpmc_columbia/analyze/
+  Language Pascal
+OS UNIX (SunOS/Solaris/OSF1..)</description>
     </item>
     
     <item>
-      <title>A15. ANCESTRY</title>
+      <title>ANCESTRY</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/ancestry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/ancestry/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;This application aims at providing the user with an easy to use web-based user interface to compute individual ancestry estimates using the Maximum Likelihood Estimation method. This website also allows registered users to manage genotype and marker/allele frequency files. Registration is optional.&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Van-Anh Tran (email: vananh.tran@case.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Thomas Dyer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Guo-Qiang Zhang&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Jill Barnholtz-Sloan (email: jsb42@case.edu)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ciil.case.edu:3000&#34;&gt;http://ciil.case.edu:3000&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;language&#34;&gt;Language&lt;/h2&gt;
-
-&lt;p&gt;Ruby on Rails, FORTRAN&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;web-based&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Hanis, Chakraborty, Ferrell, Schull (1986), &amp;ldquo;Individual admixture estimates: disease associations and individual risk of diabetes and gallbladder disease among Mexican-Americans in Starr County, Texas&amp;rdquo;, American Journal of Physical Anthropology, 70(4):433-441.
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/ancestry&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/ancestry with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ancestry&#39;; // Replace ancestry with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description This application aims at providing the user with an easy to use web-based user interface to compute individual ancestry estimates using the Maximum Likelihood Estimation method. This website also allows registered users to manage genotype and marker/allele frequency files. Registration is optional.
+Author  Van-Anh Tran (email: vananh.tran@case.edu)
+ Thomas Dyer
+ Guo-Qiang Zhang
+ Jill Barnholtz-Sloan (email: jsb42@case.edu)</description>
+    </item>
+    
+    <item>
+      <title>ANCESTRYMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/ancestrymap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/ancestrymap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 2.0
+Description ANCESTRYMAP screens through the genome in a recently mixed population such as African Americans, searching for segments with increased ancestry from one of the ancestral populations, which can indicate the position of disease genes
+Author  Arti Tandon (email: atandon@broad.mit.edu)
+ Nick Patterson (email: nickp@broad.mit.edu)
+ David Reich.
+  URL http://genepath.med.harvard.edu/~reich/Software.htm
+OS UNIX, Linux
+Reference Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O&amp;rsquo;Brien, Altshuler, Daly, Reich (2004), &amp;ldquo;Methods for high-density admixture mapping of disease genes&amp;rdquo;, American Journal of Human Genetics, 74(5):97-1000   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>ANNOVAR</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/annovar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/annovar/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name functional ANNOtation of genetic VARiants
+Version Feb 2010
+Description ANNOVAR is an efficient software tool to utilize update-to-date information to functionally annotate genetic variants detected from diverse genomes (including human genome hg18, hg19, as well as mouse, worm, fly, yeast and many others). Given a list of variants with chromosome, start position, end position, reference nucleotide and observed nucleotides, ANNOVAR can perform: 1.</description>
+    </item>
+    
+    <item>
+      <title>ANTMAP</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/antmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/antmap/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (June 2006)
+Description Ordering markers when the number of loci is large is a special case of the traveling salesman problem. ANTMAP is a system based on the Ant Colony Optimization to solve this problem. ANYMAP performs segregation test, linkage grouping and locus ordering, and constructs a linkage map rapidly.
+Author Hiroyoshi Iwata (email: iwata@lbm.ab.a.u-tokyo.ac.jp)
+URL http://lbm.ab.a.u-tokyo.ac.jp/~iwata/antmap/
+Language Java</description>
+    </item>
+    
+    <item>
+      <title>APE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/ape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/ape/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Allelic Path Explorer
+Version 1.0
+Description Extends partially observed genotype data to the whole pedigree. Can be used for generating starting points for MCMC samplers and for checking that the genotype data are consistent with the pedigree structure.
+Author  Matti Pirinen
+ Dario Gasbarra (University of Helsinki, Finland)
+  URL http://www.helsinki.fi/~mpirinen/download
+Language C
+OS UNIX
+Reference Pirinen, Gasbarra (2006), &amp;ldquo;Finding consistent gene transmission patterns on large and complex pedigrees&amp;rdquo;, IEEE/ACM cransactions on Computational Biology and Bioinformatics, 3(3):252-262   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+    </item>
+    
+    <item>
+      <title>APL-OSA</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/apl-osa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/apl-osa/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Association in the Presence of Linkage with Ordered Subset Analysis
+Description In the presence of genetic heterogeneity, APL-OSA can identify a genetically homogenous subset of families based on a trait-related covariate. APL-OSA then tests the relationship between the association statistics (i.e., the APL statistics) calculated based on the subset and the family-specific covariate. APL-OSA is based on the OSA method for linkage and the family-based association test, APL.</description>
+    </item>
+    
+    <item>
+      <title>APM</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/apm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/apm/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Affected Pedigree-Member Method
+Version July 1993
+Author  Daniel E. Weeks (University of Oxford, University of Pittsburgh, email: dweeks@watson.hgen.pitt.edu)
+ Mark Schroeder (email: mark@holmes.hgen.pitt.edu)
+  URL http://watson.hgen.pitt.edu/register/soft_doc.html registration page at: http://watson.hgen.pitt.edu/register
+Language C and Pascal and FORTRAN
+OS UNIX, VMS, MS-DOS
+EXE apm, sim, apmmult, simmult, chapm, hist
+Reference Weeks and Lange, American Journal of Human Genetics, 42(2):315-326 (1988).</description>
+    </item>
+    
+    <item>
+      <title>ARIEL</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/ariel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/ariel/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Accumulation of Rare variants Integrated and Extended Locus-specific test
+Description ARIEL explores the effects of rare variants within complex traits through locus-based analysis. There is increasing evidence that rare variants play a role in some complex traits, but their analysis is not straightforward. Locus-based tests become necessary due to low power in rare variant single-point association analyses. In addition, variant quality scores are available for sequencing data, but are rarely taken into account.</description>
+    </item>
+    
+    <item>
+      <title>ARLEQUIN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/arlequin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/arlequin/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name  French translation of &amp;ldquo;Arlecchino&amp;rdquo;
+ French translation of &amp;ldquo;Arlecchino&amp;rdquo;, a character of the Italian &amp;ldquo;Commedia dell&amp;rsquo;Arte&amp;rdquo;. He has many aspects, but can switch among them very easily according to needs and necessities. Similarly, this software is about the study of genetic polymorphism.
+  Version 3.1 (September 2006)
+Description an exploratory population genetics software environment able to handle large samples of molecular data (RFLPs, DNA sequences, microsatellites), while retaining the capacity of analyzing conventional genetic data (standard multi-locus data or mere allele frequency data).</description>
+    </item>
+    
+    <item>
+      <title>ARP.GEE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/arp.gee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/arp.gee/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 0.1.0 (April 2005)
+Description Simultaneously estimate a trait-locus position and its genetic effects for affected relative pairs (ARP) by one of two methods. Either allow a different trait-locus effect for each ARP type, or constrain the trait-locus effects according to the marginal effect of a single susceptibility locus. We include a goodness of fit statistic for the constrained model.</description>
+    </item>
+    
+    <item>
+      <title>ASP/ASPSHARE</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/aspaspshare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/aspaspshare/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.2 (June 2002) (Warning: the earlier version contains a bug)
+Description ASP a power calculator for gene mapping using a sibpair design (concordant or discordant). ASPSHARE complements ASP in that it allows rapid calculation of the expected ibd sharing at the trait locus, based upon the model parameters, and the incidence corresponding to the respective parameters.
+Author Michael Krawczak</description>
+    </item>
+    
+    <item>
+      <title>ASPEX</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/aspex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/aspex/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Full Name Affected Sib Pairs EXclusion map
+Version 2.5 (September 2003)
+Description a set of programs for performing multipoint exclusion mapping of affected sibling pair data for discrete traits.
+Author David Hinds (email: dahinds@users.sourceforge.net) Neil Risch (Stanford Univ)
+URL  http://aspex.sourceforge.net/
+ ftp://lahmed.stanford.edu/pub/aspex
+  Language C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.teleport.com/pub/users/pturner/acegr)
+OS UNIX (Solaris/SunOS/IRIX/OSF-1), Linux</description>
+    </item>
+    
+    <item>
+      <title>ASSOCIATIONVIEWER</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/associationviewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/associationviewer/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Description AssociationViewer is a Java application used to display SNPs in a genetic context. Supplementary data (such as genes or LD plots) is downloaded from various public data sources on the fly and saved locally in a cache. Custom data can be added as supplementary tracks.
+URL http://associationviewer.vital-it.ch/
+Language Java
+Reference Martin, Valsesia, Telenti, Xenarios, Stevenson (2009), &amp;ldquo;AssociationViewer: a scalable and integrated software tool for visualization of large-scale variation data in genomic context&amp;rdquo;, Bioinformatics, 25(5):662-663.</description>
+    </item>
+    
+    <item>
+      <title>AUTOSCAN</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/autoscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/autoscan/</guid>
+      <description>Record added by Jurg Ott (the original Rockefeller list)
+Version 1.0.1 (February 2000)
+Description a helper program to automate the tedious process of the creation of input files from genotype data of genome-wide scans
+Author  T Hiekkalinna
+ L Peltonen (UCLA)
+  URL http://www.helsinki.fi/~tsjuntun/autoscan/
+Language C and UNIX-shell (Bourne)
+OS UNIX (Solaris/DEC-UNIX)
+EXE autostart, autoscan10.sh
+Reference American Journal of Human Genetics, supp, 65 . ( abstract) (1999)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
   </channel>
