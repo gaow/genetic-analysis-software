@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/s/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>SAGE</title>
+      <title>S1. SAGE</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>SAMTOOLS</title>
+      <title>S2. SAMTOOLS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/samtools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>SAS/GENETICS</title>
+      <title>S3. SAS/GENETICS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasgenetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -233,7 +233,7 @@
     </item>
     
     <item>
-      <title>SASGENE</title>
+      <title>S4. SASGENE</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasgene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -303,7 +303,7 @@
     </item>
     
     <item>
-      <title>SASQUANT</title>
+      <title>S5. SASQUANT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sasquant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -373,7 +373,7 @@
     </item>
     
     <item>
-      <title>SCORE-SEQ</title>
+      <title>S6. SCORE-SEQ</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/score-seq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -437,7 +437,7 @@
     </item>
     
     <item>
-      <title>SCOUT</title>
+      <title>S7. SCOUT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/scout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -513,7 +513,7 @@
     </item>
     
     <item>
-      <title>SDMINP</title>
+      <title>S8. SDMINP</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sdminp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -589,7 +589,7 @@
     </item>
     
     <item>
-      <title>SEGPATH</title>
+      <title>S9. SEGPATH</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/segpath/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -649,7 +649,7 @@
     </item>
     
     <item>
-      <title>SELSIM</title>
+      <title>S10. SELSIM</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/selsim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -721,7 +721,7 @@
     </item>
     
     <item>
-      <title>SEQUENCE LD/SEQUENCE LDHOT</title>
+      <title>S11. SEQUENCE LD/SEQUENCE LDHOT</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sequence-ldsequence-ldhot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -783,7 +783,7 @@
     </item>
     
     <item>
-      <title>SGS</title>
+      <title>S12. SGS</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sgs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -847,7 +847,7 @@
     </item>
     
     <item>
-      <title>SIB-PAIR</title>
+      <title>S13. SIB-PAIR</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/sib-pair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -911,7 +911,7 @@
     </item>
     
     <item>
-      <title>SIBERROR</title>
+      <title>S14. SIBERROR</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/siberror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -987,7 +987,7 @@
     </item>
     
     <item>
-      <title>SIBLINK</title>
+      <title>S15. SIBLINK</title>
       <link>https://gaow.github.io/genetic-analysis-software/s/siblink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

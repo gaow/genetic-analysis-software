@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/a/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>ACT</title>
+      <title>A1. ACT</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/act/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -97,7 +97,7 @@
     </item>
     
     <item>
-      <title>ADEGENET</title>
+      <title>A2. ADEGENET</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/adegenet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -141,7 +141,7 @@
     </item>
     
     <item>
-      <title>ADMIXMAP</title>
+      <title>A3. ADMIXMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/admixmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -235,7 +235,7 @@
     </item>
     
     <item>
-      <title>AGEINF</title>
+      <title>A4. AGEINF</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/ageinf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -295,7 +295,7 @@
     </item>
     
     <item>
-      <title>ALBERT</title>
+      <title>A5. ALBERT</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/albert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -367,7 +367,7 @@
     </item>
     
     <item>
-      <title>ALLASS</title>
+      <title>A6. ALLASS</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -439,7 +439,7 @@
     </item>
     
     <item>
-      <title>ALLEGRO</title>
+      <title>A7. ALLEGRO</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allegro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -521,7 +521,7 @@
     </item>
     
     <item>
-      <title>ALLELIX</title>
+      <title>A8. ALLELIX</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/allelix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -599,7 +599,7 @@
     </item>
     
     <item>
-      <title>ALOHOMORA</title>
+      <title>A9. ALOHOMORA</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/alohomora/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -671,7 +671,7 @@
     </item>
     
     <item>
-      <title>ALP</title>
+      <title>A10. ALP</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/alp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -757,7 +757,71 @@
     </item>
     
     <item>
-      <title>ALTREE</title>
+      <title>A11. Altrans</title>
+      <link>https://gaow.github.io/genetic-analysis-software/a/altrans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/a/altrans/</guid>
+      <description>
+
+&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads&lt;/p&gt;
+
+&lt;h2 id=&#34;year&#34;&gt;Year&lt;/h2&gt;
+
+&lt;p&gt;2015&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ongen H.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dermitzakis E.T.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;Ongen H., Dermitzakis E.T. (2015) submitted&lt;/p&gt;
+
+&lt;h2 id=&#34;tag&#34;&gt;Tag&lt;/h2&gt;
+
+&lt;p&gt;splicing
+
+&lt;hr size=&#34;2&#34;&gt;
+&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/altrans&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/altrans with your page&#39;s canonical URL variable
+        this.page.identifier = &#39;altrans&#39;; // Replace altrans with your page&#39;s unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
+        // discussions from &#39;localhost:1313&#39; on your Disqus account...
+        if (window.location.hostname == &#34;localhost&#34;)
+           return;
+        var d = document, s = d.createElement(&#39;script&#39;);
+        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A12. ALTREE</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/altree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -827,7 +891,7 @@
     </item>
     
     <item>
-      <title>AMELIA</title>
+      <title>A13. AMELIA</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/amelia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -891,7 +955,7 @@
     </item>
     
     <item>
-      <title>ANALYZE</title>
+      <title>A14. ANALYZE</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/analyze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -965,7 +1029,7 @@
     </item>
     
     <item>
-      <title>ANCESTRY</title>
+      <title>A15. ANCESTRY</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/ancestry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1017,76 +1081,6 @@
     var disqus_config = function () {
         this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/ancestry&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/ancestry with your page&#39;s canonical URL variable
         this.page.identifier = &#39;ancestry&#39;; // Replace ancestry with your page&#39;s unique identifier variable
-    };
-    */
-    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
-        // Don&#39;t ever inject Disqus on localhost--it creates unwanted
-        // discussions from &#39;localhost:1313&#39; on your Disqus account...
-        if (window.location.hostname == &#34;localhost&#34;)
-           return;
-        var d = document, s = d.createElement(&#39;script&#39;);
-        s.src = &#39;//genetic-analysis-software.disqus.com/embed.js&#39;;  // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.setAttribute(&#39;data-timestamp&#39;, +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;https://disqus.com/?ref_noscript&#34; rel=&#34;nofollow&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ANCESTRYMAP</title>
-      <link>https://gaow.github.io/genetic-analysis-software/a/ancestrymap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gaow.github.io/genetic-analysis-software/a/ancestrymap/</guid>
-      <description>
-
-&lt;p&gt;Record added by Jurg Ott (the original Rockefeller list)&lt;/p&gt;
-
-&lt;h2 id=&#34;version&#34;&gt;Version&lt;/h2&gt;
-
-&lt;p&gt;2.0&lt;/p&gt;
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;ANCESTRYMAP screens through the genome in a recently mixed population such as African Americans, searching for segments with increased ancestry from one of the ancestral populations, which can indicate the position of disease genes&lt;/p&gt;
-
-&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Arti Tandon (email: atandon@broad.mit.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Nick Patterson (email: nickp@broad.mit.edu)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;David Reich.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;url&#34;&gt;URL&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://genepath.med.harvard.edu/~reich/Software.htm&#34;&gt;http://genepath.med.harvard.edu/~reich/Software.htm&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;os&#34;&gt;OS&lt;/h2&gt;
-
-&lt;p&gt;UNIX, Linux&lt;/p&gt;
-
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-
-&lt;p&gt;Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O&amp;rsquo;Brien, Altshuler, Daly, Reich (2004), &amp;ldquo;Methods for high-density admixture mapping of disease genes&amp;rdquo;, American Journal of Human Genetics, 74(5):97-1000
-
-&lt;hr size=&#34;2&#34;&gt;
-&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/ancestrymap&#39;;  // Replace http://gaow.github.io/genetic-analysis-software/a/ancestrymap with your page&#39;s canonical URL variable
-        this.page.identifier = &#39;ancestrymap&#39;; // Replace ancestrymap with your page&#39;s unique identifier variable
     };
     */
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW

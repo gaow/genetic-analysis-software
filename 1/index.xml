@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>2DMAP</title>
+      <title>1. 2DMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/1/2dmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -77,7 +77,7 @@
     </item>
     
     <item>
-      <title>2LD</title>
+      <title>2. 2LD</title>
       <link>https://gaow.github.io/genetic-analysis-software/1/2ld/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -145,7 +145,7 @@
     </item>
     
     <item>
-      <title>2SNP</title>
+      <title>3. 2SNP</title>
       <link>https://gaow.github.io/genetic-analysis-software/1/2snp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/w/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>WEB-PREPLINK</title>
+      <title>W1. WEB-PREPLINK</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/web-preplink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>WEBQTL</title>
+      <title>W2. WEBQTL</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/webqtl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -135,7 +135,7 @@
     </item>
     
     <item>
-      <title>WEIGHTED_FDR</title>
+      <title>W3. WEIGHTED_FDR</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/weighted_fdr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -199,7 +199,7 @@
     </item>
     
     <item>
-      <title>WGCNA</title>
+      <title>W4. WGCNA</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/wgcna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -267,7 +267,7 @@
     </item>
     
     <item>
-      <title>WHAIT</title>
+      <title>W5. WHAIT</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/whait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -319,7 +319,7 @@
     </item>
     
     <item>
-      <title>WHAP</title>
+      <title>W6. WHAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/whap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -383,7 +383,7 @@
     </item>
     
     <item>
-      <title>WHICHRUN</title>
+      <title>W7. WHICHRUN</title>
       <link>https://gaow.github.io/genetic-analysis-software/w/whichrun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

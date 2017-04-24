@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/t/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>TAGGER</title>
+      <title>T1. TAGGER</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tagger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -65,7 +65,7 @@
     </item>
     
     <item>
-      <title>TAGIMPUTE</title>
+      <title>T2. TAGIMPUTE</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tagimpute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -133,7 +133,7 @@
     </item>
     
     <item>
-      <title>TAGSNP</title>
+      <title>T3. TAGSNP</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tagsnp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -193,7 +193,7 @@
     </item>
     
     <item>
-      <title>TAGSTER</title>
+      <title>T4. TAGSTER</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tagster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -263,7 +263,7 @@
     </item>
     
     <item>
-      <title>TASSEL</title>
+      <title>T5. TASSEL</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tassel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -343,7 +343,7 @@
     </item>
     
     <item>
-      <title>TDT-AE</title>
+      <title>T6. TDT-AE</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdt-ae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -431,7 +431,7 @@
     </item>
     
     <item>
-      <title>TDT-PC</title>
+      <title>T7. TDT-PC</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdt-pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -511,7 +511,7 @@
     </item>
     
     <item>
-      <title>TDT/S-TDT</title>
+      <title>T8. TDT/S-TDT</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdts-tdt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -583,7 +583,7 @@
     </item>
     
     <item>
-      <title>TDTASP</title>
+      <title>T9. TDTASP</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdtasp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -673,7 +673,7 @@
     </item>
     
     <item>
-      <title>TDTHAP</title>
+      <title>T10. TDTHAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdthap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -717,7 +717,7 @@
     </item>
     
     <item>
-      <title>TDTPOWER</title>
+      <title>T11. TDTPOWER</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tdtpower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -781,7 +781,7 @@
     </item>
     
     <item>
-      <title>TFPGA</title>
+      <title>T12. TFPGA</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tfpga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -841,7 +841,7 @@
     </item>
     
     <item>
-      <title>THESIAS</title>
+      <title>T13. THESIAS</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/thesias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -905,7 +905,7 @@
     </item>
     
     <item>
-      <title>TKMAP</title>
+      <title>T14. TKMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tkmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -969,7 +969,7 @@
     </item>
     
     <item>
-      <title>TLINKAGE</title>
+      <title>T15. TLINKAGE</title>
       <link>https://gaow.github.io/genetic-analysis-software/t/tlinkage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

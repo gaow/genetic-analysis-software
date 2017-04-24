@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/h/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>HAP 1</title>
+      <title>H1. HAP 1</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>HAP 2</title>
+      <title>H2. HAP 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -133,7 +133,7 @@
     </item>
     
     <item>
-      <title>HAP-SAMPLE</title>
+      <title>H3. HAP-SAMPLE</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hap-sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -189,7 +189,7 @@
     </item>
     
     <item>
-      <title>HAPAR</title>
+      <title>H4. HAPAR</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -261,7 +261,7 @@
     </item>
     
     <item>
-      <title>HAPASSOC</title>
+      <title>H5. HAPASSOC</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapassoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -305,7 +305,7 @@
     </item>
     
     <item>
-      <title>HAPBLOCK</title>
+      <title>H6. HAPBLOCK</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapblock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -381,7 +381,7 @@
     </item>
     
     <item>
-      <title>HAPBLOCK 2</title>
+      <title>H7. HAPBLOCK 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapblock-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -437,7 +437,7 @@
     </item>
     
     <item>
-      <title>HAPGEN</title>
+      <title>H8. HAPGEN</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapgen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -503,7 +503,7 @@
     </item>
     
     <item>
-      <title>HAPINFERX</title>
+      <title>H9. HAPINFERX</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/hapinferx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -563,7 +563,7 @@
     </item>
     
     <item>
-      <title>HAPLO 1</title>
+      <title>H10. HAPLO 1</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -647,7 +647,7 @@
     </item>
     
     <item>
-      <title>HAPLO 2</title>
+      <title>H11. HAPLO 2</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -719,7 +719,7 @@
     </item>
     
     <item>
-      <title>HAPLO.STAT</title>
+      <title>H12. HAPLO.STAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplo.stat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -803,7 +803,7 @@
     </item>
     
     <item>
-      <title>HAPLOBLOCK</title>
+      <title>H13. HAPLOBLOCK</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haploblock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -883,7 +883,7 @@
     </item>
     
     <item>
-      <title>HAPLOBLOCKFINDER</title>
+      <title>H14. HAPLOBLOCKFINDER</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haploblockfinder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -951,7 +951,7 @@
     </item>
     
     <item>
-      <title>HAPLOBUILD</title>
+      <title>H15. HAPLOBUILD</title>
       <link>https://gaow.github.io/genetic-analysis-software/h/haplobuild/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

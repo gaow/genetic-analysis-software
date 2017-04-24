@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/g/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>G-MENDEL</title>
+      <title>G1. G-MENDEL</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/g-mendel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -73,7 +73,7 @@
     </item>
     
     <item>
-      <title>GAIA</title>
+      <title>G2. GAIA</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gaia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -149,7 +149,7 @@
     </item>
     
     <item>
-      <title>GAP</title>
+      <title>G3. GAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -231,7 +231,7 @@
     </item>
     
     <item>
-      <title>GAS</title>
+      <title>G4. GAS</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -295,7 +295,7 @@
     </item>
     
     <item>
-      <title>GAS2</title>
+      <title>G5. GAS2</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gas2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -355,7 +355,7 @@
     </item>
     
     <item>
-      <title>GASP</title>
+      <title>G6. GASP</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gasp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -439,7 +439,7 @@
     </item>
     
     <item>
-      <title>GASSOC</title>
+      <title>G7. GASSOC</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gassoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -519,7 +519,7 @@
     </item>
     
     <item>
-      <title>GATK</title>
+      <title>G8. GATK</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gatk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -579,7 +579,7 @@
     </item>
     
     <item>
-      <title>GC/GCF</title>
+      <title>G9. GC/GCF</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gcgcf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -657,7 +657,7 @@
     </item>
     
     <item>
-      <title>GCHAP</title>
+      <title>G10. GCHAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gchap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -733,7 +733,7 @@
     </item>
     
     <item>
-      <title>GDA</title>
+      <title>G11. GDA</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -801,7 +801,7 @@
     </item>
     
     <item>
-      <title>GEMS</title>
+      <title>G12. GEMS</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/gems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -879,7 +879,7 @@
     </item>
     
     <item>
-      <title>GENABEL</title>
+      <title>G13. GENABEL</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/genabel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -923,7 +923,7 @@
     </item>
     
     <item>
-      <title>GENECLASS</title>
+      <title>G14. GENECLASS</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/geneclass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -991,7 +991,7 @@
     </item>
     
     <item>
-      <title>GENECOUNTING</title>
+      <title>G15. GENECOUNTING</title>
       <link>https://gaow.github.io/genetic-analysis-software/g/genecounting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

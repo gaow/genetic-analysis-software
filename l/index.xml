@@ -9,7 +9,7 @@
     <atom:link href="https://gaow.github.io/genetic-analysis-software/l/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>L-POP</title>
+      <title>L1. L-POP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/l-pop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>LAMARC</title>
+      <title>L2. LAMARC</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lamarc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -159,7 +159,7 @@
     </item>
     
     <item>
-      <title>LAMBDAA</title>
+      <title>L3. LAMBDAA</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lambdaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -211,7 +211,7 @@
     </item>
     
     <item>
-      <title>LAMP</title>
+      <title>L4. LAMP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -295,7 +295,7 @@
     </item>
     
     <item>
-      <title>LAPSTRUCT</title>
+      <title>L5. LAPSTRUCT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lapstruct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -365,7 +365,7 @@
     </item>
     
     <item>
-      <title>LCP</title>
+      <title>L6. LCP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -437,7 +437,7 @@
     </item>
     
     <item>
-      <title>LDA</title>
+      <title>L7. LDA</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/lda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -513,7 +513,7 @@
     </item>
     
     <item>
-      <title>LDB/LDB&#43;</title>
+      <title>L8. LDB/LDB&#43;</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldbldb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -605,7 +605,7 @@
     </item>
     
     <item>
-      <title>LDGROUP</title>
+      <title>L9. LDGROUP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldgroup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -669,7 +669,7 @@
     </item>
     
     <item>
-      <title>LDHAT</title>
+      <title>L10. LDHAT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldhat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -737,7 +737,7 @@
     </item>
     
     <item>
-      <title>LDHEATMAP</title>
+      <title>L11. LDHEATMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -781,7 +781,7 @@
     </item>
     
     <item>
-      <title>LDMAP</title>
+      <title>L12. LDMAP</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -849,7 +849,7 @@
     </item>
     
     <item>
-      <title>LDMET</title>
+      <title>L13. LDMET</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldmet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -905,7 +905,7 @@
     </item>
     
     <item>
-      <title>LDSELECT</title>
+      <title>L14. LDSELECT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldselect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -973,7 +973,7 @@
     </item>
     
     <item>
-      <title>LDSUPPORT</title>
+      <title>L15. LDSUPPORT</title>
       <link>https://gaow.github.io/genetic-analysis-software/l/ldsupport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
