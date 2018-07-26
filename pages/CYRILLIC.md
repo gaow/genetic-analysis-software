@@ -13,7 +13,7 @@ pedigree drawing with fully integrated risk analysis and support for industry st
 
 ## URL
 * http://www.cyrillicsoftware.com
-* http://www.cyrillicsoftware.com/download/downloads.htm
+* https://www.apbenson.com/cyrillic-downloads 
 
 ## Language
 Visual C++
