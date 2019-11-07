@@ -399,15 +399,6 @@ Reference  Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs 
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://gaow.github.io/genetic-analysis-software/0/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gaow.github.io/genetic-analysis-software/0/about/</guid>
-      <description># A B C D E F G H   I J K L M N O P Q   R S T U V W X Y Z    Scope This page, historically known as the &amp;ldquo;Alphabetic List of Genetic Analysis Software&amp;rdquo;, or the &amp;ldquo;Rockefeller list&amp;rdquo;, is a list of computer programs for genetics analysis, including but not limiting to topics of:</description>
-    </item>
-    
-    <item>
       <title>ADEGENET</title>
       <link>https://gaow.github.io/genetic-analysis-software/a/adegenet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -613,6 +604,15 @@ Reference Collins,Morton (1995), Human Heredity, 45:311-318.   /** * RECOMMENDED
       <guid>https://gaow.github.io/genetic-analysis-software/o/onemap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Related R/ONEMAP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/o/onemap&#39;; // Replace http://gaow.github.io/genetic-analysis-software/o/onemap with your page&#39;s canonical URL variable this.page.identifier = &#39;onemap&#39;; // Replace onemap with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+    </item>
+    
+    <item>
+      <title>Other lists</title>
+      <link>https://gaow.github.io/genetic-analysis-software/0/lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gaow.github.io/genetic-analysis-software/0/lists/</guid>
+      <description> Lists of software  ENCODE software list Some earlier software can be downloaded from EBI Linkage and Mapping Software Repository  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping   Lists of R packages  Here is a partial list of statistical genetics R packages. More R packages yet can be found at [1], [2], [3], [4], and other places.  </description>
     </item>
     
     <item>
@@ -933,15 +933,6 @@ Reference Lemire (2005), &amp;ldquo;A simple nonparametric multipoint procedure 
 Full Name Ordered Subset Analysis
 Version 2.1
 Description OSA allows the researcher to evaluate evidence for linkage even when heterogeneity is present in a data set. This is not an unusual occurrence when studying diseases of complex origin. Families are ranked by covariate values in order to test evidence for linkage among homogeneous subsets of families. Because families are ranked, a priori covariate cutpoints are not necessary.</description>
-    </item>
-    
-    <item>
-      <title>Other lists</title>
-      <link>https://gaow.github.io/genetic-analysis-software/0/lists/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gaow.github.io/genetic-analysis-software/0/lists/</guid>
-      <description> Lists of software  ENCODE software list Some earlier software can be downloaded from EBI Linkage and Mapping Software Repository  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping   Lists of R packages  Here is a partial list of statistical genetics R packages. More R packages yet can be found at [1], [2], [3], [4], and other places.  </description>
     </item>
     
     <item>
