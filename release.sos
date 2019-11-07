@@ -37,15 +37,22 @@ disqus_tpl = '''
 {{< /raw >}}
 '''
 
+[theme: provides = 'website/themes/hugo-theme-learn/README.md']
+parameter: version = '2.4.0'
+download: dest_dir = 'website/themes', decompress=True, expand = '${ }'
+  https://github.com/matcornic/hugo-theme-learn/archive/${version}.tar.gz
+bash: expand = '${ }'
+  rm -rf website/themes/hugo-theme-learn && mv website/themes/hugo-theme-learn-${version} website/themes/hugo-theme-learn
+  rm -f website/themes/${version}.tar.gz
+
 # Download gh-pages branch
-[default_1]
-output: 'gh-pages/.gitignore'
+[pages: provides = 'gh-pages/.gitignore']
 bash:
   rm -rf gh-pages
   git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
 
-# Update alphabetic TOC
-[default_2]
+# Update alphabetic software list
+[default_1]
 import os, glob, re
 from collections import OrderedDict
 def get_meta(files):
@@ -97,21 +104,19 @@ for k in contents:
         with open(f'website/content/{k.lower()}/{kk[1]}.md', 'w') as f:
              f.write('---\ntitle: {1}\ntoc: true\nweight: {0}\n---\n\n'.format(num + 1, kk[0]))
              f.write(contents[k][kk])
-             f.write('''${disqus_tpl}'''.replace('PAGE_URL', f'http://gaow.github.io/genetic-analysis-software/{k.lower()}/{kk[1]}').replace('PAGE_IDENTIFIER', kk[1]))
+             f.write(f'''{disqus_tpl}'''.replace('PAGE_URL', f'http://gaow.github.io/genetic-analysis-software/{k.lower()}/{kk[1]}').replace('PAGE_IDENTIFIER', kk[1]))
 
 os.makedirs(f'website/content/0', exist_ok=True)
 with open('website/content/0/_index.md', 'w') as f:
-     f.write('+++\nweight = 1\ntitle = "Genetic Analysis Software"\n+++\n\n')
-     f.write('# Welcome ... \nto the Rockefeller list of Genetic Analysis Software!')
-with open('website/content/0/about.md', 'w') as f:
-     f.write('---\ntitle: About\nweight: 2\ntoc: true\n---\n\n')
+     f.write('+++\nweight = 1\ntitle = "The Rockefeller List"\n+++\n\n')
      f.write(open('Home.md').read())
 with open('website/content/0/lists.md', 'w') as f:
-     f.write('---\ntitle: Other lists\nweight: 3\ntoc: true\n---\n\n')
+     f.write('---\ntitle: Other lists\nweight: 2\ntoc: true\n---\n\n')
      f.write(open('Others.md').read())
  
-[default_3]
 # Update gh-pages
+[default_2]
+depends: 'website/themes/hugo-theme-learn/README.md', 'gh-pages/.gitignore'
 bash:
   set -e
   cd website
