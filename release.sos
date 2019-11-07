@@ -44,6 +44,35 @@ download: dest_dir = 'website/themes', decompress=True, expand = '${ }'
 bash: expand = '${ }'
   rm -rf website/themes/hugo-theme-learn && mv website/themes/hugo-theme-learn-${version} website/themes/hugo-theme-learn
   rm -f website/themes/${version}.tar.gz
+  echo -e """
+  /* pt-sans-regular - latin */
+  @font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/pt-sans-v11-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('PT Sans'), local('PTSans-Regular'),
+       url('../fonts/pt-sans-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/pt-sans-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/pt-sans-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/pt-sans-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/pt-sans-v11-latin-regular.svg#PTSans') format('svg'); /* Legacy iOS */
+  }
+  """ >> website/themes/hugo-theme-learn/static/css/theme.css
+  sed -i 's/"Work Sans"/"PT Sans"/g' website/themes/hugo-theme-learn/static/css/theme.css
+  echo -e '''
+  <p><a href="http://tigerwang.org/profile">Gao Wang</a> at <a href="http://lab.rockefeller.edu/ott/">Ott lab</a> &copy; 1995-2014, 2017</p>
+  ''' > website/themes/hugo-theme-learn/layouts/partials/menu-footer.html
+  echo -e '''
+  <a id="loga" href="http://github.com/gaow/genetic-analysis-software">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 486.988 486.988" style="enable-background:new 0 0 486.988 486.988;" xml:space="preserve" width="48px" height="48px">
+  <g> <path d="M16.822,284.968h39.667v158.667c0,9.35,7.65,17,17,17h116.167c9.35,0,17-7.65,17-17V327.468h70.833v116.167    c0,9.35,7.65,17,17,17h110.5c9.35,0,17-7.65,17-17V284.968h48.167c6.8,0,13.033-4.25,15.583-10.483    c2.55-6.233,1.133-13.6-3.683-18.417L260.489,31.385c-6.517-6.517-17.283-6.8-23.8-0.283L5.206,255.785    c-5.1,4.817-6.517,12.183-3.967,18.7C3.789,281.001,10.022,284.968,16.822,284.968z M248.022,67.368l181.333,183.6h-24.367    c-9.35,0-17,7.65-17,17v158.667h-76.5V310.468c0-9.35-7.65-17-17-17H189.656c-9.35,0-17,7.65-17,17v116.167H90.489V267.968    c0-9.35-7.65-17-17-17H58.756L248.022,67.368z" fill="#FFFFFF"/>
+  </g>
+  <svg>
+  </a>
+  ''' >  website/themes/hugo-theme-learn/layouts/partials/logo.html
+download: dest_dir = 'website/themes/hugo-theme-learn/static/fonts', decompress=True
+  https://google-webfonts-helper.herokuapp.com/api/fonts/pt-sans?download=zip&subsets=latin&variants=regular
 
 # Download gh-pages branch
 [pages: provides = 'gh-pages/.gitignore']
@@ -127,3 +156,7 @@ bash:
   git add .
   git commit -m update
   git push
+
+[clean]
+bash: workdir='website'
+  rm -rf themes resources content
