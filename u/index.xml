@@ -36,7 +36,7 @@ Author  Hyun Min Kang
       <guid>https://gaow.github.io/genetic-analysis-software/u/unknown/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Reference a relevant documentation is &amp;ldquo;the mystery of (the) unknown&amp;rdquo;
-Related LINKAGE - general pedigrees${disqus_tpl}</description>
+Related LINKAGE - general pedigrees   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/u/unknown&#39;; // Replace http://gaow.github.io/genetic-analysis-software/u/unknown with your page&#39;s canonical URL variable this.</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 OS MS-Windows, Linux
 EXE multiple, binom, chiprob, conting, equiv, hist, hwe, ibd, mapfun, nocom, norinv, norprob, par, pvalues, relrisk, sexdif, tprob, trend
-Reference Ott (1999), Analysis of human genetic linkage 3rd edition (Johns Hospkins University Press, Baltimore).${disqus_tpl}</description>
+Reference Ott (1999), Analysis of human genetic linkage 3rd edition (Johns Hospkins University Press, Baltimore).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
   </channel>

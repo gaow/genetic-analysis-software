@@ -95,7 +95,7 @@ Author  Catherine Bourgain
  Mary Sara McPeek
   URL http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/
 OS UNIX
-Reference Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), &amp;ldquo;Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus&amp;rdquo;, American Journal of Human Genetics, 73(3):612-626${disqus_tpl}</description>
+Reference Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), &amp;ldquo;Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus&amp;rdquo;, American Journal of Human Genetics, 73(3):612-626   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -136,7 +136,7 @@ Description convert output from CEPH DBMS to CRIMAP format
 Author John Attwood (Sanger Centre, UK) ( email: ja1@sanger.ac.uk)
 URL http://www.gene.ucl.ac.uk/public-files/packages/linkage_utils/ceph2cri/
 Language Pascal
-OS MS-DOS${disqus_tpl}</description>
+OS MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -149,7 +149,7 @@ OS MS-DOS${disqus_tpl}</description>
 Description it is developed from crimap v2.4 for use with the map suite of programs.
 URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ceph2map
 Language C
-EXE ceph2map${disqus_tpl}</description>
+EXE ceph2map   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -256,7 +256,7 @@ Author  Yan V Sun (email:yansun@umich.edu)
 Version 1.0
 Description A simulation program that simulates and plots (in real time) ancestral recombination graphs. This is currently primarily a teaching/educational tool.
 Author Eric C Anderson (email: eric.anderson@stanfordalumni.org)
-URL http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm${disqus_tpl}</description>
+URL http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -269,7 +269,7 @@ URL http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm${disqus_tpl}<
 Version beta (December 11, 2006)
 Description CHROMSCAN is a statistical based program for association mapping of disease genes. It utilises the Malecot model and the linkage disequilibrium (LD) map for the candidate region to analyse the genotypes derive from large sample of matched cases and controls.
 Author A.R. Collins (University of Southampton)
-URL http://www.som.soton.ac.uk/research/geneticsdiv/epidemiology/chromscan/${disqus_tpl}</description>
+URL http://www.som.soton.ac.uk/research/geneticsdiv/epidemiology/chromscan/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -285,7 +285,7 @@ URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C
 OS MS-DOS
-Reference Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online documentation${disqus_tpl}</description>
+Reference Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -337,7 +337,7 @@ Author  Jaap Buntjer (Lab of Plant Breeding, Wageningen University. email: jaap.
  Herman van Eck (email: herman.vaneck@users.pv.wau.nl)
   URL http://www.dpw.wau.nl/pv/pub/combin/
 Language Visual Basic 5
-OS MS-Windows (95/98/NT)${disqus_tpl}</description>
+OS MS-Windows (95/98/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -353,7 +353,7 @@ URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/comds
 Language SUN FORTRAN (the command &amp;ldquo;fsplit&amp;rdquo; is needed)
 OS UNIX (SunOS/..)
 EXE list1,com1, comds (shell script)
-Reference manual (November 1993)${disqus_tpl}</description>
+Reference manual (November 1993)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -367,7 +367,7 @@ Version 0.2.1 (December 2006)
 Description A method to compute composite measures of linkage disequilibrium, their variances and covariances, and statistical tests, for all pairs of alleles from two loci when linkage phase is unkown. An extension of Weir and Cockerham (1989) to apply to multi-allelic loci.
 Author Daniel Schaid (Mayo Clinic)
 URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
-Language R/S-PLUS${disqus_tpl}</description>
+Language R/S-PLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -399,7 +399,7 @@ Description CovIBD refines linkage analysis of affected sibpairs by considering 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/crimap/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.4
 Description constructing multilocus linkage map
 Author Phil Green (Univ. of Washington, email: phg@u.washington.edu)
@@ -409,8 +409,7 @@ OS UNIX, MS-Windows(XP)
 EXE crimap
 Reference  Lander, Green (1987), Proceedings of the National Academy of Sciences , 84:2363-2367.
  documentation (version 2.4, 1990).
- Tutorial (from biobase.dk)${disqus_tpl}
-  </description>
+ Tutorial (from biobase.dk)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -428,7 +427,7 @@ Author  Tara Matise (email: matise@biology.rutgers.edu)
  Daniel E. Weeks
   URL http://compgen.rutgers.edu/multimap/crimappvm.html
 Language C, PVM
-Reference Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.${disqus_tpl}</description>
+Reference Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -445,7 +444,7 @@ Author J. Attwood (Sanger Centre, email: ja1@sanger.ac.uk)
 URL http://www.gene.ucl.ac.uk/public-files/packages/jattwood/
 Language C
 OS UNIX(SunOS)
-Reference Attwood, Povey (1996), Annals of Human Genetics, 60:487-498.${disqus_tpl}</description>
+Reference Attwood, Povey (1996), Annals of Human Genetics, 60:487-498.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>

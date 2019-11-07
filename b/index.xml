@@ -44,7 +44,7 @@ Reference Zhang, Roeder, Wallstrom, Devlin (2003), &amp;ldquo;Integration of ass
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/b/bayesfst/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Bayesian estimation of the coancestry coefficient FST
 Author  DJ Balding (email: d.balding@ic.ac.uk)
  KL Ayres
@@ -53,8 +53,7 @@ Author  DJ Balding (email: d.balding@ic.ac.uk)
   URL http://www.reading.ac.uk/Statistics/genetics/software.html
 Language C
 Reference  Balding (2003), &amp;ldquo;Likelihood-based inference for genetic correlation coefficients&amp;rdquo;, Theoretical Population Biology, 63:221-230
- Beaumont, Balding (2004), &amp;ldquo;Identifying adaptive genetic divergence among populations from genome scans&amp;rdquo;, Molecular Ecology, 13:969-980.${disqus_tpl}
-  </description>
+ Beaumont, Balding (2004), &amp;ldquo;Identifying adaptive genetic divergence among populations from genome scans&amp;rdquo;, Molecular Ecology, 13:969-980.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -128,7 +127,7 @@ Author  A Collins (email: arc@soton.ac.uk)
 Language C
 OS UNIX(SUN..)
 EXE beta
-Reference Morton (1996), Proceedings of the National Academy of Sciences , 93:3471-3476; Collins, Morton (1996), Proceedings of the National Academy of Sciences , 93:9177-9181; Lio, Morton (1997), Proceedings of the National Academy of Sciences , 94:5344-5348; online manual${disqus_tpl}</description>
+Reference Morton (1996), Proceedings of the National Academy of Sciences , 93:3471-3476; Collins, Morton (1996), Proceedings of the National Academy of Sciences , 93:9177-9181; Lio, Morton (1997), Proceedings of the National Academy of Sciences , 94:5344-5348; online manual   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -143,7 +142,7 @@ Version 0.95
 Author  B Servin
  M Stephens
   URL http://stephenslab.uchicago.edu/software.html
-Reference Servin, Stephens (2007), &amp;ldquo;Imputation-based analysis of association studies: candidate genes and quantitative traits&amp;rdquo;, PLoS Genetics, 3(7):e114. http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114${disqus_tpl}</description>
+Reference Servin, Stephens (2007), &amp;ldquo;Imputation-based analysis of association studies: candidate genes and quantitative traits&amp;rdquo;, PLoS Genetics, 3(7):e114. http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -184,15 +183,14 @@ Description The Birdsuite is a fully open-source set of tools to detect and repo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/b/blade/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Bayesian LinkAge DisEquilibrium mapping
 Version v2
 Author Jun Liu (Harvard Univ) (email: jliu@stat.harvard.edu)
 URL  http://www.people.fas.harvard.edu/~junliu/index1.html
  http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz
   Reference  Liu, Sabatti, Teng, Keats, Risch (2001), &amp;ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&amp;rdquo;, Genome Research, 11:1716-1724.
- Lu, Niu, Liu (2003), &amp;ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&amp;rdquo;, Genome Research, 13:2112-2117.${disqus_tpl}
-  </description>
+ Lu, Niu, Liu (2003), &amp;ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&amp;rdquo;, Genome Research, 13:2112-2117.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -220,7 +218,7 @@ Version 2.1(beta)
 URL http://bios.ugr.es/BMapBuilder/
 Language Java
 OS MS-Windows, MacOS, UNIX, Linux
-Reference Abad-Grau, Montes, Sebastiani (2006), &amp;ldquo;Building chromosome-wide LD maps&amp;rdquo;, Bioinformatics, 22(16):1933-1934.${disqus_tpl}</description>
+Reference Abad-Grau, Montes, Sebastiani (2006), &amp;ldquo;Building chromosome-wide LD maps&amp;rdquo;, Bioinformatics, 22(16):1933-1934.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -237,7 +235,7 @@ URL  http://www.geneticepi.com/Research/software/software.html
  http://www.geneticepi.com/Research/software/booLD-1.1.tar.gz
   Language C++, FORTRAN 77, Perl
 OS UNIX, Linux
-EXE kLD, lsqLD, booit.pl${disqus_tpl}</description>
+EXE kLD, lsqLD, booit.pl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -269,7 +267,7 @@ Reference Wan, Yang, Yang, Xue, Fan, Tang, Yu (2010), &amp;ldquo;BOOST: a Boolea
 Version 1.0
 Description Robust haploblock border reliability estimation tool is implemented for LD based haploblock detection method. The most important new features are bootstrapping and overlapping block borders.
 URL http://bioinfo.ebc.ee/download/
-OS MS-Window, Linux${disqus_tpl}</description>
+OS MS-Window, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -287,7 +285,7 @@ Author  Elizabeth A Thompson (University of Washington)
  ftp://ftp.u.washington.edu/pub/user-supported/pangaea/PANGAEA/BOREL
   Language C
 OS UNIX(DEC-UNIX/..)
-Related PANGAEA${disqus_tpl}</description>
+Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -302,7 +300,7 @@ Description a program for detecting recent effective population size reductions 
 Author Sylvian Piry
 URL http://www.montpellier.inra.fr/URLB/bottleneck/bottleneck.html
 OS MS-Windows (95)
-Reference Piry, Luikart, Cornuet (1999), &amp;ldquo;BOTTLENECK: a computer program for detecting recent reductions in the effective size using allele frequency data&amp;rdquo;, Journal of Heredity, 90:502-503.${disqus_tpl}</description>
+Reference Piry, Luikart, Cornuet (1999), &amp;ldquo;BOTTLENECK: a computer program for detecting recent reductions in the effective size using allele frequency data&amp;rdquo;, Journal of Heredity, 90:502-503.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>

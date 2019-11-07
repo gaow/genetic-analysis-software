@@ -54,7 +54,7 @@ Author  Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (em
 Language C
 OS MS-Windows, UNIX (DEC,OSF,Solaris)
 Reference Zhao, Sham (2002), &amp;ldquo;Faster allelic association analysis using unrelated subjects&amp;rdquo;, Human Heredity, 53(1):36-41.
-Related EH, EHPLUS${disqus_tpl}</description>
+Related EH, EHPLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -122,7 +122,7 @@ URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C
 OS MS-DOS
-Reference Curtis, Gurling (1993), Human Heredity, 43:173-185.${disqus_tpl}</description>
+Reference Curtis, Gurling (1993), Human Heredity, 43:173-185.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -163,7 +163,7 @@ Description Haplotype FBAT is a user-friendly, well-documented software that all
       
       <guid>https://gaow.github.io/genetic-analysis-software/f/fest/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/FEST${disqus_tpl}</description>
+Related R/FEST   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/f/fest&#39;; // Replace http://gaow.github.io/genetic-analysis-software/f/fest with your page&#39;s canonical URL variable this.page.identifier = &#39;fest&#39;; // Replace fest with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
@@ -177,7 +177,7 @@ Full Name Fragmented Exhaustive Seearch for TAgsnps
 Version March 2005
 Author  Shyam Gopalakrishnan (email: gopalakr@umich.edu)
  Steve Qin (email: qin@umich.edu) (University of Michigan)
-  URL http://www.sph.umich.edu/csg/qin/FESTA/${disqus_tpl}</description>
+  URL http://www.sph.umich.edu/csg/qin/FESTA/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -192,7 +192,7 @@ Author  Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu)
  Florence Demenais (email: florence.demenais@evry.inserm.fr)
   URL http://www.molecular-haplotype.org/finesse/finesse_intro.htm
 OS Linux, UNIX(Solaris)
-Related VITESSE${disqus_tpl}</description>
+Related VITESSE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -223,7 +223,7 @@ Author Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
 URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C
-OS MS-DOS${disqus_tpl}</description>
+OS MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -239,7 +239,7 @@ Author  Kenneth Lange (IUCLA)
  M. Boehnke
   URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language FORTRAN77
-Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)${disqus_tpl}</description>
+Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>

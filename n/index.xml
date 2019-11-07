@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/n/nocom/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Version Aug 1992
 Description estimate parameters for mixture of normal distributions
 Author Jurg Ott (Rockefeller University)
@@ -24,8 +24,7 @@ URL http://lab.rockefeller.edu/ott/programs
 Language FORTRAN
 OS MS-DOS, OS2
 Reference  Ott (1979), &amp;ldquo;Detection of rare major genes in lipid levels&amp;rdquo;, Human Genetics, 51:79-91.
- online user&amp;rsquo;s guide${disqus_tpl}
-  </description>
+ online user&amp;rsquo;s guide   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -42,7 +41,7 @@ Author  A Collins (email: arc@southampton.ac.uk)
   URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/nopar
 Language FORTRAN
 OS UNIX(SunOS)
-Reference Collins,Morton (1995), Human Heredity, 45:311-318.${disqus_tpl}</description>
+Reference Collins,Morton (1995), Human Heredity, 45:311-318.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>

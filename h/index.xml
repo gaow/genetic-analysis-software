@@ -16,13 +16,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hap-1/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name haplotype resolution using imperfect phylogeny
 Version 3.0
 Author Eleazar Eskin ( eeskin@cs.ucsd.edu)
 URL  http://research.calit2.net/hap/
- http://www.cs.columbia.edu/compbio/hap/${disqus_tpl}
-  </description>
+ http://www.cs.columbia.edu/compbio/hap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.</description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@ Author (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.z
 URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
 Language C
 OS MS-Windows, UNIX(Solaris), Linux
-Reference Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.${disqus_tpl}</description>
+Reference Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: Computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20:1325-1326.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -74,7 +73,7 @@ Author  Lusheng Wang (City University of Hong Kong)
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapassoc/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/HAPASSOC${disqus_tpl}</description>
+Related R/HAPASSOC   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapassoc&#39;; // Replace http://gaow.github.io/genetic-analysis-software/h/hapassoc with your page&#39;s canonical URL variable this.page.identifier = &#39;hapassoc&#39;; // Replace hapassoc with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
@@ -105,7 +104,7 @@ Reference  Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (
 Version April 2004
 Author Adrian Paul Mander (Boston College) (email: adrian.mander@mrc-hnr.cam.ac.uk)
 URL http://econpapers.repec.org/software/bocbocode/s438902.htm
-Language Stata${disqus_tpl}</description>
+Language Stata   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hapblock-2&#39;; // Replace http://gaow.github.io/genetic-analysis-software/h/hapblock-2 with your page&#39;s canonical URL variable this.</description>
     </item>
     
     <item>
@@ -130,7 +129,7 @@ Version (Jul 1999)
 Author Andrew Clark (email: ac347@cornell.edu)
 URL (temporary) source code , input example file , output example file
 Language FORTRAN
-Reference Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.${disqus_tpl}</description>
+Reference Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified samples of diploid populations&amp;rdquo;, Molecular Biology and Evolution, 7:111-122.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -164,7 +163,7 @@ Author  ME Hawley
   URL http://krunch.med.yale.edu/haplo/
 Language FORTRAN
 OS DEC VAX
-Reference Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.${disqus_tpl}</description>
+Reference Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -185,7 +184,7 @@ Author  Dan Schaid
 Language S-plus 6.1.2, R 1.7.1
 OS UNIX
 EXE haplo.em, haplo.glm, haplo.score
-Reference Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434${disqus_tpl}</description>
+Reference Schaid, Rowland, Tines, Jacobson, Poland (2002), American Journal of Human Genetics, 70(2)(2):425-434   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -255,7 +254,7 @@ Author  Holger Thiele
  Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).
   URL http://haplopainter.sourceforge.net/html/ManualIndex.htm
 Language Perl
-Reference Thiele, Nurnberg (2005), &amp;ldquo;HaploPainter: a tool for drawing pedigrees with complex haplotypes&amp;rdquo;, Bioinformatics, 21(8):1730-1732.${disqus_tpl}</description>
+Reference Thiele, Nurnberg (2005), &amp;ldquo;HaploPainter: a tool for drawing pedigrees with complex haplotypes&amp;rdquo;, Bioinformatics, 21(8):1730-1732.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -279,7 +278,7 @@ Full Name HAPLOtype REconstruction in pedigrees
 Description haplotype reconstruction in general pedigree without recombination
 Author Hongyu Zhao (Yale, email: hongyu.zhao@yale.edu)
 URL http://bioinformatics.med.yale.edu/group/software.html
-Reference Zhang, Sun, Zhao (2005), &amp;ldquo;HAPLORE: a program for haplotype reconstruction in general pedigrees without recombination&amp;rdquo;, Bioinformatics, 21(1):90-103.${disqus_tpl}</description>
+Reference Zhang, Sun, Zhao (2005), &amp;ldquo;HAPLORE: a program for haplotype reconstruction in general pedigrees without recombination&amp;rdquo;, Bioinformatics, 21(1):90-103.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -292,7 +291,7 @@ Reference Zhang, Sun, Zhao (2005), &amp;ldquo;HAPLORE: a program for haplotype r
 Version 2.0
 Description population-based haplotyping
 URL http://www.cs.helsinki.fi/group/genetics/haplotyping.html
-Reference Eronen, Geerts, Toivonen (2004), &amp;ldquo;A Markov Chain Approach to Reconstruction of Long Haplotypes&amp;rdquo;, Pacific Symposium on Biocomputing, 9:104-115.${disqus_tpl}</description>
+Reference Eronen, Geerts, Toivonen (2004), &amp;ldquo;A Markov Chain Approach to Reconstruction of Long Haplotypes&amp;rdquo;, Pacific Symposium on Biocomputing, 9:104-115.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -307,7 +306,7 @@ Description A simple program for graphical presentation of haplotype block struc
 URL http://info.med.yale.edu/genetics/kkidd/programs.html
 Language FORTRAN
 OS VMS
-Reference Gu, Pakstis, Kidd (2005), &amp;ldquo;HAPLOT: a graphical comparison of haplotype blocks, tagSNP sets and SNP variation for multiple populations&amp;rdquo;, Bioinformatics, 21:3938-3939.${disqus_tpl}</description>
+Reference Gu, Pakstis, Kidd (2005), &amp;ldquo;HAPLOT: a graphical comparison of haplotype blocks, tagSNP sets and SNP variation for multiple populations&amp;rdquo;, Bioinformatics, 21:3938-3939.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -344,7 +343,7 @@ Reference K Rohde, R Furst (2001), &amp;ldquo;Haplotyping and estimation of hapl
 Author  T Niu
  Jun Liu (Harvard Univ)
   URL http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm
-Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169${disqus_tpl}</description>
+Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -370,7 +369,7 @@ Author  Esko Ukkonen
  Pasi Rastas
   URL http://www.cs.helsinki.fi/u/prastas/haplovisual/
 Language java
-Reference Ukkonen (2002), &amp;ldquo;Finding founder sequences from a set of recombinants&amp;rdquo; Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).${disqus_tpl}</description>
+Reference Ukkonen (2002), &amp;ldquo;Finding founder sequences from a set of recombinants&amp;rdquo; Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -383,7 +382,7 @@ Reference Ukkonen (2002), &amp;ldquo;Finding founder sequences from a set of rec
 Full Name HAPLotype brOWSER
 URL http://embio.yonsei.ac.kr/haplowser/
 Language Java
-Reference Kim, Kim, Waterman, Park, Li (2009), &amp;ldquo;HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome&amp;rdquo;, Bioinformatics, 25(18):2430-2431.${disqus_tpl}</description>
+Reference Kim, Kim, Waterman, Park, Li (2009), &amp;ldquo;HAPLOWSER: a whole-genome haplotype browser for personal genome and metagenome&amp;rdquo;, Bioinformatics, 25(18):2430-2431.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -412,7 +411,7 @@ Version 1.2 (March 2011)
 Description HAPMIX is an application for accurately inferring chromosomal segments of distinct continental ancestry in admixed populations, using dense genetic data.
 Author Alkes Price (Harvard Univ)
 URL http://www.hsph.harvard.edu/faculty/alkes-price/software/
-Reference Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, Reich, Myers (2009), &amp;ldquo;Sensitive detection of chromosomal segments of distinct ancestry in admixed populations&amp;rdquo;, PLoS Genetics, 5(6):e1000519${disqus_tpl}</description>
+Reference Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, Reich, Myers (2009), &amp;ldquo;Sensitive detection of chromosomal segments of distinct ancestry in admixed populations&amp;rdquo;, PLoS Genetics, 5(6):e1000519   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -421,13 +420,12 @@ Reference Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapmixmap/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Description HAPMIXMAP is a program for modelling extended haplotypes in genetic association studies, similar to the FASTPHASE program.
 Author  Paul McKeigue (email: paul.mckeigue@ucd.ie)
  David O&amp;rsquo;Donnell (University College Dublin, Ireland)
   URL  http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html
- http://sourceforge.net/projects/hapmixmap/${disqus_tpl}
-  </description>
+ http://sourceforge.net/projects/hapmixmap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -442,7 +440,7 @@ Description a software package for Multipoint QTL Mapping in Genetically Heterog
 Author Richard Mott (Wellcome Trust Centre for Human Genetics, UK. rmott@well.ox.ac.uk)
 URL http://www.well.ox.ac.uk/~rmott/happy.html
 Language ANSI C (requires NAG C library)
-OS UNIX(IRIX,SunOS), Linux${disqus_tpl}</description>
+OS UNIX(IRIX,SunOS), Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -455,7 +453,7 @@ OS UNIX(IRIX,SunOS), Linux${disqus_tpl}</description>
 Description HapScope includes a comprehensive analysis pipeline and a sophisticated visualization tool for analyzing functionally annotated haplotypes.
 Author Jinghui Zhang (National Cancer Institute, NIH)
 URL http://lpg.nci.nih.gov/lpg_small/protocols/HapScope/
-Reference Zhang, Rowe, Struewing, Buetow (2002), &amp;ldquo;HapScope: a software system for automated and visual analysis of functionally annotated haplotypes&amp;rdquo;, Nucleic Acid Research, 30:5213-5221.${disqus_tpl}</description>
+Reference Zhang, Rowe, Struewing, Buetow (2002), &amp;ldquo;HapScope: a software system for automated and visual analysis of functionally annotated haplotypes&amp;rdquo;, Nucleic Acid Research, 30:5213-5221.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -497,7 +495,7 @@ URL http://www.stat.washington.edu/thompson/Genepi/Hardy.shtml
 Language C
 OS UNIX(DEC-UNIX/..)
 Reference Guo and Thompson (1992), Biometrics, 48, 361-372.
-Related PANGAEA${disqus_tpl}</description>
+Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -509,7 +507,7 @@ Related PANGAEA${disqus_tpl}</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a simple clustering method that can be used to rapidly identify a set of tag SNP&amp;rsquo;s based upon genotype data
 URL http://wpicr.wpic.pitt.edu/WPICCompGen/hclust/hclust.htm
-Language R${disqus_tpl}</description>
+Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -563,15 +561,14 @@ Reference  Rastas, Koivisto, Mannila, Ukkonen (2005), &amp;ldquo;A Hidden Markov
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/homoghomogm/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Version HOMOGM: Dec 1998
 Author Jurg Ott (Rockefeller University)
 URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 EXE homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
 Reference  Ott (1986), Genetic Epidemiology, Suppl,1,251-257.
- online documentation${disqus_tpl}
-  </description>
+ online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -597,7 +594,7 @@ Author Na Li
 URL http://www.biostat.umn.edu/~nali/SoftwareListing.html
 Language C++
 EXE rholike, hotspot, fullopt
-Reference Li, Stephens (2003), Genetics, 165(4):2213-2233.${disqus_tpl}</description>
+Reference Li, Stephens (2003), Genetics, 165(4):2213-2233.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -627,7 +624,7 @@ Author Shuanglin Zhang (email: shuzhang@mtu.edu)
 URL http://www.math.mtu.edu/~shuzhang/software.html
 OS UNIX, MS-Windows
 Reference  Zhang, Sha, Chen, Dong, Jiang (2003), &amp;ldquo;Transmission/disequilibrium test based on haplotype sharing for tightly linked markers&amp;rdquo;, American Journal of Human Genetics, 73(3):566-579
- Zhang, Sha, Chen, Dong, Jiang (2004), &amp;ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&amp;rdquo; (letter), American Journal of Human Genetics, 74(3):591-593${disqus_tpl}</description>
+ Zhang, Sha, Chen, Dong, Jiang (2004), &amp;ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&amp;rdquo; (letter), American Journal of Human Genetics, 74(3):591-593   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -666,7 +663,7 @@ Author  Keyue Ding
  Xuegong Zhang (Tsinghua University, China)
   URL http://www.chgb.org.cn/htSNPer/htSNPer.html
 Language C++, JVM
-OS MS-Windows, Linux${disqus_tpl}</description>
+OS MS-Windows, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -680,7 +677,7 @@ Description Calculates an exact stratified test for HWE for diallelic markers, s
 Author Daniel Schaid (Mayo Clinic) (email: schaid@mayo.edu)
 URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
 Language C
-OS UNIX(Solaris), MS-Windows(XP)${disqus_tpl}</description>
+OS UNIX(Solaris), MS-Windows(XP)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -693,7 +690,7 @@ OS UNIX(Solaris), MS-Windows(XP)${disqus_tpl}</description>
 Description Bayesian estimation of the population inbreeding coefficient f
 Author KL Ayres (email: k.l.ayres@reading.ac.uk)
 URL http://www.reading.ac.uk/Statistics/genetics/software.html
-Language C${disqus_tpl}</description>
+Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hwmet&#39;; // Replace http://gaow.</description>
     </item>
     
   </channel>

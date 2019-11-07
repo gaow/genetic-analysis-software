@@ -45,7 +45,7 @@ Author  Mary Kuhner</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Author AP Morris (email: amorris@well.ox.ac.uk)
 URL http://www.reading.ac.uk/Statistics/genetics/software.html
-Reference Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test for detecting patterns of disease-marker association&amp;rdquo;, Annals of Human Genetics, 61:335-350.${disqus_tpl}</description>
+Reference Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test for detecting patterns of disease-marker association&amp;rdquo;, Annals of Human Genetics, 61:335-350.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -108,7 +108,7 @@ Author  Keyue Ding (email: keyued@chgb.org.cn)
   URL http://www.chgb.org.cn/lda/lda.htm
 Language Java
 OS MS-Windows, Linux, MacOS
-Reference Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.${disqus_tpl}</description>
+Reference Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -146,7 +146,7 @@ Description inkage disequilibrium grouping of single nucleotide polymorphisms (S
 Author Fumihiko Takeuchi (email: fumihiko@takeuchi.name)
 URL http://www.fumihiko.takeuchi.name/publications.html
 Language R
-Reference Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), &amp;ldquo;Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs&amp;rdquo;, Genetics, 170:291-304.${disqus_tpl}</description>
+Reference Takeuchi, Yanai, Morii, Ishinaga, Taniguchi-Yanai, Nagano, Kato (2005), &amp;ldquo;Linkage disequilibrium grouping of single nucleotide polymorphisms (SNPs) reflecting haplotype phylogeny for efficient selection of tag SNPs&amp;rdquo;, Genetics, 170:291-304.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -162,7 +162,7 @@ Author Gil McVean (email: mcvean@stats.ox.ac.uk)
 URL http://www.stats.ox.ac.uk/~mcvean/LDhat/
 Language C
 OS DOS
-Reference McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;The fine-scale structure of recombination rate variation in the human genome&amp;rdquo;, Science, 304:581-584.${disqus_tpl}</description>
+Reference McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;The fine-scale structure of recombination rate variation in the human genome&amp;rdquo;, Science, 304:581-584.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -172,7 +172,7 @@ Reference McVean, Myers, Hunt, DeLoukas, Bentley, Donnelly (2004), &amp;ldquo;Th
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/ldheatmap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/LDHEATMAP${disqus_tpl}</description>
+Related R/LDHEATMAP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/l/ldheatmap&#39;; // Replace http://gaow.github.io/genetic-analysis-software/l/ldheatmap with your page&#39;s canonical URL variable this.page.identifier = &#39;ldheatmap&#39;; // Replace ldheatmap with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
@@ -188,7 +188,7 @@ Author Andy Collins (email: a.r.collins@soton.ac.uk)
 URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/LDMAP
 Language C
 OS UNIX(Solaris)
-Reference online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.html${disqus_tpl}</description>
+Reference online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -201,7 +201,7 @@ Reference online manual: http://cedar.genetics.soton.ac.uk/public_html/helpld.ht
 Author KL Ayres (email: k.l.ayres@reading.ac.uk)
 URL http://www.reading.ac.uk/Statistics/genetics/software.html
 Language C
-Reference Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium from multi-locus data&amp;rdquo;, Genetics, 157:413-423.${disqus_tpl}</description>
+Reference Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium from multi-locus data&amp;rdquo;, Genetics, 157:413-423.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -218,7 +218,7 @@ Author  Deborah A. Nickerson
  Chris Carlson
  Qian Yi (Univ of Washington)
   URL http://droog.gs.washington.edu/ldSelect.html
-Reference Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120${disqus_tpl}</description>
+Reference Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -231,7 +231,7 @@ Reference Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Se
 Author Yutaka Kitamura (Institute of Rheumatology, Tokyo Women;s Medical University, email: kitamura@ior.twmu.ac.jp)
 Language C
 OS UNIX, Linux
-Reference Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &amp;ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&amp;rdquo;, Annals of Human Genetics, 66:183-193.${disqus_tpl}</description>
+Reference Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (2002), &amp;ldquo;Determination of probability distribution of diplotype configuration (diplotype distribution) for each subject from genotypic data using the EM algorithm&amp;rdquo;, Annals of Human Genetics, 66:183-193.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -249,7 +249,7 @@ Author  Olivier Langella
 Language C++
 OS MS-Windows
 EXE lea.exe
-Reference Langella, Chikhi, Beaumont (2001), &amp;ldquo;LEA (Likelihood-based estimation of admixture): a program to simultaneously estimate admixture and the time since admixture&amp;rdquo;, Molecular Ecology Notes, 1(4):357-358.${disqus_tpl}</description>
+Reference Langella, Chikhi, Beaumont (2001), &amp;ldquo;LEA (Likelihood-based estimation of admixture): a program to simultaneously estimate admixture and the time since admixture&amp;rdquo;, Molecular Ecology Notes, 1(4):357-358.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -271,7 +271,7 @@ OS MS-DOS, OS2, UNIX,VMS
 EXE cfactor,cilink,clodscore,cmap
 Reference  Lathrop,Lalouel,Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.
  online user&amp;rsquo;s guide (may 93)
-  Related FASTLINK${disqus_tpl}</description>
+  Related FASTLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -321,7 +321,7 @@ Description an easy and practical database-program made for researchers who want
 Author Aki Suomalainen (Dept of Human Molecular Genetics, Natl Pub Health Institute, Finland, aki.suomalainen@ktl.fi)
 URL http://www.ktl.fi/molbio/software/linkbase/index.html
 Language Delphi 1.0
-OS MS-Windows (3.1/95/NT)${disqus_tpl}</description>
+OS MS-Windows (3.1/95/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -330,15 +330,14 @@ OS MS-Windows (3.1/95/NT)${disqus_tpl}</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/l/liped/</guid>
-      <description> Record added by Jurg Ott (the original Rockefeller list)
+      <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Likelihoods in Pedigrees
 Author Jurg Ott (Columbia Univ)
 URL http://lab.rockefeller.edu/ott/programs
 Language FORTRAN
 OS Windows
 Reference  Ott (1974), &amp;ldquo;Estimation of the recombination fraction in human pedigrees: efficient computation of the likelihood for human linkage studies.&amp;ldquo;, American Journal of Human Genetics, 26(5):588-597
- online documentation${disqus_tpl}
-  </description>
+ online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -354,7 +353,7 @@ Author  Jillian Blaschak
   URL  http://compgen.rutgers.edu/multimap/
  http://compgen.rutgers.edu/multimap/src/other/lnktocri.p
   Language Pascal
-OS UNIX, MS-DOS${disqus_tpl}</description>
+OS UNIX, MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -393,7 +392,7 @@ Description LocusZoom is designed to facilitate viewing of local association res
       <guid>https://gaow.github.io/genetic-analysis-software/l/loginserm_estihaplo/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Author Pierre-Antoine Gourraud (Unite INSERM, 558-Faculte de Medecine email: gourraud@cict.fr)
-Reference Gourraud, Genin, Cambon-Thomsen (2004), &amp;ldquo;Handling missing values in population data: consequences for maximum likelihood estimation of haplotype frequencies&amp;rdquo;, European Journal of Human Genetics, 12:805-812.${disqus_tpl}</description>
+Reference Gourraud, Genin, Cambon-Thomsen (2004), &amp;ldquo;Handling missing values in population data: consequences for maximum likelihood estimation of haplotype frequencies&amp;rdquo;, European Journal of Human Genetics, 12:805-812.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -442,7 +441,7 @@ Author Heping Zhang (email: heping@peace.med.yale.edu)
 URL http://peace.med.yale.edu/pub/LOT/
 Language C++
 OS MS-Windows, Linux, UNIX(Solaris)
-Reference Feng, Leckman, Zhang (2004), &amp;ldquo;Linkage analysis of ordinal traits for pedigree data&amp;rdquo;, Proceedings of the National Academy of Sciences , 101:16739-16744.${disqus_tpl}</description>
+Reference Feng, Leckman, Zhang (2004), &amp;ldquo;Linkage analysis of ordinal traits for pedigree data&amp;rdquo;, Proceedings of the National Academy of Sciences , 101:16739-16744.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -458,7 +457,7 @@ Description part of the LINKAGE auxiliary program
 Author Peter Cartwright (Univ Utah, now Cimarron Software pc@cimsoft.com)
 URL http://lab.rockefeller.edu/ott/programs or https://www.dropbox.com/sh/ulpuondvofkrvx1/AAAkIHrAqyQpHJlZaqtmTRb4a/Linkage%20Analysis (please contact Alberto Goldoni, email: alberto.goldoni1975@gmail.com if you have any questions on this version)
 Language C and Pascal
-OS UNIX, VMS, MS-DOS, OS2${disqus_tpl}</description>
+OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>

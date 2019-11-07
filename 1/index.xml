@@ -23,7 +23,7 @@ URL  http://www.genlink.wustl.edu/software
  ftp://mapper.wustl.edu/pub/two-d
   OS MS-DOS
 EXE pic-2d, 2d-map, 2d-color
-Reference Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.${disqus_tpl}</description>
+Reference Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@ Version 1.5 (Aug 4, 2006)
 Author  Alexander Zelikovsky (email: alexz@cs.gsu.edu)
  Dumitru Brinza (email: dima@cs.gsu.edu)
   URL http://alla.cs.gsu.edu/~software/2SNP/
-Reference Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.${disqus_tpl}</description>
+Reference Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
   </channel>

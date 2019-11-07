@@ -29,7 +29,7 @@ Description It contains the following modules: ibd, calculates the proportion of
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/adegenet/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/ADEGENET${disqus_tpl}</description>
+Related R/ADEGENET   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/a/adegenet&#39;; // Replace http://gaow.github.io/genetic-analysis-software/a/adegenet with your page&#39;s canonical URL variable this.page.identifier = &#39;adegenet&#39;; // Replace adegenet with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Description inference of the age of a rare, selectively-neutral mutation
 Author Jinko Graham
 URL http://www.math.sfu.ca/~jgraham/Papers/Programs/AgeCode/
 Language C
-Reference Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.${disqus_tpl}</description>
+Reference Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for a rare allele&amp;rdquo;, Genetics, 156:375-384.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -86,7 +86,7 @@ Author  A Collins (email: arc@soton.ac.uk)
 Language C
 OS UNIX (SUN..)
 EXE allass
-Reference Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual${disqus_tpl}</description>
+Reference Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic association&amp;rdquo;, Proceedings of the National Academy of Sciences , 95:1741-1745; online manual   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -168,7 +168,7 @@ Year 2015
 Author  Ongen H.
  Dermitzakis E.T.
   Reference Ongen H., Dermitzakis E.T. (2015) submitted
-Tag splicing${disqus_tpl}</description>
+Tag splicing   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -245,7 +245,7 @@ Author  Arti Tandon (email: atandon@broad.mit.edu)
  David Reich.
   URL http://genepath.med.harvard.edu/~reich/Software.htm
 OS UNIX, Linux
-Reference Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O&amp;rsquo;Brien, Altshuler, Daly, Reich (2004), &amp;ldquo;Methods for high-density admixture mapping of disease genes&amp;rdquo;, American Journal of Human Genetics, 74(5):97-1000${disqus_tpl}</description>
+Reference Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O&amp;rsquo;Brien, Altshuler, Daly, Reich (2004), &amp;ldquo;Methods for high-density admixture mapping of disease genes&amp;rdquo;, American Journal of Human Genetics, 74(5):97-1000   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -289,7 +289,7 @@ Author  Matti Pirinen
   URL http://www.helsinki.fi/~mpirinen/download
 Language C
 OS UNIX
-Reference Pirinen, Gasbarra (2006), &amp;ldquo;Finding consistent gene transmission patterns on large and complex pedigrees&amp;rdquo;, IEEE/ACM cransactions on Computational Biology and Bioinformatics, 3(3):252-262${disqus_tpl}</description>
+Reference Pirinen, Gasbarra (2006), &amp;ldquo;Finding consistent gene transmission patterns on large and complex pedigrees&amp;rdquo;, IEEE/ACM cransactions on Computational Biology and Bioinformatics, 3(3):252-262   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -413,7 +413,7 @@ Author  T Hiekkalinna
 Language C and UNIX-shell (Bourne)
 OS UNIX (Solaris/DEC-UNIX)
 EXE autostart, autoscan10.sh
-Reference American Journal of Human Genetics, supp, 65 . ( abstract) (1999)${disqus_tpl}</description>
+Reference American Journal of Human Genetics, supp, 65 . ( abstract) (1999)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
   </channel>
