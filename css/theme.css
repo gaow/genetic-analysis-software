@@ -1130,18 +1130,18 @@ pre .copy-to-clipboard:hover {
 #searchResults {
     text-align: left;
 }
-
+ 
 /* pt-sans-regular - latin */
 @font-face {
-font-family: PT Sans;
+font-family: 'PT Sans';
 font-style: normal;
 font-weight: 400;
-src: url(../fonts/pt-sans-v11-latin-regular.eot); /* IE9 Compat Modes */
-src: local(PT Sans), local(PTSans-Regular),
-     url(../fonts/pt-sans-v11-latin-regular.eot?#iefix) format(embedded-opentype), /* IE6-IE8 */
-     url(../fonts/pt-sans-v11-latin-regular.woff2) format(woff2), /* Super Modern Browsers */
-     url(../fonts/pt-sans-v11-latin-regular.woff) format(woff), /* Modern Browsers */
-     url(../fonts/pt-sans-v11-latin-regular.ttf) format(truetype), /* Safari, Android, iOS */
-     url(../fonts/pt-sans-v11-latin-regular.svg#PTSans) format(svg); /* Legacy iOS */
+src: url('../fonts/pt-sans-v11-latin-regular.eot'); /* IE9 Compat Modes */
+src: local('PT Sans'), local('PTSans-Regular'),
+     url('../fonts/pt-sans-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+     url('../fonts/pt-sans-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+     url('../fonts/pt-sans-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+     url('../fonts/pt-sans-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+     url('../fonts/pt-sans-v11-latin-regular.svg#PTSans') format('svg'); /* Legacy iOS */
 }
 
