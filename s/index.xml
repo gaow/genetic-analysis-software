@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S on Genetic Analysis Software | The Rockefeller List</title>
@@ -73,7 +73,7 @@ Author  Jinsheng Liu
  Sandy Donaghy
   URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
 Language SAS
-Reference Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -181,7 +181,7 @@ Author Bernd Degen
 URL http://software.bfh-inst2.de/download3.html
 Language VisualBasic
 OS MS-Windows (95/98/00/NT)
-Reference Degen, Petit, Kremer (2001), &amp;ldquo;SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations&amp;rdquo;, Journal of Heredity, 92(5):447-448.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Degen, Petit, Kremer (2001), &amp;ldquo;SGS - Spatial Genetic Software: a computer program for analysis of spatial genetic and phenotypic structures of individuals and populations&amp;rdquo;, Journal of Heredity, 92(5):447-448.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -303,7 +303,7 @@ URL http://cmpg.unibe.ch/software/simcoal/
 Language C++
 OS MS-Windows(9X/NT)
 EXE simcoal, sim_coal
-Reference Excoffier, Novembre, Schneider (2000), &amp;ldquo;SIMCOAL: a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography&amp;rdquo;, Journal of Heredity, 91:506-509.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Excoffier, Novembre, Schneider (2000), &amp;ldquo;SIMCOAL: a general coalescent program for the simulation of molecular data in interconnected populations with arbitrary demography&amp;rdquo;, Journal of Heredity, 91:506-509.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -324,7 +324,7 @@ Description SimHap uses biallelic SNP genotype data to impute haplotype frequenc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/simibd/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Version 1.21 (Jan 1997)
 Author  Sean Davis ( davis@moriarty.hgen.pitt.edu)
  Daniel E. Weeks
@@ -334,7 +334,8 @@ Author  Sean Davis ( davis@moriarty.hgen.pitt.edu)
 OS UNIX(SunOS/Solaris/HP/DEC-UNIX)
 EXE simibd, xslink
 Reference  Davis, Schroeder, Goldin, Weeks (1996), &amp;ldquo;Nonparametric simulation-based statistics for detecting linkage in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 58(4):867-880
- online README file   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ online README file${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -386,7 +387,7 @@ Reference  Boehnke (1986), &amp;ldquo;Estimating the power of a proposed linkage
 Description A gene dropping simulation software
 Author Mathieu Lemire (email:mlemire@sdf.lonestar.org)
 URL http://mlemire.freeshell.org/software.html
-Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3&amp;rdquo;, American Journal of Human Genetics, 75:571-586.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3&amp;rdquo;, American Journal of Human Genetics, 75:571-586.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -447,7 +448,7 @@ Author  Joseph Terwilliger
   URL http://www.helsinki.fi/~tsjuntun/linkage/analyze/
 Language Pascal
 OS MS-DOS, VMS, UNIX
-Reference online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference online documentation${disqus_tpl}</description>
     </item>
     
     <item>
@@ -502,7 +503,7 @@ Reference  Ott (1989), Proceedings of the National Academy of Sciences , 86:4175
  Weeks, Ott, Lathrop (1990), American Journal of Human Genetics, 47(suppl):A204.
  online documentation
  FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/20.html
-  Related FASTSLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Related FASTSLINK${disqus_tpl}</description>
     </item>
     
     <item>
@@ -567,7 +568,7 @@ Author  Roberto Toro
  (email: rto@pasteur.fr)
  Thomas Bourgeron (email: thomasb@pasteur.fr)
   URL http://snippeep.sourceforge.net/
-Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Language C${disqus_tpl}</description>
     </item>
     
     <item>
@@ -626,7 +627,7 @@ Author  Janis Wigginton (email: &amp;ldquo;a href=&amp;ldquo;mailto:wiggie@umich
  Goncalo Abecasis
   URL http://www.sph.umich.edu/csg/abecasis/Exact/index.html
 Language Fortran, C,C++, R
-Reference Wigginton, Cutler, Abecasis (2005), &amp;ldquo;A note on exact tests of Hardy-Weinberg equilibrium&amp;rdquo;, American Journal of Human Genetics, 76(5):887-893. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Wigginton, Cutler, Abecasis (2005), &amp;ldquo;A note on exact tests of Hardy-Weinberg equilibrium&amp;rdquo;, American Journal of Human Genetics, 76(5):887-893. [ html]${disqus_tpl}</description>
     </item>
     
     <item>
@@ -636,7 +637,7 @@ Reference Wigginton, Cutler, Abecasis (2005), &amp;ldquo;A note on exact tests o
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/snp.plotter/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/SNP.PLOTTER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/snp.plotter&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/snp.plotter with your page&#39;s canonical URL variable this.page.identifier = &#39;snp.plotter&#39;; // Replace snp.plotter with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/SNP.PLOTTER${disqus_tpl}</description>
     </item>
     
     <item>
@@ -650,7 +651,7 @@ Version 6.0 (December 2006)
 Author dynacom.co.jp
 URL http://www.dynacom.co.jp/e/products/package/snpalyze/index.html
 OS MS-Windows (98/Me/NT4.0/2000/XP)
-Reference Shimo-Onoda, Tanaka, Furushima, Nakajima, Toh, Harata, Yone, Komiya, Adachi, Nakamura, Fujimiya, Inoue(2002), &amp;ldquo;Akaike&amp;rsquo;s information criterion for a measure of linkage disequilibrium&amp;rdquo;, J Hum Genet, 47(12): 649-655.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Shimo-Onoda, Tanaka, Furushima, Nakajima, Toh, Harata, Yone, Komiya, Adachi, Nakamura, Fujimiya, Inoue(2002), &amp;ldquo;Akaike&amp;rsquo;s information criterion for a measure of linkage disequilibrium&amp;rdquo;, J Hum Genet, 47(12): 649-655.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -663,7 +664,7 @@ Reference Shimo-Onoda, Tanaka, Furushima, Nakajima, Toh, Harata, Yone, Komiya, A
 Full Name SNP Expectation Maximization
 Description EM algorithm estimations of SNP haplotypes
 URL http://polymorphism.ucsd.edu/snpem/
-OS web-based   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/snpem&#39;; // Replace http://gaow.</description>
+OS web-based${disqus_tpl}</description>
     </item>
     
     <item>
@@ -692,7 +693,7 @@ Author  David Clayton
  Cambridge Institute
  david.clayton@cimr.cam.ac.uk
   URL http://www-gene.cimr.cam.ac.uk/clayton/software/
-Language C,C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Language C,C++${disqus_tpl}</description>
     </item>
     
     <item>
@@ -705,7 +706,7 @@ Language C,C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
 Description a powerful tool for detecting epistatic interactions in genome-wide association studies
 URL http://bioinformatics.ust.hk/SNPHarvester.html
 Language java
-Reference Yang, He, Wan, Yang, Xue, Yu (2009), &amp;ldquo;SNPHarvester: a filtering-based approach for detecting epistatic interactions in genome-wide association studies&amp;rdquo;, Bioinformatics, 25:504-511.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Yang, He, Wan, Yang, Xue, Yu (2009), &amp;ldquo;SNPHarvester: a filtering-based approach for detecting epistatic interactions in genome-wide association studies&amp;rdquo;, Bioinformatics, 25:504-511.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -759,7 +760,7 @@ Description SNPStats is a simple, ready-to-use software which has been designed 
 Author Victor Moreno (email: v.moreno@ico.scs.es) Xavier Sole (email: x.sole@ico.scs.es)
 URL http://bioinfo.iconcologia.net/snpstats/
 OS web-based
-Reference Sole, Guino, Valls, Iniesta, Moreno (2006), &amp;ldquo;SNPStats: a web tool for the analysis of association studies&amp;rdquo;, Bioinformatics, 22(15):1928-1929.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Sole, Guino, Valls, Iniesta, Moreno (2006), &amp;ldquo;SNPStats: a web tool for the analysis of association studies&amp;rdquo;, Bioinformatics, 22(15):1928-1929.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -821,7 +822,7 @@ Reference Debevec, Gates, Masuda, Pella, Reynolds, Seeb (2000), &amp;ldquo;SPAM 
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/spectral-gem/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/SPECTRAL-GEM   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/spectral-gem&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/spectral-gem with your page&#39;s canonical URL variable this.page.identifier = &#39;spectral-gem&#39;; // Replace spectral-gem with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/SPECTRAL-GEM${disqus_tpl}</description>
     </item>
     
     <item>
@@ -836,7 +837,7 @@ Author  Kenneth Lange (UCLA)
  Laura Lazzeroni
   URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language FORTRAN77
-Reference Lazzeroni, Arnheim, Schmitt, Lange (1994), &amp;ldquo;Multipoint mapping calculations for sperm-typing data&amp;rdquo;, American Journal of Human Genetics, 55(3):431-436   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lazzeroni, Arnheim, Schmitt, Lange (1994), &amp;ldquo;Multipoint mapping calculations for sperm-typing data&amp;rdquo;, American Journal of Human Genetics, 55(3):431-436${disqus_tpl}</description>
     </item>
     
     <item>
@@ -850,7 +851,7 @@ Description analysis of segregation in single-sperm data
 Author MS McPeek ( mcpeek@galton.uchicago.eduUniv Chicago)
 URL http://galton.uchicago.edu/~mcpeek/software/spermseg
 Language C
-Reference MS McPeek (1999), &amp;ldquo;SPERMSEG: analysis of segregation distortion in single-sperm data&amp;rdquo;, American Journal of Human Genetics, 65(4):1195-1197. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference MS McPeek (1999), &amp;ldquo;SPERMSEG: analysis of segregation distortion in single-sperm data&amp;rdquo;, American Journal of Human Genetics, 65(4):1195-1197. [ html]${disqus_tpl}</description>
     </item>
     
     <item>
@@ -867,7 +868,7 @@ Author  Eric C Anderson
   URL  http://swfsc.noaa.gov/staff.aspx?id=740
  http://swfsc.noaa.gov/textblock.aspx?Division=FED&amp;amp;id=3434
   Language C
-Reference Anderson, Dunham (2005), &amp;ldquo;SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations&amp;rdquo;, Molecular Ecology Notes, 5(2):459-461.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Anderson, Dunham (2005), &amp;ldquo;SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations&amp;rdquo;, Molecular Ecology Notes, 5(2):459-461.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -927,7 +928,7 @@ Author  Guoqing Diao (email: gdiao@gmu.edu)
  Danyu Lin
   URL http://www.bios.unc.edu/~lin/software/SQTDT/
 OS Linux
-Reference Diao, Lin (2006), &amp;ldquo;Improving the power of association tests for quantitative traits in family studies&amp;rdquo;, Genetic Epidemiology, 30:301-313.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Diao, Lin (2006), &amp;ldquo;Improving the power of association tests for quantitative traits in family studies&amp;rdquo;, Genetic Epidemiology, 30:301-313.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -942,7 +943,7 @@ Author  Guoqing Diao (email: gdiao@gmu.edu)
  Danyu Lin
   URL http://www.bios.unc.edu/~lin/software/SQTL/
 OS Linux
-Reference Diao, Lin (2005), &amp;ldquo;A powerful and robust method for mapping quantitative trait loci in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 77(1):97-111. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Diao, Lin (2005), &amp;ldquo;A powerful and robust method for mapping quantitative trait loci in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 77(1):97-111. [ html]${disqus_tpl}</description>
     </item>
     
     <item>
@@ -985,7 +986,7 @@ Author  Y Luo
  S Lin (Ohio State Univ)
   URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/
 OS UNIX(Solaris), Linux
-Reference Y Luo, S Lin (2003), &amp;ldquo;Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees&amp;rdquo;, Genetic Epidemiology, 25:14-24.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Y Luo, S Lin (2003), &amp;ldquo;Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees&amp;rdquo;, Genetic Epidemiology, 25:14-24.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -1000,7 +1001,7 @@ Author  Lei Sun
  Nancy COx
  Mary Sara McPeek
   URL http://hg-wen.uchicago.edu/software.html
-Reference Sun, Cox, McPeek (2002) &amp;ldquo;A statistical method for identification of polymorphisms that explain a linkage result&amp;rdquo;, American Journal of Human Genetics, 70(2):399-411. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Sun, Cox, McPeek (2002) &amp;ldquo;A statistical method for identification of polymorphisms that explain a linkage result&amp;rdquo;, American Journal of Human Genetics, 70(2):399-411. [ html]${disqus_tpl}</description>
     </item>
     
     <item>
@@ -1010,7 +1011,7 @@ Reference Sun, Cox, McPeek (2002) &amp;ldquo;A statistical method for identifica
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/stepwise/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/STEPWISE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/s/stepwise&#39;; // Replace http://gaow.github.io/genetic-analysis-software/s/stepwise with your page&#39;s canonical URL variable this.page.identifier = &#39;stepwise&#39;; // Replace stepwise with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/STEPWISE${disqus_tpl}</description>
     </item>
     
     <item>
@@ -1052,7 +1053,7 @@ Author  Josephine Hoh
   URL http://lab.rockefeller.edu/ott/programs
 Language Free Pascal
 OS MS-Windows, Linux
-Reference Hoh, Wille, Ott (2001), &amp;ldquo;Trimming, weighting, and grouping SNPs in human case-control association studies&amp;rdquo;, Genome Research, 11:2115-2119   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Hoh, Wille, Ott (2001), &amp;ldquo;Trimming, weighting, and grouping SNPs in human case-control association studies&amp;rdquo;, Genome Research, 11:2115-2119${disqus_tpl}</description>
     </item>
     
     <item>
@@ -1084,7 +1085,7 @@ Description the program performs exact linkage analysis with the same input-outp
 Author Ma&amp;rsquo;ayan Fishelson (email: fmaayan@cs.technion.ac.il)
 URL http://bioinfo.cs.technion.ac.il/superlink/
 OS UNIX, MS-Windows, Linux, MacOS X
-Reference M Fishelson, D Geiger (2002), Bioinformatics, 18(suppl 1):S189-S198.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference M Fishelson, D Geiger (2002), Bioinformatics, 18(suppl 1):S189-S198.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -1111,7 +1112,7 @@ Author  Guoqing Diao (email: gdiao@gmu.edu)
  Danyu Lin
   URL http://www.bios.unc.edu/~lin/software/SVCC/
 OS Linux
-Reference Diao, Lin (2006), &amp;ldquo;Semiparametric variance-component models for linkage and association analyses of censored trait data&amp;rdquo;, Genetic Epidemiology, 30:570-581.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Diao, Lin (2006), &amp;ldquo;Semiparametric variance-component models for linkage and association analyses of censored trait data&amp;rdquo;, Genetic Epidemiology, 30:570-581.${disqus_tpl}</description>
     </item>
     
     <item>

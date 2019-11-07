@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z on Genetic Analysis Software | The Rockefeller List</title>
@@ -22,7 +22,7 @@ Description zero recombinant haplotyping
 Author Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu, zaplo@molecular-haplotype.org)
 URL http://www.molecular-haplotype.org/zaplo/zaplo_index.html
 OS Linux, UNIX(Solaris)
-Reference O&amp;rsquo;Connell (2000), &amp;ldquo;Zero-recombinant haplotyping: applications to fine mapping using SNPs,&amp;ldquo;, Genetic Epidemiology, 19:S64-S70.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference O&amp;rsquo;Connell (2000), &amp;ldquo;Zero-recombinant haplotyping: applications to fine mapping using SNPs,&amp;ldquo;, Genetic Epidemiology, 19:S64-S70.${disqus_tpl}</description>
     </item>
     
   </channel>

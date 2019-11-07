@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D on Genetic Analysis Software | The Rockefeller List</title>
@@ -24,7 +24,7 @@ Author  Igor Leykin
  http://groups.yahoo.com/group/dchip/
   Language C++
 OS MS-Windows
-Reference Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data&amp;rdquo;, BMC Genetics, 6:7.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data&amp;rdquo;, BMC Genetics, 6:7.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@ Author  Kenneth Lange (UCLA)
   URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language dBASE III
 OS MS-DOS, &amp;hellip;
-Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -80,7 +80,7 @@ Description The disentangler is a visualization technique for linkage disequilib
 Author K Kumasaka et al.
 URL http://kumasakanatsuhiko.jp/projects/disentangler/
 Language Java/JRE1.5
-Reference Okada et al. (2011), &amp;ldquo;HLA-Cw*1202-B*5201-DRB1*1502 haplotype increases risk for ulcerative colitis but reduces risk for Crohn&amp;rsquo;s disease&amp;rdquo;, Gastroenterology, 141(3):864-871.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Okada et al. (2011), &amp;ldquo;HLA-Cw*1202-B*5201-DRB1*1502 haplotype increases risk for ulcerative colitis but reduces risk for Crohn&amp;rsquo;s disease&amp;rdquo;, Gastroenterology, 141(3):864-871.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@ Description fine-scale disequilibrium mapping of a rare allele
 Author Jinko Graham
 URL http://www.math.sfu.ca/~jgraham/Papers/Programs/DisequilibriumMapping/
 Language C
-Reference Graham, Thompson (1998), &amp;ldquo;Disequilibrium likelihoods for fine-scale mapping of a rare allele&amp;rdquo;, American Journal of Human Genetics, 63(5):1517-1530   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Graham, Thompson (1998), &amp;ldquo;Disequilibrium likelihoods for fine-scale mapping of a rare allele&amp;rdquo;, American Journal of Human Genetics, 63(5):1517-1530${disqus_tpl}</description>
     </item>
     
     <item>
@@ -112,7 +112,7 @@ Author  Jeff Reeve
  Rannala (University Alberta, Canada)
   URL http://www.dmle.org/
 OS Linux, MS-Windows
-Reference Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).${disqus_tpl}</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ Reference Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).   /** * RECOMMEN
       <guid>https://gaow.github.io/genetic-analysis-software/d/dnabaser/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a tool for manual and automatic DNA sequence assembly, DNA sequence analysis, automatic sample processing, contig editing, metadata integration, file format conversion and mutation detection.
-URL http://www.dnabaser.com/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+URL http://www.dnabaser.com/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@ URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C++
 OS MS-DOS, MS-Windows
-Reference Cook, Gurling, Curtis (1993), &amp;ldquo;DOLINK: a computer program to facilitate management of genetic data and analyses&amp;rdquo;, Annals of Human Genetics, 57:307-310.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Cook, Gurling, Curtis (1993), &amp;ldquo;DOLINK: a computer program to facilitate management of genetic data and analyses&amp;rdquo;, Annals of Human Genetics, 57:307-310.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -155,7 +155,7 @@ Author  Ren-Hua Chuang
  Dan Gusfield (UC Davis) (email: gusfield@cs.ucdavis.edu)
   URL http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html
 OS Linux, MacOS
-Reference Bafna, Gusfield, Lancia, Yooseph (2003), &amp;ldquo;Haplotyping as perfect phylogeny: a direct approach&amp;rdquo;, Journal of Computational Biology, 10(3):323-340.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Bafna, Gusfield, Lancia, Yooseph (2003), &amp;ldquo;Haplotyping as perfect phylogeny: a direct approach&amp;rdquo;, Journal of Computational Biology, 10(3):323-340.${disqus_tpl}</description>
     </item>
     
   </channel>

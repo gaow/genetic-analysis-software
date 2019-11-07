@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I on Genetic Analysis Software | The Rockefeller List</title>
@@ -22,7 +22,7 @@ Description A package in S-PLUS and R to test genetic linkage with covariates by
 Author  Jason Sinnwell (email: sinnwell@mayo.edu)
  Daniel Schaid (Mayo Clinic)
   URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
-Language R/S-PLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Language R/S-PLUS${disqus_tpl}</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Description Illuminus is a fast and accurate algorithm for assigning single nucl
 Author Yik Teo et al. (Wellcome Trust Sanger Institute)
 URL http://www.sanger.ac.uk/resources/software/illuminus/
 Language C++
-Reference Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &amp;ldquo;A genotype calling algorithm for the Illumina BeadArray platform&amp;rdquo;, Bioinformatics, 23(20):2741-2746.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &amp;ldquo;A genotype calling algorithm for the Illumina BeadArray platform&amp;rdquo;, Bioinformatics, 23(20):2741-2746.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@ Description the program constructs feasible haplotype configurations and the cor
 Author Jochen Kumm (email: jochen@u.washington.edu)
 URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 Language C++ (the standard template library, STL, is used)
-Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related PANGAEA${disqus_tpl}</description>
     </item>
     
     <item>

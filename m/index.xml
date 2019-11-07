@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M on Genetic Analysis Software | The Rockefeller List</title>
@@ -23,7 +23,7 @@ Description MACH is a Markov Chain based haplotyper. It can be resolve long hapl
 Author  Yun Li (email: ylwtx@umich.edu)
  Goncalo Abecasis (email: goncalo@umich.edu)
   URL http://www.sph.umich.edu/csg/abecasis/MACH/index.html
-Related MINIMAC   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related MINIMAC${disqus_tpl}</description>
     </item>
     
     <item>
@@ -79,7 +79,7 @@ Reference CL Simpson, VK Hansen, PC Sham, A Collins, JF Powell, A Al-Chalabi (20
 Version 1.0 (Jan 2000)
 Description complex segregaton analysis in animal pedigrees
 Author Yurii Aulchenko (email: yurii@bionet.nsc.ru)
-URL http://mga.bionet.nsc.ru/soft/maia-1.0/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/m/maia&#39;; // Replace http://gaow.</description>
+URL http://mga.bionet.nsc.ru/soft/maia-1.0/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -96,7 +96,7 @@ Description part of the LINKAGE auxiliary programs
 Author Peter Cartwright (University of Utah, now Cimarron Software pc@cimsoft.com)
 URL http://lab.rockefeller.edu/ott/programs
 Language C and Pascal
-OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS UNIX, VMS, MS-DOS, OS2${disqus_tpl}</description>
     </item>
     
     <item>
@@ -112,7 +112,7 @@ Author  Giovanni Montana
  Jonathan Pritchard (email: jpritcha@genetics.uchicago.edu)
   URL http://pritch.bsd.uchicago.edu/software/maldsoft_download.html
 OS UNIX, Linux, MS-Windows (DOS/Window&amp;hellip;)
-Reference G Montana, JK Pritchard (2004), &amp;ldquo;Statistical tests for admixture mapping with case-control and cases-only data&amp;rdquo;, American Journal of Human Genetics, 75(5):771-789   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference G Montana, JK Pritchard (2004), &amp;ldquo;Statistical tests for admixture mapping with case-control and cases-only data&amp;rdquo;, American Journal of Human Genetics, 75(5):771-789${disqus_tpl}</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@ Reference G Montana, JK Pritchard (2004), &amp;ldquo;Statistical tests for admix
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Multivariate Association Mapping Algorithms
 URL http://polymorphism.ucsd.edu/cgi-bin/PRL/mama/mama.cgi
-OS web-based   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/m/mama&#39;; // Replace http://gaow.github.io/genetic-analysis-software/m/mama with your page&#39;s canonical URL variable this.</description>
+OS web-based${disqus_tpl}</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ Description tests for population structure through the use of Mantel tests
 Author Mark Miller (email: mark.miller@usu.edu)
 URL http://www.marksgeneticsoftware.net/
 OS MS-Windows
-Reference Miller (1999), &amp;ldquo;MANTEL-STRUCT: a program for the detection of population structure via mantel tests&amp;rdquo;, Journal of Heredity, 90:258-259.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Miller (1999), &amp;ldquo;MANTEL-STRUCT: a program for the detection of population structure via mantel tests&amp;rdquo;, Journal of Heredity, 90:258-259.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -165,7 +165,7 @@ Author K.F. Manly
 URL http://www.mapmanager.org/mmQT.html
 Language Pascal
 OS MacOS
-Reference Manly and Olsen, Mammalian Genome, 10:327-334 (1999)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Manly and Olsen, Mammalian Genome, 10:327-334 (1999)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -232,7 +232,7 @@ Author  Wes Barris
  Rachel Hawken
   URL http://www.wesbarris.com/mapcreator/
 Language Perl
-Availability Postscript ($69 USD), Image ($69 USD), both ($99 USD)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Availability Postscript ($69 USD), Image ($69 USD), both ($99 USD)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -312,7 +312,7 @@ OS UNIX, VMS, MS-DOS, MacOS
 EXE mapmaker
 Reference  Lander et al (1987), Genomics,1,174-181.
  online tutorial (version 3.0, 1987-1993)
-  Related MMDRAWER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Related MMDRAWER${disqus_tpl}</description>
     </item>
     
     <item>
@@ -331,7 +331,7 @@ Author  Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
   URL ftp://ftp-genome.wi.mit.edu/distribution/software/homoz
 Language C
 OS UNIX
-Reference Kruglyak, Daly, Lander (1995), &amp;ldquo;Rapid multipoint linkage analysis of recessive traits in nuclear families, including homozygosity mapping&amp;rdquo;, American Journal of Human Genetics, 56(2):519-527   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Kruglyak, Daly, Lander (1995), &amp;ldquo;Rapid multipoint linkage analysis of recessive traits in nuclear families, including homozygosity mapping&amp;rdquo;, American Journal of Human Genetics, 56(2):519-527${disqus_tpl}</description>
     </item>
     
     <item>
@@ -372,7 +372,7 @@ OS UNIX
 EXE sibs
 Reference  Kruglyak, Lander (1995), &amp;ldquo;Complete multipoint sib-pair analysis of qualitative and quantitative traits&amp;rdquo;, American Journal of Human Genetics, 57(2):439-454
  manual (in postscript) the changes from version 1.1 to 2.0 .
-  Related GENEHUNTER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Related GENEHUNTER${disqus_tpl}</description>
     </item>
     
     <item>
@@ -415,7 +415,7 @@ Description Mapping of quantitative trait loci (QTLs) for several types of mappi
 Description MareyMap is a meiotic recombination rate estimation program.
 URL http://pbil.univ-lyon1.fr/software/mareymap/
 Language R, tcl/tk
-Reference Rezvoy, Charif, Gueguen, Marais (2007), &amp;ldquo;MareyMap: an R-based tool with graphical interface for estimating recombination rate&amp;rdquo;, Bioinformatics, 23:2188-2189.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Rezvoy, Charif, Gueguen, Marais (2007), &amp;ldquo;MareyMap: an R-based tool with graphical interface for estimating recombination rate&amp;rdquo;, Bioinformatics, 23:2188-2189.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -439,7 +439,7 @@ Author Richard Durbin (Wellcome Trust Sanger Institute)</description>
 Description A MATLAB utility for estimating genetic linkage in exotic line-cross mating designs
 Author J Clare Nelson (Kansas State University)
 URL http://coding.plantpath.ksu.edu/~jcn/MatLink.html
-Language MATLAB   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Language MATLAB${disqus_tpl}</description>
     </item>
     
     <item>
@@ -484,7 +484,7 @@ Description Using the mimimum description length model to delineate haplotype bl
 Author  Eric C. Anderson
  John Novembre (UC Berkeley)
   URL http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
-Reference Anderson, Novembre (2003), &amp;ldquo;Finding haplotype block boundaries by using the minimum description length criterion&amp;rdquo;, American Journal of Human Genetics, 73(2):336-354   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Anderson, Novembre (2003), &amp;ldquo;Finding haplotype block boundaries by using the minimum description length criterion&amp;rdquo;, American Journal of Human Genetics, 73(2):336-354${disqus_tpl}</description>
     </item>
     
     <item>
@@ -514,7 +514,7 @@ Author  ER Martin
  S Kang
  JH Moore
   URL http://chgr.mc.vanderbilt.edu/ritchielab/method.php?method=mdrpdt
-Reference Martin, Ritchie, Hahn, Kang, Moore (2006), &amp;ldquo;A novel method to identify gene-gene effects in nuclear families: the MDR-PDT&amp;rdquo;, Genetic Epidemiology, 30:111-123.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Martin, Ritchie, Hahn, Kang, Moore (2006), &amp;ldquo;A novel method to identify gene-gene effects in nuclear families: the MDR-PDT&amp;rdquo;, Genetic Epidemiology, 30:111-123.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -526,7 +526,7 @@ Reference Martin, Ritchie, Hahn, Kang, Moore (2006), &amp;ldquo;A novel method t
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Maximum Entropy Conditional Probability Moldeling
 URL http://www.cbil.ece.vt.edu/ResearchOngoingSNP.htm
-Reference Miller, Zhang, Yu, Liu, Chen, Langefeld, Herrington, Wang (2009), &amp;ldquo;An algorithm for learning maximum entropy probability models of disease risk that efficiently searches and sparingly encodes multilocus genomic interactions&amp;rdquo;, Bioinformatics, to appear.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Miller, Zhang, Yu, Liu, Chen, Langefeld, Herrington, Wang (2009), &amp;ldquo;An algorithm for learning maximum entropy probability models of disease risk that efficiently searches and sparingly encodes multilocus genomic interactions&amp;rdquo;, Bioinformatics, to appear.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -606,7 +606,7 @@ Description Merlin carries out single-point and multipoint analyses of pedigree 
 Full Name METa AnaLysis Helper
 Description The METAL software is designed to facilitate meta-analysis of large datasets (such as several whole genome scans) in a convenient, rapid and memory efficient manner.
 Author Goncalo Abecasis (email: goncalo@umich.edu)
-URL http://www.sph.umich.edu/csg/abecasis/Metal/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+URL http://www.sph.umich.edu/csg/abecasis/Metal/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -622,7 +622,7 @@ Author  Dave Curtis
   URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C
-Reference Curtis, Sham (1995), &amp;ldquo;Model-free linkage analysis using likelihoods&amp;rdquo;, American Journal of Human Genetics, 57(3):703-716   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Curtis, Sham (1995), &amp;ldquo;Model-free linkage analysis using likelihoods&amp;rdquo;, American Journal of Human Genetics, 57(3):703-716${disqus_tpl}</description>
     </item>
     
     <item>
@@ -635,7 +635,7 @@ Reference Curtis, Sham (1995), &amp;ldquo;Model-free linkage analysis using like
 Description map QTLs in F-2 intercross in model organisms
 URL http://mga.bionet.nsc.ru/soft/mgamapf2/
 Language FORTRAN
-OS MS-DOS, MS-Windows (95/98/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/m/mga-mapf2&#39;; // Replace http://gaow.</description>
+OS MS-DOS, MS-Windows (95/98/NT)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -670,7 +670,7 @@ Full Name MultIallelic Linkage Disequilibrium: a program for adjusted linkage di
 Version 2.1 (2002)
 Author Yuril S Aulchenko (email: aulchenko@epib.fgg.eur.nl) (Erasmus University Medical School, The Netherlands)
 URL http://www.geneticepi.com/Research/software/software.html
-OS UNIX, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+OS UNIX, Linux${disqus_tpl}</description>
     </item>
     
     <item>
@@ -713,7 +713,7 @@ Description calculate the sample size of genotypes minimally required to ensure 
 Author Andreas Ziegler (email: koenigir@imbs.uni-luebeck.de)
 URL http://www.imbs.uni-luebeck.de/pub/minsage/index.html
 OS MS-Windows
-Reference HG Gregorius (1980), &amp;ldquo;The probability of losing an allele when diploid genotypes are sampled&amp;rdquo;, Biometrics, 36:643-652.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference HG Gregorius (1980), &amp;ldquo;The probability of losing an allele when diploid genotypes are sampled&amp;rdquo;, Biometrics, 36:643-652.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -724,7 +724,7 @@ Reference HG Gregorius (1980), &amp;ldquo;The probability of losing an allele wh
       <guid>https://gaow.github.io/genetic-analysis-software/m/mitpene/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description A program for analysis of mitochondrial diseases
-URL http://mga.bionet.nsc.ru/soft/mitpene/mitpene.html (in Russian)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/m/mitpene&#39;; // Replace http://gaow.github.io/genetic-analysis-software/m/mitpene with your page&#39;s canonical URL variable this.</description>
+URL http://mga.bionet.nsc.ru/soft/mitpene/mitpene.html (in Russian)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -738,7 +738,7 @@ Version 1.9 (March 2011)
 Description MIXSCORE is a method for combining SNP association and admixture association statistics to increase power in GWAS in admixed populations.
 Author Alkes Price (Harvard Univ)
 URL http://www.hsph.harvard.edu/faculty/alkes-price/software/
-Reference Pasaniuc et al. (2011), &amp;ldquo;Enhanced statistical tests for GWAS in admixed populations: assessment using African Americans from CARe and a breast cancer consortium&amp;rdquo;, PLoS Genetics, 7:e1001371.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Pasaniuc et al. (2011), &amp;ldquo;Enhanced statistical tests for GWAS in admixed populations: assessment using African Americans from CARe and a breast cancer consortium&amp;rdquo;, PLoS Genetics, 7:e1001371.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -780,7 +780,7 @@ URL ftp://statgen.ncsu.edu/pub/zaykin/
 Language C++
 OS UNIX, MS-Windows(95)
 EXE mld.x
-Reference Zaykin, Zhivotovsky, Weir (1995), Genetica, 96:169-178.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Zaykin, Zhivotovsky, Weir (1995), Genetica, 96:169-178.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -796,7 +796,7 @@ Description MLR-TAGGING can be used for tagging SNP selection and genotype predi
 Author  Alexander Zelikovsky (Georgia State Univ) (email: alexz@cs.gsu.edu)
  Jingwu Jim He (email: jingwu@cs.gsu.edu)
   URL http://alla.cs.gsu.edu/~software/tagging/tagging.html
-Reference He, Zelikovsky (2006), &amp;ldquo;MLR-tagging: informative SNP selection for unphased genotypes based on multiple linear regression&amp;rdquo;, Bioinformatics, 22(20):2558-2561.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference He, Zelikovsky (2006), &amp;ldquo;MLR-tagging: informative SNP selection for unphased genotypes based on multiple linear regression&amp;rdquo;, Bioinformatics, 22(20):2558-2561.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -811,7 +811,7 @@ Description draw chromosome maps from the output of MAPMAKER/EXP. The output for
 Author Michael Brown
 URL http://www.emboss.co.nz/products.php?pid=2
 Language Delphi
-OS MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS MS-Windows${disqus_tpl}</description>
     </item>
     
     <item>
@@ -851,7 +851,7 @@ Author  Mamoru Kato
  Tatsuhiko Tsunoda (email: tsunoda@src.riken.jp)
   URL http://emu.src.riken.jp/MOCSphase/MOSCphaser.zip
 Reference  Kato, Nakamura, Tsunoda (2008), &amp;ldquo;MOCSphaser: a haplotype inference tool from a mixture of copy number variation and single nucleotide polymorphism data&amp;rdquo;, Bioinformatics, 24(14):1645-1646.
- http://emu.src.riken.jp/MOCSphase/SuppInfor.doc   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ http://emu.src.riken.jp/MOCSphase/SuppInfor.doc${disqus_tpl}</description>
     </item>
     
     <item>
@@ -878,7 +878,7 @@ Version 0.2 (May 2003)
 Author Dajun Qian (City of Hope National Medical Center, email: dqian@coh.org)
 URL http://www-rcf.usc.edu/~gqian/software.htm (not available)
 OS MS-Windows, UNIX(Solaris)
-Reference Qian, Beckmann (2002), &amp;ldquo;Minimum-recombinant haplotyping in pedigrees&amp;rdquo;, American Journal of Human Genetics, 70(6):1434-1445   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Qian, Beckmann (2002), &amp;ldquo;Minimum-recombinant haplotyping in pedigrees&amp;rdquo;, American Journal of Human Genetics, 70(6):1434-1445${disqus_tpl}</description>
     </item>
     
     <item>
@@ -891,7 +891,7 @@ Reference Qian, Beckmann (2002), &amp;ldquo;Minimum-recombinant haplotyping in p
 Description MULTIDISEQ is multipoint linkage analysis software which allows Marker-Marker LD
 Author Tero Hiekkalinna (email: tero.hiekkalinna@helsinki.fi)
 URL http://www.helsinki.fi/~tsjuntun/multidiseq/
-Reference T Hiekkalinna, L Peltonen1, JD Terwilliger (2003), &amp;ldquo;MULTIDISEQ: Computer software for multipoint linkage analysis of complex traits allowing for marker-marker LD (Linkage Disequilibrium)&amp;rdquo; (abstract), American Journal of Human Genetics, suppl, 73   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference T Hiekkalinna, L Peltonen1, JD Terwilliger (2003), &amp;ldquo;MULTIDISEQ: Computer software for multipoint linkage analysis of complex traits allowing for marker-marker LD (Linkage Disequilibrium)&amp;rdquo; (abstract), American Journal of Human Genetics, suppl, 73${disqus_tpl}</description>
     </item>
     
     <item>
@@ -909,7 +909,7 @@ Author  Tara Matise (email: matise@biology.rutgers.edu)
  http://compgen.rutgers.edu/multimap/multimapdist.html
   Language LISP
 OS UNIX (Sun/Compaq-Alpha/HP..)
-Reference Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);${disqus_tpl}</description>
     </item>
     
     <item>
@@ -939,7 +939,7 @@ Description Bayesian QTL mapping software for analysing backcross and F2 data fr
 Author Mikko J Sillanpaa (mail: mjs@rolf.helsinki.fi)
 URL http://www.rni.helsinki.fi/~mjs/
 Language C
-Reference Sillanpaa, Arjas (1999), &amp;ldquo;Bayesian mapping of multiple quantitative trait loci from incomplete outbred offspring data&amp;rdquo;, Genetics, 151:1605-1619.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Sillanpaa, Arjas (1999), &amp;ldquo;Bayesian mapping of multiple quantitative trait loci from incomplete outbred offspring data&amp;rdquo;, Genetics, 151:1605-1619.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -991,7 +991,7 @@ Description analyze the numbers of individuals that founded new populations foll
 Author Mohamed Noor (email: noor@duke.edu)
 URL http://www.biology.duke.edu/noorlab/multsim.html
 OS MS-DOS
-Reference Noor, Pascual, Smith (2000), &amp;ldquo;Genetic variation in the spread of Drosophila subobscura from a nonequilibrium population&amp;rdquo;, Evolution, 54:696-703.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Noor, Pascual, Smith (2000), &amp;ldquo;Genetic variation in the spread of Drosophila subobscura from a nonequilibrium population&amp;rdquo;, Evolution, 54:696-703.${disqus_tpl}</description>
     </item>
     
     <item>

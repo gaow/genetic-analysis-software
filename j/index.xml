@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J on Genetic Analysis Software | The Rockefeller List</title>
@@ -21,7 +21,7 @@ Description J/QTL is a Java GUI for the popular QTL data analysis software R/QTL
 Author  Hao Wu
  Lei Wu (Jackson Lab) (email: jqtl@jax.com)
   URL http://www.jax.org/staff/churchill/labsite/software/Jqtl/index.html
-Language Java   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Language Java${disqus_tpl}</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ Language Java   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT TH
 Description An efficient tool for mining complex inbred genealogies that identify clusters of individuals sharing the same expected amount of relatedness is described. Additionally it allows for the reconstruction of sub-pedigrees suitable for genetic mapping in a systematic way.
 URL http://www.jenti.org
 Language Java
-Reference Falchi, Fuchsberger (2008), &amp;ldquo;Jenti: an efficient tool for mining complex inbred genealogies&amp;rdquo;, Bioinformatics, 24(5):724-726.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Falchi, Fuchsberger (2008), &amp;ldquo;Jenti: an efficient tool for mining complex inbred genealogies&amp;rdquo;, Bioinformatics, 24(5):724-726.${disqus_tpl}</description>
     </item>
     
     <item>

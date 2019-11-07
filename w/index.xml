@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W on Genetic Analysis Software | The Rockefeller List</title>
@@ -17,7 +17,7 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/w/web-preplink/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Description This was a simple program running on our old linkage server at Rockefeller University. However, that server has been updated and no longer supports running scripts, so web-preplink is no longer available.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Description This was a simple program running on our old linkage server at Rockefeller University. However, that server has been updated and no longer supports running scripts, so web-preplink is no longer available.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@ Author  Lambertus Klei (University of Pittsburgh Medical Center)
  Kathryn Roeder (Carnegie Mellon University)
   URL http://wpicr.wpic.pitt.edu/WPICCompGen/fdr/
 Language R
-OS MS-Windows, Linux, UNIX   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+OS MS-Windows, Linux, UNIX${disqus_tpl}</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ Author Steve Horvath, Chaochao (Ricky) Cai, Jun Dong, Tova Fuller, Peter Langfel
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Weighted Haplotype test And an Imputation-based Test.
 Author Yun Li (email: ylwtx@umich.edu)
-URL http://www.sph.umich.edu/csg/yli/whait/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/w/whait&#39;; // Replace http://gaow.</description>
+URL http://www.sph.umich.edu/csg/yli/whait/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ Author  Shaun Purcell (email: purcell@wi.mit.edu)
  Pak Sham
   URL http://pngu.mgh.harvard.edu/~purcell/whap/
 Language C,C++
-OS UNIX, MS-Windows, MS-DOS, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+OS UNIX, MS-Windows, MS-DOS, Linux${disqus_tpl}</description>
     </item>
     
     <item>

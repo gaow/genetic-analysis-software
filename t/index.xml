@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T on Genetic Analysis Software | The Rockefeller List</title>
@@ -20,7 +20,7 @@
 Author Paul de Bakker (email: debakker@molbio.mgh.harvard.edu, Borad Institute)
 URL http://www.broad.mit.edu/mpg/tagger/
 OS web-based
-Reference de Bakker, Yelensky, Pe&amp;rsquo;er, Gabriel, Daly, Altshuler (2005), &amp;ldquo;Efficiency and power in genetic association studies&amp;rdquo;, Nature Genetics, 37:1217-1223.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference de Bakker, Yelensky, Pe&amp;rsquo;er, Gabriel, Daly, Altshuler (2005), &amp;ldquo;Efficiency and power in genetic association studies&amp;rdquo;, Nature Genetics, 37:1217-1223.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Version 2 (beta)
 Author Daniel O Stram (email: stram@usc.edu, Univ Southern California)
 URL http://www-rcf.usc.edu/~stram/tagSNPs.html
 Language FORTRAN90
-Reference Stram (2004), &amp;ldquo;Tag SNP selection for association studies&amp;rdquo;, Genetic Epidemiology, 27(4):365-374.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Reference Stram (2004), &amp;ldquo;Tag SNP selection for association studies&amp;rdquo;, Genetic Epidemiology, 27(4):365-374.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -138,7 +138,7 @@ Author  Barry W. Brown (bwb@mdanderson.org)
       
       <guid>https://gaow.github.io/genetic-analysis-software/t/tdthap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/TDTHAP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/t/tdthap&#39;; // Replace http://gaow.github.io/genetic-analysis-software/t/tdthap with your page&#39;s canonical URL variable this.page.identifier = &#39;tdthap&#39;; // Replace tdthap with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/TDTHAP${disqus_tpl}</description>
     </item>
     
     <item>
@@ -153,7 +153,7 @@ Description calculates the sample size required for obtaining a prescribed power
 Author Michael Knapp (Univ Bonn)
 URL http://www.uni-bonn.de/~umt70e/soft.htm
 Language SAS macro
-Reference M Knapp (1999), &amp;ldquo;A note on power approximations for the transmission/disequilibrium test&amp;rdquo;, American Journal of Human Genetics, 64(4):1177-1185   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference M Knapp (1999), &amp;ldquo;A note on power approximations for the transmission/disequilibrium test&amp;rdquo;, American Journal of Human Genetics, 64(4):1177-1185${disqus_tpl}</description>
     </item>
     
     <item>
@@ -167,7 +167,7 @@ Full Name Tools For Population Genetic Analyses
 Description This program calculates descriptive statistics, genetic distances, and F-statistics. It also performs tests for Hardy-Weinberg equilibrium, exact tests for genetic differentiation, Mantel tests, and UPGMA cluster analyses.
 Author Mark Miller (email: mark.miller@usu.edu)
 URL http://www.marksgeneticsoftware.net/
-OS MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS MS-Windows${disqus_tpl}</description>
     </item>
     
     <item>
@@ -194,7 +194,7 @@ Author  Humberto Ortiz Zuazaga (email: humberto@hpcf.upr.edu)
  Rosemarie Plaetke ( rosi@momo.uthscsa.edu) (Univ Texas Health Science Ctr at San Antonio).
   URL http://www.hpcf.upr.edu/~humberto/software/TkMap/
 Language based on bioTk which is based on Tcl/Tk
-Reference manual page   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference manual page${disqus_tpl}</description>
     </item>
     
     <item>
@@ -280,7 +280,7 @@ Author David Posada (email: dposada@uvigo.es)
 URL http://darwin.uvigo.es/software/treescan.html
 Language C
 OS UNIX, MS-Windows, MS-DOS, MacOS(X)
-Reference Posada, Maxwell, Templeton (2005), &amp;ldquo;TreeScan: a bioinformatic application to search for genotype/phenotype associations using haplotype trees&amp;rdquo;, Bioinformatics, 21(9):2130-2132.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Posada, Maxwell, Templeton (2005), &amp;ldquo;TreeScan: a bioinformatic application to search for genotype/phenotype associations using haplotype trees&amp;rdquo;, Bioinformatics, 21(9):2130-2132.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -293,7 +293,7 @@ Reference Posada, Maxwell, Templeton (2005), &amp;ldquo;TreeScan: a bioinformati
 Description TreeSelect is a software package for inferring natural selection from unusual population differentiation between closely related populations.
 Author Alkes Price (Harvard Univ)
 URL http://www.hsph.harvard.edu/faculty/alkes-price/software/
-Reference Bhatia et al. (2011), &amp;ldquo;Genome-wide comparison of African-ancestry populations from CARe and other cohorts reveals signals of natural selection&amp;rdquo;, American Journal of Human Genetics, 89(3):368-381.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Bhatia et al. (2011), &amp;ldquo;Genome-wide comparison of African-ancestry populations from CARe and other cohorts reveals signals of natural selection&amp;rdquo;, American Journal of Human Genetics, 89(3):368-381.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -341,7 +341,7 @@ URL http://www.well.ox.ac.uk/~mfarrall/twoloc.htm
 Language FORTRAN77, Pascal, awk
 OS UNIX(Saloris/DEC UNIX/IRIX/..)
 EXE twoloc, calc_alpha, mkp, calc_ibd
-Reference Farrall (1997), Genetic Epidemiology, 14:103-115.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Farrall (1997), Genetic Epidemiology, 14:103-115.${disqus_tpl}</description>
     </item>
     
   </channel>

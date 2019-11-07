@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K on Genetic Analysis Software | The Rockefeller List</title>
@@ -35,7 +35,7 @@ Author  Nick A. Tinker ( tinker@em.agr.ca)
   URL  http://gnome.agrenv.mcgill.ca/tinker/kin.htm
  ftp://gnome.agrenv.mcgill.ca/software/KIN/
   OS MS-DOS
-Reference Tinker and Mather, Journal of Heredity, 84, 238 (1993)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Tinker and Mather, Journal of Heredity, 84, 238 (1993)${disqus_tpl}</description>
     </item>
     
     <item>

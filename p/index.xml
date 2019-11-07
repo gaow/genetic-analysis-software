@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P on Genetic Analysis Software | The Rockefeller List</title>
@@ -21,7 +21,7 @@ Full Name P-values: Adjustment for Correlated Tests
 Version 1.2
 Description P_ACT is an R program that adjusts sets of up to 1000 p-values from association tests between correlated traits and SNPs for multiple testing, accounting for the correlation between tests.
 URL http://csg.sph.umich.edu/boehnke/p_act.php
-Reference Conneely, Boehnke (2007), &amp;ldquo;So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests&amp;rdquo;, American Journal of Human Genetics, 81(6):1158-1168   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Conneely, Boehnke (2007), &amp;ldquo;So many correlated tests, so little time! Rapid adjustment of p-values for multiple correlated tests&amp;rdquo;, American Journal of Human Genetics, 81(6):1158-1168${disqus_tpl}</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Version 1.2 (February 2003)
 Description parentage inference using molecular data from diploid codominant markers
 Author Stephanie Blanc-Manel (email: stephanie.manel@ujf-grenoble.fr)
 URL http://www2.ujf-grenoble.fr/leca/membres/manel.html
-Reference Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Cercueil, Bellemain, Manel (2002), &amp;ldquo;PARENTE: computer program for parentage analysis&amp;rdquo;, Journal of Heredity, 93:458-459.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -100,7 +100,7 @@ Description Power and sample size calculations for genetic case-control associat
 Author  Derek Gordon (email: gordon@linkage.rockefeller.edu)
  assisted by Michael Nothnagel
   URL http://linkage.rockefeller.edu/pawe/
-Reference Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -117,7 +117,7 @@ Author  D Gordon
  SJ Finch
   URL http://linkage.rockefeller.edu/pawe3d/
 OS web-based
-Reference Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -149,7 +149,7 @@ Author  Hsin-Chou Yang
  Chin-Yu Lin
  Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)
   URL http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
-Reference Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -166,7 +166,7 @@ Author Fil Quiaoit (Fred Hutchinson Cancer Research Center, email: fquiaoit@fhcr
 URL http://cougar.fhcrc.org/software.php
 Language Visual Basic, MS-Access
 OS MS-Windows (95)
-EXE pdpsys   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+EXE pdpsys${disqus_tpl}</description>
     </item>
     
     <item>
@@ -206,7 +206,7 @@ Author Christine Couillault (email: kristin.c@free.fr)
 URL http://pedagree.free.fr/
 Language C, C++
 OS UNIX, Linux, MS-Windows, MS-DOS,
-EXE pedagree   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+EXE pedagree${disqus_tpl}</description>
     </item>
     
     <item>
@@ -255,7 +255,7 @@ Author  Agarwala
  Francomano
  Schffer (NIH)
   URL http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/pedhunter.html
-Reference Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), &amp;ldquo;Software for constructing and verifying pedigrees within large genealogies and an application to the Old Order Amish of Lancaster county&amp;rdquo;, Genome Research, 8:211-221.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), &amp;ldquo;Software for constructing and verifying pedigrees within large genealogies and an application to the Old Order Amish of Lancaster county&amp;rdquo;, Genome Research, 8:211-221.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -273,7 +273,7 @@ Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu)
 Language C,C++
 OS MS-Windows, Linux
 EXE pedigraph
-Reference J Garbe, Y Da (2003), Pedigraph user manual Version 1.1. Department of Animal Science, University of Minnesota.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference J Garbe, Y Da (2003), Pedigraph user manual Version 1.1. Department of Animal Science, University of Minnesota.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -284,7 +284,7 @@ Reference J Garbe, Y Da (2003), Pedigraph user manual Version 1.1. Department of
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Author Limsoon Wong (National University of Singapore, Singapore)
-URL http://research.i2r.a-star.edu.sg:8080/kleisli/demos/pedigree/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer&#39;; // Replace http://gaow.github.io/genetic-analysis-software/p/pedigree-visualizer with your page&#39;s canonical URL variable this.</description>
+URL http://research.i2r.a-star.edu.sg:8080/kleisli/demos/pedigree/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -305,7 +305,7 @@ Author  Bennett Dyke (email: bdyke@darwin.sfbr.org)
   OS MacOS
 EXE PedDraw
 Reference Am Soc Hum Genet annual meeting 1987 (Dyke, Mamelka, Am J. Hum Genet, suppl 41, A253 (1987))
-Availability disk and user&amp;rsquo;s guide: US$45; user&amp;rsquo;s guide: US$20; upgrade for disk: US$15;   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Availability disk and user&amp;rsquo;s guide: US$45; user&amp;rsquo;s guide: US$20; upgrade for disk: US$15;${disqus_tpl}</description>
     </item>
     
     <item>
@@ -319,7 +319,7 @@ Description allows drawing pedigrees with a difficult structure, those containin
 Author A Kirichenko
 URL  http://mga.bionet.nsc.ru/soft/index.html
  http://mga.bionet.nsc.ru/PedigreeQuery/PedigreeQuery.html (in Russian)
-  Reference A Kirichenko (2003), &amp;ldquo;PedigreeQuery - software for pedigree drawing&amp;rdquo; (abstract), American Journal of Human Genetics, suppl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Reference A Kirichenko (2003), &amp;ldquo;PedigreeQuery - software for pedigree drawing&amp;rdquo; (abstract), American Journal of Human Genetics, suppl${disqus_tpl}</description>
     </item>
     
     <item>
@@ -352,7 +352,7 @@ Author Mary Pat Daly (previously Mary Pat Reeve) (MIT/Whitehead)
 URL http://www-genome.wi.mit.edu/ftp/distribution/software/pedmanager/
 Language C
 OS UNIX
-EXE pedprep   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+EXE pedprep${disqus_tpl}</description>
     </item>
     
     <item>
@@ -418,7 +418,7 @@ Author  JE Stajich (email: jason@chg.mc.duke.edu)
 Language C++, Postscript
 OS UNIX(Sparc-Solaris 2.5/DEC UNIX 4.0/x86-Solaris 2.6)
 EXE pedplot
-Reference Am Soc Hum Genet annual meeting 1998 (Stajich, Haynes, Pericak-Vance, Am J Hum Genet, suppl, 63,A242).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Am Soc Hum Genet annual meeting 1998 (Stajich, Haynes, Pericak-Vance, Am J Hum Genet, suppl, 63,A242).${disqus_tpl}</description>
     </item>
     
     <item>
@@ -436,7 +436,7 @@ URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
   Language C++
 OS MS-DOS, MS-Windows, X-window
-Reference Curtis (1990), Annals of Human Genetics, 54:365-367.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Curtis (1990), Annals of Human Genetics, 54:365-367.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -449,7 +449,7 @@ Reference Curtis (1990), Annals of Human Genetics, 54:365-367.   /** * RECOMMEND
 Version 2004 (not actively maintained)
 Description PedScript is a tool that allows scripting of simple modifications to pedigree files.
 URL http://genome.sph.umich.edu/wiki/PedScript
-EXE anonymize, mendelcheck, nuke, trim, sample   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+EXE anonymize, mendelcheck, nuke, trim, sample${disqus_tpl}</description>
     </item>
     
     <item>
@@ -517,7 +517,7 @@ Description It is a utility for graphically editing the pedigree data files used
 Author Frank Dudbridge (MRC, email: frank.dudbridge@mrc-bsu.cam.ac.uk)
 URL http://www.mrc-bsu.cam.ac.uk/personal/frank/software/pelican/
 Language Java
-Reference F Dudbridge, T Carver, GW Williams (2004), &amp;ldquo;Pelican: pedigree editor for linkage computer analysis&amp;rdquo;, Bioinformatics, 20(14):2327-2328.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference F Dudbridge, T Carver, GW Williams (2004), &amp;ldquo;Pelican: pedigree editor for linkage computer analysis&amp;rdquo;, Bioinformatics, 20(14):2327-2328.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -556,7 +556,7 @@ Author  Jun Liu
  Steve Qin
  Tianhua Niu (Harvard Univ)
   URL http://www.people.fas.harvard.edu/~junliu/plem/
-Reference Qin, Niu, Liu (2002), &amp;ldquo;Partition-ligation-expectation-maximization algorithm for haplotype inference with single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, (letter), 71(5):1242-1247-?   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Qin, Niu, Liu (2002), &amp;ldquo;Partition-ligation-expectation-maximization algorithm for haplotype inference with single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, (letter), 71(5):1242-1247-?${disqus_tpl}</description>
     </item>
     
     <item>
@@ -569,7 +569,7 @@ Reference Qin, Niu, Liu (2002), &amp;ldquo;Partition-ligation-expectation-maximi
 Full Name PLAnt Breeding QTL analysis
 Author HF Utz (email: utzf@uni-hohenheim.de)
 URL https://www.uni-hohenheim.de/plantbreeding/software/
-Reference Utz, Melchinger (1996), &amp;ldquo;PLABQTL: A program for composite interval mapping of QTL&amp;rdquo;, JAG   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Reference Utz, Melchinger (1996), &amp;ldquo;PLABQTL: A program for composite interval mapping of QTL&amp;rdquo;, JAG${disqus_tpl}</description>
     </item>
     
     <item>
@@ -585,7 +585,7 @@ Author Matthias Frisch (email: frisch@uni-hohenheim.de)
 URL http://www.uni-hohenheim.de/~frisch/software.html
 Language C++
 OS UNIX(AIX), Linux, MS-Windows(NT)
-Reference Frisch, Bohn, Melchinger (2000), &amp;ldquo;PLABSIM: software for simulation of marker-assisted backcrossing&amp;rdquo;, Journal of Heredity, 91:86-87.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference Frisch, Bohn, Melchinger (2000), &amp;ldquo;PLABSIM: software for simulation of marker-assisted backcrossing&amp;rdquo;, Journal of Heredity, 91:86-87.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -598,7 +598,7 @@ Reference Frisch, Bohn, Melchinger (2000), &amp;ldquo;PLABSIM: software for simu
 Description an integrated variant caller
 Author  Gerton Lunter
  Martin Goodson (Wellcome Trust Centre of Human Genetics, Oxford Univ)
-  URL http://www.well.ox.ac.uk/platypus   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+  URL http://www.well.ox.ac.uk/platypus${disqus_tpl}</description>
     </item>
     
     <item>
@@ -613,7 +613,7 @@ Description a whole-genome association analysis toolset
 Author Shaun Purcell
 URL http://pngu.mgh.harvard.edu/purcell/plink/
 Reference Purcell, Neale, Todd-Brown, Thomas, Ferreira, Bender, Maller, de Bakker, Daly, Sham (2007), &amp;ldquo;PLINK: a toolset for whole-genome association and population-based linkage analysis&amp;rdquo;, American Journal of Human Genetics, 81(3):559-575
-Related PLINK/SEQ   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related PLINK/SEQ${disqus_tpl}</description>
     </item>
     
     <item>
@@ -641,7 +641,7 @@ Author  NE Morton (University of Southampton, UK)
   URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/pointer
 Language SUN FORTRAN (especially, the command &amp;ldquo;fsplit&amp;rdquo; is needed)
 OS UNIX (SunOS/..)
-Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;rdquo; (Karger, 1983).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;rdquo; (Karger, 1983).${disqus_tpl}</description>
     </item>
     
     <item>
@@ -650,7 +650,7 @@ Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/p/polymorphism/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Version 1.4 (June 1999)
 Description calculating the heterozygosity, PIC, and LIC values for polymorphic markers
 Author  Tianhua Niu
@@ -659,7 +659,8 @@ Author  Tianhua Niu
 OS UNIX
 EXE powerlic
 Reference  Guo, Elston (1999), &amp;ldquo;Linkage information content of polymorphic genetic markers&amp;rdquo;, Human Heredity, 49:112-118.
- Niu, Struk, Lindpaintner (2001), Human Heredity, 52(2):102-109.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ Niu, Struk, Lindpaintner (2001), Human Heredity, 52(2):102-109.${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -701,7 +702,7 @@ Author  Yurii Aulchenko
  Cornelia van Duijn (Erasmus University Medical School, The Netherlands)
   URL  http://www.geneticepi.com/Research/software/software.html
  http://www.geneticepi.com/Research/software/pool_str-1.1.tar.gz
-  Reference Aulchenko, Beroli-Avella, van Duijn (2005), &amp;ldquo;A method for pooling alleles from different genotyping experiments&amp;rdquo;, Annals of Human Genetics, 69(2):233-238.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Reference Aulchenko, Beroli-Avella, van Duijn (2005), &amp;ldquo;A method for pooling alleles from different genotyping experiments&amp;rdquo;, Annals of Human Genetics, 69(2):233-238.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -715,7 +716,7 @@ Description a program for analysis of case-control genetic association studies u
 Author Paul McKeiger (email: paul.mckeigue@ucd.ie) (University College Dublin, Ireland)
 URL http://www.homepages.ed.ac.uk/pmckeigu/pooling/poolscore.htm
 Language R
-EXE poolscore.R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+EXE poolscore.R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -730,7 +731,7 @@ Description POPDIST calculates a number of different genetic identities, phyloge
 Author Bernt Guldbrandtsen (email: bg@genetics.agrsci.dk)
 URL http://genetics.agrsci.dk/~bg/popgen/
 OS UNIX (AIX/IRIX/DECalpha), Linux, MacOS, MS-DOS, MS-Windows(95)
-Reference Guldbrandtsen, Tokiuk, Loeschcke (2000), &amp;ldquo;POPDIST, version 1.1.1: a program to calculate population genetic distance and identity measures&amp;rdquo;, Journal of Heredity, 91:178-179.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Guldbrandtsen, Tokiuk, Loeschcke (2000), &amp;ldquo;POPDIST, version 1.1.1: a program to calculate population genetic distance and identity measures&amp;rdquo;, Journal of Heredity, 91:178-179.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -781,7 +782,7 @@ Author  Tricia Thornton
  Jonathan Haines (Venderbilt University Medical Center)
   URL http://phg.mc.vanderbilt.edu/content/powertrim
 Language Perl
-Reference Thornton, Haines (2003), &amp;ldquo;PowerTrim: an automated decision support algorithm for preprocessing family-based genetic data&amp;rdquo;, American Journal of Human Genetics, 72(5):1280-1281   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Thornton, Haines (2003), &amp;ldquo;PowerTrim: an automated decision support algorithm for preprocessing family-based genetic data&amp;rdquo;, American Journal of Human Genetics, 72(5):1280-1281${disqus_tpl}</description>
     </item>
     
     <item>
@@ -794,7 +795,7 @@ Reference Thornton, Haines (2003), &amp;ldquo;PowerTrim: an automated decision s
 Description A user-friendly, graphical package for power evaluation and enhancement planning through variance component linkage analysis in a multipoint framework.
 Author Mario Falchi (email: mario.falchi@kcl.ac.uk) Cesare Cappio Borlino
 URL http://www.twin-research.ac.uk/WebPowQ/PowQ.htm
-Reference Falchi and Borlino (2006), &amp;ldquo;PowQ: a user-friendly package for the design of variance component multipoint linkage analysis studies&amp;rdquo;, Bioinformatics, 22(11):1404-1405.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Falchi and Borlino (2006), &amp;ldquo;PowQ: a user-friendly package for the design of variance component multipoint linkage analysis studies&amp;rdquo;, Bioinformatics, 22(11):1404-1405.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -806,7 +807,7 @@ Reference Falchi and Borlino (2006), &amp;ldquo;PowQ: a user-friendly package fo
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Excel spreadsheet to calculate power of affected sibpairs and TDT analyses
 Author Dave Curtis
-URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/p/powtest&#39;; // Replace http://gaow.</description>
+URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html${disqus_tpl}</description>
     </item>
     
     <item>
@@ -822,7 +823,7 @@ Description part of the LINKAGE auxiliary program
 Author Peter Cartwright (University of Utah, now Cimarron Software pc@cimsoft.com)
 URL http://lab.rockefeller.edu/ott/programs or
 Language C and Pascal
-OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+OS UNIX, VMS, MS-DOS, OS2${disqus_tpl}</description>
     </item>
     
     <item>
@@ -864,7 +865,7 @@ Reference Browning (2008), &amp;ldquo;PRESTO: Rapid calculation of order statist
 Description assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny
 Author Roy Danzmann (email: rdanzman@uoguelph.ca)
 URL http://www.uoguelph.ca/~rdanzman/software/PROBMAX/
-Reference Danzmann (1997), &amp;ldquo;PROBMAX: a computer program for assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny&amp;rdquo;, Journal of Heredity, 88:333.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Danzmann (1997), &amp;ldquo;PROBMAX: a computer program for assigning unknown parentage in pedigree analysis from known genotypic pools of parents and progeny&amp;rdquo;, Journal of Heredity, 88:333.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -888,7 +889,7 @@ Description PROC QTL is a user defined SAS procedure for mapping quantitative tr
 Description A flexible tool to generate the probability distribution of joint multilocus genotypes defined by sets of individuals within the pedigree and sets of markers within the framework map.
 Author Jeff O&amp;rsquo;Connell
 URL http://www.molecular-haplotype.org/profiler/profiler_intro.htm
-OS Linux, UNIX(Solaris)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+OS Linux, UNIX(Solaris)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -904,7 +905,7 @@ Description Fully customizable, multi-user relational database with an integrate
 Author David Deram (Progeny Software, LLC)
 URL http://www.progenygenetics.com/
 Language C++ and Active X Controls
-OS MS-Windows (95/98/2000/ME/NT/XP)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS MS-Windows (95/98/2000/ME/NT/XP)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -921,7 +922,7 @@ Author Anthony Almudevar (Dept Biostatistics, Computational Biology, University 
 URL http://www.urmc.rochester.edu/smd/biostat/Projects/Help/PC/Software_Listings.htm
 OS MS-Windows
 EXE msg_proj
-Reference A Almudevar, C Field (1999), &amp;ldquo;Estimation of single generation sibling relationships based on DNA markers&amp;rdquo;, J. Agricultural, Biological and Environmental Statistics, 4(2):136-165.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference A Almudevar, C Field (1999), &amp;ldquo;Estimation of single generation sibling relationships based on DNA markers&amp;rdquo;, J. Agricultural, Biological and Environmental Statistics, 4(2):136-165.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -938,7 +939,7 @@ Author  G Kimmel
  R Shamir
  RM Karp
   URL http://acgt.cs.tau.ac.il/psat/
-Reference Kimmel, Jordan, Halperin, Shamir, Karp (2007), &amp;ldquo;A randomization test for controlling population stratification in whole-genome association studies&amp;rdquo;, American Journal of Human Genetics, 81(5):895-905   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Kimmel, Jordan, Halperin, Shamir, Karp (2007), &amp;ldquo;A randomization test for controlling population stratification in whole-genome association studies&amp;rdquo;, American Journal of Human Genetics, 81(5):895-905${disqus_tpl}</description>
     </item>
     
     <item>
@@ -983,7 +984,7 @@ Author  Saunak Sen
  Gary Churhcill (Jackson Lab, email: pseudomarker@jax.org)
   URL http://www.jax.org/staff/churchill/labsite/software/pseudomarker/index.html
 Language MATLAB
-Reference Sen, Churchill (2001), &amp;ldquo;A statistical framework for quantitative trait mapping&amp;rdquo;, Genetics, 159:371-387.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Sen, Churchill (2001), &amp;ldquo;A statistical framework for quantitative trait mapping&amp;rdquo;, Genetics, 159:371-387.${disqus_tpl}</description>
     </item>
     
     <item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Genetic Analysis Software | The Rockefeller List</title>
@@ -33,7 +33,7 @@ Reference Jombart (2008), &amp;ldquo;adegenet: a R package for the multivariate 
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rarp.gee/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related ARP.GEE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rarp.gee&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rarp.gee with your page&#39;s canonical URL variable this.page.identifier = &#39;rarp.gee&#39;; // Replace rarp.gee with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related ARP.GEE${disqus_tpl}</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ Related ARP.GEE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rbars/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related BARS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rbars&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rbars with your page&#39;s canonical URL variable this.page.identifier = &#39;rbars&#39;; // Replace rbars with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related BARS${disqus_tpl}</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@ Related BARS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rcovibd/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related COVIBD   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rcovibd&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rcovibd with your page&#39;s canonical URL variable this.page.identifier = &#39;rcovibd&#39;; // Replace rcovibd with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related COVIBD${disqus_tpl}</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Related COVIBD   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rehp/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related EHP.R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rehp&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rehp with your page&#39;s canonical URL variable this.page.identifier = &#39;rehp&#39;; // Replace rehp with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related EHP.R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@ Related EHP.R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT TH
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rentropy_blocker/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related ENTROPY BLOCKER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rentropy_blocker&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rentropy_blocker with your page&#39;s canonical URL variable this.page.identifier = &#39;rentropy_blocker&#39;; // Replace rentropy_blocker with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related ENTROPY BLOCKER${disqus_tpl}</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@ Author  Øivind Skare
  email: oivind.skare@medisin.uio.no
   URL http://folk.uio.no/thoree/FEST/
 Language R
-Reference Skare, Sheehan, Egeland (2009), &amp;ldquo;Identification of distant family relationships&amp;rdquo;, Bioinformatics, 25(18):2376-2382.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Skare, Sheehan, Egeland (2009), &amp;ldquo;Identification of distant family relationships&amp;rdquo;, Bioinformatics, 25(18):2376-2382.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@ Description This is an integrated package for genetic data analysis of both popu
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rgc-rgcf/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related GC/GCF   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rgc-rgcf&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rgc-rgcf with your page&#39;s canonical URL variable this.page.identifier = &#39;rgc-rgcf&#39;; // Replace rgc-rgcf with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related GC/GCF${disqus_tpl}</description>
     </item>
     
     <item>
@@ -135,7 +135,7 @@ Description GenABEL is a software created to facilitate whole-genome association
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rgwapower/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related GWAPOWER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rgwapower&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rgwapower with your page&#39;s canonical URL variable this.page.identifier = &#39;rgwapower&#39;; // Replace rgwapower with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related GWAPOWER${disqus_tpl}</description>
     </item>
     
     <item>
@@ -149,7 +149,7 @@ Version 1.2-4 (July 2010)
 Description a likelihood approach is used to inference of haplotype and nongenetic effects and their interactions in generalized linear models of disease penetrance, when haplotype phase is unknown for some subjects. Parameter estimates are obtained by use of an expectation-maximization (EM) algorithm and standard errors are calculated using Louis&amp;rsquo; formula.
 URL  http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc
  http://cran.r-project.org/web/packages/hapassoc/index.html
-  Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Language R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -159,7 +159,7 @@ URL  http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rhclust/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related HCLUST   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rhclust&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rhclust with your page&#39;s canonical URL variable this.page.identifier = &#39;rhclust&#39;; // Replace rhclust with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related HCLUST${disqus_tpl}</description>
     </item>
     
     <item>
@@ -169,7 +169,7 @@ Related HCLUST   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/ribdreg/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related IBDREG   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/ribdreg&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/ribdreg with your page&#39;s canonical URL variable this.page.identifier = &#39;ribdreg&#39;; // Replace ribdreg with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related IBDREG${disqus_tpl}</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@ Related IBDREG   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rlapstruct/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related LAPSTRUCT   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rlapstruct&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rlapstruct with your page&#39;s canonical URL variable this.page.identifier = &#39;rlapstruct&#39;; // Replace rlapstruct with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related LAPSTRUCT${disqus_tpl}</description>
     </item>
     
     <item>
@@ -189,7 +189,7 @@ Related LAPSTRUCT   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMEN
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rldgroup/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related LDGROUP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rldgroup&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rldgroup with your page&#39;s canonical URL variable this.page.identifier = &#39;rldgroup&#39;; // Replace rldgroup with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related LDGROUP${disqus_tpl}</description>
     </item>
     
     <item>
@@ -225,7 +225,7 @@ Author  Ji-Hyung Shin (email: shin@sfu.ca)
  Jinko Graham
   URL  http://stat-db.stat.sfu.ca:8080/statgen/research/luca/
  http://cran.r-project.org/web/packages/luca/index.html
-  Reference Shin, McNeney, Graham (2007), &amp;ldquo;Case-control inference of interaction between genetic and nongenetic risk factors under assumptions on their distribution&amp;rdquo;, Statistical Applications in Genetics and Molecular Biology, 6(1):13.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+  Reference Shin, McNeney, Graham (2007), &amp;ldquo;Case-control inference of interaction between genetic and nongenetic risk factors under assumptions on their distribution&amp;rdquo;, Statistical Applications in Genetics and Molecular Biology, 6(1):13.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -239,7 +239,7 @@ Version 1.6 (June 2010)
 Description Fixed and random effects meta-analysis. Functions for tests of bias, forest and funnel plot.
 Author Guido Schwarzer (email: sc@imbi.uni-freiburg.de)
 URL http://cran.r-project.org/web/packages/meta/index.html
-Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Language R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -282,7 +282,7 @@ EXE load.onemap, read.outcross, extract.group, remove.</description>
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rpiage/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related PIAGE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rpiage&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rpiage with your page&#39;s canonical URL variable this.page.identifier = &#39;rpiage&#39;; // Replace rpiage with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related PIAGE${disqus_tpl}</description>
     </item>
     
     <item>
@@ -292,7 +292,7 @@ Related PIAGE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT TH
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rpoolscore/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related POOLSCORE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rpoolscore&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rpoolscore with your page&#39;s canonical URL variable this.page.identifier = &#39;rpoolscore&#39;; // Replace rpoolscore with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related POOLSCORE${disqus_tpl}</description>
     </item>
     
     <item>
@@ -302,7 +302,7 @@ Related POOLSCORE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMEN
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rpopgen/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related POPGEN   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rpopgen&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rpopgen with your page&#39;s canonical URL variable this.page.identifier = &#39;rpopgen&#39;; // Replace rpopgen with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related POPGEN${disqus_tpl}</description>
     </item>
     
     <item>
@@ -319,7 +319,7 @@ Author  Karl W. Broman (Johns Hopkins Univ, kbroman@jhsph.edu)
   URL http://www.rqtl.org
 Language C and R
 OS UNIX, MS-Windows, MacOS
-Reference Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890. [Medline]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890. [Medline]${disqus_tpl}</description>
     </item>
     
     <item>
@@ -332,7 +332,7 @@ Reference Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890. [Medlin
 Version 1.7.7 (April 2008)
 Description QTLBIM, a library for QTL Bayesian Interval Mapping, provides a Bayesian model selection approach to map multiple interacting QTL. It works on experimentally inbred lines and performs a genome-wide search to locate multiple potential QTL. The package can handle continuous, binary and ordinal traits.
 URL http://www.qtlbim.org/
-Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Language R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -349,7 +349,7 @@ Author  Saunak Sen
  Karl Broman
  Gary Churchill
   URL http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software/
-Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Language R${disqus_tpl}</description>
     </item>
     
     <item>
@@ -379,7 +379,7 @@ Author  Ann Lee
  Kathryn Roeder
   URL http://wpicr.wpic.pitt.edu/WPICCompGen/
 Language R
-Reference Lee, Luca, Klei, Devlin, Roeder (2010), &amp;ldquo;Discovering genetic ancestry using spectral graph theory&amp;rdquo;, Genetic Epidemiology, 34(1):51-59.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lee, Luca, Klei, Devlin, Roeder (2010), &amp;ldquo;Discovering genetic ancestry using spectral graph theory&amp;rdquo;, Genetic Epidemiology, 34(1):51-59.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -388,7 +388,7 @@ Reference Lee, Luca, Klei, Devlin, Roeder (2010), &amp;ldquo;Discovering genetic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rstepwise/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Version 0.2-4 (November 2008)
 Description A stepwise approach to identifying recombination breakpoints in a sequence alignment
 Author  Jinko Graham
@@ -396,7 +396,8 @@ Author  Jinko Graham
  Francoise Seillier-Moiseiwitsch
  Sigal Blay
   URL  http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/
- http://cran.r-project.org/web/packages/stepwise/index.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+ http://cran.r-project.org/web/packages/stepwise/index.html${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -405,7 +406,7 @@ Author  Jinko Graham
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rsuperheat/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Full name Supercharged heatmaps for R
 Description ​
 Superheat is an R package for generating beautiful and customizable heatmaps. See the vignette for usage.
@@ -414,7 +415,8 @@ Year 2017
 Authors  Rebecca Barter (rlbarter@gmail.com)  URL  https://github.com/rlbarter/superheat  Language R
 OS Linux, MacOS
 Tag  R
- graphics   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ graphics${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -439,7 +441,7 @@ Author  David Clayton
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rweighted_fdr/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related WEIGHTED_FDR   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/r/rweighted_fdr&#39;; // Replace http://gaow.github.io/genetic-analysis-software/r/rweighted_fdr with your page&#39;s canonical URL variable this.page.identifier = &#39;rweighted_fdr&#39;; // Replace rweighted_fdr with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related WEIGHTED_FDR${disqus_tpl}</description>
     </item>
     
     <item>
@@ -590,7 +592,7 @@ Reference  Boehnke,Lange,Cox (1991), &amp;ldquo;Statistical methods for multipoi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/r/rhmapper/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Version 1.22 (1998)
 Description an interactive program for radiation hybrid mapping
 Author Lincoln Stein (Whitehead Institute, lstein@genome.wi.mit.edu)
@@ -599,7 +601,8 @@ URL  http://www-genome.wi.mit.edu/ftp/pub/software/rhmapper/
   Language Perl
 Reference  Hudson, Stein, et al. (1995), Science, 270:1945-1954.
  Slonim, Stein, Kruglyak, Lander (1996), in preparation.
- online user&amp;rsquo;s guide   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ online user&amp;rsquo;s guide${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -653,7 +656,7 @@ Full Name Robust Transmission/Disequilibrium Test
 Version 1.0
 URL http://bios.ugr.es/~mabad/rTDT/index.html
 Language Matlab, C++
-Reference Sebastiani, Abad, Alpargu, Ramoni (2004), &amp;ldquo;Robust Transmission/Disequilibrium Test for incomplete family genotypes&amp;rdquo;, Genetics, 168:2329-2337.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Reference Sebastiani, Abad, Alpargu, Ramoni (2004), &amp;ldquo;Robust Transmission/Disequilibrium Test for incomplete family genotypes&amp;rdquo;, Genetics, 168:2329-2337.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -668,7 +671,7 @@ Author  X Zhan
  Youna Hu
  G Abecasis (Univ Michigan)
   URL http://genome.sph.umich.edu/wiki/RvTests
-Language C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Language C++${disqus_tpl}</description>
     </item>
     
   </channel>

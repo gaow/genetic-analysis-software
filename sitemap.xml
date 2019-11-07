@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://gaow.github.io/genetic-analysis-software/1/2dmap/</loc>
@@ -118,11 +119,11 @@
   </url>
   
   <url>
-    <loc>https://gaow.github.io/genetic-analysis-software/a/adegenet/</loc>
+    <loc>https://gaow.github.io/genetic-analysis-software/0/about/</loc>
   </url>
   
   <url>
-    <loc>https://gaow.github.io/genetic-analysis-software/0/about/</loc>
+    <loc>https://gaow.github.io/genetic-analysis-software/a/adegenet/</loc>
   </url>
   
   <url>
@@ -1194,7 +1195,7 @@
   </url>
   
   <url>
-    <loc>https://gaow.github.io/genetic-analysis-software/l/linkage---ceph/</loc>
+    <loc>https://gaow.github.io/genetic-analysis-software/l/linkage-ceph/</loc>
   </url>
   
   <url>
@@ -1246,7 +1247,7 @@
   </url>
   
   <url>
-    <loc>https://gaow.github.io/genetic-analysis-software/l/linkage---general-pedigrees/</loc>
+    <loc>https://gaow.github.io/genetic-analysis-software/l/linkage-general-pedigrees/</loc>
   </url>
   
   <url>
@@ -2591,17 +2592,14 @@
   
   <url>
     <loc>https://gaow.github.io/genetic-analysis-software/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gaow.github.io/genetic-analysis-software/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gaow.github.io/genetic-analysis-software/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

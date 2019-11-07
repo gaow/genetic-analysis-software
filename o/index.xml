@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>O on Genetic Analysis Software | The Rockefeller List</title>
@@ -28,7 +28,7 @@ Description Olorin is an interactive filtering tool for next generation sequenci
       
       <guid>https://gaow.github.io/genetic-analysis-software/o/onemap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/ONEMAP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/o/onemap&#39;; // Replace http://gaow.github.io/genetic-analysis-software/o/onemap with your page&#39;s canonical URL variable this.page.identifier = &#39;onemap&#39;; // Replace onemap with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/ONEMAP${disqus_tpl}</description>
     </item>
     
     <item>

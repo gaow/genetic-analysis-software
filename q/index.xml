@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q on Genetic Analysis Software | The Rockefeller List</title>
@@ -63,7 +63,7 @@ Description Performs linkage disequilibrium (TDT) and association analysis for q
 Version May 1998
 Description providing a user freiendly way to perform QTL analysis. The software currently allows 3 types of QTL analysis: (1) single marker ANOVA. (2) marker regression. (3) interval mapping by regression.
 URL http://www.biosciences-labs.bham.ac.uk/Kearsey/
-OS Java   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+OS Java${disqus_tpl}</description>
     </item>
     
     <item>
@@ -140,7 +140,7 @@ Author  D. Podlich (email: d.podlich@mailbox.uq.edu.au)
 Language Fortran
 OS MS-Windows
 EXE qugene.exe
-Reference Podlich, Cooper (1998), &amp;ldquo;QU-GENE: a simulation platform for quantitative analysis of genetic models&amp;rdquo;, Bioinformatics. 14:632-653. Online manual: http://pig.ag.uq.edu.au/qu-gene/manual.htm   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Podlich, Cooper (1998), &amp;ldquo;QU-GENE: a simulation platform for quantitative analysis of genetic models&amp;rdquo;, Bioinformatics. 14:632-653. Online manual: http://pig.ag.uq.edu.au/qu-gene/manual.htm${disqus_tpl}</description>
     </item>
     
     <item>

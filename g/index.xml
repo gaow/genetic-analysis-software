@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>G on Genetic Analysis Software | The Rockefeller List</title>
@@ -22,7 +22,7 @@ Description a tool for construction of genetic linkage maps and analyzing Mendel
 Author  J.L Holloway
  S.J. Knapp (Department of Crop, Soil Science, Oregon State University)
   URL http://cropandsoil.oregonstate.edu/G-mendel
-OS UNIX, MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS UNIX, MS-Windows${disqus_tpl}</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ Version 2.0 (Dec 1995)
 Description statistical analysis of genetic linkage data, sib-pair analysis, association studies
 Author Alan Young ( ayoung@vax.ox.ac.uk)
 URL http://users.ox.ac.uk/~ayoung/gas.html .
-OS MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+OS MS-DOS, UNIX(SunOS/Solaris/AIX/OSF1/Ultrix/SGI-IRIX),VMS${disqus_tpl}</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@ Full Name statistical significance in Genomewide Association Studies in 2-stage
 Description Evaluating Statistical Significance in Two-Stage Genomewide Association Studies
 URL http://www.bios.unc.edu/~lin/software/GAS2/
 Language FORTRAN77
-Reference Lin (2006), &amp;ldquo;Evaluating statistical significance in two-stage genomewide association studies&amp;rdquo;, American Journal of Human Genetics, 78(3):505-509   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lin (2006), &amp;ldquo;Evaluating statistical significance in two-stage genomewide association studies&amp;rdquo;, American Journal of Human Genetics, 78(3):505-509${disqus_tpl}</description>
     </item>
     
     <item>
@@ -158,7 +158,7 @@ Description designed to accompany the second edition of Bruce Weir&amp;rsquo;s b
 Author  Paul Lewis
  Dmitri Zaykin
   URL http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php
-OS MS-Windows (3.1/95/NT), MacOS (10.2.8&amp;frasl;10.3)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS MS-Windows (3.1/95/NT), MacOS (10.2.8&amp;frasl;10.3)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -187,7 +187,7 @@ Reference Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am.</de
       
       <guid>https://gaow.github.io/genetic-analysis-software/g/genabel/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Related R/GENABEL   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/g/genabel&#39;; // Replace http://gaow.github.io/genetic-analysis-software/g/genabel with your page&#39;s canonical URL variable this.page.identifier = &#39;genabel&#39;; // Replace genabel with your page&#39;s unique identifier variable }; */ (function() { // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW // Don&#39;t ever inject Disqus on localhost--it creates unwanted // discussions from &#39;localhost:1313&#39; on your Disqus account.</description>
+Related R/GENABEL${disqus_tpl}</description>
     </item>
     
     <item>
@@ -203,7 +203,7 @@ Author Jean-Marie Cornuet
 URL http://www.montpellier.inra.fr/URLB/
 Language Delphi
 OS MS-Windos, UNIX
-Reference Piry, Alapetite, Cornuet, Paetkau, Baudouin, Estoup (2004), &amp;ldquo;GeneClass2: a software for genetic assignment and first-generation migrant detection&amp;rdquo;, Journal of Heredity, 95:536-539.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Piry, Alapetite, Cornuet, Paetkau, Baudouin, Estoup (2004), &amp;ldquo;GeneClass2: a software for genetic assignment and first-generation migrant detection&amp;rdquo;, Journal of Heredity, 95:536-539.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -267,7 +267,7 @@ Reference  Kruglyak,Daly,Reeve-Daly,Lander (1996), &amp;ldquo;Parametric and non
 Description implementation of the Sad statistic, more robust to transmission ratio distortion in the context of allele sharing
 Author Mathieu Lemire (email: mlemire@sdf.lonestar.org)
 URL http://mlemire.freeshell.org/software.html
-Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3&amp;rdquo;, American Journal of Human Genetics, 75:571-586.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmission-ratio distortion and allele sharing in affected sib pairs: a new linkage statistic with reduced bias, with application to chromosome 6q25.3&amp;rdquo;, American Journal of Human Genetics, 75:571-586.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -337,7 +337,7 @@ URL  http://bioinformatics.med.utah.edu/~alun/software/index.html
   Language Java
 OS web-based
 EXE CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,
-Related JPSGCS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related JPSGCS${disqus_tpl}</description>
     </item>
     
     <item>
@@ -365,7 +365,7 @@ Author  Michel Raymond (email: raymond@isem.univ-montp2.fr)
  Francois Rousset ( email: rousset@isem.univ-montp2.fr)
  Eleanor Morgan (email: nell@wbiomed.curtin.edu.au) (web version)
   URL http://wbiomed.curtin.edu.au/genepop/
-Reference Raymond, Rousset (1995), &amp;ldquo;GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism&amp;rdquo;, Journal of Heredity, 86:248-249   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Raymond, Rousset (1995), &amp;ldquo;GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism&amp;rdquo;, Journal of Heredity, 86:248-249${disqus_tpl}</description>
     </item>
     
     <item>
@@ -437,7 +437,7 @@ Version 1.1 (2003)
 Description software for charting family medical/health history
 URL http://www.geneweaveronline.com/
 OS MS-Windows (95/98/2000/NT/XP)
-Availability commercialUS$39.95   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/g/geneweaver&#39;; // Replace http://gaow.</description>
+Availability commercialUS$39.95${disqus_tpl}</description>
     </item>
     
     <item>
@@ -476,7 +476,7 @@ Description a graphic way of organizing the mass of information gathered during 
 URL http://www.genogram.org/
 OS MS-Windows, MacOS
 Reference Monica McGoldrick, Randy Gerson, , Sylvia Shellenberger (1999), Genograms: Assessment and Intervention , 2nd edition (W.W.Norton &amp;amp; Company).
-Availability US$50 (student), US$125 (standard)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Availability US$50 (student), US$125 (standard)${disqus_tpl}</description>
     </item>
     
     <item>
@@ -507,7 +507,7 @@ Version beta
 Description genomeSIMLA is a forward-time population simulation method that can simulate realistic patterns of LD in both family-based and case-control datasets.
 Author Marylyn Ritchie (email: genomesimla@chgr.mc.vanderbilt.edu)
 URL http://chgr.mc.vanderbilt.edu/genomeSIMLA/
-Reference Dudek, Motsinger, Velez, Williams, Ritchie (2006), &amp;ldquo;Data simulation software for whole-genome association and other studies in human genetics&amp;rdquo;, Pacific Symposium on Biocomputing, 499-510.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Dudek, Motsinger, Velez, Williams, Ritchie (2006), &amp;ldquo;Data simulation software for whole-genome association and other studies in human genetics&amp;rdquo;, Pacific Symposium on Biocomputing, 499-510.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -524,7 +524,7 @@ Author  Andre Franke (email: a.franke@mucosa.de)
   URL http://www.ikmb.uni-kiel.de/genomizer/
 Language Java
 OS MS-Windows, Linux
-Reference Franke, Wollstein, Teuber, Wittig, Lu, Hoffmann, Nurnberg, Krawczak, Schreiber, Hampe (2006), &amp;ldquo;GENOMIZER: an integrated analysis system for genome-wide association data&amp;rdquo;, Human Mutation, 27(6):583-588   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Franke, Wollstein, Teuber, Wittig, Lu, Hoffmann, Nurnberg, Krawczak, Schreiber, Hampe (2006), &amp;ldquo;GENOMIZER: an integrated analysis system for genome-wide association data&amp;rdquo;, Human Mutation, 27(6):583-588${disqus_tpl}</description>
     </item>
     
     <item>
@@ -592,7 +592,7 @@ URL http://www1.</description>
 Full Name Gene-Environment interaction and STability
 Author Yasuo Ukai (University of Tokyo, Japan)
 URL http://lbm.ab.a.u-tokyo.ac.jp/~ukai/gest98.html
-Reference Ukai, Nesumi, Yakano (1996), &amp;ldquo;A package of computer programs for the statistical analysis of genotype x environment interaction and stability GEST&amp;rdquo; (in Japanese), Breeding Science, 46:73-79.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Ukai, Nesumi, Yakano (1996), &amp;ldquo;A package of computer programs for the statistical analysis of genotype x environment interaction and stability GEST&amp;rdquo; (in Japanese), Breeding Science, 46:73-79.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -623,7 +623,7 @@ Author Aaron Day-Williams (Wellcome Trust Sanger Institute)
 URL  http://sourceforge.net/projects/ggsd/
  http://ggsd.sourceforge.net/
   Language Java, PHP, Perl
-OS web-based   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+OS web-based${disqus_tpl}</description>
     </item>
     
     <item>
@@ -661,7 +661,7 @@ Description testing whether the presence of a marker allale can partially accoun
 Author Chun Li (Vanderbilt University). (email: chun.li@vanderbilt.edu)
 URL http://phg.mc.vanderbilt.edu/content/gist
 OS UNIX, MS-Windows
-Reference Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):418-431   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):418-431${disqus_tpl}</description>
     </item>
     
     <item>
@@ -670,12 +670,13 @@ Reference Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):4
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://gaow.github.io/genetic-analysis-software/g/glfsingleglftrioglfmultiples/</guid>
-      <description>Record added by Jurg Ott (the original Rockefeller list)
+      <description> Record added by Jurg Ott (the original Rockefeller list)
 Description glfTrio is a GLF-based variant caller for next-generation sequencing data. It takes one/three/multiple GLF format genotype likelihood files as input and generates a VCF-format set of variant calls as output.
 Author Abecasis&amp;rsquo; group (Univ Michigan)
 URL  http://genome.sph.umich.edu/wiki/GlfSingle
  http://genome.sph.umich.edu/wiki/GlfTrio
- http://genome.sph.umich.edu/wiki/GlfMultiples   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+ http://genome.sph.umich.edu/wiki/GlfMultiples${disqus_tpl}
+  </description>
     </item>
     
     <item>
@@ -688,7 +689,7 @@ URL  http://genome.sph.umich.edu/wiki/GlfSingle
 Full Name Genome-wide LInkage DisEquilibrium Repository and Search engine
 Description HapMap based long-range LD search engine
 Author Robert Lawrence (Wellcome Trust Sanger Institute)
-URL http://mather.well.ox.ac.uk/GLIDERS/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+URL http://mather.well.ox.ac.uk/GLIDERS/${disqus_tpl}</description>
     </item>
     
     <item>
@@ -713,7 +714,7 @@ Description A web interface to several commonly used statistical genetics progra
 Full Name Genetic Mixture Analysis
 Author Steven T Kalinowski (email: skalinowski@montana.edu)
 URL http://www.montana.edu/kalinowski/GMA/GMA_Home.htm
-OS MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/g/gma&#39;; // Replace http://gaow.github.io/genetic-analysis-software/g/gma with your page&#39;s canonical URL variable this.</description>
+OS MS-Windows${disqus_tpl}</description>
     </item>
     
     <item>
@@ -727,7 +728,7 @@ Description GMCheck finds the posterior probabilities for data errors for genoty
 Author Alun Thomas (email: alun@genepi.med.utah.edu)
 URL http://episun7.med.utah.edu/~alun/gmcheck/
 Language Java
-Reference Thomas (2005), &amp;ldquo;GMCheck: Bayesian error checking for pedigree genotypes and phenotypes&amp;rdquo;, Bioinformatics, 21(14):3187-3189.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Thomas (2005), &amp;ldquo;GMCheck: Bayesian error checking for pedigree genotypes and phenotypes&amp;rdquo;, Bioinformatics, 21(14):3187-3189.${disqus_tpl}</description>
     </item>
     
     <item>
@@ -806,7 +807,7 @@ Language C++</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name GenoSpectrum Expectation-Maximuzation
 URL http://www.people.fas.harvard.edu/~junliu/genotype/
-Reference Kang, Qin, Niu, Liu (2004), &amp;ldquo;Incorporating genotyping uncertainty in haplotype inference for single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 74(3):495-510   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Reference Kang, Qin, Niu, Liu (2004), &amp;ldquo;Incorporating genotyping uncertainty in haplotype inference for single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 74(3):495-510${disqus_tpl}</description>
     </item>
     
     <item>
@@ -830,7 +831,7 @@ Description The GSMA is a rank-based meta-analysis method for analyzing results 
 Version 0.4.1 (Feb 2008)
 Description GTOOL is a program for transforming sets of genotype data for use with the programs SNPTEST and IMPUTE.
 Author Jonathan Marchini
-URL http://www.stats.ox.ac.uk/~marchini/software/gwas/gtool.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+URL http://www.stats.ox.ac.uk/~marchini/software/gwas/gtool.html${disqus_tpl}</description>
     </item>
     
     <item>
