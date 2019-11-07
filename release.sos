@@ -1,0 +1,124 @@
+#!/usr/bin/env sos-runner
+#vim: set filetype=python: set expandtab : ts=4:
+#fileformat=SOS1.0
+
+# This script compiles all `*.md` files in `pages` folder via hugo
+# and pushes the website to `gh-pages` branch
+
+[global]
+parameter: data_dir = 'pages'
+disqus_tpl = '''
+{{< raw >}}
+<hr size="2">
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = 'PAGE_URL';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'PAGE_IDENTIFIER'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        // Don't ever inject Disqus on localhost--it creates unwanted
+        // discussions from 'localhost:1313' on your Disqus account...
+        if (window.location.hostname == "localhost")
+           return;
+        var d = document, s = d.createElement('script');
+        s.src = '//genetic-analysis-software.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{{< /raw >}}
+'''
+
+# Download gh-pages branch
+[default_1]
+output: 'gh-pages/.gitignore'
+bash:
+  rm -rf gh-pages
+  git clone -b gh-pages http://github.com/gaow/genetic-analysis-software.git gh-pages
+
+# Update alphabetic TOC
+[default_2]
+import os, glob, re
+from collections import OrderedDict
+def get_meta(files):
+    data = {}
+    for f in files:
+        if os.path.basename(f) == 'README.md':
+           continue
+        lines = [x.strip() for x in open(f).readlines() if x.strip()]
+        if len(lines) == 0:
+           continue
+        data[f] = {}
+        if not lines[0].startswith('#') or lines[0].startswith('##'):
+            raise ValueError(f'The first line of document "{f}" must start with "#" followed by software name')
+        data[f]['name'] = lines[0][1:].strip()
+        try:
+          data[f]['full_name'] = lines[[x.lower() for x in lines].index('## full name') + 1]
+        except:
+          pass
+    return OrderedDict(sorted(data.items(), key = lambda i: i[1]['name'].lower()))
+
+meta = get_meta(glob.glob(f'{data_dir}/*.md'))
+categories = []
+contents = OrderedDict()
+toc = OrderedDict()
+idx = 1
+for k in meta:
+    category = '1' if re.match(r"[-+]?\d+$", meta[k]['name'][0]) is not None else meta[k]['name'][0].upper()
+    if category not in categories:
+       idx = 1
+       categories.append(category)
+       toc[category] = '\n## {}\n\n----\n\n'.format(category if category != '1' else '\\#')
+    if category not in contents:
+       contents[category] = OrderedDict() 
+    desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
+    html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
+    toc[category] += '{}. [{}]({}){}\n'.format(idx, meta[k]['name'], html_name, desc_text)
+    lines = open(k).readlines()
+    contents[category][(lines[0].strip("#").strip(), html_name)] = '\n'.join(lines[1:]).strip()
+    idx += 1
+
+idx = 4
+for k in contents:
+    os.makedirs(f'website/content/{k.lower()}', exist_ok=True)
+    with open(f'website/content/{k.lower()}/_index.md', 'w') as f:
+         f.write('+++\nweight = {}\ntitle = "{}"\n+++\n\n'.format(idx, k if k != '1' else '#'))
+         f.write(toc[k])
+    idx += 1
+    for num, kk in enumerate(contents[k]):
+        with open(f'website/content/{k.lower()}/{kk[1]}.md', 'w') as f:
+             f.write('---\ntitle: {1}\ntoc: true\nweight: {0}\n---\n\n'.format(num + 1, kk[0]))
+             f.write(contents[k][kk])
+             f.write('''${disqus_tpl}'''.replace('PAGE_URL', f'http://gaow.github.io/genetic-analysis-software/{k.lower()}/{kk[1]}').replace('PAGE_IDENTIFIER', kk[1]))
+
+os.makedirs(f'website/content/0', exist_ok=True)
+with open('website/content/0/_index.md', 'w') as f:
+     f.write('+++\nweight = 1\ntitle = "Genetic Analysis Software"\n+++\n\n')
+     f.write('# Welcome ... \nto the Rockefeller list of Genetic Analysis Software!')
+with open('website/content/0/about.md', 'w') as f:
+     f.write('---\ntitle: About\nweight: 2\ntoc: true\n---\n\n')
+     f.write(open('Home.md').read())
+with open('website/content/0/lists.md', 'w') as f:
+     f.write('---\ntitle: Other lists\nweight: 3\ntoc: true\n---\n\n')
+     f.write(open('Others.md').read())
+ 
+[default_3]
+# Update gh-pages
+bash:
+  set -e
+  cd website
+  hugo
+  rsync -auz public/* ../gh-pages/
+  cd ../gh-pages
+  echo '''<head><meta http-equiv="refresh" content="0; url=http://gaow.github.io/genetic-analysis-software/0/"/></head>''' > index.html
+  git add .
+  git commit -m update
+  git push
