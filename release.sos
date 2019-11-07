@@ -61,7 +61,7 @@ bash: expand = '${ }'
   """ >> website/themes/hugo-theme-learn/static/css/theme.css
   sed -i 's/"Work Sans"/"PT Sans"/g' website/themes/hugo-theme-learn/static/css/theme.css
   echo -e '''
-  <p><a href="http://tigerwang.org/profile">Gao Wang</a> at <a href="http://lab.rockefeller.edu/ott/">Ott lab</a> &copy; 1995-2014, 2017</p>
+  <p><a href="http://tigerwang.org/profile">Gao Wang</a> at <a href="http://lab.rockefeller.edu/ott/">Ott lab</a> &copy; 1995-2014, 2016+</p>
   ''' > website/themes/hugo-theme-learn/layouts/partials/menu-footer.html
   echo -e '''
   <a id="loga" href="http://github.com/gaow/genetic-analysis-software">
