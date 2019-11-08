@@ -150,7 +150,7 @@ bash:
   set -e
   cd website
   hugo
-  rsync -auz public/* ../gh-pages/
+  rsync -auz --delete public/* ../gh-pages/
   cd ../gh-pages
   echo '''<head><meta http-equiv="refresh" content="0; url=http://gaow.github.io/genetic-analysis-software/0/"/></head>''' > index.html
   git add .
