@@ -95,6 +95,7 @@ def get_meta(files):
         data[f] = {}
         if not lines[0].startswith('#') or lines[0].startswith('##'):
             raise ValueError(f'The first line of document "{f}" must start with "#" followed by software name')
+        data[f]['content'] = lines
         data[f]['name'] = lines[0][1:].strip()
         try:
           data[f]['full_name'] = lines[[x.lower() for x in lines].index('## full name') + 1]
@@ -118,8 +119,7 @@ for k in meta:
     desc_text = ', ' + meta[k]['full_name'] if 'full_name' in meta[k] else ''
     html_name = "".join(x for x in meta[k]['name'].replace(' ', '-') if x.isalnum() or x in ['-', '_', '.']).lower()
     toc[category] += '{}. [{}]({}){}\n'.format(idx, meta[k]['name'], html_name, desc_text)
-    lines = open(k).readlines()
-    contents[category][(lines[0].strip("#").strip(), html_name)] = '\n'.join(lines[1:]).strip()
+    contents[category][(meta[k]['content'][0].strip("#").strip(), html_name)] = '\n'.join(meta[k]['content'][1:]).strip()
     idx += 1
 
 idx = 4
