@@ -20,8 +20,7 @@
 Full Name haplotype resolution using imperfect phylogeny
 Version 3.0
 Author Eleazar Eskin ( eeskin@cs.ucsd.edu)
-URL  http://research.calit2.net/hap/
- http://www.cs.columbia.edu/compbio/hap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.</description>
+URL  http://research.calit2.net/hap/ http://www.cs.columbia.edu/compbio/hap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.github.io/genetic-analysis-software/h/hap-1&#39;; // Replace http://gaow.</description>
     </item>
     
     <item>
@@ -59,11 +58,11 @@ URL http://www.</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name HAplotype inference by PARsimony
 Description HAPAR is a program to infer haplotype from genotype data. It uses the parsimony principle, i.e. try to find the minimum number of haplotypes that can reconstruct the input genotypes.
-Author  Lusheng Wang (City University of Hong Kong)
- Ying Xu (Stanford Univ)
-  URL  http://theory.stanford.edu/~xuying/hapar/
+Author  Lusheng Wang (City University of Hong Kong) Ying Xu (Stanford Univ)
+URL http://theory.stanford.edu/~xuying/hapar/
  http://www.cs.cityu.edu.hk/~lwang/hapar/index.html
-  OS MS-Window, UNIX(Solaris/.</description>
+OS MS-Window, UNIX(Solaris/..)
+Reference Wang, Xu (2003), &amp;ldquo;Haplotype inference by maximum parsimony&amp;rdquo;, Bioinformatics, 19(14):1773-1780.</description>
     </item>
     
     <item>
@@ -85,12 +84,11 @@ Related R/HAPASSOC   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMME
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name a dynamical programming algorithm for haplotype block partitioning
 Version 2002
-Author  Kui Zhang
- Fengzhu Sun (USC)
-  URL http://www-hto.usc.edu/msms/HapBlock/
+Author  Kui Zhang Fengzhu Sun (USC)
+URL http://www-hto.usc.edu/msms/HapBlock/
 Language C
 OS MS-Windows, Linux, UNIX(Solaris)
-Reference  Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.
+Reference Kui Zhang, Minghua Deng, Ting Chen, Michael S Waterman, Fengzhu Sun (2002), Proceedings of the National Academy of Sciences , 99:7335-7339.
  Zhang, Qin, Chen, Liu, Waterman, Sun (2005), &amp;ldquo;HapBlock: haplotype block partitioning and tag SNP selection software using a set of dynamic programming algorithms&amp;rdquo;, Bioinformatics, 21(1):131-134.</description>
     </item>
     
@@ -139,14 +137,15 @@ Reference Clark (1990), &amp;ldquo;Inference of haplotype from PCR-amplified sam
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplo-1/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Full Name  Haplotyping with computation of conditional probabilities
- version 1.00 (feb 5, 1996)
-  Description assigns each person the haplotype with the highest conditional probability using Elston-Stewart algorithm
-Author  Daniel E. Weeks (Pittsburgh)
+Full Name  Haplotyping with computation of conditional probabilities version 1.00 (feb 5, 1996)
+Description assigns each person the haplotype with the highest conditional probability using Elston-Stewart algorithm
+Author Daniel E. Weeks (Pittsburgh)
  Kenneth Lange (UCLA) (Collaborators: Jeffrey R O&amp;rsquo;Connell, Eric Sobel)
-  URL  http://watson.hgen.pitt.edu/register/soft_doc.html,
+URL http://watson.hgen.pitt.edu/register/soft_doc.html,
  registration page at: http://watson.hgen.pitt.edu/register
-  Language Fortran 77 (ANSI standard)</description>
+Language Fortran 77 (ANSI standard)
+OS UNIX (SunOS/Solaris/HP)
+Reference Sobel, Lange, O&amp;rsquo;Connell and Weeks, in &amp;ldquo;Genetic Mapping and DNA Sequencing&amp;rdquo; (IMA Volumes in Mathematics and its Applications) eds.</description>
     </item>
     
     <item>
@@ -158,9 +157,8 @@ Author  Daniel E. Weeks (Pittsburgh)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.5 (1998)
 Description Estimates frequencies of multi-site haplotypes using the EM algorithm
-Author  ME Hawley
- KK Kidd
-  URL http://krunch.med.yale.edu/haplo/
+Author  ME Hawley KK Kidd
+URL http://krunch.med.yale.edu/haplo/
 Language FORTRAN
 OS DEC VAX
 Reference Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorithm to estimate the frequencies of multi-site haplotypes&amp;rdquo;, Journal of Heredity, 86:409-411.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -176,11 +174,8 @@ Reference Hawley, Kidd (1995), &amp;ldquo;HAPLO: A program using the EM algorith
 Other Name HAPLO.SCORE
 Version 1.2.0 (2005)
 Description A suite of routines for the analysis of indirectly measured haplotypes.
-Author  Dan Schaid
- Jason Sinnwell
- Charles Rowland
- David Tines (Mayo Clinic)
-  URL http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm
+Author  Dan Schaid Jason Sinnwell Charles Rowland David Tines (Mayo Clinic)
+URL http://mayoresearch.mayo.edu/mayo/research/biostat/schaid.cfm
 Language S-plus 6.1.2, R 1.7.1
 OS UNIX
 EXE haplo.em, haplo.glm, haplo.score
@@ -250,9 +245,8 @@ Author Melanie Bahlo (email: bahlo@wehi.</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.027b
 Description A pedigree drawing program, suitable in processing haplotype outputs from GENEHUNTER, ALLEGRO, MERLIN, and SIMWALK
-Author  Holger Thiele
- Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).
-  URL http://haplopainter.sourceforge.net/html/ManualIndex.htm
+Author  Holger Thiele Peter Nuernberg (Max-Delbruck-Centrum fur Molekulare Medizin, Berlin-Buch).
+URL http://haplopainter.sourceforge.net/html/ManualIndex.htm
 Language Perl
 Reference Thiele, Nurnberg (2005), &amp;ldquo;HaploPainter: a tool for drawing pedigrees with complex haplotypes&amp;rdquo;, Bioinformatics, 21(8):1730-1732.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -327,9 +321,8 @@ Description HAPLOTTER is a web application that has been developed to display th
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplotype-estimation/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description The haplotype estimation service is available in two variants: one for genetic data from unrelated probands (e.g., case/control studies) and one for core family data
-Author  K Rohde
- R Furst (MDC Berlin)
-  URL http://www.bioinf.mdc-berlin.de/projects/hap/
+Author  K Rohde R Furst (MDC Berlin)
+URL http://www.bioinf.mdc-berlin.de/projects/hap/
 Reference K Rohde, R Furst (2001), &amp;ldquo;Haplotyping and estimation of haplotype frequencies for closely linked biallelic multilocus genetic phenotypes including nuclear family information&amp;rdquo;, Human Mutation, 17(4):289-295.</description>
     </item>
     
@@ -340,9 +333,8 @@ Reference K Rohde, R Furst (2001), &amp;ldquo;Haplotyping and estimation of hapl
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplotyper/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Author  T Niu
- Jun Liu (Harvard Univ)
-  URL http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm
+Author  T Niu Jun Liu (Harvard Univ)
+URL http://www.people.fas.harvard.edu/~junliu/Haplo/docMain.htm
 Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -365,9 +357,8 @@ Author Jeffrey Barrett (Whitehead Institute)</description>
       
       <guid>https://gaow.github.io/genetic-analysis-software/h/haplovisual/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Author  Esko Ukkonen
- Pasi Rastas
-  URL http://www.cs.helsinki.fi/u/prastas/haplovisual/
+Author  Esko Ukkonen Pasi Rastas
+URL http://www.cs.helsinki.fi/u/prastas/haplovisual/
 Language java
 Reference Ukkonen (2002), &amp;ldquo;Finding founder sequences from a set of recombinants&amp;rdquo; Lecture Notes in Computer Science Vol 2452, pp.277-286 (Springer).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
@@ -422,9 +413,8 @@ Reference Price, Tandon, Patterson, Barnes, Rafaels, Ruczinski, Beaty, Mathias, 
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapmixmap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description HAPMIXMAP is a program for modelling extended haplotypes in genetic association studies, similar to the FASTPHASE program.
-Author  Paul McKeigue (email: paul.mckeigue@ucd.ie)
- David O&amp;rsquo;Donnell (University College Dublin, Ireland)
-  URL  http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html
+Author  Paul McKeigue (email: paul.mckeigue@ucd.ie) David O&amp;rsquo;Donnell (University College Dublin, Ireland)
+URL http://www.homepages.ed.ac.uk/pmckeigu/hapmixmap/hapmixmap_manual.html
  http://sourceforge.net/projects/hapmixmap/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -464,8 +454,7 @@ Reference Zhang, Rowe, Struewing, Buetow (2002), &amp;ldquo;HapScope: a software
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapsimu/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description HAPSIMU is based on real haplotype data from the HapMap ENCODE project. This platform can simulate heterogeneous populations with various known and controllable structures under the continuous migration model or the discrete model. Moreover, both qualitative and quantitative traits can be simulated using additive genetic model with various genetic parameters designated by users.
-Author  Feng Zhang
- Hong-Wen Deng</description>
+Author  Feng Zhang Hong-Wen Deng</description>
     </item>
     
     <item>
@@ -476,9 +465,8 @@ Author  Feng Zhang
       <guid>https://gaow.github.io/genetic-analysis-software/h/hapstat/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description HAPSTAT is a user-friendly software interface for the statistical analysis of haplotype-disease association. HAPSTAT allows the user to estimate or test haplotype effects and haplotype-environment interactions by maximizing the (observed-data) likelihood that properly accounts for phase uncertainty and study design. The current version considers cross-sectional, case-control and cohort studies.
-Author  Danyu Lin
- Donglin Zeng (email: linsoft@bios.unc.edu)
-  URL http://www.</description>
+Author  Danyu Lin Donglin Zeng (email: linsoft@bios.unc.edu)
+URL http://www.bios.unc.edu/~lin/hapstat/</description>
     </item>
     
     <item>
@@ -531,13 +519,9 @@ Description HEGESMA is a comprehensive software for performing genome scan meta-
 Full Name HelixTree Genetic Association Software
 Version 6
 Description Comprehensive toolset for population-based association studies. Perform allele, genotype, haplotype, multi-locus, runs of homozygosity, copy number variation, and regression-based association analysis on case-control, quantitative trait, and categorical type data.
-Author  Christophe Lambert
- Dmitri Zaykin
- Douglas Hawkins
- Stanley Young
- Alan Menius
- Meg Ehm
- Mike Mosteller</description>
+Author  Christophe Lambert Dmitri Zaykin Douglas Hawkins Stanley Young Alan Menius Meg Ehm Mike Mosteller
+URL http://www.goldenhelix.com/SNP_Variation/HelixTree
+ Download request for free trial available at http://www.</description>
     </item>
     
     <item>
@@ -551,8 +535,7 @@ Full Name Haplotype Inference Technique
 Author Pasi Rastas
 URL http://www.cs.helsinki.fi/u/prastas/hit/
 Language java
-Reference  Rastas, Koivisto, Mannila, Ukkonen (2005), &amp;ldquo;A Hidden Markov Technique for Haplotype Reconstruction&amp;rdquo;, 5th Workshop on Algorithms in Bioinformatics - WABI 2005
- Rastas, Koivisto, Mannila, Ukkonen (2008), &amp;ldquo;Phasing genotypes using a hidden Markov model&amp;rdquo;, in eds. I Mandoiu and A Zelikovsky, Bioinformatics Algorithms: Techniques and Applications, pp.</description>
+Reference  Rastas, Koivisto, Mannila, Ukkonen (2005), &amp;ldquo;A Hidden Markov Technique for Haplotype Reconstruction&amp;rdquo;, 5th Workshop on Algorithms in Bioinformatics - WABI 2005 Rastas, Koivisto, Mannila, Ukkonen (2008), &amp;ldquo;Phasing genotypes using a hidden Markov model&amp;rdquo;, in eds. I Mandoiu and A Zelikovsky, Bioinformatics Algorithms: Techniques and Applications, pp. 373-391 (Wiley).</description>
     </item>
     
     <item>
@@ -567,8 +550,7 @@ Author Jurg Ott (Rockefeller University)
 URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 EXE homog, homog1a, homog1b, homog2, homog3, homog4, homog3r, point4, mtest
-Reference  Ott (1986), Genetic Epidemiology, Suppl,1,251-257.
- online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Reference  Ott (1986), Genetic Epidemiology, Suppl,1,251-257. online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -606,9 +588,8 @@ Reference Li, Stephens (2003), Genetics, 165(4):2213-2233.   /** * RECOMMENDED C
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.5
 Description HPlus is an analysis tool for performing haplotype estimation on genetic markers such as SNPs and microsatellites. It is able to handle datasets that include case-control status as well as covariates and marker location variables (such as gene name, chromosome location, etc).
-Author  Sue Li
- RJ Laws
- LuePing Zhao (Fred Hutchinson Cancer Research Center)</description>
+Author  Sue Li RJ Laws LuePing Zhao (Fred Hutchinson Cancer Research Center)
+URL http://cougar.fhcrc.org/hplus/</description>
     </item>
     
     <item>
@@ -623,8 +604,7 @@ Description testing association using tightly linked markers in nuclear pedigree
 Author Shuanglin Zhang (email: shuzhang@mtu.edu)
 URL http://www.math.mtu.edu/~shuzhang/software.html
 OS UNIX, MS-Windows
-Reference  Zhang, Sha, Chen, Dong, Jiang (2003), &amp;ldquo;Transmission/disequilibrium test based on haplotype sharing for tightly linked markers&amp;rdquo;, American Journal of Human Genetics, 73(3):566-579
- Zhang, Sha, Chen, Dong, Jiang (2004), &amp;ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&amp;rdquo; (letter), American Journal of Human Genetics, 74(3):591-593   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference  Zhang, Sha, Chen, Dong, Jiang (2003), &amp;ldquo;Transmission/disequilibrium test based on haplotype sharing for tightly linked markers&amp;rdquo;, American Journal of Human Genetics, 73(3):566-579 Zhang, Sha, Chen, Dong, Jiang (2004), &amp;ldquo;Impact of genotyping error on type I error rate of the haplotype-sharing transmission /disequilibrium test (HS-TDT): reply to Knapp and Becker&amp;rdquo; (letter), American Journal of Human Genetics, 74(3):591-593   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -638,9 +618,8 @@ Full Name Haplotype Trend Regression
 Version Aug 2002
 Description Haplotype association mapping using unrelated individuals; &amp;ldquo;fixed&amp;rdquo; and &amp;ldquo;sliding&amp;rdquo; window analysis; overall tests and tests for individual haplotype effects
 Author Dmitri Zaykin
-URL  http://statgen.ncsu.edu/zaykin/htr.html
- ftp://statgen.ncsu.edu/pub/zaykin/htr/
-  Language C++, Bash shell
+URL  http://statgen.ncsu.edu/zaykin/htr.html ftp://statgen.ncsu.edu/pub/zaykin/htr/
+Language C++, Bash shell
 OS Window, UNIX(Solaris)
 EXE emgi.exe (fixed number of markers), bash emgi.sh (sliding window)
 Reference Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002), &amp;ldquo;Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals&amp;rdquo;, Human Heredity, 53:79-91.</description>
@@ -656,12 +635,8 @@ Reference Zaykin DV, Westfall PH, Young SS, Karnoub MC, Wagner MJ, Ehm MG (2002)
 Full Name Haplotype Tagging SNPer
 Version 1.0 (Dec 2003)
 Description htSNPer is a Java program for characterizing the haplotype block structure and selecting haplotype tagging SNP
-Author  Keyue Ding
- Jing Zhang (email: zhjing98@mails.tsinghua.edu.cn)
- Kaixin Zhou
- Yan Shen
- Xuegong Zhang (Tsinghua University, China)
-  URL http://www.chgb.org.cn/htSNPer/htSNPer.html
+Author  Keyue Ding Jing Zhang (email: zhjing98@mails.tsinghua.edu.cn) Kaixin Zhou Yan Shen Xuegong Zhang (Tsinghua University, China)
+URL http://www.chgb.org.cn/htSNPer/htSNPer.html
 Language C++, JVM
 OS MS-Windows, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

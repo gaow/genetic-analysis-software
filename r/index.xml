@@ -20,9 +20,8 @@
 Version 1.2-6 (September 2010)
 Description ADEGENET is a package dedicated to the handling of molecular marker data for multivariate analysis. This package is related to ADE4, a R package for multivariate analysis, graphics, phylogeny and spatial analysis.
 Author Thibaut Jombart (email: jombart@biomserv.univ-lyon1.fr)
-URL  http://adegenet.r-forge.r-project.org/
- http://cran.r-project.org/web/packages/adegenet/index.html
-  Language R
+URL  http://adegenet.r-forge.r-project.org/ http://cran.r-project.org/web/packages/adegenet/index.html
+Language R
 Reference Jombart (2008), &amp;ldquo;adegenet: a R package for the multivariate analysis of genetic markers&amp;rdquo;, Bioinformatics, 24:1403-1405.</description>
     </item>
     
@@ -85,9 +84,8 @@ Related ENTROPY BLOCKER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UN
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.08 (August, 2010)
 Description an R package for simulations and likelihood calculations of pair-wise family relationships using DNA marker data.
-Author  Øivind Skare
- email: oivind.skare@medisin.uio.no
-  URL http://folk.uio.no/thoree/FEST/
+Author  Øivind Skare email: oivind.skare@medisin.uio.no
+URL http://folk.uio.no/thoree/FEST/
 Language R
 Reference Skare, Sheehan, Egeland (2009), &amp;ldquo;Identification of distant family relationships&amp;rdquo;, Bioinformatics, 25(18):2376-2382.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -122,10 +120,7 @@ Related GC/GCF   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       <guid>https://gaow.github.io/genetic-analysis-software/r/rgenabel/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.6-4 (August 2010)
-Description GenABEL is a software created to facilitate whole-genome association analysis. Specific features of GenABEL include:
- Support of modern methods for analysis in outbred populations
- Maximum Likelihood estimation of linear, logistic and Cox regression on genome-wide scale
- A range of functions specifically designed to help GWA analysis in samples of individuals from genetically isolated populations, and/or samples of related individuals (family-based design), and other analysis in presence of stratification</description>
+Description GenABEL is a software created to facilitate whole-genome association analysis. Specific features of GenABEL include: * Support of modern methods for analysis in outbred populations * Maximum Likelihood estimation of linear, logistic and Cox regression on genome-wide scale * A range of functions specifically designed to help GWA analysis in samples of individuals from genetically isolated populations, and/or samples of related individuals (family-based design), and other analysis in presence of stratification * Special functions oriented to meta-analysis * Extensive documentation (about 100 pages of reference manual and 150 pages of tutorial) * Many example data sets and exercises</description>
     </item>
     
     <item>
@@ -147,9 +142,8 @@ Related GWAPOWER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.2-4 (July 2010)
 Description a likelihood approach is used to inference of haplotype and nongenetic effects and their interactions in generalized linear models of disease penetrance, when haplotype phase is unknown for some subjects. Parameter estimates are obtained by use of an expectation-maximization (EM) algorithm and standard errors are calculated using Louis&amp;rsquo; formula.
-URL  http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc
- http://cran.r-project.org/web/packages/hapassoc/index.html
-  Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+URL  http://stat-db.stat.sfu.ca:8080/statgen/research/hapassoc http://cran.r-project.org/web/packages/hapassoc/index.html
+Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -201,14 +195,10 @@ Related LDGROUP   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.2-9 (August 2010)
 Description plots measures of pairwise linkage disequilibria for SNPs
-Author  Ji-Hyung Shin (email: shin@sfu.ca)
- Sigal Blay
- Nicholas Lewin-Koh
- Brad McNeney
- Jinko Graham
-  URL  http://stat-db.stat.sfu.ca:8080/statgen/research/LDheatmap
+Author  Ji-Hyung Shin (email: shin@sfu.ca) Sigal Blay Nicholas Lewin-Koh Brad McNeney Jinko Graham
+URL http://stat-db.stat.sfu.ca:8080/statgen/research/LDheatmap
  http://cran.r-project.org/web/packages/LDheatmap/index.html
-  Language R
+Language R
 Reference Shin, Blay, McNeney, Graham (2006), &amp;ldquo;LDheatmap: an R function for graphical display of pairwise linkage disequilibria between single nucleotide polymorphisms&amp;rdquo;, Journal of Statistical Software, 16, code snippet 3.</description>
     </item>
     
@@ -220,12 +210,10 @@ Reference Shin, Blay, McNeney, Graham (2006), &amp;ldquo;LDheatmap: an R functio
       <guid>https://gaow.github.io/genetic-analysis-software/r/rluca/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Likelihood Under Covariate Assumptions
-Author  Ji-Hyung Shin (email: shin@sfu.ca)
- Brad McNeney
- Jinko Graham
-  URL  http://stat-db.stat.sfu.ca:8080/statgen/research/luca/
+Author  Ji-Hyung Shin (email: shin@sfu.ca) Brad McNeney Jinko Graham
+URL http://stat-db.stat.sfu.ca:8080/statgen/research/luca/
  http://cran.r-project.org/web/packages/luca/index.html
-  Reference Shin, McNeney, Graham (2007), &amp;ldquo;Case-control inference of interaction between genetic and nongenetic risk factors under assumptions on their distribution&amp;rdquo;, Statistical Applications in Genetics and Molecular Biology, 6(1):13.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Shin, McNeney, Graham (2007), &amp;ldquo;Case-control inference of interaction between genetic and nongenetic risk factors under assumptions on their distribution&amp;rdquo;, Statistical Applications in Genetics and Molecular Biology, 6(1):13.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -266,13 +254,11 @@ Language R, C++</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0-1 (April 2009)
 Description ONEMAP is an environment for constructing linkage maps in outcrossing plant species, using full-sib families derived from two outbreed (non-inbreeding) parent plants.
-Author  Gabriel Rodrigues Alves Margarido
- Anete Pereira de Souza
- Antonio Augusto Franco Garcia (email: aafgarci@esalq.usp.br)
-  URL  http://www.ciagri.usp.br/~aafgarci/OneMap/
+Author  Gabriel Rodrigues Alves Margarido Anete Pereira de Souza Antonio Augusto Franco Garcia (email: aafgarci@esalq.usp.br)
+URL http://www.ciagri.usp.br/~aafgarci/OneMap/
  http://cran.r-project.org/web/packages/onemap/index.html
-  Language R
-EXE load.onemap, read.outcross, extract.group, remove.</description>
+Language R
+EXE load.onemap, read.outcross, extract.group, remove.marker, arbitr.rf.2pts, est.rf.2pts, modigy.rf.2pts, group, map, make.map, est.</description>
     </item>
     
     <item>
@@ -314,9 +300,8 @@ Related POPGEN   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.05-2 (November 2006)
 Description Program for mapping quantitative trait loci in experimental crosses.
-Author  Karl W. Broman (Johns Hopkins Univ, kbroman@jhsph.edu)
- Hao Wu (The Jackson Laboratory)
-  URL http://www.rqtl.org
+Author  Karl W. Broman (Johns Hopkins Univ, kbroman@jhsph.edu) Hao Wu (The Jackson Laboratory)
+URL http://www.rqtl.org
 Language C and R
 OS UNIX, MS-Windows, MacOS
 Reference Broman, Wu, Sen, Churchill (2003), Bioinformatics, 19:889-890. [Medline]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -344,11 +329,8 @@ Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE S
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version v0.91 (May 2007)
 Description R/qtlDesign is software to help plan quantitative trait locus (QTL) experiments.
-Author  Saunak Sen
- Jaya Satagopan
- Karl Broman
- Gary Churchill
-  URL http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software/
+Author  Saunak Sen Jaya Satagopan Karl Broman Gary Churchill
+URL http://www.epibiostat.ucsf.edu/biostat/sen/qtldesign-software/
 Language R   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -372,12 +354,8 @@ Description snp.plotter is an R package that creates publishable-quality plots o
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name SPECTRAL graph approach for GEnetic Matching
 Version 1 (July 2009)
-Author  Ann Lee
- Diana Luca
- Lambertus Klei
- Bernie Devlin
- Kathryn Roeder
-  URL http://wpicr.wpic.pitt.edu/WPICCompGen/
+Author  Ann Lee Diana Luca Lambertus Klei Bernie Devlin Kathryn Roeder
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/
 Language R
 Reference Lee, Luca, Klei, Devlin, Roeder (2010), &amp;ldquo;Discovering genetic ancestry using spectral graph theory&amp;rdquo;, Genetic Epidemiology, 34(1):51-59.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -391,11 +369,8 @@ Reference Lee, Luca, Klei, Devlin, Roeder (2010), &amp;ldquo;Discovering genetic
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.2-4 (November 2008)
 Description A stepwise approach to identifying recombination breakpoints in a sequence alignment
-Author  Jinko Graham
- Brad McNeney
- Francoise Seillier-Moiseiwitsch
- Sigal Blay
-  URL  http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/
+Author  Jinko Graham Brad McNeney Francoise Seillier-Moiseiwitsch Sigal Blay
+URL http://stat-db.stat.sfu.ca:8080/statgen/research/stepwise/
  http://cran.r-project.org/web/packages/stepwise/index.html   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -407,13 +382,14 @@ Author  Jinko Graham
       <guid>https://gaow.github.io/genetic-analysis-software/r/rsuperheat/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full name Supercharged heatmaps for R
-Description ​
-Superheat is an R package for generating beautiful and customizable heatmaps. See the vignette for usage.
+Description ​ Superheat is an R package for generating beautiful and customizable heatmaps. See the vignette for usage.
 Version v0.1.0
 Year 2017
-Authors  Rebecca Barter (rlbarter@gmail.com)  URL  https://github.com/rlbarter/superheat  Language R
+Authors  Rebecca Barter (rlbarter@gmail.com)
+URL https://github.com/rlbarter/superheat
+Language R
 OS Linux, MacOS
-Tag  R
+Tag R
  graphics   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -426,10 +402,10 @@ Tag  R
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1-2 (November 2007)
 Description a package for TDT with extended haplotypes in the &amp;ldquo;R&amp;rdquo; language. &amp;ldquo;R&amp;rdquo; is the public domain dialect of &amp;ldquo;S&amp;rdquo;. It should be possible to port this library to the commercial &amp;ldquo;Splus&amp;rdquo; product. The main problem would be translation of the help files.
-Author  David Clayton
- Cambridge Institute
- david.clayton@cimr.cam.ac.uk
-  URL  http://www-gene.</description>
+Author  David Clayton Cambridge Institute david.clayton@cimr.cam.ac.uk
+URL http://www-gene.cimr.cam.ac.uk/clayton/software/
+ http://cran.r-project.org/web/packages/tdthap/index.html
+Language R/Splus</description>
     </item>
     
     <item>
@@ -463,12 +439,10 @@ Description A family-based association method that allows testing for linkage in
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0
 Description tag SNP selelciton tool according to r2-bins method. It is specifically designed for full genome scale deterministic tagging.
-Author  Reedik Magi
- Lauris Kaplinski
- Maido Remm (Univ of Tartu, Estonia)
-  URL http://bioinfo.ebc.ee/download/
+Author  Reedik Magi Lauris Kaplinski Maido Remm (Univ of Tartu, Estonia)
+URL http://bioinfo.ebc.ee/download/
 OS MS-Windows, Linux
-Reference Magi, Kaplinski, Remm (2006), &amp;ldquo;The whole genome TagSNP selection and transferability among HapMap populations&amp;rdquo;, Pacific Symposium on Biocomputing, 11:535-543.</description>
+Reference Magi, Kaplinski, Remm (2006), &amp;ldquo;The whole genome TagSNP selection and transferability among HapMap populations&amp;rdquo;, Pacific Symposium on Biocomputing, 11:535-543.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -497,8 +471,7 @@ URL ftp://linkage.rockefeller.edu/software/relative
 Language ANSI C
 OS MS-DOS, MS-Windows, UNIX
 EXE relative
-Reference  Am Soc Hum Genet annual meeting 1995 (Göring and Ott, Am J Hum Genet, suppl. 57, A192 (1995));
- Goring and Ott (1997), &amp;ldquo;Relationship estimation in affected sib pair analysis of late-onset diseases&amp;rdquo;, European Journal of Human Geneics, 5:69-77.</description>
+Reference  Am Soc Hum Genet annual meeting 1995 (Göring and Ott, Am J Hum Genet, suppl. 57, A192 (1995)); Goring and Ott (1997), &amp;ldquo;Relationship estimation in affected sib pair analysis of late-onset diseases&amp;rdquo;, European Journal of Human Geneics, 5:69-77.</description>
     </item>
     
     <item>
@@ -525,7 +498,7 @@ URL http://www.biostat.jhsph.edu/~kbroman/software/
 Language C
 OS MS-DOS, MS-Windows, UNIX
 EXE relcheck
-Reference  Boehnke, Cox (1997), &amp;ldquo;Accurate inference of relationships in sib-pair linkage studies&amp;rdquo;, American Journal of Human Genetics, 61(2):423-429</description>
+Reference  Boehnke, Cox (1997), &amp;ldquo;Accurate inference of relationships in sib-pair linkage studies&amp;rdquo;, American Journal of Human Genetics, 61(2):423-429 Broman, Weber (1998), &amp;ldquo;Estimation of pairwise relationships in the presence of genotyping errors&amp;rdquo; (letter), American Journal of Human Genetics, 63(5):1563-1564   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -537,12 +510,11 @@ Reference  Boehnke, Cox (1997), &amp;ldquo;Accurate inference of relationships i
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.01 (June 2004)
 Description A program that infers the relationships of pairs of individuals based on genetic marker data, either within families or across an entire sample.
-Author  Michael Boehnke
- William Duren (Biostat, U Michigan)
-  URL http://csg.sph.umich.edu/boehnke/relpair.php
+Author  Michael Boehnke William Duren (Biostat, U Michigan)
+URL http://csg.sph.umich.edu/boehnke/relpair.php
 Language FORTRAN77
 OS MS-Windows (95), UNIX
-Reference Am Soc Hum Genet annual meeting 1997 (Duren,Cox,Hauser,Boehnke, Am J. Hum Genet.</description>
+Reference Am Soc Hum Genet annual meeting 1997 (Duren,Cox,Hauser,Boehnke, Am J. Hum Genet. suppl 61, A273(1997)).</description>
     </item>
     
     <item>
@@ -553,12 +525,9 @@ Reference Am Soc Hum Genet annual meeting 1997 (Duren,Cox,Hauser,Boehnke, Am J. 
       <guid>https://gaow.github.io/genetic-analysis-software/r/reltype/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a computer program for determining biological relatedness between individuals based on allele sharing at microsatellite loci
-Author  D.N. Stivers (dstivers@utsph.uth.tmc.edu)
- Y. Zhong
- C.L. Hanis
- R. Chakraborty (Univ of Texas at Houston)
-  URL http://hgc.sph.uth.tmc.edu (not available yet)
-Reference  Chakraborty, Jin (1993), &amp;ldquo;Determination of relatedness between individuals using DNA fingerprinting&amp;rdquo;, Human Biology, 65(6):875-895.
+Author  D.N. Stivers (dstivers@utsph.uth.tmc.edu) Y. Zhong C.L. Hanis R. Chakraborty (Univ of Texas at Houston)
+URL http://hgc.sph.uth.tmc.edu (not available yet)
+Reference Chakraborty, Jin (1993), &amp;ldquo;Determination of relatedness between individuals using DNA fingerprinting&amp;rdquo;, Human Biology, 65(6):875-895.
  Am Soc Hum Genet annual meeting 1996 (Stivers, Zhong, Hanis, Chakraborty, Am J.</description>
     </item>
     
@@ -571,17 +540,13 @@ Reference  Chakraborty, Jin (1993), &amp;ldquo;Determination of relatedness betw
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Radiation Hybrid Map
 Version 3.0 (Sept 1996)
-Author  Michael Boehnke (Univ Michigan, boehnke@sph.umich.edu)
- E. Hauser
- K. Lange
- K. Lunetta
- J. Uro
- J. VanderStoep
-  URL http://csg.sph.umich.edu/boehnke/rhmap.php
+Author  Michael Boehnke (Univ Michigan, boehnke@sph.umich.edu) E. Hauser K. Lange K. Lunetta J. Uro J. VanderStoep
+URL http://csg.sph.umich.edu/boehnke/rhmap.php
 Language FORTRAN77
 EXE rhmap, rh2pt, rhminbrk, rhmaxlik
-Reference  Boehnke,Lange,Cox (1991), &amp;ldquo;Statistical methods for multipoint radiation hybrid mapping&amp;rdquo;, American Journal of Human Genetics, 49(6):1174-1188
- Lange,Boehnke, Cox, Lunetta (1995), Genome Research, 5:136-150.</description>
+Reference Boehnke,Lange,Cox (1991), &amp;ldquo;Statistical methods for multipoint radiation hybrid mapping&amp;rdquo;, American Journal of Human Genetics, 49(6):1174-1188
+ Lange,Boehnke, Cox, Lunetta (1995), Genome Research, 5:136-150.
+ Lunetta,Boehnke, Lange, Cox (1995), Genome Research, 5:151-163.</description>
     </item>
     
     <item>
@@ -594,10 +559,9 @@ Reference  Boehnke,Lange,Cox (1991), &amp;ldquo;Statistical methods for multipoi
 Version 1.22 (1998)
 Description an interactive program for radiation hybrid mapping
 Author Lincoln Stein (Whitehead Institute, lstein@genome.wi.mit.edu)
-URL  http://www-genome.wi.mit.edu/ftp/pub/software/rhmapper/
- ftp://ftp-genome.wi.mit.edu/pub/software/rhmapper
-  Language Perl
-Reference  Hudson, Stein, et al. (1995), Science, 270:1945-1954.
+URL  http://www-genome.wi.mit.edu/ftp/pub/software/rhmapper/ ftp://ftp-genome.wi.mit.edu/pub/software/rhmapper
+Language Perl
+Reference Hudson, Stein, et al. (1995), Science, 270:1945-1954.
  Slonim, Stein, Kruglyak, Lander (1996), in preparation.
  online user&amp;rsquo;s guide   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -623,12 +587,12 @@ Description RISCALW is a novel convenient Windows program for risk calculation i
 Full Name Regression of Offspring on Mid-Parent (REVised)
 Version 0.2.1beta
 Description a software tool for testing for association between polymorphisms and quantitative traits, as well as estimating trait heritability and locus-specific heritability using family data.
-Author  Marie-Helene Roy-Gagnon
- Alexander F. Wilson (afw@mail.nih.gov)
-  URL  http://research.nhgri.nih.gov/ROMPrev/
+Author  Marie-Helene Roy-Gagnon Alexander F. Wilson (afw@mail.nih.gov)
+URL http://research.nhgri.nih.gov/ROMPrev/
  ftp://ftp.nhgri.nih.gov/pub/software/ROMPrev/
-  Language R
-OS any with R installation</description>
+Language R
+OS any with R installation
+Reference Roy-Gagnon, Mathias, Fallin, Jee, Broman, Wilson (2008), &amp;ldquo;An extension of the Regression of Offspring on Mid-Parent to test for association and estimate locus-specific heritability: The revised ROMP method&amp;rdquo;, Annals of Human Genetics, 72:115-125.</description>
     </item>
     
     <item>
@@ -664,11 +628,9 @@ Reference Sebastiani, Abad, Alpargu, Ramoni (2004), &amp;ldquo;Robust Transmissi
       <guid>https://gaow.github.io/genetic-analysis-software/r/rvtests/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Rare Variants TESTS
-Author  X Zhan
- Youna Hu
- G Abecasis (Univ Michigan)
-  URL http://genome.sph.umich.edu/wiki/RvTests
-Language C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Author  X Zhan Youna Hu G Abecasis (Univ Michigan)
+URL http://genome.sph.umich.edu/wiki/RvTests
+Language C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.page.url = &#39;http://gaow.</description>
     </item>
     
   </channel>

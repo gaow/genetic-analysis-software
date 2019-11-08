@@ -18,9 +18,7 @@
       <guid>https://gaow.github.io/genetic-analysis-software/l/l-pop/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version Jan 2001
-Description L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured.
-Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes.
-L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.</description>
+Description L-POP detects population stratification in samples of unrelated individuals for whom a number of unlinked genotypes have been measured. Using a latent class analysis model, population strata are defined such that unlinked markers are in Hardy-Weinberg equilibrium and linkage equilibrium within classes. L-POP calculates the posterior probabilities for each individual belonging to each of K classes, which can be used to correct for spurious effects of population stratification in tests of association.</description>
     </item>
     
     <item>
@@ -33,7 +31,7 @@ L-POP calculates the posterior probabilities for each individual belonging to ea
 Full Name Likelihood Analysis with Metropolis Algorithm using Random Coalescence
 Version 2.0.2 (August 2005)
 Description The LAMARC program estimates effective population sizes, exponential population growth rates, and past migration rates between two or n populations, and simultaneously estimates the per-nucleotide recombination rate. Currently Lamarc can use DNA or RNA sequence data, SNP data, and microsatellite data.
-Author  Mary Kuhner</description>
+Author  Mary Kuhner Jon Yamato Peter Beerli (email: lamarc@gs.</description>
     </item>
     
     <item>
@@ -58,7 +56,7 @@ Reference Morris, Whittaker, Curnow (1997), &amp;ldquo;A likelihood ratio test f
 Full Name Linkage and Association Modeling in Pedigrees
 Version 0.0.9
 Description LAMP carries out parametric association analysis in samples of unrelated individuals, trios or large families. In addition to a test-statistic, a genetic model is estimated for each SNP. The approach is based on retrospective likelihood and can be used to analyze selected samples.
-Author  Goncalo Abecasis (email: goncalo@umich.edu)</description>
+Author  Goncalo Abecasis (email: goncalo@umich.edu) Mingyao Li</description>
     </item>
     
     <item>
@@ -70,10 +68,10 @@ Author  Goncalo Abecasis (email: goncalo@umich.edu)</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name LAPlacian eigenfunctions learn population STRUCTure
 Description LAPSTRUCT is a free program to describe population structure using biomarker data ( typically SNPs, CNVs etc.) available in a population sample. The main features different from PCA are: (1)geometrically motivated and graphic model based; (2)robustness of outliers.
-Author  Jun Zhang
- P Niyogi
- MS McPeek
-  URL http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html</description>
+Author  Jun Zhang P Niyogi MS McPeek
+URL http://galton.uchicago.edu/~junzhang/LAPSTRUCT.html
+Language R
+Reference Zhang, Niyogi, McPeek (2009), &amp;ldquo;Laplacian eigenfunctions learn population structure&amp;rdquo;, PLoS ONE, 4(12):e7928.</description>
     </item>
     
     <item>
@@ -101,11 +99,8 @@ Language C and Pascal</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Linkage Disequilibrium Analyzer
 Description LDA is a Java program for analyzing the pairwise linkage disequilibrium.
-Author  Keyue Ding (email: keyued@chgb.org.cn)
- Kaixin Zhou
- Fuchu He
- Yan Shen
-  URL http://www.chgb.org.cn/lda/lda.htm
+Author  Keyue Ding (email: keyued@chgb.org.cn) Kaixin Zhou Fuchu He Yan Shen
+URL http://www.chgb.org.cn/lda/lda.htm
 Language Java
 OS MS-Windows, Linux, MacOS
 Reference Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage disequilibrium analyzer&amp;rdquo;, Bioinformatics, 19:2147-2148.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -120,18 +115,13 @@ Reference Ding, Zhou, He, Shen (2003), &amp;ldquo;LDA - A java-based linkage dis
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Location DataBase
 Description integrate genetic linkage map and physical map
-Author  A Collins ( arc@southampton.ac.uk)
- NE Morton
- S. Lawrence
- D. Shields
- Jonathan Teague
- Paul Linehan
- Pietro Lio (University of Southampton, UK)
-  URL  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb
+Author  A Collins ( arc@southampton.ac.uk) NE Morton S. Lawrence D. Shields Jonathan Teague Paul Linehan Pietro Lio (University of Southampton, UK)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb
  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ldb+
-  Language FORTRAN
+Language FORTRAN
 OS UNIX(SunOS/..)
-Reference  Morton (1991), Annals of Human Genetics, 55:235-241.</description>
+Reference Morton (1991), Annals of Human Genetics, 55:235-241.
+ Morton, Collins, Lawrence, Shield (1992), Annals of Human Genetics, 56:223-232.</description>
     </item>
     
     <item>
@@ -213,11 +203,8 @@ Reference Ayres, Balding (2001), &amp;ldquo;Measuring gametic disequilibrium fro
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0
 Description The program analyzes patterns of linkage disequilibrium (LD) between polymorphic sites in a locus, and bins the SNPs on the basis of a threshold level of LD as measured by r2.
-Author  Deborah A. Nickerson
- Mark Rieder
- Chris Carlson
- Qian Yi (Univ of Washington)
-  URL http://droog.gs.washington.edu/ldSelect.html
+Author  Deborah A. Nickerson Mark Rieder Chris Carlson Qian Yi (Univ of Washington)
+URL http://droog.gs.washington.edu/ldSelect.html
 Reference Carlson, Eberle, Rieder, Yi, Kruglyak, Nickerson (2004), &amp;ldquo;Selecting a maximally informative set of single-nucleotide polymorphisms for association analysis using linkage disequilibrium&amp;rdquo;, American Journal of Human Genetics, 74(1):106-120   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -242,10 +229,8 @@ Reference Kitamura, Moriguchi, Kaneko, Morisaki, Morisaki, Toyama, Kamatani (200
       <guid>https://gaow.github.io/genetic-analysis-software/l/lea/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Likelihood-based Estimation of Admixture
-Author  Olivier Langella
- Lounes Chikhi
- Mark Beaumont
-  URL http://www.cnrs-gif.fr/pge/bioinfo/lea/index.php?lang=en
+Author  Olivier Langella Lounes Chikhi Mark Beaumont
+URL http://www.cnrs-gif.fr/pge/bioinfo/lea/index.php?lang=en
 Language C++
 OS MS-Windows
 EXE lea.exe
@@ -261,17 +246,14 @@ Reference Langella, Chikhi, Beaumont (2001), &amp;ldquo;LEA (Likelihood-based es
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name LINKAGE CEPH (three-generation) pedigrees
 Version 5.1, 5.2
-Author  Mark Lathrop
- J. Lalouel
- C. Julier
- Jurg Ott
-  URL http://lab.rockefeller.edu/ott/programs
+Author  Mark Lathrop J. Lalouel C. Julier Jurg Ott
+URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 OS MS-DOS, OS2, UNIX,VMS
 EXE cfactor,cilink,clodscore,cmap
-Reference  Lathrop,Lalouel,Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.
+Reference Lathrop,Lalouel,Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.
  online user&amp;rsquo;s guide (may 93)
-  Related FASTLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related FASTLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -282,19 +264,12 @@ Reference  Lathrop,Lalouel,Julier, Ott (1984), Proceedings of the National Acade
       <guid>https://gaow.github.io/genetic-analysis-software/l/linkage-general-pedigrees/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 5.1, 5.2, 6.0 (testing)
-Author  5.1
- 5.2: Mark Lathrop
- J. Lalouel
- C. Julier
- Jurg Ott;
- 6.0: Alan Young
- Daniel Weeks
- Mark Lathrop
-  URL http://lab.rockefeller.edu/ott/programs
+Author  5.1 5.2: Mark Lathrop J. Lalouel C. Julier Jurg Ott; 6.0: Alan Young Daniel Weeks Mark Lathrop
+URL http://lab.rockefeller.edu/ott/programs
 Language 5.1, 5.2: Pascal ; 6.0: C
 OS MS-DOS, OS2, UNIX, VMS
 EXE 5.1, 5.2: unknown, mlink, ilink, lodscore, linkmap; 6.0: linkage
-Reference  Lathrop, Lalouel, Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.</description>
+Reference Lathrop, Lalouel, Julier, Ott (1984), Proceedings of the National Academy of Sciences , 81:3443-3446.</description>
     </item>
     
     <item>
@@ -336,8 +311,7 @@ Author Jurg Ott (Columbia Univ)
 URL http://lab.rockefeller.edu/ott/programs
 Language FORTRAN
 OS Windows
-Reference  Ott (1974), &amp;ldquo;Estimation of the recombination fraction in human pedigrees: efficient computation of the likelihood for human linkage studies.&amp;ldquo;, American Journal of Human Genetics, 26(5):588-597
- online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference  Ott (1974), &amp;ldquo;Estimation of the recombination fraction in human pedigrees: efficient computation of the likelihood for human linkage studies.&amp;ldquo;, American Journal of Human Genetics, 26(5):588-597 online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -348,12 +322,11 @@ Reference  Ott (1974), &amp;ldquo;Estimation of the recombination fraction in hu
       <guid>https://gaow.github.io/genetic-analysis-software/l/lnktocri/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Conversion of LINKAGE format data files to CRI-MAP format
-Author  Jillian Blaschak
- Tara Cox Matise (email: matise@biology.rutgers.edu)
-  URL  http://compgen.rutgers.edu/multimap/
+Author  Jillian Blaschak Tara Cox Matise (email: matise@biology.rutgers.edu)
+URL http://compgen.rutgers.edu/multimap/
  http://compgen.rutgers.edu/multimap/src/other/lnktocri.p
-  Language Pascal
-OS UNIX, MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Language Pascal
+OS UNIX, MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -365,13 +338,12 @@ OS UNIX, MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1
 Description A computer package designed for rapid linkage analysis and map construction of loci with a variety of inheritance modes.
-Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu)
- Yang Da (University of Minnesota, email: yda@umn.edu)
-  URL http://animalgene.umn.edu/locusmap/index.html
+Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu) Yang Da (University of Minnesota, email: yda@umn.edu)
+URL http://animalgene.umn.edu/locusmap/index.html
 Language Fortran 90&amp;frasl;95
 OS MS-Windows,Linux
 EXE locusmap
-Reference J Garbe, Y Da (2003), Locusmap user manual Version 1.</description>
+Reference J Garbe, Y Da (2003), Locusmap user manual Version 1.0. Department of Animal Science, University of Minnesota.</description>
     </item>
     
     <item>
@@ -403,14 +375,12 @@ Reference Gourraud, Genin, Cambon-Thomsen (2004), &amp;ldquo;Handling missing va
       <guid>https://gaow.github.io/genetic-analysis-software/l/loh-linkage/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a program using loss of heterozygosity data to enhance the power to detect linkage in cancer families.
-Author  Klaus Rohde (Max Delbruck Center for Molecular Medicine, Germany) (rohde@mdc-berlin.de)
- Mauro F. Santibanez Koref
- M Dawn Teare
-  URL http://www.bioinf.mdc-berlin.de/~rohde/
+Author  Klaus Rohde (Max Delbruck Center for Molecular Medicine, Germany) (rohde@mdc-berlin.de) Mauro F. Santibanez Koref M Dawn Teare
+URL http://www.bioinf.mdc-berlin.de/~rohde/
 Language C
 OS UNIX
-Reference  Rohde et al, (1995), Human Heredity, 45:337-345.
- Teare et al, J Med Genet 1994; 31:448-452.</description>
+Reference Rohde et al, (1995), Human Heredity, 45:337-345.
+ Teare et al, J Med Genet 1994; 31:448-452.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -423,10 +393,10 @@ Reference  Rohde et al, (1995), Human Heredity, 45:337-345.
 Version 2.4.5 (March 2003)
 Description Program for analyses a quantitative trait observed on large pedigrees using Markov chain Monte Carlo multipoint linkage and segregation analysis. The trait may be determined by multiple loci.
 Author Simon C. Heath (Centre National de Genotypage) (email: heath@cng.fr)
-URL  http://www.stat.washington.edu/thompson/Genepi/Loki.shtml
- http://loki.homeunix.net
-  Language C
-OS UNIX(Solaris 2.5, OSF1 3.2, and others), Linux (2.</description>
+URL  http://www.stat.washington.edu/thompson/Genepi/Loki.shtml http://loki.homeunix.net
+Language C
+OS UNIX(Solaris 2.5, OSF1 3.2, and others), Linux (2.0.30)
+Reference Heath (1997), &amp;ldquo;Markov chain segregation and linkage analysis for oligogenic models&amp;rdquo;, American Journal of Human Genetics, 6(3):748-760</description>
     </item>
     
     <item>
@@ -470,8 +440,7 @@ OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND 
 Full Name Likelihood Ratio Test Allowing for Errors
 Version 1.3.1 (June 2005)
 Description The purpose of this program is to compute a likelihood ratio test statistic that increases power to detect genetic association in the presence of phenotype, genotype, and/or haplotype misclassification errors. In addition, the program produces asymptotically unbiased estimates of frequency parameters.
-Author  Chad Haynes
- Derek Gordon (email: Gordon@dls.</description>
+Author  Chad Haynes Derek Gordon (email: Gordon@dls.</description>
     </item>
     
     <item>

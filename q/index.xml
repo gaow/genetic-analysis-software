@@ -19,14 +19,11 @@
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 4.0.2
 Description A free, computationally effecient, easy-to-use Java program for comparative analyses of QTL mapping data and population simulation.
-Author  Roby Joehanes
- Zhigang Guo
- Prashanth Boddhireddy
- J Clare Nelson (Kansas State University)
-  URL  http://www.qgene.org/
+Author  Roby Joehanes Zhigang Guo Prashanth Boddhireddy J Clare Nelson (Kansas State University)
+URL http://www.qgene.org/
  http://coding.plantpath.ksu.edu/qgene/
-  Language Java
-Reference Nelson (1997), &amp;ldquo;QGENE: software for marker-based genomic analysis and breeding&amp;rdquo;, Molecular Breeding, 3:239-245.</description>
+Language Java
+Reference Nelson (1997), &amp;ldquo;QGENE: software for marker-based genomic analysis and breeding&amp;rdquo;, Molecular Breeding, 3:239-245. [abstract]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -75,14 +72,12 @@ OS Java   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECT
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version Window version 2.5 (September 2006)
 Description A program to map quantitative traits sing a map of molecular markers.
-Author  Christopher J. Basten
- Bruce S. Weir
- Zhao-Bang Zeng
- Shengchu Wang (Dept Statistics, North Carolina State University);
-  URL  http://statgen.ncsu.edu/qtlcart/cartographer.html
+Author  Christopher J. Basten Bruce S. Weir Zhao-Bang Zeng Shengchu Wang (Dept Statistics, North Carolina State University);
+URL http://statgen.ncsu.edu/qtlcart/cartographer.html
  ftp://statgen.ncsu.edu/pub/qtlcart/
-  OS UNIX, MS-Windows, MacOS
-EXE rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, qtlcart</description>
+OS UNIX, MS-Windows, MacOS
+EXE rmap, rqtl, rcross, qstats, lrmapqtl, srmapqtl, zmapqtl, prune, preplot, eqtl, qtlcart
+Reference Basten,Weir,Zeng (1994), &amp;ldquo;Zmap-a QTL cartographer&amp;rdquo;, in Proceedings of the 5th World Congress on Genetics Applied to Livestock Production: Computing Strategies and Software, vol 22, eds.</description>
     </item>
     
     <item>
@@ -116,11 +111,8 @@ Description QTL-ALL is a software package designed to make as many as possible o
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0
 Description QTLNetwork is a software package for mapping and visualizing the genetic architecture underlying complex traits for experimental populations derived from a cross between two inbred lines.
-Author  Jian Yang
- Chengcheng Hu
- Xiuzi Ye
- Jun Zhu (Zhejiang University)
-  URL http://ibi.zju.edu.cn/software/qtlnetwork
+Author  Jian Yang Chengcheng Hu Xiuzi Ye Jun Zhu (Zhejiang University)
+URL http://ibi.zju.edu.cn/software/qtlnetwork
 Reference Yang, Hu, Hu, Yu, Xia, Ye, Zhu (2008), &amp;ldquo;QTLNetwork: mapping and visualizing genetic architecture of complex traits in experimental populations&amp;rdquo;, Bioinformatics.</description>
     </item>
     
@@ -134,9 +126,8 @@ Reference Yang, Hu, Hu, Yu, Xia, Ye, Zhu (2008), &amp;ldquo;QTLNetwork: mapping 
 Full Name QUantitative GENEtics
 Version v1 (1998)
 Description A package for quantitative analysis of genetic models
-Author  D. Podlich (email: d.podlich@mailbox.uq.edu.au)
- M. Cooper (email: m.cooper@mailbox.uq.edu.au)
-  URL http://pig.ag.uq.edu.au/qu-gene/ (not available)
+Author  D. Podlich (email: d.podlich@mailbox.uq.edu.au) M. Cooper (email: m.cooper@mailbox.uq.edu.au)
+URL http://pig.ag.uq.edu.au/qu-gene/ (not available)
 Language Fortran
 OS MS-Windows
 EXE qugene.exe

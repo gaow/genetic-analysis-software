@@ -31,13 +31,11 @@ Description FAMHAP is a tool for haplotype association analysis of unphased geno
 Full Name FAther/MOther
 Version 2003
 Description the program uses likelihood calculation and simulation to perform parentage studies with codominant, dominant, cytoplasmic markers or combinations of the different types
-Author  Sophie Gerber (email: sophie@pierroton.inra.fr)
- Patrick Chabrier
- Antoine Kremer (INRA - UMR BIOGECO)
-  URL http://www.pierroton.inra.fr/genetics/labo/Software/Famoz/index.html
+Author  Sophie Gerber (email: sophie@pierroton.inra.fr) Patrick Chabrier Antoine Kremer (INRA - UMR BIOGECO)
+URL http://www.pierroton.inra.fr/genetics/labo/Software/Famoz/index.html
 Language C, Tcl/Tk
 OS UNIX(Solaris/..), Linux, MS-Windows
-Reference  S Gerber, S Mariette, R Streiff, C Bodénès, A Kremer (2000), &amp;ldquo;Comparison of microsatellites and AFLP markers for parentage analysis&amp;rdquo;, Molecular Ecology, 9:1037-1048.</description>
+Reference S Gerber, S Mariette, R Streiff, C Bodénès, A Kremer (2000), &amp;ldquo;Comparison of microsatellites and AFLP markers for parentage analysis&amp;rdquo;, Molecular Ecology, 9:1037-1048.</description>
     </item>
     
     <item>
@@ -48,9 +46,8 @@ Reference  S Gerber, S Mariette, R Streiff, C Bodénès, A Kremer (2000), &amp;l
       <guid>https://gaow.github.io/genetic-analysis-software/f/fastehplus/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name faster EH-PLUS
-Author  Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
- Pak Sham (King&amp;rsquo;s College London, UK)
-  URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
+Author  Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk) Pak Sham (King&amp;rsquo;s College London, UK)
+URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software/
 Language C
 OS MS-Windows, UNIX (DEC,OSF,Solaris)
 Reference Zhao, Sham (2002), &amp;ldquo;Faster allelic association analysis using unrelated subjects&amp;rdquo;, Human Heredity, 53(1):36-41.
@@ -78,17 +75,12 @@ Description The program is to reduce family members so the families can be used 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name faster version of LINKAGE
 Version 4.1P (July 4, 1999)
-Author  Cottingham
- Gupta
- Idury
- Schaffer ( schaffer@helix.nih.gov)
- Shriram
- Ann Becker (collaborators for version 4)
- Dan Geiger (collaborators for version 4)
-  URL  http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html
+Author  Cottingham Gupta Idury Schaffer ( schaffer@helix.nih.gov) Shriram Ann Becker (collaborators for version 4) Dan Geiger (collaborators for version 4)
+URL http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/fastlink.html
  ftp://ftp.ncbi.nlm.nih.gov/pub/fastlink (since Aug 6, 1996) or ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/FASTLINK/fastlink
-  Language C
-OS UNIX, VMS, MS-DOS,.. and can also run in parallel on shared memory UNIX machines</description>
+Language C
+OS UNIX, VMS, MS-DOS,.. and can also run in parallel on shared memory UNIX machines
+Reference Cottingham, Idury, Schaffer (1993), &amp;ldquo;Fast sequential genetic linkage computation&amp;rdquo;, American Journal of Human Genetics, 53(1):252-263</description>
     </item>
     
     <item>
@@ -101,11 +93,8 @@ OS UNIX, VMS, MS-DOS,.. and can also run in parallel on shared memory UNIX machi
 Full Name Fluorescent Allele-calling Software Toolkit: Microsatellite Automation Package
 Version 1.04b (April, 1997)
 Description fluorescent allele-calling software toolkit: a computer software for fully automated microsatellite genotyping.
-Author  Mark W. Perlin (Carnegie Mellon, perlin@cmu.edu)
- See-Kiong Ng ( skng@cs.cmu.edu)
- Nandita Mukhopadhyay
- Lillian Markind Bloch
-  URL http://www.cs.cmu.edu/~genome/FAST-MAP.html
+Author  Mark W. Perlin (Carnegie Mellon, perlin@cmu.edu) See-Kiong Ng ( skng@cs.cmu.edu) Nandita Mukhopadhyay Lillian Markind Bloch
+URL http://www.cs.cmu.edu/~genome/FAST-MAP.html
 OS UNIX, MacOS. MatLab programming environment is required.
 Reference Am Soc Hum Genet annual meeting 1996 (Ng,Mukhopadhyay, Rayman,Ghosth,Perlin, Am J Hum Genet, suppl 59, A225 (1996); Am Soc Hum Genet annual meeting 1997 (Perlin, Bloch, Mukhopadhyay, Ng, Am J Hum Genet, suppl 61, A290 (1997)).</description>
     </item>
@@ -118,9 +107,8 @@ Reference Am Soc Hum Genet annual meeting 1996 (Ng,Mukhopadhyay, Rayman,Ghosth,P
       <guid>https://gaow.github.io/genetic-analysis-software/f/fastmap-2/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Author Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+Language C
 OS MS-DOS
 Reference Curtis, Gurling (1993), Human Heredity, 43:173-185.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
@@ -135,13 +123,13 @@ Reference Curtis, Gurling (1993), Human Heredity, 43:173-185.   /** * RECOMMENDE
 Full Name faster SLINK
 Description a faster version of SLINK
 Author Daniel E. Weeks (University of Oxford, University of Pittsburgh)
-URL  http://watson.hgen.pitt.edu/register/soft_doc.html
- registration page at: http://watson.hgen.pitt.edu/register
-  Language C
+URL  http://watson.hgen.pitt.edu/register/soft_doc.html registration page at: http://watson.hgen.pitt.edu/register
+Language C
 OS UNIX
 EXE slink
-Reference  Am Soc Hum Genet annual meeting 1990 (Weeks, Ott, Lathrop, Am J Hum Genet, suppl 47, A204 (1990)).
- online manual pages (same as slink)</description>
+Reference Am Soc Hum Genet annual meeting 1990 (Weeks, Ott, Lathrop, Am J Hum Genet, suppl 47, A204 (1990)).
+ online manual pages (same as slink)
+Related SLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -175,9 +163,8 @@ Related R/FEST   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Fragmented Exhaustive Seearch for TAgsnps
 Version March 2005
-Author  Shyam Gopalakrishnan (email: gopalakr@umich.edu)
- Steve Qin (email: qin@umich.edu) (University of Michigan)
-  URL http://www.sph.umich.edu/csg/qin/FESTA/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Author  Shyam Gopalakrishnan (email: gopalakr@umich.edu) Steve Qin (email: qin@umich.edu) (University of Michigan)
+URL http://www.sph.umich.edu/csg/qin/FESTA/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -188,11 +175,10 @@ Author  Shyam Gopalakrishnan (email: gopalakr@umich.edu)
       <guid>https://gaow.github.io/genetic-analysis-software/f/finesse/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description To incorporate regressive models into the VITESSE likelihood engine
-Author  Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu)
- Florence Demenais (email: florence.demenais@evry.inserm.fr)
-  URL http://www.molecular-haplotype.org/finesse/finesse_intro.htm
+Author  Jeff O&amp;rsquo;Connell (email: joconnel@medicine.umaryland.edu) Florence Demenais (email: florence.demenais@evry.inserm.fr)
+URL http://www.molecular-haplotype.org/finesse/finesse_intro.htm
 OS Linux, UNIX(Solaris)
-Related VITESSE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
+Related VITESSE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -205,10 +191,8 @@ Related VITESSE   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
 Full Name de FINETTI generator
 Version 3.0.5 (2008)
 Description Tests for deviation from Hardy-Weinberg equilibrium and tests for association in case controls studies; Plot genotype frequencies graphically using a de Finetti diagram.
-Author  Thomas F Wienker (email: wienker@uni-bonn.de) (University of Bonn, Germany)
- Web implementation: Tim M Strom (email: timstrom@gsf.de) (GSF Munich, Germany)
- Henning Henschke (email: hhenschk@imbie.meb.uni-bonn.de).
-  URL  http://ihg.</description>
+Author  Thomas F Wienker (email: wienker@uni-bonn.de) (University of Bonn, Germany) Web implementation: Tim M Strom (email: timstrom@gsf.de) (GSF Munich, Germany) Henning Henschke (email: hhenschk@imbie.meb.uni-bonn.de).
+URL http://ihg.gsf.de/cgi-bin/hw/hwa1.pl (testing part)</description>
     </item>
     
     <item>
@@ -220,9 +204,8 @@ Author  Thomas F Wienker (email: wienker@uni-bonn.de) (University of Bonn, Germa
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description demonstration of method for preliminary ordering of loci based on two-point lod scores.
 Author Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+Language C
 OS MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -234,10 +217,8 @@ OS MS-DOS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SE
       <guid>https://gaow.github.io/genetic-analysis-software/f/fisher/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description genetic analysis of classical biometric traits like blood pressure or height that are caused by a combination of polygenic inheritance and complex environmental forces.
-Author  Kenneth Lange (IUCLA)
- Daniel E. Weeks (Pittsburgh)
- M. Boehnke
-  URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
+Author  Kenneth Lange (IUCLA) Daniel E. Weeks (Pittsburgh) M. Boehnke
+URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language FORTRAN77
 Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

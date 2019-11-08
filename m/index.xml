@@ -20,9 +20,8 @@
 Full Name MArkov Chain Haplotyper
 Version 1.0
 Description MACH is a Markov Chain based haplotyper. It can be resolve long haplotypes or infer missing genotypes in samples of unrelated individuals.
-Author  Yun Li (email: ylwtx@umich.edu)
- Goncalo Abecasis (email: goncalo@umich.edu)
-  URL http://www.sph.umich.edu/csg/abecasis/MACH/index.html
+Author  Yun Li (email: ylwtx@umich.edu) Goncalo Abecasis (email: goncalo@umich.edu)
+URL http://www.sph.umich.edu/csg/abecasis/MACH/index.html
 Related MINIMAC   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -60,13 +59,11 @@ Description suite of Python scripts for quality control of genetic markers, grou
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Marker And Gene Interpolation and Correlation
 Version 1.0
-Author  Claire Simpson (c.simpson@iop.kcl.ac.uk)
- Ammar Al-Chalabi (ammar@iop.kcl.ac.uk)
- John Powell (john.powell@iop.kcl.ac.uk)
-  URL http://cogent.iop.kcl.ac.uk/MaGIC.cogx
+Author  Claire Simpson (c.simpson@iop.kcl.ac.uk) Ammar Al-Chalabi (ammar@iop.kcl.ac.uk) John Powell (john.powell@iop.kcl.ac.uk)
+URL http://cogent.iop.kcl.ac.uk/MaGIC.cogx
 Language Microsoft Visual Foxpro
 OS MS-Windows (95/98/NT/2000/XP)
-Reference CL Simpson, VK Hansen, PC Sham, A Collins, JF Powell, A Al-Chalabi (2004), &amp;ldquo;MaGIC: A program to generate targeted marker sets for genome-wide association studies&amp;rdquo;, BioTechniques, 37:996-999.</description>
+Reference CL Simpson, VK Hansen, PC Sham, A Collins, JF Powell, A Al-Chalabi (2004), &amp;ldquo;MaGIC: A program to generate targeted marker sets for genome-wide association studies&amp;rdquo;, BioTechniques, 37:996-999.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -108,9 +105,8 @@ OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0
 Description MALDSoft is a program for admixture mapping of complex trait loci, using case-control data. The samples should come from a recently-admixed population; additional &amp;lsquo;learning&amp;rsquo; samples from the parental populations are helpful.
-Author  Giovanni Montana
- Jonathan Pritchard (email: jpritcha@genetics.uchicago.edu)
-  URL http://pritch.bsd.uchicago.edu/software/maldsoft_download.html
+Author  Giovanni Montana Jonathan Pritchard (email: jpritcha@genetics.uchicago.edu)
+URL http://pritch.bsd.uchicago.edu/software/maldsoft_download.html
 OS UNIX, Linux, MS-Windows (DOS/Window&amp;hellip;)
 Reference G Montana, JK Pritchard (2004), &amp;ldquo;Statistical tests for admixture mapping with case-control and cases-only data&amp;rdquo;, American Journal of Human Genetics, 75(5):771-789   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -177,12 +173,10 @@ Reference Manly and Olsen, Mammalian Genome, 10:327-334 (1999)   /** * RECOMMEND
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version QTXb20 (April 2004)
 Description A graphic, interactive program to map quantitative trait loci using intercrosses, backcrosses or recombinant inbred strains in experimental plants or animals. A completely rewritten cross-platform version of Map Manager QT with enhanced analysis functions.
-Author  KF Manly
- RH Cudmore
- Jr.
- JM Meer
-  URL http://www.mapmanager.org/mmQTX.html
-Language C++ and cross-platform code from XVT</description>
+Author  KF Manly RH Cudmore Jr. JM Meer
+URL http://www.mapmanager.org/mmQTX.html
+Language C++ and cross-platform code from XVT
+OS MS-Windows, MacOS</description>
     </item>
     
     <item>
@@ -194,17 +188,16 @@ Language C++ and cross-platform code from XVT</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name (MAP+H is the radiation Hybrid module of MAP+)
 Description multiple pairwise linkage analysis under interference
-Author  A Collins (email: arc@southampton.ac.uk)
- D. Shields
- NE Morton (University of Southampton, UK)
-  URL  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map
+Author  A Collins (email: arc@southampton.ac.uk) D. Shields NE Morton (University of Southampton, UK)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map
  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+
  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map+h
  http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/map2000
-  Language FORTRAN
+Language FORTRAN
 OS UNIX(SunOS/..)
 EXE map
-Reference  Morton, Andrew (1989), Annals of Human Genetics, 53:263-269.</description>
+Reference Morton, Andrew (1989), Annals of Human Genetics, 53:263-269.
+ Morton, Collins (1990), Annals of Human Genetics, 54:103-106.</description>
     </item>
     
     <item>
@@ -228,9 +221,8 @@ Description Produces charts of genetic linkage and QTL data. The charts are comp
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 4.0
 Description create gene maps using either radiation hybrid data or linkage data
-Author  Wes Barris
- Rachel Hawken
-  URL http://www.wesbarris.com/mapcreator/
+Author  Wes Barris Rachel Hawken
+URL http://www.wesbarris.com/mapcreator/
 Language Perl
 Availability Postscript ($69 USD), Image ($69 USD), both ($99 USD)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
@@ -256,12 +248,10 @@ Description MAPDISTO is a program for mapping genetic markers in experimental se
 Version 2.2
 Description MAPDRAW draws genetic linkage maps on PC same as what MAPMAKER does on Mac.
 Author Renhu Liu (email: liurenhu@21cn.com)
-URL  http://www.nslij-genetics.org/soft/mapdraw.v2.2.xls
- ftp://brassica.hzau.edu.cn
- ftp://211.69.140.177
-  Language Microsoft Visual Basic, Excel macro
+URL  http://www.nslij-genetics.org/soft/mapdraw.v2.2.xls ftp://brassica.hzau.edu.cn ftp://211.69.140.177
+Language Microsoft Visual Basic, Excel macro
 OS MS-Windows
-Reference Liu, Meng (2003), &amp;ldquo;MapDraw: a microsoft excel macro for drawing genetic linkage maps based on given genetic linkage data&amp;rdquo;, Heraditas (Beijing), 25(3):317-321.</description>
+Reference Liu, Meng (2003), &amp;ldquo;MapDraw: a microsoft excel macro for drawing genetic linkage maps based on given genetic linkage data&amp;rdquo;, Heraditas (Beijing), 25(3):317-321.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -285,9 +275,7 @@ Description MAPINSPECT can be used to compare linkage maps obtained from differe
 Full Name MAPping and QTL analysis
 Version March 2004
 Description The programs allow a user to get results on segregation ratio, linkage test, recombination value, grouping of markers, ordering of markers by metric multidimensional scaling, drawing map and graphical genotype. ALso QTL analysis by interval mapping and ANOVA are possible.
-Author  Ukai Tasuo
- Ohsawa Ryo
- Saito Akira</description>
+Author  Ukai Tasuo Ohsawa Ryo Saito Akira Hayashi Takeshi Yasuo Ukai (University of Tokyo, Japan) (email: tkawai@lbm.</description>
     </item>
     
     <item>
@@ -298,21 +286,15 @@ Author  Ukai Tasuo
       <guid>https://gaow.github.io/genetic-analysis-software/m/mapmakerexp/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 3.0 (1992)
-Author  Eric Lander
- Phil Green
- J. Abrahamson
- A. Barlow
- Mark Daly
- Steve Lincoln
- L. Newburg (Whitehead Institute)
-  URL  http://www.broad.mit.edu/ftp/distribution/software/mapmaker3/
+Author  Eric Lander Phil Green J. Abrahamson A. Barlow Mark Daly Steve Lincoln L. Newburg (Whitehead Institute)
+URL http://www.broad.mit.edu/ftp/distribution/software/mapmaker3/
  http://www-genome.wi.mit.edu/genome_software
-  Language C
+Language C
 OS UNIX, VMS, MS-DOS, MacOS
 EXE mapmaker
-Reference  Lander et al (1987), Genomics,1,174-181.
+Reference Lander et al (1987), Genomics,1,174-181.
  online tutorial (version 3.0, 1987-1993)
-  Related MMDRAWER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related MMDRAWER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -325,10 +307,8 @@ Reference  Lander et al (1987), Genomics,1,174-181.
 Full Name homozygosity mapping
 Version May 1995
 Description calculates multipoint lod scores in pedigrees with inbreeding loops
-Author  Leonid Kruglyak (email: leonid@genome.wi.mit.edu)
- Mark Daly (email: mjdaly@genome.wi.mit.edu)
- Eric Lander (email: lander@genome.wi.mit.edu)
-  URL ftp://ftp-genome.wi.mit.edu/distribution/software/homoz
+Author  Leonid Kruglyak (email: leonid@genome.wi.mit.edu) Mark Daly (email: mjdaly@genome.wi.mit.edu) Eric Lander (email: lander@genome.wi.mit.edu)
+URL ftp://ftp-genome.wi.mit.edu/distribution/software/homoz
 Language C
 OS UNIX
 Reference Kruglyak, Daly, Lander (1995), &amp;ldquo;Rapid multipoint linkage analysis of recessive traits in nuclear families, including homozygosity mapping&amp;rdquo;, American Journal of Human Genetics, 56(2):519-527   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -342,19 +322,13 @@ Reference Kruglyak, Daly, Lander (1995), &amp;ldquo;Rapid multipoint linkage ana
       <guid>https://gaow.github.io/genetic-analysis-software/m/mapmakerqtl/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version new version in April 1995
-Author  Eric Lander
- Phil Green
- J. Abrahamson
- A. Barlow
- Mark Daly
- Steve Lincoln
- L. Newburg (Whitehead Institute)
-  URL  http://www-genome.wi.mit.edu/genome_software
+Author  Eric Lander Phil Green J. Abrahamson A. Barlow Mark Daly Steve Lincoln L. Newburg (Whitehead Institute)
+URL http://www-genome.wi.mit.edu/genome_software
  ftp://ftp-genome.wi.mit.edu/distribution/software/newqtl&amp;quot; and ftp://ftp-genome.wi.mit.edu/distribution/software/mapmaker3
-  Language C
+Language C
 OS UNIX, VMS, MS-DOS, MacOS
-Reference  Lander et al (1987), Genomics,1,174-181.
- online tutorial and reference manual (v1.</description>
+Reference Lander et al (1987), Genomics,1,174-181.
+ online tutorial and reference manual (v1.1, 1993)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -370,9 +344,8 @@ URL ftp://ftp-genome.wi.mit.edu/distribution/software/sibs
 Language C
 OS UNIX
 EXE sibs
-Reference  Kruglyak, Lander (1995), &amp;ldquo;Complete multipoint sib-pair analysis of qualitative and quantitative traits&amp;rdquo;, American Journal of Human Genetics, 57(2):439-454
- manual (in postscript) the changes from version 1.1 to 2.0 .
-  Related GENEHUNTER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference  Kruglyak, Lander (1995), &amp;ldquo;Complete multipoint sib-pair analysis of qualitative and quantitative traits&amp;rdquo;, American Journal of Human Genetics, 57(2):439-454 manual (in postscript) the changes from version 1.1 to 2.0 .
+Related GENEHUNTER   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -384,12 +357,11 @@ Reference  Kruglyak, Lander (1995), &amp;ldquo;Complete multipoint sib-pair anal
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0 (Jan 2000)
 Description selects high resolution mapping subsamples and performs bin mapping
-Author  Dan Brown
- Todd Vision (email: tjv@bio.unc.edu)
-  URL http://www.bio.unc.edu/faculty/vision/lab/mappop/
+Author  Dan Brown Todd Vision (email: tjv@bio.unc.edu)
+URL http://www.bio.unc.edu/faculty/vision/lab/mappop/
 Language MatLab
 OS UNIX, MS-Windows, MacOS, etc
-Reference  Vision, Brown, Shmoys, Durrett, Tanksley (2000), &amp;ldquo;Selective Mapping: A strategy for optimizing the construction of high-density linkage maps&amp;rdquo;, Genetics, 155: 407-420
+Reference Vision, Brown, Shmoys, Durrett, Tanksley (2000), &amp;ldquo;Selective Mapping: A strategy for optimizing the construction of high-density linkage maps&amp;rdquo;, Genetics, 155: 407-420
  Brown, Vision, Tanksley (2000), &amp;ldquo;Selective mapping: A discrete optimization approach to selecting a population subset for use in a high-density genetic mapping project&amp;rdquo;, Proceedings of the 11th Annual {ACM-SIAM} Symposium on Discrete Algorithms, pp.</description>
     </item>
     
@@ -451,13 +423,13 @@ Language MATLAB   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Monte Carlo Likelihood Estimation of Effective Population Size
 Version 1.1 (September 2001)
-Author  Eric Anderson (email: eriq@cqs.washington.edu , University of Washington)
- Ellen Williamson (University of California at Berkeley)
-  URL  http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
+Author  Eric Anderson (email: eriq@cqs.washington.edu , University of Washington) Ellen Williamson (University of California at Berkeley)
+URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
  http://ib.berkeley.edu/labs/slatkin/eriq/software/software.htm
-  Language C++
+Language C++
 OS UNIX, MacOS
-Reference Anderson, Williamson, Thompson (2000), &amp;ldquo;Monte Carlo evaluation of the likelihood for Ne from temporally spaced samples&amp;rdquo;, Genetics, 156:2109-2118.</description>
+Reference Anderson, Williamson, Thompson (2000), &amp;ldquo;Monte Carlo evaluation of the likelihood for Ne from temporally spaced samples&amp;rdquo;, Genetics, 156:2109-2118.
+Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -481,9 +453,8 @@ Description The aim of the MCQTL software package is to perform QTL mapping in m
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Minimum Description length method for haplotype BLOCKS
 Description Using the mimimum description length model to delineate haplotype blocks
-Author  Eric C. Anderson
- John Novembre (UC Berkeley)
-  URL http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
+Author  Eric C. Anderson John Novembre (UC Berkeley)
+URL http://ib.berkeley.edu/labs/slatkin/eriq/software/mdb_web/
 Reference Anderson, Novembre (2003), &amp;ldquo;Finding haplotype block boundaries by using the minimum description length criterion&amp;rdquo;, American Journal of Human Genetics, 73(2):336-354   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -508,12 +479,8 @@ Description MDR is a data mining strategy for detecting and characterizing nonli
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Multifactor Dimensionality Reduction and genotype Pedigree Disequilibrium Test
 Version beta
-Author  ER Martin
- MD Ritchie
- L Hahn
- S Kang
- JH Moore
-  URL http://chgr.mc.vanderbilt.edu/ritchielab/method.php?method=mdrpdt
+Author  ER Martin MD Ritchie L Hahn S Kang JH Moore
+URL http://chgr.mc.vanderbilt.edu/ritchielab/method.php?method=mdrpdt
 Reference Martin, Ritchie, Hahn, Kang, Moore (2006), &amp;ldquo;A novel method to identify gene-gene effects in nuclear families: the MDR-PDT&amp;rdquo;, Genetic Epidemiology, 30:111-123.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -560,12 +527,10 @@ Description MegaSNPHunter takes case-control genotype data as input and produces
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 8.0.1 (expire April 2009)
 Description genetic analysis of human pedigree data under models involving a small number of loci. MENDEL is useful for segregation analysis, linkage calculations, genetic counseling, allele frequency estimation, and related kinds of problems.
-Author  Kenneth Lange (UCLA)
- Daniel Weeks (Pittsburgh)
- M. Boehnke
-  URL http://www.genetics.ucla.edu/software/
+Author  Kenneth Lange (UCLA) Daniel Weeks (Pittsburgh) M. Boehnke
+URL http://www.genetics.ucla.edu/software/
 Language FORTRAN77
-Reference  Lange, Weeks, Boehnke (1988), Genetic Epidemiology, 5:471-471.</description>
+Reference Lange, Weeks, Boehnke (1988), Genetic Epidemiology, 5:471-471.</description>
     </item>
     
     <item>
@@ -577,11 +542,10 @@ Reference  Lange, Weeks, Boehnke (1988), Genetic Epidemiology, 5:471-471.</descr
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.5b (July 2007)
 Description Identifying all Mendelian inconsistencies in complex pedigree data with thousand of individuals, including many loops and several errors. Can also infer missing genotypes.
-Author  M Sanchez
- Simon de Givry (INRA, Centre de recherches de Toulouse, Station de biométrie et d&amp;rsquo;intelligence artificielle, France) (email: degivry@toulouse.inra.fr)
- T Schiex
-  URL http://www.inra.fr/mia/T/MendelSoft/
-Language C++</description>
+Author  M Sanchez Simon de Givry (INRA, Centre de recherches de Toulouse, Station de biométrie et d&amp;rsquo;intelligence artificielle, France) (email: degivry@toulouse.inra.fr) T Schiex
+URL http://www.inra.fr/mia/T/MendelSoft/
+Language C++
+OS UNIX, Linux/Cygwin, MS-Windows, MacOS</description>
     </item>
     
     <item>
@@ -617,12 +581,11 @@ URL http://www.sph.umich.edu/csg/abecasis/Metal/   /** * RECOMMENDED CONFIGURATI
       <guid>https://gaow.github.io/genetic-analysis-software/m/mflink/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name (nearly) model-free linkage analysis
-Author  Dave Curtis
- (email: dcurtis@hgmp.mrc.ac.uk) P.C. Sham
-  URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+Author  Dave Curtis (email: dcurtis@hgmp.mrc.ac.uk) P.C. Sham
+URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
-Reference Curtis, Sham (1995), &amp;ldquo;Model-free linkage analysis using likelihoods&amp;rdquo;, American Journal of Human Genetics, 57(3):703-716   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Language C
+Reference Curtis, Sham (1995), &amp;ldquo;Model-free linkage analysis using likelihoods&amp;rdquo;, American Journal of Human Genetics, 57(3):703-716   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -648,13 +611,10 @@ OS MS-DOS, MS-Windows (95/98/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: ED
 Full Name Multiallelic Interallelic Disequilibrium Analysis Software
 Version 1.0
 Description software for analysis and visualisation of interallelic disequilibrium between multiallelic markers
-Author  Tom R Gaunt
- Santiago Rodriguez
- Carlos Zapata
- Ian NM Day
-  URL  http://www.genes.org.uk/software/midas
+Author  Tom R Gaunt Santiago Rodriguez Carlos Zapata Ian NM Day
+URL http://www.genes.org.uk/software/midas
  http://www.sgel.humgen.soton.ac.uk/midas
-  Language Python
+Language Python
 OS MS-Windows(2000/XP), Linux, MacOS
 Reference Gaunt, Rodriguez, Zapata, Day (2006), &amp;ldquo;MIDAS: software for analysis and visualisation of interallelic disequilibrium between multiallelic markers&amp;rdquo;, BMC Bioinformatics, 7:227.</description>
     </item>
@@ -683,12 +643,11 @@ OS UNIX, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
 Full Name Multipoint Identical-by-descent Method
 Version 1.21 (March 1996)
 Description multipoint IBD method for partitioning genetic variance of quantitative traits to specific chromosome regions using data on nuclear families.
-Author  David Goldgar
- Cathryn M. Lewis (Univ. Utah). contact person: Edward Kort at edward@episun2.med.utah.edu
-  URL ftp://morgan.med.utah.edu/pub/Mim
+Author  David Goldgar Cathryn M. Lewis (Univ. Utah). contact person: Edward Kort at edward@episun2.med.utah.edu
+URL ftp://morgan.med.utah.edu/pub/Mim
 Language C
 OS UNIX
-Reference  Goldgar (1990), &amp;ldquo;Multipoint analysis of human quantitative genetic variation&amp;rdquo;, American Journal of Human Genetics, 47(6): 957-967</description>
+Reference Goldgar (1990), &amp;ldquo;Multipoint analysis of human quantitative genetic variation&amp;rdquo;, American Journal of Human Genetics, 47(6): 957-967</description>
     </item>
     
     <item>
@@ -761,9 +720,7 @@ Description Michael Krawczak&amp;rsquo;s Genetics Software Tools, including ASP 
 Full Name Maximum-Likelihood-Binomial analysis of affected sib-pair and sibship data extended from the GENEHUNTER program
 Version 1.0
 Description an extension of the GENEHUNTER program to perform sib-pair and sib-ship linkage analysis using the Maximum Likelihood Binomial (MLB) method.
-Author  Laurent Abel (INSERM Unit 436, Paris, France, email: abel@biomath.jussieu.fr)
- Bertram Muller-Myhsok (Bernhard Nocht Institute, Hamburg, Germany, email: bmm@bni.uni-hamburg.de)
- Anne Philippi (INSERM Unit 436, Paris, France, email: philippi@biomath.</description>
+Author  Laurent Abel (INSERM Unit 436, Paris, France, email: abel@biomath.jussieu.fr) Bertram Muller-Myhsok (Bernhard Nocht Institute, Hamburg, Germany, email: bmm@bni.uni-hamburg.de) Anne Philippi (INSERM Unit 436, Paris, France, email: philippi@biomath.</description>
     </item>
     
     <item>
@@ -793,9 +750,8 @@ Reference Zaykin, Zhivotovsky, Weir (1995), Genetica, 96:169-178.   /** * RECOMM
 Full Name Multivariate Linear Regression TAGGING
 Version 1.1
 Description MLR-TAGGING can be used for tagging SNP selection and genotype prediction
-Author  Alexander Zelikovsky (Georgia State Univ) (email: alexz@cs.gsu.edu)
- Jingwu Jim He (email: jingwu@cs.gsu.edu)
-  URL http://alla.cs.gsu.edu/~software/tagging/tagging.html
+Author  Alexander Zelikovsky (Georgia State Univ) (email: alexz@cs.gsu.edu) Jingwu Jim He (email: jingwu@cs.gsu.edu)
+URL http://alla.cs.gsu.edu/~software/tagging/tagging.html
 Reference He, Zelikovsky (2006), &amp;ldquo;MLR-tagging: informative SNP selection for unphased genotypes based on multiple linear regression&amp;rdquo;, Bioinformatics, 22(20):2558-2561.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -846,11 +802,9 @@ Description Programs for segregation and linkage analysis, using a variety of Ma
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Mixture Of Cnv-Snp PHASER
 Description inferring haplotypes composed of both CNV alleles and SNP alleles
-Author  Mamoru Kato
- Yusuke Nakamura
- Tatsuhiko Tsunoda (email: tsunoda@src.riken.jp)
-  URL http://emu.src.riken.jp/MOCSphase/MOSCphaser.zip
-Reference  Kato, Nakamura, Tsunoda (2008), &amp;ldquo;MOCSphaser: a haplotype inference tool from a mixture of copy number variation and single nucleotide polymorphism data&amp;rdquo;, Bioinformatics, 24(14):1645-1646.
+Author  Mamoru Kato Yusuke Nakamura Tatsuhiko Tsunoda (email: tsunoda@src.riken.jp)
+URL http://emu.src.riken.jp/MOCSphase/MOSCphaser.zip
+Reference Kato, Nakamura, Tsunoda (2008), &amp;ldquo;MOCSphaser: a haplotype inference tool from a mixture of copy number variation and single nucleotide polymorphism data&amp;rdquo;, Bioinformatics, 24(14):1645-1646.
  http://emu.src.riken.jp/MOCSphase/SuppInfor.doc   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -902,14 +856,12 @@ Reference T Hiekkalinna, L Peltonen1, JD Terwilliger (2003), &amp;ldquo;MULTIDIS
       <guid>https://gaow.github.io/genetic-analysis-software/m/multimap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description program for automated construction of genetic maps
-Author  Tara Matise (email: matise@biology.rutgers.edu)
- Mark Perlin
- Aravinda Chakravarti
-  URL  http://compgen.rutgers.edu/Multimap/
+Author  Tara Matise (email: matise@biology.rutgers.edu) Mark Perlin Aravinda Chakravarti
+URL http://compgen.rutgers.edu/Multimap/
  http://compgen.rutgers.edu/multimap/multimapdist.html
-  Language LISP
+Language LISP
 OS UNIX (Sun/Compaq-Alpha/HP..)
-Reference Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Matise,Perlin, Chakravarti, Nature Genetics, 6, 384-390 (1994);   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -923,8 +875,7 @@ Description Bayesian QTL mapping software for analysing backcross, double haploi
 Author Mikko J Sillanpaa (mail: mjs@rolf.helsinki.fi)
 URL http://www.rni.helsinki.fi/~mjs/
 Language C
-Reference  Sillanpaa, Arjas (1998), &amp;ldquo;Bayesian mapping of multiple quantitative trait loci from incomplete inbred line cross data&amp;rdquo;, Genetics, 148:1373-1388.
- Martinez, Thorgaard, Robison, Sillanpaa (2005), &amp;ldquo;An application of Bayesian QTL mapping to early development in double haploid lines of rainbow trout including environmental effects&amp;rdquo;, Genetical Research, 86:209-221.</description>
+Reference  Sillanpaa, Arjas (1998), &amp;ldquo;Bayesian mapping of multiple quantitative trait loci from incomplete inbred line cross data&amp;rdquo;, Genetics, 148:1373-1388. Martinez, Thorgaard, Robison, Sillanpaa (2005), &amp;ldquo;An application of Bayesian QTL mapping to early development in double haploid lines of rainbow trout including environmental effects&amp;rdquo;, Genetical Research, 86:209-221.</description>
     </item>
     
     <item>
@@ -951,11 +902,8 @@ Reference Sillanpaa, Arjas (1999), &amp;ldquo;Bayesian mapping of multiple quant
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1
 Description The program selects a near-minimal set of tagging single-nucleotide polymorphisms (tagSNPs) that account for all observed patterns of linkage disequilibrium (LD) in multiple populations.
-Author  Bryan N. Howie
- Christopher S. Carlson
- Mark J. Rieder
- Deborah A. Nickerson (University of Washington)
-  URL http://droog.gs.washington.edu/multiPopTagSelect.html
+Author  Bryan N. Howie Christopher S. Carlson Mark J. Rieder Deborah A. Nickerson (University of Washington)
+URL http://droog.gs.washington.edu/multiPopTagSelect.html
 Language Perl
 EXE multiPopTagSelect.pl
 Reference Howie, Carlson, Rieder, Nickerson (2006), &amp;ldquo;Efficient selection of tagging single-nucleotide polymorphisms in multiple populations&amp;rdquo;, Human Genetics, 120(1):58-68.</description>
@@ -970,13 +918,9 @@ Reference Howie, Carlson, Rieder, Nickerson (2006), &amp;ldquo;Efficient selecti
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.6
 Description MultiQTL software integrates a broad spectrum of data mining, statistical analysis, interactive visualization and modeling tools that allow QTL analysis based on advanced and sophisticated methods for maximum extraction of the mapping information from data.
-Author  Efim Ronin
- David Mester
- Dina Minkov
- Ori Orion
- Abraham Korol
-  URL http://www.multiqtl.com/
-Availability contact: sales@multiqtl.</description>
+Author  Efim Ronin David Mester Dina Minkov Ori Orion Abraham Korol
+URL http://www.multiqtl.com/
+Availability contact: sales@multiqtl.com. tel: 972-4824-0449. FAX: 972-4824-6554. address: MultiQTL Ltd, Institute of Evolution, Haifa University, Haifa, Israel 31905   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -1002,8 +946,7 @@ Reference Noor, Pascual, Smith (2000), &amp;ldquo;Genetic variation in the sprea
       <guid>https://gaow.github.io/genetic-analysis-software/m/mutagenesys/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description MutaGeneSys is a system that uses genome-wide genotype data to estimate disease susceptibility. Our system integrates three data sources: HapMap, whole-genome marker correlation data, and OMIM database. It accepts SNP data of individuals as query input and delivers disease susceptibility hypotheses even if the original set of typed SNPs is incomplete.
-Author  Julia Stoyanovich
- Itsik Pe&amp;rsquo;er (Columbia University)</description>
+Author  Julia Stoyanovich Itsik Pe&amp;rsquo;er (Columbia University)</description>
     </item>
     
   </channel>

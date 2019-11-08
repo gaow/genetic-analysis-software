@@ -20,14 +20,10 @@
 Full Name Statistical Analysis for Genetic Epidemiology
 Version 5.3
 Description The S.A.G.E. software provides researchers with the tools necessary for various types of statistical genetic analysis of human family data.
-Author  R Elston
- J Bailey-Wilson
- G Bonney
- L. Tran
- B. Keats
- A. Wilson
-  URL http://darwin.cwru.edu/sage/
-Language C [version 4.0 will be in C++]</description>
+Author  R Elston J Bailey-Wilson G Bonney L. Tran B. Keats A. Wilson
+URL http://darwin.cwru.edu/sage/
+Language C [version 4.0 will be in C++]
+OS UNIX(DEC UNIX/Solaris), MS-Windows (95/NT), Linux</description>
     </item>
     
     <item>
@@ -39,9 +35,9 @@ Language C [version 4.0 will be in C++]</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Sequence Alignment/Map TOOLS
 Description SAM Tools provide various utilities for manipulating alignments in the SAM format, including sorting, merging, indexing and generating alignments in a per-position format. The parts that relevant to genetic analysis include SNP and indel callings.
-Author  Heng Li (Broad Institute)
- Richard Durbin (Wellcome Trust Sanger Institute) et al.
-  URL http://samtools.sourceforge.net/</description>
+Author  Heng Li (Broad Institute) Richard Durbin (Wellcome Trust Sanger Institute) et al.
+URL http://samtools.sourceforge.net/
+Language C, C++, Java, Perl, Python, Ruby, Common LISP, Haskell</description>
     </item>
     
     <item>
@@ -53,10 +49,9 @@ Author  Heng Li (Broad Institute)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version add-on to the SAS System, Release 8.2
 Description Software for summarizing marker properties (allele &amp;amp; genotype frequencies, tests for Hardy-Weinberg equilibrium, measures of marker informativeness), examining marker-marker relationships (tests and measures of linkage disequilibrium, and haplotype frequency estimation), and exploring marker-trait associations using case-control or family-based tests
-Author  W Czika
- X Yu
-  Language C
-OS MS-Windows, UNIX(HPUX/AIXR/Solaris/.</description>
+Author  W Czika X Yu
+Language C
+OS MS-Windows, UNIX(HPUX/AIXR/Solaris/..), MVS</description>
     </item>
     
     <item>
@@ -68,10 +63,8 @@ OS MS-Windows, UNIX(HPUX/AIXR/Solaris/.</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.2 (March 1999)
 Description a SAS computer program for gene segregation and linkage analysis in breeding population
-Author  Jinsheng Liu
- Todd Wehner
- Sandy Donaghy
-  URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
+Author  Jinsheng Liu Todd Wehner Sandy Donaghy
+URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
 Language SAS
 Reference Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer program for genetic analysis of gene segregation and linkage&amp;rdquo;, Journal of Heredity, 88:253-254.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -85,10 +78,8 @@ Reference Liu, Wehner, Donaghy (1997), &amp;ldquo;SASGENE: A SAS computer progra
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1 (May 2005)
 Description a SAS software program to estimate genetic effects and heritabilities of quantitative traits in breeding populations consisting of six related generations
-Author  Gabriele Gusmini
- Todd Wehner
- Sandy B. Donaghy
-  URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
+Author  Gabriele Gusmini Todd Wehner Sandy B. Donaghy
+URL http://cuke.hort.ncsu.edu/cucurbit/wehner/software.html
 Language SAS
 Reference Gusmini, Wehner, Donaghy (2007), &amp;ldquo;SASQuant: A SAS software program to estimate genetic effects and heritabilities of quantitative traits in populations consisting of six related generations&amp;rdquo;, Journal of Heredity, 98(4):345-350.</description>
     </item>
@@ -113,9 +104,8 @@ Description SCORE-Seq is a command-line program for detecting disease associatio
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.00 (Jan 2006)
 Description Scout is a software program for conducting combined association analysis of triads and unrelated subjects
-Author  Richard Duncan
- Michael Epstein (Emory University, email: statgen@genetics.emory.edu)
-  URL http://www.genetics.emory.edu/labs/epstein/software/scout/index.html
+Author  Richard Duncan Michael Epstein (Emory University, email: statgen@genetics.emory.edu)
+URL http://www.genetics.emory.edu/labs/epstein/software/scout/index.html
 Language Fortran (CVF 6.6) with IMSL routines
 OS MS-Windows(2000/XP)
 EXE scout_cl.exe, scout_gui.exe
@@ -144,8 +134,7 @@ Description SDMinP is an easy-to-use program for fast calculation of empirical a
 Full Name SEGregation analysis and PATH analysis
 Author Michael A. Province (email: mike@wubios.wustl.edu)
 URL http://www.biostat.wustl.edu/~mike/segpath/
-Reference  Province, Rao (1995), &amp;ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&amp;rdquo;, Genetic Epidemiology, 12(2):203-219.
- Province, Rice, Borecki, Gu, Kraja, Rao (2003), &amp;ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&amp;rdquo;, Genetic Epidemiology, 24(2):128-138.</description>
+Reference  Province, Rao (1995), &amp;ldquo;General purpose model and a computer program for combined segregation and path analysis (SEGPATH): automatically creating computer programs from symbolic language model specifications&amp;rdquo;, Genetic Epidemiology, 12(2):203-219. Province, Rice, Borecki, Gu, Kraja, Rao (2003), &amp;ldquo;Multivariate and multilocus variance components method, based on structural relationships to assess quantitative trait linkage via SEGPATH&amp;rdquo;, Genetic Epidemiology, 24(2):128-138.</description>
     </item>
     
     <item>
@@ -220,10 +209,9 @@ Description SibError is an algorithm that identifies pedigree errors in sibship 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 3.0
 Description SIBLINK allows the user to perform multipoint linkage analysis based on estimated IBD sharing between affected sibpairs. IBD sharing is inferred from IBS status, given marker genotypes, frequencies, and locations. Resulting LOD scores are maximized across a grid of possible disease locations and IBD sharing vectors.
-Author  Elizabeth Hauser
- Mike Boehnke
- William Duren
-  URL http://wwwchg.</description>
+Author  Elizabeth Hauser Mike Boehnke William Duren
+URL http://wwwchg.duhs.duke.edu/software/siblink.html
+Language C++</description>
     </item>
     
     <item>
@@ -236,9 +224,8 @@ Author  Elizabeth Hauser
 Full Name SIBling Mutation and Error Detection
 Version 1.0
 Description SIBMED identifies likely genotyping errors and mutations for a sib pair in the context of multipoint mapping.
-Author  Julie A Douglas
- Michael Boehnke (Univ Michigan)
-  URL http://csg.sph.umich.edu/boehnke/sibmed.php
+Author  Julie A Douglas Michael Boehnke (Univ Michigan)
+URL http://csg.sph.umich.edu/boehnke/sibmed.php
 Language FORTRAN 77
 OS MS-Windows, UNIX
 EXE sibmed.exe
@@ -270,9 +257,9 @@ Reference D Franke, A Kleensang and A Ziegler (2006), &amp;ldquo;SIBSIM, quantit
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Sorting Intolerant From Tolerant
 Description SIFT predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids. SIFT can be applied to naturally occurring nonsynonymous polymorphisms and laboratory-induced missense mutations.
-Author  Pauling Ng (Genome Institute of Singapore)
- Steven Henikoff (Fred Hutchinson Cancer Research Institute)
-  URL  http://sift.</description>
+Author  Pauling Ng (Genome Institute of Singapore) Steven Henikoff (Fred Hutchinson Cancer Research Institute)
+URL http://sift.bii.a-star.edu.sg/
+ http://sift.jcvi.org/</description>
     </item>
     
     <item>
@@ -326,14 +313,13 @@ Description SimHap uses biallelic SNP genotype data to impute haplotype frequenc
       <guid>https://gaow.github.io/genetic-analysis-software/s/simibd/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.21 (Jan 1997)
-Author  Sean Davis ( davis@moriarty.hgen.pitt.edu)
- Daniel E. Weeks
-  URL  http://watson.hgen.pitt.edu/register/soft_doc.html, http://watson.hgen.pitt.edu/~davis/
+Author  Sean Davis ( davis@moriarty.hgen.pitt.edu) Daniel E. Weeks
+URL http://watson.hgen.pitt.edu/register/soft_doc.html, http://watson.hgen.pitt.edu/~davis/
  http://watson.hgen.pitt.edu/register
-  Language C
+Language C
 OS UNIX(SunOS/Solaris/HP/DEC-UNIX)
 EXE simibd, xslink
-Reference  Davis, Schroeder, Goldin, Weeks (1996), &amp;ldquo;Nonparametric simulation-based statistics for detecting linkage in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 58(4):867-880
+Reference Davis, Schroeder, Goldin, Weeks (1996), &amp;ldquo;Nonparametric simulation-based statistics for detecting linkage in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 58(4):867-880
  online README file   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -373,7 +359,7 @@ Author Michael Boehnke ( boehnke@sph.umich.edu)
 URL http://csg.sph.umich.edu/boehnke/simlink.php
 Language FORTRAN
 OS MS-DOS, UNIX(SunOS/..), VMS
-Reference  Boehnke (1986), &amp;ldquo;Estimating the power of a proposed linkage study: a practical computer simulation approach&amp;rdquo;, American Journal of Human Genetics, 39(4):513-527</description>
+Reference  Boehnke (1986), &amp;ldquo;Estimating the power of a proposed linkage study: a practical computer simulation approach&amp;rdquo;, American Journal of Human Genetics, 39(4):513-527 Ploughman, Boehnke (1989), &amp;ldquo;Estimating the power of a proposed linkage study for a complex genetic trait&amp;rdquo;, American Journal of Human Genetics, 44(4):543-551 online documentation (version 4.</description>
     </item>
     
     <item>
@@ -397,11 +383,10 @@ Reference Lemire, Roslin, Laprise, Hudson, Morgan (2004), &amp;ldquo;Transmissio
       <guid>https://gaow.github.io/genetic-analysis-software/s/simped/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description SimPed is a program that quickly generates haplotypes and/or genotype data for a large number of marker loci (&amp;gt;20,000) for pedigrees of virtually any size and complexity. Haplotypes and/or genotypes are generated using user specified genetic map distances and haplotypes and/or allele frequencies.
-Author  SM Leal
- K Yan
- B Müller-Myhsok
-  URL http://www.hgsc.bcm.tmc.edu/genemapping
-Language C</description>
+Author  SM Leal K Yan B Müller-Myhsok
+URL http://www.hgsc.bcm.tmc.edu/genemapping
+Language C
+OS UNIX, MS-Window, Linux</description>
     </item>
     
     <item>
@@ -413,14 +398,12 @@ Language C</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Sequential Imputation for MultiPoint Linkage Estimation
 Description Calculates linkage statistics, such as lod scores and NPL statistics by Sequential Imputation.
-Author  S Lin
- Z Skrivanek
- M Irwin (Ohio State Univ)
-  URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/SIMPLE/
+Author  S Lin Z Skrivanek M Irwin (Ohio State Univ)
+URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/SIMPLE/
 Language C
 OS UNIX(Solaris)
 EXE simple, scan
-Reference  M Irwin, N Cox, A Kong (1994), &amp;ldquo;Sequential imputation for multilocus linkage analysis&amp;rdquo;, Proceedings of the National Academy of Sciences , 91:1684-1688</description>
+Reference M Irwin, N Cox, A Kong (1994), &amp;ldquo;Sequential imputation for multilocus linkage analysis&amp;rdquo;, Proceedings of the National Academy of Sciences , 91:1684-1688</description>
     </item>
     
     <item>
@@ -442,9 +425,8 @@ Description SIMLAPLOT is a tool designed to help visualize the joint effect of g
       <guid>https://gaow.github.io/genetic-analysis-software/s/simulate/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a program to simulate genotypes in family members for a map of linked markers unlinked to a given affection status locus. the output is ready for analysis with UNKNOWN, ISIM, LSIM, or MSIM of the SLINK package.
-Author  Joseph Terwilliger
- http://linkage.cpmc.columbia.edu/
-  URL http://www.helsinki.fi/~tsjuntun/linkage/analyze/
+Author  Joseph Terwilliger http://linkage.cpmc.columbia.edu/
+URL http://www.helsinki.fi/~tsjuntun/linkage/analyze/
 Language Pascal
 OS MS-DOS, VMS, UNIX
 Reference online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -492,17 +474,16 @@ Description SKAT is a SNP-set (e.g., a gene or a region) level test for associat
       
       <guid>https://gaow.github.io/genetic-analysis-software/s/slink/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Author  Daniel E. Weeks
- Jurg Ott
-  URL http://lab.rockefeller.edu/ott/programs
+Author  Daniel E. Weeks Jurg Ott
+URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 OS MS-DOS
 EXE slink, isim, lsim, msim
-Reference  Ott (1989), Proceedings of the National Academy of Sciences , 86:4175-4178.
+Reference Ott (1989), Proceedings of the National Academy of Sciences , 86:4175-4178.
  Weeks, Ott, Lathrop (1990), American Journal of Human Genetics, 47(suppl):A204.
  online documentation
  FAQ-O-MATIC: http://watson.hgen.pitt.edu/fom-serve/cache/20.html
-  Related FASTSLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Related FASTSLINK   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -563,10 +544,8 @@ Reference Am Soc Hum Genet annual meeting (2002) Nothnagel (2002), &amp;ldquo;Si
       <guid>https://gaow.github.io/genetic-analysis-software/s/snippeep/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description SnipPeep is an interactive graphic interface to visualise results from whole genome genotyping. It allows one to visualise single subjects and groups of subjects, and provides a direct connection with the UCSC Genome Browser.
-Author  Roberto Toro
- (email: rto@pasteur.fr)
- Thomas Bourgeron (email: thomasb@pasteur.fr)
-  URL http://snippeep.sourceforge.net/
+Author  Roberto Toro (email: rto@pasteur.fr) Thomas Bourgeron (email: thomasb@pasteur.fr)
+URL http://snippeep.sourceforge.net/
 Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -579,12 +558,11 @@ Language C   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE S
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0.11 (April 2004)
 Description SNP data managing, import &amp;amp; export from linkage format, data validation, pairwise LD calculation and visualisation, case-control and TDT tests, visual comparison of two datasets, relationships testing. Suitable for large projects.
-Author  Biodata Ltd.
- Estonia (snpassistant@biodata.ee)
-  URL http://www.biodata.ee/SNPassistant.htm (30 days trial version)
+Author  Biodata Ltd. Estonia (snpassistant@biodata.ee)
+URL http://www.biodata.ee/SNPassistant.htm (30 days trial version)
 Language C++
 OS MS-Windows(95 and newer)
-Reference online manual: http://www.</description>
+Reference online manual: http://www.biodata.ee/sa/SNP_Assistant_Manual_1.0.7.pdf   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -622,9 +600,8 @@ Description SNP HiTLink is a computer program providing a useful pipeline to dir
       <guid>https://gaow.github.io/genetic-analysis-software/s/snp-hwe/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a fast exact Hardy-Weinberg Equilibrium test for SNPs
-Author  Janis Wigginton (email: &amp;ldquo;a href=&amp;ldquo;mailto:wiggie@umich.edu&amp;rdquo;&amp;gt; wiggie@umich.edu)
- Goncalo Abecasis
-  URL http://www.sph.umich.edu/csg/abecasis/Exact/index.html
+Author  Janis Wigginton (email: &amp;ldquo;a href=&amp;ldquo;mailto:wiggie@umich.edu&amp;rdquo;&amp;gt; wiggie@umich.edu) Goncalo Abecasis
+URL http://www.sph.umich.edu/csg/abecasis/Exact/index.html
 Language Fortran, C,C++, R
 Reference Wigginton, Cutler, Abecasis (2005), &amp;ldquo;A note on exact tests of Hardy-Weinberg equilibrium&amp;rdquo;, American Journal of Human Genetics, 76(5):887-893. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -688,10 +665,8 @@ OS Linux, UNIX</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.3.1
 Description a program for estimating frequencies of haplotypes of large numbers of diallelic markers from unphased genotype data from unrelated subjects
-Author  David Clayton
- Cambridge Institute
- david.clayton@cimr.cam.ac.uk
-  URL http://www-gene.cimr.cam.ac.uk/clayton/software/
+Author  David Clayton Cambridge Institute david.clayton@cimr.cam.ac.uk
+URL http://www-gene.cimr.cam.ac.uk/clayton/software/
 Language C,C++   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -782,10 +757,7 @@ Description SNPTEST is a program for the analysis of single SNP association in g
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Short Oligonucleotide Analysis Package
 Description SOAP provides full solution to next generation sequencing data analysis. Currently, it consists of a new alignment tool (SOAPaligner/soap2), a re-sequencing consensus sequence builder (SOAPsnp), an indel finder (SOAPindel), a structural variation scanner (SOAPsv) and a de novo short reads assembler (SOAPdenovo).
-URL  http://soap.genomics.org.cn/
- http://soap.genomics.org.cn/soap3.html (SOAP3)
- http://soap.genomics.org.cn/soapsnp.html (SOAP SNP)
- http://soap.</description>
+URL  http://soap.genomics.org.cn/ http://soap.genomics.org.cn/soap3.html (SOAP3) http://soap.genomics.org.cn/soapsnp.html (SOAP SNP) http://soap.genomics.org.cn/soapindel.html (SOAP indel) http://soap.</description>
     </item>
     
     <item>
@@ -832,11 +804,10 @@ Related R/SPECTRAL-GEM   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNC
       <guid>https://gaow.github.io/genetic-analysis-software/s/sperm/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description analysis of sperm typing data.
-Author  Kenneth Lange (UCLA)
- Laura Lazzeroni
-  URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
+Author  Kenneth Lange (UCLA) Laura Lazzeroni
+URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language FORTRAN77
-Reference Lazzeroni, Arnheim, Schmitt, Lange (1994), &amp;ldquo;Multipoint mapping calculations for sperm-typing data&amp;rdquo;, American Journal of Human Genetics, 55(3):431-436   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Lazzeroni, Arnheim, Schmitt, Lange (1994), &amp;ldquo;Multipoint mapping calculations for sperm-typing data&amp;rdquo;, American Journal of Human Genetics, 55(3):431-436   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -862,11 +833,10 @@ Reference MS McPeek (1999), &amp;ldquo;SPERMSEG: analysis of segregation distort
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Simulate Pedigree In Population
 Description Simulate pedigrees and genetic data in age-structured populations
-Author  Eric C Anderson
- K.K. Dunham (Southwest Fisherie Science Center)
-  URL  http://swfsc.noaa.gov/staff.aspx?id=740
+Author  Eric C Anderson K.K. Dunham (Southwest Fisherie Science Center)
+URL http://swfsc.noaa.gov/staff.aspx?id=740
  http://swfsc.noaa.gov/textblock.aspx?Division=FED&amp;amp;id=3434
-  Language C
+Language C
 Reference Anderson, Dunham (2005), &amp;ldquo;SPIP 1.0: a program for simulating pedigrees and genetic data in age-structured populations&amp;rdquo;, Molecular Ecology Notes, 5(2):459-461.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -892,15 +862,14 @@ Description SPLAT can calculate virtually any linkage test statistic under sever
 Full Name affected Sib Pairs LINKage analysis
 Version 1.09 (Nov 1999)
 Description linkage analysis using affected sib pairs
-Author  David Clayton
- Cambridge Institute
- david.clayton@cimr.cam.ac.uk
-  URL http://www-gene.cimr.cam.ac.uk/clayton/software/
+Author  David Clayton Cambridge Institute david.clayton@cimr.cam.ac.uk
+URL http://www-gene.cimr.cam.ac.uk/clayton/software/
 Language c++
 OS UNIX(SunOS/..), MS-DOS
 EXE splink, ped2spl
-Reference  Holmans (1993), &amp;ldquo;Asymptotic properties of affected-sib-pair linkage analysis&amp;rdquo;, American Journal of Human Genetics, 52(2):362-374
- Holmans and Clayton (1995), submitted.</description>
+Reference Holmans (1993), &amp;ldquo;Asymptotic properties of affected-sib-pair linkage analysis&amp;rdquo;, American Journal of Human Genetics, 52(2):362-374
+ Holmans and Clayton (1995), submitted.
+ online manual   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -923,9 +892,8 @@ Description SPREG is a computer program for performing regression analysis of se
       <guid>https://gaow.github.io/genetic-analysis-software/s/sqtdtspdt/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description semiparametric family-based association
-Author  Guoqing Diao (email: gdiao@gmu.edu)
- Danyu Lin
-  URL http://www.bios.unc.edu/~lin/software/SQTDT/
+Author  Guoqing Diao (email: gdiao@gmu.edu) Danyu Lin
+URL http://www.bios.unc.edu/~lin/software/SQTDT/
 OS Linux
 Reference Diao, Lin (2006), &amp;ldquo;Improving the power of association tests for quantitative traits in family studies&amp;rdquo;, Genetic Epidemiology, 30:301-313.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
@@ -938,9 +906,8 @@ Reference Diao, Lin (2006), &amp;ldquo;Improving the power of association tests 
       <guid>https://gaow.github.io/genetic-analysis-software/s/sqtl/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Semiparametric QTL mapping in general pedigrees
-Author  Guoqing Diao (email: gdiao@gmu.edu)
- Danyu Lin
-  URL http://www.bios.unc.edu/~lin/software/SQTL/
+Author  Guoqing Diao (email: gdiao@gmu.edu) Danyu Lin
+URL http://www.bios.unc.edu/~lin/software/SQTL/
 OS Linux
 Reference Diao, Lin (2005), &amp;ldquo;A powerful and robust method for mapping quantitative trait loci in general pedigrees&amp;rdquo;, American Journal of Human Genetics, 77(1):97-111. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -955,11 +922,10 @@ Reference Diao, Lin (2005), &amp;ldquo;A powerful and robust method for mapping 
 Version github / R 3.1+
 Description sQTLseekeR is a R package to detect splicing QTLs (sQTLs), which are variants associated with change in the splicing pattern of a gene. Here, splicing patterns are modeled by the relative expression of the transcripts of a gene.
 Year 2014
-Author  Jean Monlong
- Roderic Guigó
-  URL http://big.crg.cat/computational_biology_of_rna_processing/sqtlseeker
+Author  Jean Monlong Roderic Guigó
+URL http://big.crg.cat/computational_biology_of_rna_processing/sqtlseeker
 Language R
-Reference Monlong, J.</description>
+Reference Monlong, J. et al.</description>
     </item>
     
     <item>
@@ -981,9 +947,8 @@ Description ssahaSNP is a polymorphism detection tool. It detects homozygous SNP
       <guid>https://gaow.github.io/genetic-analysis-software/s/start/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Finds starting points for MCMC analysis performed on large, complex pedigrees and polymorphic markers.
-Author  Y Luo
- S Lin (Ohio State Univ)
-  URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/
+Author  Y Luo S Lin (Ohio State Univ)
+URL http://www.stat.ohio-state.edu/~statgen/SOFTWARE/START/
 OS UNIX(Solaris), Linux
 Reference Y Luo, S Lin (2003), &amp;ldquo;Finding starting points for Markov chain Monte Carlo analysis of genetic data from large and complex pedigrees&amp;rdquo;, Genetic Epidemiology, 25:14-24.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -996,10 +961,8 @@ Reference Y Luo, S Lin (2003), &amp;ldquo;Finding starting points for Markov cha
       <guid>https://gaow.github.io/genetic-analysis-software/s/stepc/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name STatistical Explanation for Positional Cloning
-Author  Lei Sun
- Nancy COx
- Mary Sara McPeek
-  URL http://hg-wen.uchicago.edu/software.html
+Author  Lei Sun Nancy COx Mary Sara McPeek
+URL http://hg-wen.uchicago.edu/software.html
 Reference Sun, Cox, McPeek (2002) &amp;ldquo;A statistical method for identification of polymorphisms that explain a linkage result&amp;rdquo;, American Journal of Human Genetics, 70(2):399-411. [ html]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -1047,9 +1010,8 @@ Description using multi-locus genotype data to investigate population structure.
       <guid>https://gaow.github.io/genetic-analysis-software/s/sumstat/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description assess the joint disease association of multiple unlinked SNPs via sums of SNP specific test statistics. Genome-wide significance levels are obtained by per mutation analysis.
-Author  Josephine Hoh
- Jurg Ott (email: ottjurg@yahoo.com)
-  URL http://lab.rockefeller.edu/ott/programs
+Author  Josephine Hoh Jurg Ott (email: ottjurg@yahoo.com)
+URL http://lab.rockefeller.edu/ott/programs
 Language Free Pascal
 OS MS-Windows, Linux
 Reference Hoh, Wille, Ott (2001), &amp;ldquo;Trimming, weighting, and grouping SNPs in human case-control association studies&amp;rdquo;, Genome Research, 11:2115-2119   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -1107,11 +1069,10 @@ Description SVA is a software tool that assigns a predicted biological function 
       <guid>https://gaow.github.io/genetic-analysis-software/s/svcc/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Semiparametric Variance-Component for Censored data
-Author  Guoqing Diao (email: gdiao@gmu.edu)
- Danyu Lin
-  URL http://www.bios.unc.edu/~lin/software/SVCC/
+Author  Guoqing Diao (email: gdiao@gmu.edu) Danyu Lin
+URL http://www.bios.unc.edu/~lin/software/SVCC/
 OS Linux
-Reference Diao, Lin (2006), &amp;ldquo;Semiparametric variance-component models for linkage and association analyses of censored trait data&amp;rdquo;, Genetic Epidemiology, 30:570-581.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Diao, Lin (2006), &amp;ldquo;Semiparametric variance-component models for linkage and association analyses of censored trait data&amp;rdquo;, Genetic Epidemiology, 30:570-581.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>

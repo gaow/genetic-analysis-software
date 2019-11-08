@@ -69,8 +69,7 @@ Author Solveig Sieberts (email: solly@stat.washington.edu) based on some earlier
 Full Name power calculator for Extremely Discordant And Concordant sibpairs
 Author C Charles Gu
 URL http://www.biostat.wustl.edu/~gc/cgi-bin/calcpwr.cgi
-Reference  Gu, Todorov, Rao (1996), &amp;ldquo;Combining extremely concordant sibpairs with extremely discordant sibpairs provides a cost effective way to linkage analysis of QTL&amp;rdquo;, Genetic Epidemiology, 13:513-533.
- Gu, Rao (1997), &amp;ldquo;A linkage strategy for detection of human quantitative-trait loci: I. Generalized relative risk ratios and power of sib pairs with extreme trait values&amp;rdquo;,.</description>
+Reference  Gu, Todorov, Rao (1996), &amp;ldquo;Combining extremely concordant sibpairs with extremely discordant sibpairs provides a cost effective way to linkage analysis of QTL&amp;rdquo;, Genetic Epidemiology, 13:513-533. Gu, Rao (1997), &amp;ldquo;A linkage strategy for detection of human quantitative-trait loci: I. Generalized relative risk ratios and power of sib pairs with extreme trait values&amp;rdquo;,.</description>
     </item>
     
     <item>
@@ -81,14 +80,14 @@ Reference  Gu, Todorov, Rao (1996), &amp;ldquo;Combining extremely concordant si
       <guid>https://gaow.github.io/genetic-analysis-software/e/eh/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Estimating Haplotype-frequencies
-Author  Xiaoli Xie
- Jurg Ott (Columbia University; Rockefeller University)
-  URL http://lab.rockefeller.edu/ott/programs
+Author  Xiaoli Xie Jurg Ott (Columbia University; Rockefeller University)
+URL http://lab.rockefeller.edu/ott/programs
 Language Pascal
 OS MS-DOS, UNIX
 EXE eh
-Reference  Am Soc Hum Genet annual meeting 1993 (Xie, Ott (1993), &amp;ldquo;Testing linkage disequilibrium between a disease gene and marker loci&amp;rdquo;, Am J Hum Genet, 53 (suppl), 1107 (abstract)
- online user&amp;rsquo;s guide</description>
+Reference Am Soc Hum Genet annual meeting 1993 (Xie, Ott (1993), &amp;ldquo;Testing linkage disequilibrium between a disease gene and marker loci&amp;rdquo;, Am J Hum Genet, 53 (suppl), 1107 (abstract)
+ online user&amp;rsquo;s guide
+ a product review from: http://www.</description>
     </item>
     
     <item>
@@ -100,9 +99,8 @@ Reference  Am Soc Hum Genet annual meeting 1993 (Xie, Ott (1993), &amp;ldquo;Tes
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0
 Description detecting association between haplotypes and phenotypes
-Author  Howard Seltman
- Shawn Wood (University of Pittburg)
-  URL http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm
+Author  Howard Seltman Shawn Wood (University of Pittburg)
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/ehap__v1.htm
 EXE ehap.exe, haplinmod.exe   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
@@ -142,12 +140,11 @@ Related EH, FASTEHPLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNC
       <guid>https://gaow.github.io/genetic-analysis-software/e/eigensofteigenstrat/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 4.2 (August 2011)
-Author  Alkes Price
- David Reich (Harvard Medical School)
-  URL  http://www.hsph.harvard.edu/faculty/alkes-price/software/
+Author  Alkes Price David Reich (Harvard Medical School)
+URL http://www.hsph.harvard.edu/faculty/alkes-price/software/
  http://genepath.med.harvard.edu/~reich/Software.htm
  http://genepath.med.harvard.edu/~reich/EIGENSTRAT.htm
-  OS Linux
+OS Linux
 Reference Price, Patterson, Plenge, Weinblatt, Shadick, Reich (2006), &amp;ldquo;Principal components analysis corrects for stratification in genome-wide association studies&amp;rdquo;, Nature Genetics, 38(8):904-909.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -159,11 +156,9 @@ Reference Price, Patterson, Plenge, Weinblatt, Shadick, Reich (2006), &amp;ldquo
       <guid>https://gaow.github.io/genetic-analysis-software/e/em-decoder/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a haplotype inference program
-Author  Steve Qin
- (email: qin@stat.harvard.edu)
- Jun S Liu (email: jliu@stat.harvard.edu)
-  URL http://www.people.fas.harvard.edu/~junliu/em/em.htm
-Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Author  Steve Qin (email: qin@stat.harvard.edu) Jun S Liu (email: jliu@stat.harvard.edu)
+URL http://www.people.fas.harvard.edu/~junliu/em/em.htm
+Reference Niu, Qin, Xu, Liu (2002), &amp;ldquo;Bayesian haplotype inference for multiple linked single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, 70(1):157-169   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -241,11 +236,10 @@ Reference Holland (1998), &amp;ldquo;EPISTACY: A SAS program for detecting two-l
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 5.0
 Description EQTL EXPORER is an eQTL visualization tool that allows users to mine and understand data from a repository of genetical genomics experiments
-Author  Michael Mueller
- Jonathan Mangion (Imperial College, UK)
-  URL http://web.bioinformatics.ic.ac.uk/eqtlexplorer/
+Author  Michael Mueller Jonathan Mangion (Imperial College, UK)
+URL http://web.bioinformatics.ic.ac.uk/eqtlexplorer/
 Language Java
-Reference Mueller, Goel, Thimma, Dickens, Aitman, Mangion (2006), &amp;ldquo;eQTL Explorer: integrated mining of combined genetic linkage and expression experiments&amp;rdquo;, Bioinformatics, 22(4):509-511.</description>
+Reference Mueller, Goel, Thimma, Dickens, Aitman, Mangion (2006), &amp;ldquo;eQTL Explorer: integrated mining of combined genetic linkage and expression experiments&amp;rdquo;, Bioinformatics, 22(4):509-511.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -258,9 +252,8 @@ Reference Mueller, Goel, Thimma, Dickens, Aitman, Mangion (2006), &amp;ldquo;eQT
 Full Name Extended Relative Pair Analysis
 Description non-parametric analysis
 Author Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+Language C
 OS MS-DOS
 Reference Curtis, Sham (1994), Annals of Human Genetics, 58:151-162.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
@@ -274,9 +267,8 @@ Reference Curtis, Sham (1994), Annals of Human Genetics, 58:151-162.   /** * REC
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Evolutionary Tree - Transmission Disequilibrium Test
 Author Kathryn Roeder (Carnegie Mellon, email: roeder@stat.cmu.edu)
-URL  http://www.stat.cmu.edu/~roeder/=ettdt/
- ftp://wpicf.wpic.pitt.edu/WPICCompgen/ettdt/index.html
-  OS MS-DOS
+URL  http://www.stat.cmu.edu/~roeder/=ettdt/ ftp://wpicf.wpic.pitt.edu/WPICCompgen/ettdt/index.html
+OS MS-DOS
 EXE inferhap.exe, ettdt.exe
 Reference Selman, Roeder, Devlin (2001), &amp;ldquo;Transmission/Disequilibrium Test Meets Measured haplotype analysis: family-based association analysis guided by evolution of haplotypes&amp;rdquo;, American Journal of Human Genetics, 68(5):1250-1263   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -290,11 +282,10 @@ Reference Selman, Roeder, Devlin (2001), &amp;ldquo;Transmission/Disequilibrium 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name extended transmission/disequilibrium test
 Description TDT test on markers with more than two alleles using a logistic regression analysis.
-Author  P.C. Sham (King&amp;rsquo;s College London, UK)
- Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
-  URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+Author  P.C. Sham (King&amp;rsquo;s College London, UK) Dave Curtis (Royal London Hospital, UK) ( dcurtis@hgmp.mrc.ac.uk)
+URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
+Language C
 OS MS-DOS
 Reference Sham, Curtis (1995), Annals of Human Genetics, 59:323-336.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

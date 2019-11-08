@@ -17,14 +17,13 @@
       
       <guid>https://gaow.github.io/genetic-analysis-software/d/dchip-linkage/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Author  Igor Leykin
- Cheng Li (Harvard University)
-  URL  http://www.biostat.harvard.edu/complab/dchip/snp.htm
+Author  Igor Leykin Cheng Li (Harvard University)
+URL http://www.biostat.harvard.edu/complab/dchip/snp.htm
  http://www.biostat.harvard.edu/~ileykin/accessory.htm
  http://groups.yahoo.com/group/dchip/
-  Language C++
+Language C++
 OS MS-Windows
-Reference Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data&amp;rdquo;, BMC Genetics, 6:7.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visualization of high-density oligonucleotide SNP array data&amp;rdquo;, BMC Genetics, 6:7.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -35,10 +34,8 @@ Reference Leykin et al. (2005), &amp;ldquo;Comparative linkage analysis and visu
       <guid>https://gaow.github.io/genetic-analysis-software/d/dgene/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a simple dBASE III program for the management of pedigree and locus data. It permits easy extraction of genetic data for use with MENDEL and FISHER.
-Author  Kenneth Lange (UCLA)
- Daniel E. Weeks (Pittsburgh)
- M. Boehnke
-  URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
+Author  Kenneth Lange (UCLA) Daniel E. Weeks (Pittsburgh) M. Boehnke
+URL registration page at: http://www.biomath.medsch.ucla.edu/faculty/klange/software.html
 Language dBASE III
 OS MS-DOS, &amp;hellip;
 Reference Lange, Weeks, Boehnke, Genet Epid, 5, 471-471 (1988)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -107,10 +104,8 @@ Reference Graham, Thompson (1998), &amp;ldquo;Disequilibrium likelihoods for fin
 Full Name Disease Mapping using Linkage disEquilibrium
 Version 2.3 (October 2005)
 Description high-resolution mapping of the position of a disease mutation relative to a set of genetic markers using population linkage disequilibrium (LD).
-Author  Jeff Reeve
- Ying Wang
- Rannala (University Alberta, Canada)
-  URL http://www.dmle.org/
+Author  Jeff Reeve Ying Wang Rannala (University Alberta, Canada)
+URL http://www.dmle.org/
 OS Linux, MS-Windows
 Reference Reeve, Rannala, Bioinformatics, 18(6):894-895 (2002).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -133,11 +128,12 @@ URL http://www.dnabaser.com/   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT A
       
       <guid>https://gaow.github.io/genetic-analysis-software/d/dolink/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Other Name  WDLINK  Description manage genetic data
+Other Name  WDLINK
+Description manage genetic data
 Author Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
+URL http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
  ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C++
+Language C++
 OS MS-DOS, MS-Windows
 Reference Cook, Gurling, Curtis (1993), &amp;ldquo;DOLINK: a computer program to facilitate management of genetic data and analyses&amp;rdquo;, Annals of Human Genetics, 57:307-310.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -151,9 +147,8 @@ Reference Cook, Gurling, Curtis (1993), &amp;ldquo;DOLINK: a computer program to
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Direct method for Perfect Phylogeney Haplotyping
 Description similar to the BPPH program
-Author  Ren-Hua Chuang
- Dan Gusfield (UC Davis) (email: gusfield@cs.ucdavis.edu)
-  URL http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html
+Author  Ren-Hua Chuang Dan Gusfield (UC Davis) (email: gusfield@cs.ucdavis.edu)
+URL http://wwwcsif.cs.ucdavis.edu/~gusfield/dpph.html
 OS Linux, MacOS
 Reference Bafna, Gusfield, Lancia, Yooseph (2003), &amp;ldquo;Haplotyping as perfect phylogeny: a direct approach&amp;rdquo;, Journal of Computational Biology, 10(3):323-340.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

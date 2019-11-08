@@ -19,10 +19,9 @@
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 3.0 (May 1994)
 Description a tool for construction of genetic linkage maps and analyzing Mendelian phenotypes.
-Author  J.L Holloway
- S.J. Knapp (Department of Crop, Soil Science, Oregon State University)
-  URL http://cropandsoil.oregonstate.edu/G-mendel
-OS UNIX, MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Author  J.L Holloway S.J. Knapp (Department of Crop, Soil Science, Oregon State University)
+URL http://cropandsoil.oregonstate.edu/G-mendel
+OS UNIX, MS-Windows   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
     <item>
@@ -88,14 +87,12 @@ Reference Lin (2006), &amp;ldquo;Evaluating statistical significance in two-stag
 Full Name Genometric Analysis Simulation Program
 Version 3.31 (April 1998)
 Description a software tool for testing and investigating methods in statistical genetics by generating samples of family data based on user specified models.
-Author  A.F. Wilson ( afw@nhgri.nih.gov)
- J.E.Bailey-Wilson
- E.W. Pugh
- A.J.M. Sorant (NCHGR/NIH)
-  URL  http://www.nhgri.nih.gov/DIR/IDRB/GASP/
+Author  A.F. Wilson ( afw@nhgri.nih.gov) J.E.Bailey-Wilson E.W. Pugh A.J.M. Sorant (NCHGR/NIH)
+URL http://www.nhgri.nih.gov/DIR/IDRB/GASP/
  ftp://nhgri.nih.gov/pub/outgoing/gasp
-  Language FORTRAN77
-OS UNIX(DEC-UNIX 4.</description>
+Language FORTRAN77
+OS UNIX(DEC-UNIX 4.0B/Solaris 2.5/SGI-IRIX 6.2/..)
+Reference Am Soc Hum Genet annual meeting 1996 (Wilson, Bailey-Wilson, Pugh, Sorant, Am J.</description>
     </item>
     
     <item>
@@ -131,7 +128,7 @@ Description The GATK is a structured software library that makes writing efficie
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Genomic Control
 Description GC implements the genomic control models. GCF implements the basic Genomic Control approach, but adjusts the p-values for uncertainty in the estimated effect of substructure. This approach is preferable if a large number of tests will be evaluated because it provides a more accurrate assessment of the significance level for small p-values.
-Author  B Devlin</description>
+Author  B Devlin K Roeder</description>
     </item>
     
     <item>
@@ -155,9 +152,8 @@ Description This program finds maximum likelihood estimates of haplotype frequen
 Full Name Genetic Data Analysis
 Version 1.0d16c (Jan 2001)
 Description designed to accompany the second edition of Bruce Weir&amp;rsquo;s book &amp;ldquo;Genetic Data Analysis&amp;rdquo; (1996. Sinauer Associates)
-Author  Paul Lewis
- Dmitri Zaykin
-  URL http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php
+Author  Paul Lewis Dmitri Zaykin
+URL http://hydrodictyon.eeb.uconn.edu/people/plewis/software.php
 OS MS-Windows (3.1/95/NT), MacOS (10.2.8&amp;frasl;10.3)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -171,13 +167,11 @@ OS MS-Windows (3.1/95/NT), MacOS (10.2.8&amp;frasl;10.3)   /** * RECOMMENDED CON
 Full Name Genetic Epidemiology ModelS
 Version 1.0
 Description a computer software for fitting Genetic Epidemiology Models. This version of GEMS provides the features for many statistical analyses of family data:
-Author  GE Bonney
- V Apprey
- J Kwagyan (Howard Univ)
-  URL http://statgen.genomecenter.howard.edu/gems.htm
+Author  GE Bonney V Apprey J Kwagyan (Howard Univ)
+URL http://statgen.genomecenter.howard.edu/gems.htm
 OS UNIX(DEC-alpha), Linux
 EXE gems
-Reference Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am.</description>
+Reference Am Soc Hum Genet annual meeting 1997 (Bonney, Slater, Slifker, Am. J. Hum.</description>
     </item>
     
     <item>
@@ -232,9 +226,7 @@ Reference  Zhao, Lissarrague, Essioux, Sham (2002), &amp;ldquo;GENECOUNTING: hap
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1.9 (June 2004)
 Description GeneFinder uses GEE method to estimate the location of the susceptibility gene based on the allele-sharing of affected sib pairs for multiple markers. GENEFINDER can further the analysis of GENEHUNTER by providing a more accurate gene location estimation and the corresponding confidence interval.
-Author  Wei-Min Chen (email: wechen@jhsph.edu)
- Kung-Yee Liang (email: kyliang@jhpsh.edu)
- Yen-Feng Chiu</description>
+Author  Wei-Min Chen (email: wechen@jhsph.edu) Kung-Yee Liang (email: kyliang@jhpsh.edu) Yen-Feng Chiu</description>
     </item>
     
     <item>
@@ -246,15 +238,12 @@ Author  Wei-Min Chen (email: wechen@jhsph.edu)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.1 release 4 (April 2003)
 Description multipoint analysis of pedigree data including: non-parametric linkage analysis, LOD-score computation, information-content mapping, haplotype reconstruction
-Author  Leonid Kruglyak ( leonid@genome.wi.mit.edu)
- Mark Daly (mjdaly@genome.wi.mit.edu)
- Mary Pat Reeve-Daly ( mpreeve@genome.wi.mit.edu)
- Eric Lander ( lander@genome.wi.mit.edu) (Whitehead Institute)
-  URL http://www.broad.mit.edu/ftp/distribution/software/genehunter/
+Author  Leonid Kruglyak ( leonid@genome.wi.mit.edu) Mark Daly (mjdaly@genome.wi.mit.edu) Mary Pat Reeve-Daly ( mpreeve@genome.wi.mit.edu) Eric Lander ( lander@genome.wi.mit.edu) (Whitehead Institute)
+URL http://www.broad.mit.edu/ftp/distribution/software/genehunter/
 Language C
 OS UNIX
 EXE gh
-Reference  Kruglyak,Daly,Reeve-Daly,Lander (1996), &amp;ldquo;Parametric and nonparametric linkage analysis: a unified multipoint approach&amp;rdquo;, American Journal of Human Genetics, 58:1347-1363</description>
+Reference Kruglyak,Daly,Reeve-Daly,Lander (1996), &amp;ldquo;Parametric and nonparametric linkage analysis: a unified multipoint approach&amp;rdquo;, American Journal of Human Genetics, 58:1347-1363</description>
     </item>
     
     <item>
@@ -317,9 +306,10 @@ Description GENEHUNTER-PLUS is a modification of the GENEHUNTER software package
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.3 (May 2000), optimized and parallelized version (May 2004)
 Description GENEHUNTER-TWOLOCUS is a modification of the GENEHUNTER software package (version 1.3). The program performs complete parametric and nonparametric multi-marker linkage analysis with two autosomal, biallelic disease loci.
-Author  K Strauch strauch@med.uni-marburg.de) (Philipps University Marburg, Germany)
- Johannes Dietter ( dietter@med.uni-marburg.de) (Philipps University Marburg, Germany)
-  URL http://www.staff.uni-marburg.de/~strauchk/software.html</description>
+Author  K Strauch strauch@med.uni-marburg.de) (Philipps University Marburg, Germany) Johannes Dietter ( dietter@med.uni-marburg.de) (Philipps University Marburg, Germany)
+URL http://www.staff.uni-marburg.de/~strauchk/software.html
+Language C
+OS UNIX(SUNOS,Solaris,OSF,HPUX,AIX,Ultrix), Linux, MS-Windows</description>
     </item>
     
     <item>
@@ -332,9 +322,8 @@ Author  K Strauch strauch@med.uni-marburg.de) (Philipps University Marburg, Germ
 Version September 2006
 Description a set of Java programs for genetic epidemiology analysis
 Author Alun Thomas (University of Utah)
-URL  http://bioinformatics.med.utah.edu/~alun/software/index.html
- http://balance.med.utah.edu/wiki/index.php/JPSGCS
-  Language Java
+URL  http://bioinformatics.med.utah.edu/~alun/software/index.html http://balance.med.utah.edu/wiki/index.php/JPSGCS
+Language Java
 OS web-based
 EXE CheckFormat, CheckError, DownCodeAlleles, GeneCountAlleles, SelectLoci, SelectKindreds, TrimPed, TwoPointLods, MaxTwoPointLods, McLink, McLinkLD, HapGraph, GaploFreqs, GCHap, ApproxGCHap, ViewGraph, ViewPed, ViewLinkPed,
 Related JPSGCS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -349,7 +338,7 @@ Related JPSGCS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT T
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.84
 Description GenePool is a software package that provides analysis tools for the detection of shifts in relative allele frequency between pooled genomic DNA from cases and controls using SNP-based genotyping microarrays. GenePool supports genotyping platforms from Affymetrix and Illumina.
-Author  John Pearson (Translational Genomics Research Institute) (email: jpearson@tgen.org) David Craig (email: dcraig@tgen.org) Matt Huentelman (email: mhuentelman@tgen.org) Waibhav Tembe</description>
+Author  John Pearson (Translational Genomics Research Institute) (email: jpearson@tgen.org) David Craig (email: dcraig@tgen.org) Matt Huentelman (email: mhuentelman@tgen.org) Waibhav Tembe Sotiris Mitranopolous Nils Homer</description>
     </item>
     
     <item>
@@ -361,10 +350,8 @@ Author  John Pearson (Translational Genomics Research Institute) (email: jpearso
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 3.4
 Description a population genetics software package
-Author  Michel Raymond (email: raymond@isem.univ-montp2.fr)
- Francois Rousset ( email: rousset@isem.univ-montp2.fr)
- Eleanor Morgan (email: nell@wbiomed.curtin.edu.au) (web version)
-  URL http://wbiomed.curtin.edu.au/genepop/
+Author  Michel Raymond (email: raymond@isem.univ-montp2.fr) Francois Rousset ( email: rousset@isem.univ-montp2.fr) Eleanor Morgan (email: nell@wbiomed.curtin.edu.au) (web version)
+URL http://wbiomed.curtin.edu.au/genepop/
 Reference Raymond, Rousset (1995), &amp;ldquo;GENEPOP (version 1.2): population genetics software for exact tests and ecumenicism&amp;rdquo;, Journal of Heredity, 86:248-249   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -399,10 +386,9 @@ Description GeneSpring GT is a desktop analysis workbench for analyzing high-vol
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2001-2005
 Description automated power analysis for variance components (VC) quantitative trait locis (QTL) linkage and association tests in sibships, and other common tests
-Author  S. Purcell
- P Sham
-  URL http://pngu.mgh.harvard.edu/~purcell/gpc/
-Reference  Sham, Cherny, Purcell, Hewitt (2000), &amp;ldquo;Power of linkage versus association analysis of quantitative traits, by use of variance-components models, for sibship data&amp;rdquo;, American Journal of Human Genetics, 66(5):1616-1630</description>
+Author  S. Purcell P Sham
+URL http://pngu.mgh.harvard.edu/~purcell/gpc/
+Reference Sham, Cherny, Purcell, Hewitt (2000), &amp;ldquo;Power of linkage versus association analysis of quantitative traits, by use of variance-components models, for sibship data&amp;rdquo;, American Journal of Human Genetics, 66(5):1616-1630</description>
     </item>
     
     <item>
@@ -461,8 +447,7 @@ Description GENIE (previously PEDGENIE and HAPMC) performs tests of association 
 Full Name GenoCheck
 Version 1.0 (sept 20, 1995)
 Description GenoCheck is a program designed to identify genotypes that are likely to be errors. The statistical method was designed to identify typing error rather than pedigree errors, but is general enough to pinpoint any unlikely genotype still consistent with Mendelian inheritance.
-Author  Meg Gelder Ehm (Glaxo Wellcome Inc. mge37216@glaxowellcome.com)
- Robert W.</description>
+Author  Meg Gelder Ehm (Glaxo Wellcome Inc. mge37216@glaxowellcome.com) Robert W.</description>
     </item>
     
     <item>
@@ -487,10 +472,8 @@ Availability US$50 (student), US$125 (standard)   /** * RECOMMENDED CONFIGURATIO
       <guid>https://gaow.github.io/genetic-analysis-software/g/genome/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description GENOME is a program to simulate sequences drawn from a population under the Wright-Fisher neutral model. The purpose of this program is to simulate sequences on the whole genome scale within practical time.
-Author  Liming Liang (email: lianglim@umich.edu)
- Sebastian Zollner
- Goncalo Abecasis (University of Michigan)
-  URL http://www.sph.umich.edu/csg/liang/genome/
+Author  Liming Liang (email: lianglim@umich.edu) Sebastian Zollner Goncalo Abecasis (University of Michigan)
+URL http://www.sph.umich.edu/csg/liang/genome/
 Language C++
 OS UNIX(Solaris), Linux, MS-Windows
 Reference Liang, Zollner, Abecasis (2006), &amp;ldquo;GENOME: a rapid coalescent-based whole genome simulator&amp;rdquo;, ASHG Annual Meeting.</description>
@@ -519,9 +502,8 @@ Reference Dudek, Motsinger, Velez, Williams, Ritchie (2006), &amp;ldquo;Data sim
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0
 Description Genomizer is a platform independent Java program for the analysis of genome wide association experiments.
-Author  Andre Franke (email: a.franke@mucosa.de)
- Jochen Hampe
-  URL http://www.ikmb.uni-kiel.de/genomizer/
+Author  Andre Franke (email: a.franke@mucosa.de) Jochen Hampe
+URL http://www.ikmb.uni-kiel.de/genomizer/
 Language Java
 OS MS-Windows, Linux
 Reference Franke, Wollstein, Teuber, Wittig, Lu, Hoffmann, Nurnberg, Krawczak, Schreiber, Hampe (2006), &amp;ldquo;GENOMIZER: an integrated analysis system for genome-wide association data&amp;rdquo;, Human Mutation, 27(6):583-588   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -558,15 +540,13 @@ Description download software package for the analysis of multiplex PCR kits wit
       <guid>https://gaow.github.io/genetic-analysis-software/g/gentools/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description software for analysis and manipulation of genetic linkage data of genetic linkage data, including conversions of pedigree files between CRI-MAP and LINKAGE format.
-Author  Raymond Weaver
- Cynthia Helms
- Santosh Mishra
- Helen Donis-Keller (Washington University School of Medicine, St. Lious)
-  URL  http://www.genlink.wustl.edu/software/index.html
+Author  Raymond Weaver Cynthia Helms Santosh Mishra Helen Donis-Keller (Washington University School of Medicine, St. Lious)
+URL http://www.genlink.wustl.edu/software/index.html
  ftp://mapper.wustl.edu/pub/gentools
-  Language C
+Language C
 OS UNIX
-EXE faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unmerge2</description>
+EXE faminfo, genlink, jim, pic, pichet, twotable,unmerge, inherit,linkgen,refbld,unmerge2
+Reference Weaver, Helms, Mishra, Donis-Keller (1992), &amp;ldquo;Software for analysis and manipulation of genetic linkage data&amp;rdquo;, American Journal of Human Genetics, 50:1267-1274   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -605,9 +585,7 @@ Reference Ukai, Nesumi, Yakano (1996), &amp;ldquo;A package of computer programs
 Full Name GEnotype Visualization and ALgorithmic Tool
 Version 2.0
 Description GEVALT is designed to simplify and expedite the process of genotype analysis and disease association tests by providing a common interface to several common tasks relating to such analyses. It is aimed for analysis of unrelated individuals as well as two-generation families.
-Author  Ofir Davidovich
- Gad Kimmel
- Eran Halperin</description>
+Author  Ofir Davidovich Gad Kimmel Eran Halperin Oded Apel Ron Shamir.</description>
     </item>
     
     <item>
@@ -620,9 +598,8 @@ Author  Ofir Davidovich
 Full Name Generic Genetic Studies Database
 Description web-based, relational database driven data management software package for the management of large scale genetic studies.
 Author Aaron Day-Williams (Wellcome Trust Sanger Institute)
-URL  http://sourceforge.net/projects/ggsd/
- http://ggsd.sourceforge.net/
-  Language Java, PHP, Perl
+URL  http://sourceforge.net/projects/ggsd/ http://ggsd.sourceforge.net/
+Language Java, PHP, Perl
 OS web-based   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -673,9 +650,7 @@ Reference Li, Scott, Boehnke (2004), American Journal of Human Genetics, 74(3):4
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description glfTrio is a GLF-based variant caller for next-generation sequencing data. It takes one/three/multiple GLF format genotype likelihood files as input and generates a VCF-format set of variant calls as output.
 Author Abecasis&amp;rsquo; group (Univ Michigan)
-URL  http://genome.sph.umich.edu/wiki/GlfSingle
- http://genome.sph.umich.edu/wiki/GlfTrio
- http://genome.sph.umich.edu/wiki/GlfMultiples   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+URL  http://genome.sph.umich.edu/wiki/GlfSingle http://genome.sph.umich.edu/wiki/GlfTrio http://genome.sph.umich.edu/wiki/GlfMultiples   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -740,7 +715,7 @@ Reference Thomas (2005), &amp;ldquo;GMCheck: Bayesian error checking for pedigre
 Full Name Graphical Overview of Linkage Disequilibrium
 Version November 2001
 Description A software package that provides a graphical summary of linkage disequilibrium in human genetic data. The graphical summary is well suited to the analysis of dense genetic maps, where contingency tables are cumbersome to interpret. An interface to the Simwalk2 application allows for the analysis of family data.
-Author  G R Abecasis</description>
+Author  G R Abecasis William Cookson (Wellcome Trust Centre for Human Genetics, Oxford, UK)</description>
     </item>
     
     <item>
@@ -751,10 +726,11 @@ Author  G R Abecasis</description>
       <guid>https://gaow.github.io/genetic-analysis-software/g/gregor/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description the program allows students and scientists to explore potential manifestations of genetic models and stochastic processes. It also provides a means to evaluate the effectiveness of statistical procedures such as linkage analysis or QTL detection.
-Author  Nick Tinker ( tinker@agr.gc.ca)
- Diane Mather (grain crops breeding, genetic research, McGill Univ, mather@agradm.lan.mcgill.ca)
-  URL  http://gnome.agrenv.mcgill.ca/tinker/gregor.htm
- ftp://gnome.agrenv.mcgill.ca/software/GREGOR/</description>
+Author  Nick Tinker ( tinker@agr.gc.ca) Diane Mather (grain crops breeding, genetic research, McGill Univ, mather@agradm.lan.mcgill.ca)
+URL http://gnome.agrenv.mcgill.ca/tinker/gregor.htm
+ ftp://gnome.agrenv.mcgill.ca/software/GREGOR/
+OS MS-DOS
+Reference Tinker and Mather, Journal of Heredity, 84, 237 (1993)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -789,12 +765,11 @@ Description Conversion programs from LINKAGE files are available. The program us
 Full Name Graphical Representation of Relationships
 Version Aug 2003
 Description a graphical tool designed for detection of errors in relationship specification in general pedigrees by use of genome scan marker data.
-Author  G R Abecasis (email: goncalo@well.ox.ac.uk)
- S S Cherny (email: cherny@qtl.well.ox.ac.uk)
- W O C Cookson
- L R Cardon (email: lon@well.ox.ac.uk)
-  URL http://www.sph.umich.edu/csg/abecasis/GRR/
-Language C++</description>
+Author  G R Abecasis (email: goncalo@well.ox.ac.uk) S S Cherny (email: cherny@qtl.well.ox.ac.uk) W O C Cookson L R Cardon (email: lon@well.ox.ac.uk)
+URL http://www.sph.umich.edu/csg/abecasis/GRR/
+Language C++
+OS MS-Windows
+Reference Abecasis, Cherny, Cookson, and Cardon (2001), &amp;ldquo;GRR: Graphical representation of relationship errors&amp;rdquo;, Bioinformatics, 17(8):742-743.</description>
     </item>
     
     <item>

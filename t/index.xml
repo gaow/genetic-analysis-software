@@ -33,9 +33,8 @@ Reference de Bakker, Yelensky, Pe&amp;rsquo;er, Gabriel, Daly, Altshuler (2005),
 Full Name TAGging-snp based IMPUTATE
 Version 1.0
 Description tagIMPUTE is a command-line program for the imputation of untyped SNPs. tagIMPUTE is based on a few flanking SNPs that can optimally predict the SNP under imputation.
-Author  Yijuan Hu
- Danyu Lin (Univ North Carolina)
-  URL http://www.bios.unc.edu/~lin/software/tagIMPUTE/
+Author  Yijuan Hu Danyu Lin (Univ North Carolina)
+URL http://www.bios.unc.edu/~lin/software/tagIMPUTE/
 Reference Hu, Lin (2010), &amp;ldquo;Analysis of untyped SNPs: maximum likelihood and imputation methods&amp;rdquo;, Genetic Epidemiology, 34:803-815.</description>
     </item>
     
@@ -61,7 +60,7 @@ Reference Stram (2004), &amp;ldquo;Tag SNP selection for association studies&amp
       <guid>https://gaow.github.io/genetic-analysis-software/t/tagster/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description TAGster is a tool to select, evaluate and visualize LD tag SNPs for single or multiple populations. The input files can be a set of dumped genotype files from International HapMap Project (http://www.hapmap.org/) (Hapmap format) or Seattle SNPs (http://pga.gs.washington.edu/) (Prettybase format). The ouput is a set of LD tag SNPs for single or multiple populations.
-Author  Zongli Xu</description>
+Author  Zongli Xu Norman L.</description>
     </item>
     
     <item>
@@ -113,7 +112,7 @@ Description The program provides separate results for TDT, S-TDT, and the combin
 URL http://genomics.med.upenn.edu/spielman/TDT.htm
 Language Java
 OS MS-Windows (95/NT)
-Reference  Spielman, McGinnis, Ewens (1993), &amp;ldquo;Transmission test for linkage disequilibrium: the insulin gene region and insulin-dependent diabetes mellitus (IDDM)&amp;ldquo;, American Journal of Human Genetics, 52(3):506-516</description>
+Reference  Spielman, McGinnis, Ewens (1993), &amp;ldquo;Transmission test for linkage disequilibrium: the insulin gene region and insulin-dependent diabetes mellitus (IDDM)&amp;ldquo;, American Journal of Human Genetics, 52(3):506-516 Spielman, Ewens (1998), &amp;ldquo;A sibship test for linkage in the presence of association: the sib transmission/disequilibrium test&amp;rdquo;, American Journal of Human Genetics, 62(2):450-458   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -126,9 +125,9 @@ Reference  Spielman, McGinnis, Ewens (1993), &amp;ldquo;Transmission test for li
 Full Name Power and Sample-Size Calculations for the TDT and ASP Tests
 Version 1.1 (April 2003)
 Description Power and sample-size calculations for the TDT and ASP tests under a wide variety of ascertainment schemes. Uses the flexible genetic model of McGinnis. Most calculations are exact rather than asymptotic.
-Author  Barry W. Brown (bwb@mdanderson.org)
- Dan Serachitopol (dansera@mdanderson.org)
-  URL  http://biostatistics.</description>
+Author  Barry W. Brown (bwb@mdanderson.org) Dan Serachitopol (dansera@mdanderson.org)
+URL http://biostatistics.mdanderson.org/SoftwareDownload/
+ http://biostatistics.</description>
     </item>
     
     <item>
@@ -190,9 +189,8 @@ Description The objective of the THESIAS program is to perform haplotype-based a
       <guid>https://gaow.github.io/genetic-analysis-software/t/tkmap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a program for drawing genetic maps
-Author  Humberto Ortiz Zuazaga (email: humberto@hpcf.upr.edu)
- Rosemarie Plaetke ( rosi@momo.uthscsa.edu) (Univ Texas Health Science Ctr at San Antonio).
-  URL http://www.hpcf.upr.edu/~humberto/software/TkMap/
+Author  Humberto Ortiz Zuazaga (email: humberto@hpcf.upr.edu) Rosemarie Plaetke ( rosi@momo.uthscsa.edu) (Univ Texas Health Science Ctr at San Antonio).
+URL http://www.hpcf.upr.edu/~humberto/software/TkMap/
 Language based on bioTk which is based on Tcl/Tk
 Reference manual page   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -206,14 +204,10 @@ Reference manual page   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCO
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name two-locus trait linkage programs
 Description these are extensions of the LINKAGE programs that allow the disease phenotype to be under the control of disease two loci.
-Author  Lathrop
- Schork
- Boehnke
- Terwilliger
- Ott
-  Language Pascal
+Author  Lathrop Schork Boehnke Terwilliger Ott
+Language Pascal
 OS MS-DOS
-Reference  Lathrop, Ott (1990), American Journal of Human Genetics, 47(supp):A188.
+Reference Lathrop, Ott (1990), American Journal of Human Genetics, 47(supp):A188.
  Schork, Boehnke, Terwilliger, Ott (1993), &amp;ldquo;Two-trait-locus linkage analysis: a powerful strategy for mapping complex genetic traits&amp;rdquo;, American Journal of Human Genetics, 53(5):1127-1136</description>
     </item>
     
@@ -237,8 +231,7 @@ Description The program implements the Mantel statistics as proposed by Beckmann
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.5.4
 Description TRANSMIT tests for association between genetic marker and disease by examining the transmission of markers from parents to affected offspring. The main features which differ from other similar programs are: (1) It can deal with transmission of multi-locus haplotypes, even if phase is unknown, and (2) Parental genotypes may be unknown.
-Author  David Clayton
- Cambridge Institute</description>
+Author  David Clayton Cambridge Institute david.</description>
     </item>
     
     <item>
@@ -251,9 +244,7 @@ Author  David Clayton
 Full Name Tiled Regression Analysis Package
 Version 1.0
 Description a software tool for determining a regression model of quantitative or binary trait variation when the number of possible genetic predictors is very large, considering only a moderate number of predictors at one time, using unrelated or family data.
-Author  Alexander F. Wilson (afw@mail.nih.gov)
- Yoonhee Kim
- Heejong Sung</description>
+Author  Alexander F. Wilson (afw@mail.nih.gov) Yoonhee Kim Heejong Sung Juanling Cai Alexa J.</description>
     </item>
     
     <item>
@@ -306,9 +297,8 @@ Reference Bhatia et al. (2011), &amp;ldquo;Genome-wide comparison of African-anc
 Full Name TRIMmed-HAPlotype (previously named HAL: Haplotype ALgorithm)
 Version 1.2
 Description linkage disequilibrium mapping based on ancestral founder haplotypes. Method uses haplotype data from general pedigrees.
-Author  Rory Martin
- Charles MacLean (Virginia Commonwealth University)
-  URL http://www.vipbg.vcu.edu/trimhap/
+Author  Rory Martin Charles MacLean (Virginia Commonwealth University)
+URL http://www.vipbg.vcu.edu/trimhap/
 Language FORTRAN
 OS UNIX
 EXE hal

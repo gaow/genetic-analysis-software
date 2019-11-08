@@ -30,14 +30,12 @@ Description VAAST is a probabilistic search tool for identifying damaged genes a
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Variant Association Tools inherits the intuitive command-line interface of variant tools with re-design and implementation of its infrastructure to accommodate the scale of dataset generated from nowadays sequencing efforts on large populations.
 Year 2012
-Author  Gao Wang
- Bo Peng
- Suzanne M. Leal
-  URL http://varianttools.sourceforge.net/VAT
+Author  Gao Wang Bo Peng Suzanne M. Leal
+URL http://varianttools.sourceforge.net/VAT
 Language C++, Python
 OS Linux, MacOS
 EXE vtools
-Reference Gao T.</description>
+Reference Gao T. Wang, Bo Peng and Suzanne M.</description>
     </item>
     
     <item>
@@ -50,7 +48,7 @@ Reference Gao T.</description>
 Version 2.6.1
 Description Variant tools is a software tool for the manipulation, annotation, selection, simulation, and analysis of variants in the context of next-gen sequencing analysis. Unlike some other tools used for Next-Gen sequencing analysis, variant tools is project based and provides a whole set of tools to manipulate and analyze genetic variants.
 Year 2012
-Author  Anthony San Lucas</description>
+Author  Anthony San Lucas Gao Wang Paul Scheet Bo Peng</description>
     </item>
     
     <item>
@@ -87,8 +85,7 @@ Full Name visual haplotype
 Version 1.0
 Description displaying estimated haplotype data
 URL http://pga.gs.washington.edu/VH1.html
-Reference  Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240.
- Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference  Nickerson, Taylor, Weiss, Clark, Hutchinson, Stengard, Salomaa, Vartiainen, Boerwinkle, Sing (1998), &amp;ldquo;DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipase gene&amp;rdquo;, Nature Genetics, 19:233-240. Rieder, Taylor, Clark, Nickerson (1999), &amp;ldquo;Sequence variation in the human angiotensin converting enzyme&amp;rdquo;, Nature Genetics, 22:59-60.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -102,11 +99,10 @@ Full Name VITESSE (means &amp;ldquo;speed&amp;rdquo; in French)
 Version 2.0beta (July 1998)
 Description calculates likelihood on pedigrees
 Author Jeff O&amp;rsquo;Connell ( jeff@sherlock.hgen.pitt.edu)
-URL  http://watson.hgen.pitt.edu/register/soft_doc.html,
- http://watson.hgen.pitt.edu/register
-  Language ANSI C
+URL  http://watson.hgen.pitt.edu/register/soft_doc.html, http://watson.hgen.pitt.edu/register
+Language ANSI C
 OS UNIX, VMS, MS-DOS
-Reference  Am. Soc. Hum. Genet. Annual Meeting 1995 (O&amp;rsquo;Connell,Weeks, Am. J. Hum. Genet. suppl 57, A199 (1995)).
+Reference Am. Soc. Hum. Genet. Annual Meeting 1995 (O&amp;rsquo;Connell,Weeks, Am. J. Hum. Genet. suppl 57, A199 (1995)).
  O&amp;rsquo;Connell,Weeks (1995), Nature Genetics, 11:402-408.
  online README file   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

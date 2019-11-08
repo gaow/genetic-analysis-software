@@ -38,9 +38,8 @@ Description An interactive web site useful for exploring the genetic modulation 
       <guid>https://gaow.github.io/genetic-analysis-software/w/weighted_fdr/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.2 (March 2006)
-Author  Lambertus Klei (University of Pittsburgh Medical Center)
- Kathryn Roeder (Carnegie Mellon University)
-  URL http://wpicr.wpic.pitt.edu/WPICCompGen/fdr/
+Author  Lambertus Klei (University of Pittsburgh Medical Center) Kathryn Roeder (Carnegie Mellon University)
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/fdr/
 Language R
 OS MS-Windows, Linux, UNIX   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
@@ -77,9 +76,8 @@ URL http://www.sph.umich.edu/csg/yli/whait/   /** * RECOMMENDED CONFIGURATION VA
       <guid>https://gaow.github.io/genetic-analysis-software/w/whap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.06 (Dec 2004)
-Author  Shaun Purcell (email: purcell@wi.mit.edu)
- Pak Sham
-  URL http://pngu.mgh.harvard.edu/~purcell/whap/
+Author  Shaun Purcell (email: purcell@wi.mit.edu) Pak Sham
+URL http://pngu.mgh.harvard.edu/~purcell/whap/
 Language C,C++
 OS UNIX, MS-Windows, MS-DOS, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
@@ -93,13 +91,11 @@ OS UNIX, MS-Windows, MS-DOS, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 4.1
 Description uses multilocus genotypic data to allocate individuals to their most likely source population
-Author  Michael Banks
- (email: michael.banks@hmsc.orst.edu)
- Will Eichert (email: wfeichert@ucdavis.edu)
-  URL http://www.bml.ucdavis.edu/whichrun.htm
+Author  Michael Banks (email: michael.banks@hmsc.orst.edu) Will Eichert (email: wfeichert@ucdavis.edu)
+URL http://www.bml.ucdavis.edu/whichrun.htm
 Language C++
 OS MS-Windows (95/98/NT)
-Reference Banks, Eichert (2000), &amp;ldquo;WHICHRUN (version 3.2): a computer program for population assignment of individuals based on multilocus genotype data&amp;rdquo;, Journal of Heredity, 91:87-89.</description>
+Reference Banks, Eichert (2000), &amp;ldquo;WHICHRUN (version 3.2): a computer program for population assignment of individuals based on multilocus genotype data&amp;rdquo;, Journal of Heredity, 91:87-89.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
   </channel>

@@ -68,8 +68,7 @@ Reference Graham, Thompson (2000), &amp;ldquo;A coalescent model of ancestry for
 Full Name A Likelihood Based Estimation of Risk in Trios
 Version 1.0 (May 2006)
 Description ALBERT is a program that estimates genotype relative risks, genotyping error rates and population risk allele frequencies from marker genotype data in case-parent trios. ALBERT uses the distribution of trio marker genotypes to compute maximum likelihood estimates for the parameters.
-Author  Adele Mitchell
- Elizabeth A Thompson (University of Washington)</description>
+Author  Adele Mitchell Elizabeth A Thompson (University of Washington)</description>
     </item>
     
     <item>
@@ -80,9 +79,8 @@ Author  Adele Mitchell
       <guid>https://gaow.github.io/genetic-analysis-software/a/allass/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version February 2002
-Author  A Collins (email: arc@soton.ac.uk)
- NE Morton (University of Southampton, UK)
-  URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ALLASS
+Author  A Collins (email: arc@soton.ac.uk) NE Morton (University of Southampton, UK)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/ALLASS
 Language C
 OS UNIX (SUN..)
 EXE allass
@@ -98,14 +96,10 @@ Reference Collins, Morton (1998), &amp;ldquo;Mapping a disease locus by allelic 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0 (October 2005)
 Description a faster version of GENEHUNTER and Allegro 1.2 (several degrees of increase of speed, can handle bigger families, up to 50 bits)
-Author  Daniel F Gudbjartsson
- TA Thorvaldsson
- G Gunnarsson
- Augustine Kong
- A Ingolfsdottir (DeCode Genetics, Inc. Iceland) send email to: allegro@decode.is
-  URL http://www.decode.com/software/
+Author  Daniel F Gudbjartsson TA Thorvaldsson G Gunnarsson Augustine Kong A Ingolfsdottir (DeCode Genetics, Inc. Iceland) send email to: allegro@decode.is
+URL http://www.decode.com/software/
 Language C++
-Reference  D Gudbjartsson, K Jonasson, CA Kong (1999), &amp;ldquo;Fast multipoint linkage calculation with Allegro&amp;rdquo;, American Journal of Human Genetics, 65(suppl):A60.</description>
+Reference D Gudbjartsson, K Jonasson, CA Kong (1999), &amp;ldquo;Fast multipoint linkage calculation with Allegro&amp;rdquo;, American Journal of Human Genetics, 65(suppl):A60.</description>
     </item>
     
     <item>
@@ -129,9 +123,8 @@ Description One can enter the alleles of commonly used STR by clicking the mouse
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.33 (October 2009)
 Description designed to facilitate genome-wide linkage studies performed with high-density single nucleotide polymorphism (SNP) marker panels such as the Affymetrix GeneChip&amp;reg; Human Mapping 10K Array.
-Author  Franz Ruschendorf (email: fruesch@mdc-berlin.de)
- Peter Nurnberg
-  URL http://gmc.mdc-berlin.de/alohomora/
+Author  Franz Ruschendorf (email: fruesch@mdc-berlin.de) Peter Nurnberg
+URL http://gmc.mdc-berlin.de/alohomora/
 Language perl
 OS MS-Window, Linux, UNIX (Solaris/..)
 Reference Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage analysis using 10K SNP array data&amp;rdquo;, Bioinformatics, 21(9):2123-2125.</description>
@@ -147,13 +140,13 @@ Reference Ruschendorf, Nurnberg (2005), &amp;ldquo;ALOHOMORA: a tool for linkage
 Full Name Automated Linkage Preprocessor
 Version v1.40 (August 1995)
 Description ALP is a Microsoft Windows application designed to analyse microsatellite DNA fragments separated on an Automated Laser Fluorescence sequencer.
-Author  Alastair Brown (email: alastair.brown@hgu.mrc.ac.uk)
- Daryll Green
- Steve Woess (MRC Human Genetics Unit, Edinburgh, UK).
-  URL  http://www.hgu.mrc.ac.uk/Softdata/ALP/
+Author  Alastair Brown (email: alastair.brown@hgu.mrc.ac.uk) Daryll Green Steve Woess (MRC Human Genetics Unit, Edinburgh, UK).
+URL http://www.hgu.mrc.ac.uk/Softdata/ALP/
  ftp://ftp.hgu.mrc.ac.uk/pub/ALP
-  Language C
-OS MS-Windows (3.</description>
+Language C
+OS MS-Windows (3.1/95/NT)
+EXE alpw.exe
+Reference Mansfield, Brown, Green, Carothers, Morris, Evans, Wright (1994), &amp;ldquo;Automation of genetic linkage analysis using fluorescent microsatellite markers&amp;rdquo;, Genomics, 24(2):225-233.</description>
     </item>
     
     <item>
@@ -165,9 +158,8 @@ OS MS-Windows (3.</description>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Altrans measures alternative splicing levels based on quantifying exon-exon links between paired reads
 Year 2015
-Author  Ongen H.
- Dermitzakis E.T.
-  Reference Ongen H., Dermitzakis E.T. (2015) submitted
+Author  Ongen H. Dermitzakis E.T.
+Reference Ongen H., Dermitzakis E.T. (2015) submitted
 Tag splicing   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -179,12 +171,8 @@ Tag splicing   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE
       <guid>https://gaow.github.io/genetic-analysis-software/a/altree/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description ALTREE performs these two phylogeny-based analysis: (1) it tests the association between a candidate gene and a disease; (2) it pinpoints markers (SNPs) that are putative disease susceptibility loci
-Author  Claire Bardel (email: bardel@vjf.inserm.fr)
- Vincent Danjean
- Jean-Pierre Hugot
- Pierre Darlu
- Emmanuelle Génin
-  URL http://claire.bardel.free.fr/software.html
+Author  Claire Bardel (email: bardel@vjf.inserm.fr) Vincent Danjean Jean-Pierre Hugot Pierre Darlu Emmanuelle Génin
+URL http://claire.bardel.free.fr/software.html
 EXE altree, altree-convert, altree-add-s
 Reference Bardel, Danjean, Hugot, Darlu, Genin (2005), &amp;ldquo;On the use of haplotype phylogeny to detect disease susceptibility loci&amp;rdquo;, BMC Genetics, 6:24.</description>
     </item>
@@ -210,11 +198,10 @@ Description AMELIA is a program that employs allele matching to analyse the effe
 Version 2.1 (feb 14, 1996)
 Description a set of useful accessory programs to the LINKAGE package. It simplifies the performance of a large array of parametric and nonparametric tests for linkage and association on data entered in LINKAGE format pedigree and parameter files.
 Author Joseph Terwilliger
-URL  http://www.helsinki.fi/~tsjuntun/linkage/analyze/
- http://linkage.cpmc.columbia.edu/index_files/Page434.htm
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/linkage_cpmc_columbia/analyze/
-  Language Pascal
-OS UNIX (SunOS/Solaris/OSF1..)</description>
+URL  http://www.helsinki.fi/~tsjuntun/linkage/analyze/ http://linkage.cpmc.columbia.edu/index_files/Page434.htm ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/linkage_cpmc_columbia/analyze/
+Language Pascal
+OS UNIX (SunOS/Solaris/OSF1..)
+EXE analysis (script), analyzeprep, downfreq, extract, (homog), homogpos, homogpre, hrrlamb, hrrlambprep, hrrmult, hrrprep, interpretation, locusorder, pedprepare, polylocus, sib2link, sibpairna, sibprepna, tdtlikena   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -225,10 +212,9 @@ OS UNIX (SunOS/Solaris/OSF1..)</description>
       <guid>https://gaow.github.io/genetic-analysis-software/a/ancestry/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description This application aims at providing the user with an easy to use web-based user interface to compute individual ancestry estimates using the Maximum Likelihood Estimation method. This website also allows registered users to manage genotype and marker/allele frequency files. Registration is optional.
-Author  Van-Anh Tran (email: vananh.tran@case.edu)
- Thomas Dyer
- Guo-Qiang Zhang
- Jill Barnholtz-Sloan (email: jsb42@case.edu)</description>
+Author  Van-Anh Tran (email: vananh.tran@case.edu) Thomas Dyer Guo-Qiang Zhang Jill Barnholtz-Sloan (email: jsb42@case.edu)
+URL http://ciil.case.edu:3000
+Language Ruby on Rails, FORTRAN</description>
     </item>
     
     <item>
@@ -240,10 +226,8 @@ Author  Van-Anh Tran (email: vananh.tran@case.edu)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0
 Description ANCESTRYMAP screens through the genome in a recently mixed population such as African Americans, searching for segments with increased ancestry from one of the ancestral populations, which can indicate the position of disease genes
-Author  Arti Tandon (email: atandon@broad.mit.edu)
- Nick Patterson (email: nickp@broad.mit.edu)
- David Reich.
-  URL http://genepath.med.harvard.edu/~reich/Software.htm
+Author  Arti Tandon (email: atandon@broad.mit.edu) Nick Patterson (email: nickp@broad.mit.edu) David Reich.
+URL http://genepath.med.harvard.edu/~reich/Software.htm
 OS UNIX, Linux
 Reference Patterson, Hattangadi, Lane, Lohmueller, Hafler, Oksenberg, Hauser, Smith, O&amp;rsquo;Brien, Altshuler, Daly, Reich (2004), &amp;ldquo;Methods for high-density admixture mapping of disease genes&amp;rdquo;, American Journal of Human Genetics, 74(5):97-1000   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -284,9 +268,8 @@ Language Java</description>
 Full Name Allelic Path Explorer
 Version 1.0
 Description Extends partially observed genotype data to the whole pedigree. Can be used for generating starting points for MCMC samplers and for checking that the genotype data are consistent with the pedigree structure.
-Author  Matti Pirinen
- Dario Gasbarra (University of Helsinki, Finland)
-  URL http://www.helsinki.fi/~mpirinen/download
+Author  Matti Pirinen Dario Gasbarra (University of Helsinki, Finland)
+URL http://www.helsinki.fi/~mpirinen/download
 Language C
 OS UNIX
 Reference Pirinen, Gasbarra (2006), &amp;ldquo;Finding consistent gene transmission patterns on large and complex pedigrees&amp;rdquo;, IEEE/ACM cransactions on Computational Biology and Bioinformatics, 3(3):252-262   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -312,13 +295,12 @@ Description In the presence of genetic heterogeneity, APL-OSA can identify a gen
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Affected Pedigree-Member Method
 Version July 1993
-Author  Daniel E. Weeks (University of Oxford, University of Pittsburgh, email: dweeks@watson.hgen.pitt.edu)
- Mark Schroeder (email: mark@holmes.hgen.pitt.edu)
-  URL http://watson.hgen.pitt.edu/register/soft_doc.html registration page at: http://watson.hgen.pitt.edu/register
+Author  Daniel E. Weeks (University of Oxford, University of Pittsburgh, email: dweeks@watson.hgen.pitt.edu) Mark Schroeder (email: mark@holmes.hgen.pitt.edu)
+URL http://watson.hgen.pitt.edu/register/soft_doc.html registration page at: http://watson.hgen.pitt.edu/register
 Language C and Pascal and FORTRAN
 OS UNIX, VMS, MS-DOS
 EXE apm, sim, apmmult, simmult, chapm, hist
-Reference Weeks and Lange, American Journal of Human Genetics, 42(2):315-326 (1988).</description>
+Reference Weeks and Lange, American Journal of Human Genetics, 42(2):315-326 (1988). [abstract]   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -339,9 +321,8 @@ Description ARIEL explores the effects of rare variants within complex traits th
       
       <guid>https://gaow.github.io/genetic-analysis-software/a/arlequin/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Full Name  French translation of &amp;ldquo;Arlecchino&amp;rdquo;
- French translation of &amp;ldquo;Arlecchino&amp;rdquo;, a character of the Italian &amp;ldquo;Commedia dell&amp;rsquo;Arte&amp;rdquo;. He has many aspects, but can switch among them very easily according to needs and necessities. Similarly, this software is about the study of genetic polymorphism.
-  Version 3.1 (September 2006)
+Full Name  French translation of &amp;ldquo;Arlecchino&amp;rdquo; French translation of &amp;ldquo;Arlecchino&amp;rdquo;, a character of the Italian &amp;ldquo;Commedia dell&amp;rsquo;Arte&amp;rdquo;. He has many aspects, but can switch among them very easily according to needs and necessities. Similarly, this software is about the study of genetic polymorphism.
+Version 3.1 (September 2006)
 Description an exploratory population genetics software environment able to handle large samples of molecular data (RFLPs, DNA sequences, microsatellites), while retaining the capacity of analyzing conventional genetic data (standard multi-locus data or mere allele frequency data).</description>
     </item>
     
@@ -379,10 +360,10 @@ Full Name Affected Sib Pairs EXclusion map
 Version 2.5 (September 2003)
 Description a set of programs for performing multipoint exclusion mapping of affected sibling pair data for discrete traits.
 Author David Hinds (email: dahinds@users.sourceforge.net) Neil Risch (Stanford Univ)
-URL  http://aspex.sourceforge.net/
- ftp://lahmed.stanford.edu/pub/aspex
-  Language C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.teleport.com/pub/users/pturner/acegr)
-OS UNIX (Solaris/SunOS/IRIX/OSF-1), Linux</description>
+URL  http://aspex.sourceforge.net/ ftp://lahmed.stanford.edu/pub/aspex
+Language C, Tcl, Perl (the graphic script requires xmgr, available from ftp://ftp.teleport.com/pub/users/pturner/acegr)
+OS UNIX (Solaris/SunOS/IRIX/OSF-1), Linux
+EXE sib_ibd, sib_tdt, sib_phase, sib_map, sib_kin, sib_clean</description>
     </item>
     
     <item>
@@ -407,9 +388,8 @@ Reference Martin, Valsesia, Telenti, Xenarios, Stevenson (2009), &amp;ldquo;Asso
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0.1 (February 2000)
 Description a helper program to automate the tedious process of the creation of input files from genotype data of genome-wide scans
-Author  T Hiekkalinna
- L Peltonen (UCLA)
-  URL http://www.helsinki.fi/~tsjuntun/autoscan/
+Author  T Hiekkalinna L Peltonen (UCLA)
+URL http://www.helsinki.fi/~tsjuntun/autoscan/
 Language C and UNIX-shell (Bourne)
 OS UNIX (Solaris/DEC-UNIX)
 EXE autostart, autoscan10.sh

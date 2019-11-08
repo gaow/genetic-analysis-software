@@ -32,8 +32,7 @@ Reference Conneely, Boehnke (2007), &amp;ldquo;So many correlated tests, so litt
       <guid>https://gaow.github.io/genetic-analysis-software/p/pangaea/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Pedigree ANalysis for Genetics (And Epidemiological Attributes)
-Description Collection of nine packages for genetic analysis
-The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
+Description Collection of nine packages for genetic analysis The original four BOREL, HARDY, MORGAN and PEDPACK, plus INSEGT, LOKI, MCLEEPS, PEDFIDDLER, and ECLIPSE
 Author many authors: see individual packages. managed by EA Thompson (University of Washington, email: thompson@stat.washington.edu).
 URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 Language C or C++
@@ -97,9 +96,8 @@ Description The Path web application is a first-step bioinformatics approach to 
 Full Name Power for Association With Error
 Version Dec 2002
 Description Power and sample size calculations for genetic case-control association studies allowing for errors
-Author  Derek Gordon (email: gordon@linkage.rockefeller.edu)
- assisted by Michael Nothnagel
-  URL http://linkage.rockefeller.edu/pawe/
+Author  Derek Gordon (email: gordon@linkage.rockefeller.edu) assisted by Michael Nothnagel
+URL http://linkage.rockefeller.edu/pawe/
 Reference Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -111,11 +109,8 @@ Reference Gordon, Finch, Nothnagel, Ott (2002), Human Heredity, 54:22-33.   /** 
       <guid>https://gaow.github.io/genetic-analysis-software/p/pawe-3d/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Power for Association With Error in 3D
-Author  D Gordon
- C Haynes
- J Blumenfeld
- SJ Finch
-  URL http://linkage.rockefeller.edu/pawe3d/
+Author  D Gordon C Haynes J Blumenfeld SJ Finch
+URL http://linkage.rockefeller.edu/pawe3d/
 OS web-based
 Reference Gordon, Haynes, Blumenfeld, Finch (2005), &amp;ldquo;PAWE-3D: visualizing Power for Association With Error in case/control genetic studies of complex traits&amp;rdquo;, Bioinformatics, 21:3935-3937.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -132,7 +127,7 @@ Version 3.6.1
 Description PBAT is an interactive software package that provides tools for the design and the data analysis of family-based association studies.
 Author Christoph Lange (email: clange@hsph.harvard.edu) (Harvard Univ).
 URL http://www.biostat.harvard.edu/~clange/default.htm
-Reference  Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the noninformative families in family-based association tests: A powerful new testing strategy&amp;rdquo;, American Journal of Human Genetics, 73(4):801-811</description>
+Reference  Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the noninformative families in family-based association tests: A powerful new testing strategy&amp;rdquo;, American Journal of Human Genetics, 73(4):801-811 Lange, DeMeo, Silverman, Weiss, Laird (2004), &amp;ldquo;PBAT: tools for family-based association studies&amp;rdquo;, American Journal of Human Genetics, 74(2):367-369 Steen, Lange (2005), &amp;ldquo;PBAT: A comprehensive software package for genome-wide association analysis of complex family-based studies&amp;rdquo;, Human Genomics, 2(1):67-69.</description>
     </item>
     
     <item>
@@ -144,11 +139,8 @@ Reference  Lange, DeMeo, Silverman, Weiss, Laird (2003), &amp;ldquo;Using the no
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Pooled DNA Analyzer
 Description a tool for analyses of pooled DNA data
-Author  Hsin-Chou Yang
- Chia-Ching Pan
- Chin-Yu Lin
- Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)
-  URL http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
+Author  Hsin-Chou Yang Chia-Ching Pan Chin-Yu Lin Cathy SJ Fann (Institute of Biomedical Sciences, Academia Sinica, Taiwan)
+URL http://www.ibms.sinica.edu.tw/~csjfann/first%20flow/programlist.htm
 Reference Yang, Pan, Lin, Fann (2006), &amp;ldquo;PDA: pooled DNA analyzer&amp;rdquo;, BMC Bioinformatics, 7:233.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -222,7 +214,7 @@ Author J. R. O&amp;rsquo;Connell (email: jeff@sherlock.hgen.pitt.edu)
 URL http://watson.hgen.pitt.edu/register
 Language C, C++
 OS UNIX(SunOS/Solaris/Compaq-Alpha/SGI-IRIX/..)
-Reference  Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266</description>
+Reference  Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am. J. Hum. Genet. suppl,61, A288 (1997)); O&amp;rsquo;Connell, Weeks (1998), &amp;ldquo;PedCheck: a program for identification of genotype incompatibilities in linkage analysis&amp;rdquo;, American Journal of Human Genetics, 63(1):259-266 FAQ-O-MATIC: http://watson.</description>
     </item>
     
     <item>
@@ -234,11 +226,10 @@ Reference  Am Soc Hum Genet annual meeting 1997 (O&amp;rsquo;Connell, Weeks, Am.
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.5 (August 2005)
 Description This suite of six programs can be used as a stand-alone extension of the pedigree drawing facilities found in the publicly available version of PEDPACK.
-Author  J C. Loredo-Osti (email: josti@bagel.epi.mcgill.ca)
- Kenneth Morgan (email: ken@bagel.epi.mcgill.ca); Window version adapted by Michael Li (email:lina@u.washington.edu).
-  URL http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml
+Author  J C. Loredo-Osti (email: josti@bagel.epi.mcgill.ca) Kenneth Morgan (email: ken@bagel.epi.mcgill.ca); Window version adapted by Michael Li (email:lina@u.washington.edu).
+URL http://www.stat.washington.edu/thompson/Genepi/Pedfiddler.shtml
 Language C,C++
-OS UNIX (OSF1, and Solaris 2.</description>
+OS UNIX (OSF1, and Solaris 2.7, AlphaLinux) MS-Windows (XP Home/Win32/Win95), Linux</description>
     </item>
     
     <item>
@@ -249,12 +240,8 @@ OS UNIX (OSF1, and Solaris 2.</description>
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedhunter/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description a software package that facilitates creation and verification of pedigrees within large genealogies.
-Author  Agarwala
- Biesecker
- Hopkins
- Francomano
- Schffer (NIH)
-  URL http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/pedhunter.html
+Author  Agarwala Biesecker Hopkins Francomano Schffer (NIH)
+URL http://www.ncbi.nlm.nih.gov/CBBresearch/Schaffer/pedhunter.html
 Reference Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), &amp;ldquo;Software for constructing and verifying pedigrees within large genealogies and an application to the Old Order Amish of Lancaster county&amp;rdquo;, Genome Research, 8:211-221.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -267,9 +254,8 @@ Reference Agarwala, Biesecker, Hopkins, Francomano, Schffer (1998), &amp;ldquo;S
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.3
 Description A pedigree visualization program specifically designed to draw large, complex pedigrees.
-Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu)
- Yang Da (University of Minnesota, email: yda@umn.edu)
-  URL http://animalgene.umn.edu/pedigraph/
+Author  John Garbe (University of Minnesota, email: jgarbe@umn.edu) Yang Da (University of Minnesota, email: yda@umn.edu)
+URL http://animalgene.umn.edu/pedigraph/
 Language C,C++
 OS MS-Windows, Linux
 EXE pedigraph
@@ -296,13 +282,10 @@ URL http://research.i2r.a-star.edu.sg:8080/kleisli/demos/pedigree/   /** * RECOM
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 6
 Description pedigree drawing
-Author  Bennett Dyke (email: bdyke@darwin.sfbr.org)
- Paul Mamelka (contact person, email: paul@darwin.sfbr.org)
- J. MacCleur
- Southwest Foundation for Biomedical Research
-  URL  http://www.pedigree-draw.com/
+Author  Bennett Dyke (email: bdyke@darwin.sfbr.org) Paul Mamelka (contact person, email: paul@darwin.sfbr.org) J. MacCleur Southwest Foundation for Biomedical Research
+URL http://www.pedigree-draw.com/
  ftp://www.sfbr.org/pub/pedmgt/peddrw
-  OS MacOS
+OS MacOS
 EXE PedDraw
 Reference Am Soc Hum Genet annual meeting 1987 (Dyke, Mamelka, Am J. Hum Genet, suppl 41, A253 (1987))
 Availability disk and user&amp;rsquo;s guide: US$45; user&amp;rsquo;s guide: US$20; upgrade for disk: US$15;   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -317,9 +300,8 @@ Availability disk and user&amp;rsquo;s guide: US$45; user&amp;rsquo;s guide: US$
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description allows drawing pedigrees with a difficult structure, those containing consanguinity loops, and those individuals with multiple mates or several related families
 Author A Kirichenko
-URL  http://mga.bionet.nsc.ru/soft/index.html
- http://mga.bionet.nsc.ru/PedigreeQuery/PedigreeQuery.html (in Russian)
-  Reference A Kirichenko (2003), &amp;ldquo;PedigreeQuery - software for pedigree drawing&amp;rdquo; (abstract), American Journal of Human Genetics, suppl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+URL  http://mga.bionet.nsc.ru/soft/index.html http://mga.bionet.nsc.ru/PedigreeQuery/PedigreeQuery.html (in Russian)
+Reference A Kirichenko (2003), &amp;ldquo;PedigreeQuery - software for pedigree drawing&amp;rdquo; (abstract), American Journal of Human Genetics, suppl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -332,11 +314,11 @@ URL  http://mga.bionet.nsc.ru/soft/index.html
 Full Name PedJava
 Version 1.1
 Description Allows pedigree entry and retrieval from an internet browser into a distant MS ACCESS database. Includes IP access restriction, automatic numbering of families and individuals and database consistency checks.
-Author  Matthias Wjst (email: wjst@gsf.de)
- Juergen Knauth (email: woodoo@bigfoot.de)
-  URL http://cooke.gsf.de/wjst/download.cfm
+Author  Matthias Wjst (email: wjst@gsf.de) Juergen Knauth (email: woodoo@bigfoot.de)
+URL http://cooke.gsf.de/wjst/download.cfm
 Language JDK
-OS no restriction for client, server WIN 95/NT</description>
+OS no restriction for client, server WIN 95/NT
+EXE pedJava, pedJavaServer</description>
     </item>
     
     <item>
@@ -364,13 +346,12 @@ EXE pedprep   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE 
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version Version 2.2, July 1996
 Description Programs for pedigree analysis, including segregation analysis, gene extinction, and pedigree graphics.
-Author  A.W. Thomas (Versions 1.0, 3.0, 3.1)
- E.A. Thompson (University of Washington, email: thompson@stat.washington.edu)
- C.J. Geyer (University of Minnesota, email: charlie@stat.umn.edu)
-  URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
+Author  A.W. Thomas (Versions 1.0, 3.0, 3.1) E.A. Thompson (University of Washington, email: thompson@stat.washington.edu) C.J. Geyer (University of Minnesota, email: charlie@stat.umn.edu)
+URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
 Language C
 OS UNIX(Compaq-Alpha/..)
-Reference  Thomas, IMA J. Math Appl Med Biol, 5, 210-213 (1988)</description>
+Reference Thomas, IMA J. Math Appl Med Biol, 5, 210-213 (1988)
+ Thomas, &amp;ldquo;Pedpack: Users&amp;rsquo; Manual&amp;rdquo;, Technical report No.</description>
     </item>
     
     <item>
@@ -381,10 +362,9 @@ Reference  Thomas, IMA J. Math Appl Med Biol, 5, 210-213 (1988)</description>
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedpeel/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description The program prepares pedigree data for calculation of Elston-Stewarts&amp;rsquo; likelihood function. It finds an optimal way to peel a pedigree and returns text file containing 7 description arrays
-Author  Nadezhda Belonogova (email: adg101@mail.ru)
- Tatiana I. Axenovich
-  URL http://mga.bionet.nsc.ru/soft/pedpeel/
-Reference Belonogova, Axenovich (2007), &amp;ldquo;Optimal peeling order for pedigrees with incomplete genotypic information&amp;rdquo;, Computational Biology and Chemistry , 31(3):173-177.</description>
+Author  Nadezhda Belonogova (email: adg101@mail.ru) Tatiana I. Axenovich
+URL http://mga.bionet.nsc.ru/soft/pedpeel/
+Reference Belonogova, Axenovich (2007), &amp;ldquo;Optimal peeling order for pedigrees with incomplete genotypic information&amp;rdquo;, Computational Biology and Chemistry , 31(3):173-177.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -399,8 +379,7 @@ Description inferring haplotypes from genotypes on pedigree data
 Author Jing Li(email: jingli@eecs.cwru.edu)
 URL http://vorlon.case.edu/~jxl175/haplotyping.html
 OS MS-Windows
-Reference  Li, Jiang (2003), &amp;ldquo;Effecient rule-based haplotyping algorithms for pedigree data&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.197-206.
- Li, Jiang (2004), &amp;ldquo; An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.</description>
+Reference  Li, Jiang (2003), &amp;ldquo;Effecient rule-based haplotyping algorithms for pedigree data&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.197-206. Li, Jiang (2004), &amp;ldquo; An exact solution for finding minimum recombinant haplotype configurations on pedigrees with missing data by integer linear programming&amp;rdquo;, Proceedings of the Seventh International Conference on Research in Computational Molecular Biology , pp.</description>
     </item>
     
     <item>
@@ -411,10 +390,8 @@ Reference  Li, Jiang (2003), &amp;ldquo;Effecient rule-based haplotyping algorit
       <guid>https://gaow.github.io/genetic-analysis-software/p/pedplot/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Pedigree Plotting Program for the Pedfile Format
-Author  JE Stajich (email: jason@chg.mc.duke.edu)
- C Haynes (email: carol@chgd.mc.duke.edu)
- MA Pericak-Vance (Duke University Medical Center)
-  URL http://www.chg.duke.edu/software/pedplot.html
+Author  JE Stajich (email: jason@chg.mc.duke.edu) C Haynes (email: carol@chgd.mc.duke.edu) MA Pericak-Vance (Duke University Medical Center)
+URL http://www.chg.duke.edu/software/pedplot.html
 Language C++, Postscript
 OS UNIX(Sparc-Solaris 2.5/DEC UNIX 4.0/x86-Solaris 2.6)
 EXE pedplot
@@ -432,9 +409,8 @@ Full Name Pedigree Drawing/ Window Pedigree Drawing (MS-Window and X-Window vers
 Version 2.5
 Description a pedigree drawing program using LINKAGE data files
 Author Dave Curtis (email: dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C++
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+Language C++
 OS MS-DOS, MS-Windows, X-window
 Reference Curtis (1990), Annals of Human Genetics, 54:365-367.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -472,11 +448,10 @@ Description PEDSTATS does error checking and data summary of large or small data
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0
 Description a full-scale database system developed as a specialized tool for management of genetic, pedigree and demographic data.
-Author  Bennett Dyke (email: bdyke@darwin.sfbr.org)
- Paul Mamelka (email: paul@darwin.sfbr.org)
-  URL  http://www.sfbr.org/sfbr/public/software/pedsys/pedsys.html
+Author  Bennett Dyke (email: bdyke@darwin.sfbr.org) Paul Mamelka (email: paul@darwin.sfbr.org)
+URL http://www.sfbr.org/sfbr/public/software/pedsys/pedsys.html
  ftp://www.sfbr.org/pub/pedmgt/pedsys
-  OS UNIX(SunOS,Solaris), MS-DOS, MacOS
+OS UNIX(SunOS,Solaris), MS-DOS, MacOS
 Availability disks or tapes and user&amp;rsquo;s manual: US$55; user&amp;rsquo;s manual: US$30; disk for registered users: US$20. person to contact: Linda Freeman-Shade, Dept Genetics, Southwest Foundation for Biomedical Research, P.</description>
     </item>
     
@@ -528,8 +503,7 @@ Reference F Dudbridge, T Carver, GW Williams (2004), &amp;ldquo;Pelican: pedigre
       <guid>https://gaow.github.io/genetic-analysis-software/p/phase/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.0 (Sept 2003)
-Description This program implements a new statistical method for reconstructing haplotypes from population genotype data.
-New for v2: (1) the introduction of a new computational approach, resulting in much faster haplotype resolution. (2) the introduction of a new model that allows for recombination and decay of Linkage Disequilibrium (LD) with distance, which results in more accurate haplotype estimates.</description>
+Description This program implements a new statistical method for reconstructing haplotypes from population genotype data. New for v2: (1) the introduction of a new computational approach, resulting in much faster haplotype resolution. (2) the introduction of a new model that allows for recombination and decay of Linkage Disequilibrium (LD) with distance, which results in more accurate haplotype estimates.</description>
     </item>
     
     <item>
@@ -552,10 +526,8 @@ Description The program PIAGE performs estimation of power and sample sizes requ
       <guid>https://gaow.github.io/genetic-analysis-software/p/pl-em/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Partition-Ligation EM algorithm for haplotype inference with single nucleotide polymorphisms
-Author  Jun Liu
- Steve Qin
- Tianhua Niu (Harvard Univ)
-  URL http://www.people.fas.harvard.edu/~junliu/plem/
+Author  Jun Liu Steve Qin Tianhua Niu (Harvard Univ)
+URL http://www.people.fas.harvard.edu/~junliu/plem/
 Reference Qin, Niu, Liu (2002), &amp;ldquo;Partition-ligation-expectation-maximization algorithm for haplotype inference with single-nucleotide polymorphisms&amp;rdquo;, American Journal of Human Genetics, (letter), 71(5):1242-1247-?   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -596,9 +568,8 @@ Reference Frisch, Bohn, Melchinger (2000), &amp;ldquo;PLABSIM: software for simu
       <guid>https://gaow.github.io/genetic-analysis-software/p/playpus/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description an integrated variant caller
-Author  Gerton Lunter
- Martin Goodson (Wellcome Trust Centre of Human Genetics, Oxford Univ)
-  URL http://www.well.ox.ac.uk/platypus   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
+Author  Gerton Lunter Martin Goodson (Wellcome Trust Centre of Human Genetics, Oxford Univ)
+URL http://www.well.ox.ac.uk/platypus   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */ /* var disqus_config = function () { this.</description>
     </item>
     
     <item>
@@ -635,10 +606,8 @@ URL http://atgu.</description>
       <guid>https://gaow.github.io/genetic-analysis-software/p/pointer/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description for complex segregation analysis with the mixed model (major locus and polygenes).
-Author  NE Morton (University of Southampton, UK)
- D.C. Rao
- J-M. Lalouel
-  URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/pointer
+Author  NE Morton (University of Southampton, UK) D.C. Rao J-M. Lalouel
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/pointer
 Language SUN FORTRAN (especially, the command &amp;ldquo;fsplit&amp;rdquo; is needed)
 OS UNIX (SunOS/..)
 Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;rdquo; (Karger, 1983).   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
@@ -653,12 +622,11 @@ Reference Morton, Rao, Lalouel, &amp;ldquo;Methods in Genetic Epidemiology&amp;r
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.4 (June 1999)
 Description calculating the heterozygosity, PIC, and LIC values for polymorphic markers
-Author  Tianhua Niu
- Sc.D. (Harvard Medical School, email: tniu@hohp.harvard.edu)
-  Language C
+Author  Tianhua Niu Sc.D. (Harvard Medical School, email: tniu@hohp.harvard.edu)
+Language C
 OS UNIX
 EXE powerlic
-Reference  Guo, Elston (1999), &amp;ldquo;Linkage information content of polymorphic genetic markers&amp;rdquo;, Human Heredity, 49:112-118.
+Reference Guo, Elston (1999), &amp;ldquo;Linkage information content of polymorphic genetic markers&amp;rdquo;, Human Heredity, 49:112-118.
  Niu, Struk, Lindpaintner (2001), Human Heredity, 52(2):102-109.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -682,9 +650,8 @@ Description The program polymutt implemented a likelihood-based framework for ca
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name POLYmorphism PHENotyping
 Description PolyPhen-2 is a tool which predicts possible impact of an amino acid substitution on the structure and function of a human protein using straightforward physical and comparative considerations. It can be used in prioritize functional SNPs in a genetic study.
-URL  http://genetics.bwh.harvard.edu/pph2/ (POLYPHEN-2)
- http://genetics.bwh.harvard.edu/pph/ (POLYPHEN-1)
-  Reference  Sunyaev, Eisenhaber, Rodchenkov, Eisenhaber, Tumanyan, Kuznetsov (1999), &amp;ldquo;PSIC: profile extraction from sequence alignments with position-specific counts of independent observations&amp;rdquo;, Protein Engineering, 12:387-394.</description>
+URL  http://genetics.bwh.harvard.edu/pph2/ (POLYPHEN-2) http://genetics.bwh.harvard.edu/pph/ (POLYPHEN-1)
+Reference Sunyaev, Eisenhaber, Rodchenkov, Eisenhaber, Tumanyan, Kuznetsov (1999), &amp;ldquo;PSIC: profile extraction from sequence alignments with position-specific counts of independent observations&amp;rdquo;, Protein Engineering, 12:387-394.</description>
     </item>
     
     <item>
@@ -696,12 +663,10 @@ URL  http://genetics.bwh.harvard.edu/pph2/ (POLYPHEN-2)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name POOLing alleles of Short Tandem Repeat markers
 Version 1.1
-Author  Yurii Aulchenko
- Aida Bertoli-Avella
- Cornelia van Duijn (Erasmus University Medical School, The Netherlands)
-  URL  http://www.geneticepi.com/Research/software/software.html
+Author  Yurii Aulchenko Aida Bertoli-Avella Cornelia van Duijn (Erasmus University Medical School, The Netherlands)
+URL http://www.geneticepi.com/Research/software/software.html
  http://www.geneticepi.com/Research/software/pool_str-1.1.tar.gz
-  Reference Aulchenko, Beroli-Avella, van Duijn (2005), &amp;ldquo;A method for pooling alleles from different genotyping experiments&amp;rdquo;, Annals of Human Genetics, 69(2):233-238.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference Aulchenko, Beroli-Avella, van Duijn (2005), &amp;ldquo;A method for pooling alleles from different genotyping experiments&amp;rdquo;, Annals of Human Genetics, 69(2):233-238.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -777,9 +742,8 @@ Description PowerMarker is a comprehensive set of statistical methods for geneti
       <guid>https://gaow.github.io/genetic-analysis-software/p/powertrim/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description automate the decision to remove objects from a pedigree with a minimum loss information
-Author  Tricia Thornton
- Jonathan Haines (Venderbilt University Medical Center)
-  URL http://phg.mc.vanderbilt.edu/content/powertrim
+Author  Tricia Thornton Jonathan Haines (Venderbilt University Medical Center)
+URL http://phg.mc.vanderbilt.edu/content/powertrim
 Language Perl
 Reference Thornton, Haines (2003), &amp;ldquo;PowerTrim: an automated decision support algorithm for preprocessing family-based genetic data&amp;rdquo;, American Journal of Human Genetics, 72(5):1280-1281   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -835,7 +799,7 @@ OS UNIX, VMS, MS-DOS, OS2   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND 
 Full Name Pedigree RElationship Statistical Test
 Version 3.0.2 (February 2005)
 Description PREST is a program that detects pedigree errors in general outbred pedigrees by use of genome-screen data. When a potential pedigree error is detected, our companion program, ALTERTEST, determines which relationships are compatible with the observed genotype data. Both programs are freely available on the web.
-Author  Lei Sun</description>
+Author  Lei Sun Kenneth Wilder Mary Sara McPeek (University of Chicago)</description>
     </item>
     
     <item>
@@ -932,12 +896,8 @@ Reference A Almudevar, C Field (1999), &amp;ldquo;Estimation of single generatio
       <guid>https://gaow.github.io/genetic-analysis-software/p/psat/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Population Stratification Association Test
-Author  G Kimmel
- MI Jordan
- E Halperin
- R Shamir
- RM Karp
-  URL http://acgt.cs.tau.ac.il/psat/
+Author  G Kimmel MI Jordan E Halperin R Shamir RM Karp
+URL http://acgt.cs.tau.ac.il/psat/
 Reference Kimmel, Jordan, Halperin, Shamir, Karp (2007), &amp;ldquo;A randomization test for controlling population stratification in whole-genome association studies&amp;rdquo;, American Journal of Human Genetics, 81(5):895-905   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -961,13 +921,12 @@ Description Pseudo estimates genomewide empirical p-values for Kong and Cox test
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0.6b (November 2011)
 Description PSEUDOMARKER is a linkage analysis software for joint linkage and/or linkage disequilibrium analysis. PSEUDOMARKER can analyze different data structures jointly such as cases-controls, trios, sib-pairs, sib-ships, and extended families.
-Author  Tero Hiekkalinna (email: tero.hiekkalinna@helsinki.fi)
- Joseph D Terwilliger
- Petri Norrgrann
-  URL http://www.helsinki.fi/~tsjuntun/pseudomarker/
+Author  Tero Hiekkalinna (email: tero.hiekkalinna@helsinki.fi) Joseph D Terwilliger Petri Norrgrann
+URL http://www.helsinki.fi/~tsjuntun/pseudomarker/
 Language C/C++
 OS Linux
-EXE pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknownpseudo</description>
+EXE pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknownpseudo
+Reference Goring, Terwilliger (2000), &amp;ldquo;Linkage analysis in the presence of errors IV: joint pseudomarker analysis of linkage and/or linkage disequilibrium on a mixture of pedigrees and singletons when the mode of inheritance cannot be accurately specified&amp;rdquo;, American Journal of Human Genetics, 66(4):1310-1327</description>
     </item>
     
     <item>
@@ -979,9 +938,8 @@ EXE pseudomarker, ilinkpseudo, makepedpseudo, mlinkpseudo, linkmappseudo, unknow
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2.03
 Description PSEUDOMARKER is a set of programs written in MATLAB for the analysis of QTL data from inbred line crosses.
-Author  Saunak Sen
- Gary Churhcill (Jackson Lab, email: pseudomarker@jax.org)
-  URL http://www.jax.org/staff/churchill/labsite/software/pseudomarker/index.html
+Author  Saunak Sen Gary Churhcill (Jackson Lab, email: pseudomarker@jax.org)
+URL http://www.jax.org/staff/churchill/labsite/software/pseudomarker/index.html
 Language MATLAB
 Reference Sen, Churchill (2001), &amp;ldquo;A statistical framework for quantitative trait mapping&amp;rdquo;, Genetics, 159:371-387.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -995,15 +953,12 @@ Reference Sen, Churchill (2001), &amp;ldquo;A statistical framework for quantita
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name PYthon for POPulation genetics
 Version beta 0.7.0 (September 2008)
-Author  Alex Lancaster
- Mark P Nelson
- Richard M Single
- Diogo Meyer
- Glenys Thomson
-  URL http://www.pypop.org/
+Author  Alex Lancaster Mark P Nelson Richard M Single Diogo Meyer Glenys Thomson
+URL http://www.pypop.org/
 Language Python
 OS MS-Windows(98/2000/XP), Linux
-Reference  Lancaster, Nelson, Single, Meyer, Thomson (2003), &amp;ldquo;PyPop: a software framework for population genomics: analyzing large-scale multi-locus genotype data&amp;rdquo;, Proceedings of the Pacific Symposium on Biocomputing, 8:514-525.</description>
+Reference Lancaster, Nelson, Single, Meyer, Thomson (2003), &amp;ldquo;PyPop: a software framework for population genomics: analyzing large-scale multi-locus genotype data&amp;rdquo;, Proceedings of the Pacific Symposium on Biocomputing, 8:514-525.
+ Lancaster, Single, Solberg, Nelson, Thomson (2007), &amp;ldquo;PyPop update - a software pipeline for large-scale multilocus population genomics&amp;rdquo;, Tissue Antigens, 69(s1):192-197.</description>
     </item>
     
   </channel>

@@ -19,9 +19,8 @@
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description constructing 2-d crossover-based map
 Author Edward Kort ( edward@episun2.med.utah.edu)
-URL  http://www.genlink.wustl.edu/software
- ftp://mapper.wustl.edu/pub/two-d
-  OS MS-DOS
+URL  http://www.genlink.wustl.edu/software ftp://mapper.wustl.edu/pub/two-d
+OS MS-DOS
 EXE pic-2d, 2d-map, 2d-color
 Reference Fain, Kort, Chance, Nguyen, Redd, Econ, Barker (1995), Nature Genetics, 9(3):261-265.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
@@ -38,8 +37,7 @@ Description 2LD is a simple program calculating linkage disequilibrium (LD) meas
 Author Jinghua Zhao (MRC Epidemiology Unit at Strangeways Research Lab, UK) (email: jinghua.zhao@mrc-epid.cam.ac.uk)
 URL http://www.mrc-epid.cam.ac.uk/Personal/jinghua.zhao/software.htm
 Language C
-Reference  Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20(8):1325-1326.
- Zapata, Carollo, Rodriguez (2001), &amp;ldquo;Sampling variance and distribution of the D&amp;rsquo; measure of overall gametic disequlibrium between multiallelic loci&amp;rdquo;, Annals of Human Genetics, 65:395-406.</description>
+Reference  Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs for linkage disequilibrium analysis&amp;rdquo;, Bioinformatics, 20(8):1325-1326. Zapata, Carollo, Rodriguez (2001), &amp;ldquo;Sampling variance and distribution of the D&amp;rsquo; measure of overall gametic disequlibrium between multiallelic loci&amp;rdquo;, Annals of Human Genetics, 65:395-406.</description>
     </item>
     
     <item>
@@ -50,9 +48,8 @@ Reference  Zhao (2004), &amp;ldquo;2LD, GENECOUNTING and HAP: computer programs 
       <guid>https://gaow.github.io/genetic-analysis-software/1/2snp/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.5 (Aug 4, 2006)
-Author  Alexander Zelikovsky (email: alexz@cs.gsu.edu)
- Dumitru Brinza (email: dima@cs.gsu.edu)
-  URL http://alla.cs.gsu.edu/~software/2SNP/
+Author  Alexander Zelikovsky (email: alexz@cs.gsu.edu) Dumitru Brinza (email: dima@cs.gsu.edu)
+URL http://alla.cs.gsu.edu/~software/2SNP/
 Reference Brinza and Zelikovsky (2006), &amp;ldquo;2SNP: scalable phasing based on 2-SNP haplotypes&amp;rdquo;, Bioinformatics, 22(3):371-373.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     

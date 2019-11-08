@@ -53,8 +53,7 @@ Description Illumina&amp;rsquo;s CASAVA software captures summary information fo
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Computerized Affected Sibling Pair Analyzer and Reporter
 Description CASPAR&amp;rsquo;s main novel feature is conditional linkage analyses, in which the population can be subdivided according to criteria at some loci and analyzed for linkage at other loci. CASPAR uses simulation to overcome the problems inherent in such multiple testing.
-Author  Richa Agarwala (email: richa@helix.nih.gov)
- Alejandro Schaffer (email: schaffer@helix.</description>
+Author  Richa Agarwala (email: richa@helix.nih.gov) Alejandro Schaffer (email: schaffer@helix.nih.gov); Other participants include Jeremy Buhler Kenneth Gabbay Marek Kimmel David Owerbach</description>
     </item>
     
     <item>
@@ -84,16 +83,8 @@ Reference Skol, Scott, Abecasis, Boehnke (2006), &amp;ldquo;Joint analysis is mo
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Case-Control Quasi-Likelihood Score test
 Version 1.3 (March 2006)
-Author  Catherine Bourgain
- Sabine Hoffjan
- Raluca Nicolae
- Dina Newman
- Lori Steiner
- Karen Walker
- Rebecca Reynolds
- Carole Ober
- Mary Sara McPeek
-  URL http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/
+Author  Catherine Bourgain Sabine Hoffjan Raluca Nicolae Dina Newman Lori Steiner Karen Walker Rebecca Reynolds Carole Ober Mary Sara McPeek
+URL http://www.stat.uchicago.edu/~mcpeek/software/CCQLSpackage1.3/
 OS UNIX
 Reference Bourgain, Hoffjan, Nicolae, Newman, Steiner, Walker, Reynolds, Ober, McPeek (2003), &amp;ldquo;Novel case-control test in a founder population identifies p-selectin as an Atopy-susceptibility locus&amp;rdquo;, American Journal of Human Genetics, 73(3):612-626   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -174,13 +165,12 @@ Description This is a general-purpose program for monitoring genetic diversity. 
 Full Name Case-control HAPLotype INference package
 Version 1.2.2
 Description Chaplin is a software program for identifying specific haplotypes or haplotype features that are associated with disease using genotype data from a case-control study.
-Author  Richard Duncan
- Michael Epstein
- Glen Satten (Emory University)
-  URL http://www.genetics.emory.edu/labs/epstein/software/chaplin/index.html
+Author  Richard Duncan Michael Epstein Glen Satten (Emory University)
+URL http://www.genetics.emory.edu/labs/epstein/software/chaplin/index.html
 Language FORTRAN90 (CVF 6.6) with IMSL routines
 OS MS-Windows (2000/XP)
-EXE chaplin.</description>
+EXE chaplin.exe
+Reference M Epstein, G Satten (2003), &amp;ldquo;Inference on haplotype effects in case-control studies using unphased genotype data&amp;rdquo;, American Journal of Human Genetics, 73(6):1316-1329</description>
     </item>
     
     <item>
@@ -193,9 +183,8 @@ EXE chaplin.</description>
 Version March&amp;rsquo;02 version
 Description a program to detect genetically abnormal subjects in a case-control sample based on genotypes at multiple marker loci.
 Author Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- http://www.smd.qmul.ac.uk/statgen/software/dcurtis/chhet10.zip
-  OS MS-Windows, UNIX
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html http://www.smd.qmul.ac.uk/statgen/software/dcurtis/chhet10.zip
+OS MS-Windows, UNIX
 Reference D Curtis, BV North, H Gurling, E Blaveri, PC Sham (2002), &amp;ldquo;A quick and simple method for detecting subjects with abnormal genetic background in case-control samples&amp;rdquo;, Annals of Human Genetics, 66:235-244.</description>
     </item>
     
@@ -206,7 +195,8 @@ Reference D Curtis, BV North, H Gurling, E Blaveri, PC Sham (2002), &amp;ldquo;A
       
       <guid>https://gaow.github.io/genetic-analysis-software/c/checkmatrix/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
-Other Name  PY_MATRIX_2D  Version v248
+Other Name  PY_MATRIX_2D
+Version v248
 Description CheckMatrix serves as a visualization tool to validate constructed genetic maps. CheckMatrix generates graphical genotypes and two-dimensional heat plots of pairwise scores. Visualization of regions with positive and negative linkage as well as of allele fraction per marker simplifies genetic map validation without applying statistical approaches. CheckMatrix works in conjunction with MadMapper and freely available at http://www.</description>
     </item>
     
@@ -241,9 +231,8 @@ Description Chip2Spell aims to speed up the preparation of linkage data files pa
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.0
 Description CHROMOSCAN is an implementation of a genome-based scan statistic that detects genomic regions, which are statistically significant for targeted measurements, such as genetic associations with disease, gene expression profiles, DNA copy number variations, as well as other genome-based measurements.
-Author  Yan V Sun (email:yansun@umich.edu)
- Douglas M Jacobsen
- Sharon LR Kardia (email: kardiasoftware@umich.edu) (University of Michigan)</description>
+Author  Yan V Sun (email:yansun@umich.edu) Douglas M Jacobsen Sharon LR Kardia (email: kardiasoftware@umich.edu) (University of Michigan)
+URL http://www.</description>
     </item>
     
     <item>
@@ -281,9 +270,8 @@ URL http://www.som.soton.ac.uk/research/geneticsdiv/epidemiology/chromscan/   /*
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Monte Carlo method for assessing significance of a case-control association study with multi-allelic marker.
 Author Dave Curtis (Royal London Hospital, UK) (email: dcurtis@hgmp.mrc.ac.uk)
-URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html
- ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
-  Language C
+URL  http://www.mds.qmw.ac.uk/statgen/dcurtis/software.html ftp://ftp.ebi.ac.uk/pub/software/linkage_and_mapping/statgen/dcurtis/
+Language C
 OS MS-DOS
 Reference Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online documentation   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -297,14 +285,10 @@ Reference Sham, Curtis (1995), Annals of Human Genetics, 59:97-105; online docum
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2
 Description hierarchical clustering and graph methods for selecting tage SNPs
-Author  Sio Iong Ao
- Michael K Ng (Dept of Mathematics, University of Hong Kong)
- Kevin Yip
- David Cheung (Dept of Computer Science, University of Hong Kong)
- Pak Sham
- Pui Yee Fong
- Ian Melhado (Genome Research Center, University of Hong Kong)
-  URL http://hkumath.</description>
+Author  Sio Iong Ao Michael K Ng (Dept of Mathematics, University of Hong Kong) Kevin Yip David Cheung (Dept of Computer Science, University of Hong Kong) Pak Sham Pui Yee Fong Ian Melhado (Genome Research Center, University of Hong Kong)
+URL http://hkumath.hku.hk/web/link/CLUSTAG/CLUSTAG.html
+Language Java
+Reference Ao, Yip, Ng, Cheung, Fong, Melhado, Sham (2005), &amp;ldquo;CLUSTAG: hierarchical clustering and graph methods for selecting tag SNPs&amp;rdquo;, Bioinformatics, 21(8):1735-1736.</description>
     </item>
     
     <item>
@@ -317,11 +301,11 @@ Author  Sio Iong Ao
 Full Name genetic and comparative maps
 Version 0.06 (June 14, 2006)
 Description CMAP is a web-based tool that allows users to view comparisons of genetic and physical maps. The package also includes tools for curating map data.
-Author  Ken Y Clark (email: kclark@cshl.org)
- Lincoln Stein (email: lstein@cshl.org)
- Doreen Ware (email: ware@cshl.org)
-  URL  http://www.gmod.org/cmap/
- https://sourceforge.</description>
+Author  Ken Y Clark (email: kclark@cshl.org) Lincoln Stein (email: lstein@cshl.org) Doreen Ware (email: ware@cshl.org)
+URL http://www.gmod.org/cmap/
+ https://sourceforge.net/project/showfiles.php?group_id=27707
+Language Perl
+OS UNIX (Solaris, FreeBSD), Linux</description>
     </item>
     
     <item>
@@ -333,9 +317,8 @@ Author  Ken Y Clark (email: kclark@cshl.org)
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.1
 Description Designed for the construction of highly saturated linkage maps, based on BC1, DH, Radiation Hybrid or CP (CrossPollinators) data sets. F2 is not supported.
-Author  Jaap Buntjer (Lab of Plant Breeding, Wageningen University. email: jaap.buntjer@users.pv.wau.nl)
- Herman van Eck (email: herman.vaneck@users.pv.wau.nl)
-  URL http://www.dpw.wau.nl/pv/pub/combin/
+Author  Jaap Buntjer (Lab of Plant Breeding, Wageningen University. email: jaap.buntjer@users.pv.wau.nl) Herman van Eck (email: herman.vaneck@users.pv.wau.nl)
+URL http://www.dpw.wau.nl/pv/pub/combin/
 Language Visual Basic 5
 OS MS-Windows (95/98/NT)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -379,8 +362,7 @@ Language R/S-PLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMEN
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name COllaborative Pedigree drawing Environment
 Description includes a Java program for drawing pedigrees and a standardized system for pedigree storage. Unlike other existing pedigree programs, this software is particularly intended for epidemiologists in the sense that it allows customized automatic drawing of large numbers of pedigrees and remote and distributed consultation of pedigrees.
-Author  L Brun-Samarcq
- S Gallina</description>
+Author  L Brun-Samarcq S Gallina A Philippi F Demenais G Vaysseix E Barillot (email: cope@infobiogen.</description>
     </item>
     
     <item>
@@ -407,9 +389,7 @@ URL http://compgen.rutgers.edu/Crimap/
 Language C
 OS UNIX, MS-Windows(XP)
 EXE crimap
-Reference  Lander, Green (1987), Proceedings of the National Academy of Sciences , 84:2363-2367.
- documentation (version 2.4, 1990).
- Tutorial (from biobase.dk)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
+Reference  Lander, Green (1987), Proceedings of the National Academy of Sciences , 84:2363-2367. documentation (version 2.4, 1990). Tutorial (from biobase.dk)   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -421,11 +401,8 @@ Reference  Lander, Green (1987), Proceedings of the National Academy of Sciences
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name CRIMAP with Parallel Virtual Machine
 Description a parallel version of CRIMAP
-Author  Tara Matise (email: matise@biology.rutgers.edu)
- Mark Schroeder
- Donald Chiarulli
- Daniel E. Weeks
-  URL http://compgen.rutgers.edu/multimap/crimappvm.html
+Author  Tara Matise (email: matise@biology.rutgers.edu) Mark Schroeder Donald Chiarulli Daniel E. Weeks
+URL http://compgen.rutgers.edu/multimap/crimappvm.html
 Language C, PVM
 Reference Matise, Schroeder, Chiarulli, Weeks, (1995) Human Heredity, 45:103-116.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>

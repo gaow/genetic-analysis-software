@@ -19,9 +19,8 @@
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 0.1.0 (December 2006)
 Description A package in S-PLUS and R to test genetic linkage with covariates by regression methods with response IBD sharing for relative pairs. Account for correlations of IBD statistics and covariates for relative pairs within the same pedigree.
-Author  Jason Sinnwell (email: sinnwell@mayo.edu)
- Daniel Schaid (Mayo Clinic)
-  URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
+Author  Jason Sinnwell (email: sinnwell@mayo.edu) Daniel Schaid (Mayo Clinic)
+URL http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
 Language R/S-PLUS   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -61,9 +60,8 @@ Reference Teo, Inouye, Small, Gwilliam, Deloukas, Kwiatkowski, Clark (2007), &am
 Full Name Imprinting Likelihood Ratio
 Version 2.2 (November 2005)
 Description calculation of the restricted likelihood-ratio affected sib-pair test for linkage allowing for imprinting
-Author  Michael Knapp (Univ Bonn)
- Konstantin Strauch (Univ Marburg)
-  URL http://www.uni-bonn.de/~umt70e/soft.htm
+Author  Michael Knapp (Univ Bonn) Konstantin Strauch (Univ Marburg)
+URL http://www.uni-bonn.de/~umt70e/soft.htm
 Language SAS macro
 Reference Knapp, Strauch (2004), &amp;ldquo;Affected-sib-pair test for linkage based on constraints for identical-by-descent distributions corresponding to disease models with imprinting&amp;rdquo;, Genetic Epidemiology, 26:273-285 (Erratum: 28:288).</description>
     </item>
@@ -77,8 +75,7 @@ Reference Knapp, Strauch (2004), &amp;ldquo;Affected-sib-pair test for linkage b
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 2 (2009)
 Description IMPUTE is a program for estimating (&amp;ldquo;imputing&amp;rdquo;) unobserved genotypes in SNP association studies. The program is designed to work seamlessly with the output of the genotype calling program CHIAMO and the population genetic simulator HAPGEN, and it produces output that can be analyzed using the program SNPTEST.
-Author  Bryan Howie (email: bhowie@uchicago.edu)
- Jonathan Marchini (email: marchini@stats.</description>
+Author  Bryan Howie (email: bhowie@uchicago.edu) Jonathan Marchini (email: marchini@stats.</description>
     </item>
     
     <item>
@@ -105,10 +102,8 @@ Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT 
       <guid>https://gaow.github.io/genetic-analysis-software/i/integrayedmap/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description IntegratedMap is a web application and database schema for storing and interactively displaying genetic map data.
-Author  Hongyu Yang
- Hongyu Wang
- Alan Gingle (Center for Applied Genetic Technologies, University of Georgia)
-  URL ftp://cggc.agtec.uga.edu/IntegratedMap/
+Author  Hongyu Yang Hongyu Wang Alan Gingle (Center for Applied Genetic Technologies, University of Georgia)
+URL ftp://cggc.agtec.uga.edu/IntegratedMap/
 OS MS-Windows (NT/2000/XP profession/), require either Oracle RDBMS or MySQL.
 Reference Yang, Wang, Gingle (2005), &amp;ldquo;IntegratedMap: a web interface for integrating genetic map data&amp;rdquo;, Bioinformatics, 21(9):2126-2127.</description>
     </item>

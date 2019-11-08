@@ -30,9 +30,8 @@ Description This is a program to select a trait-associated subset of markers amo
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Bayesian Adaptive Regression Splines
 Description The BARS tests is a statistical method that bridges the gap between single-locus and haplotype-based tests of association. It is based on the non-parametric regression techniques embodied by Bayesian Adaptive Regression Splines.
-Author  Garrick Wallstrom
- RE Kass
-  URL http://wpicr.wpic.pitt.edu/WPICCompGen/bars.htm
+Author  Garrick Wallstrom RE Kass
+URL http://wpicr.wpic.pitt.edu/WPICCompGen/bars.htm
 Language R
 OS Linux
 Reference Zhang, Roeder, Wallstrom, Devlin (2003), &amp;ldquo;Integration of associative statistics over genomic regions using Bayesian Adaptive Regression Splines&amp;rdquo;, Human Genomics, 1:20-29.</description>
@@ -46,13 +45,10 @@ Reference Zhang, Roeder, Wallstrom, Devlin (2003), &amp;ldquo;Integration of ass
       <guid>https://gaow.github.io/genetic-analysis-software/b/bayesfst/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Description Bayesian estimation of the coancestry coefficient FST
-Author  DJ Balding (email: d.balding@ic.ac.uk)
- KL Ayres
- MA Beaumont
- P O&amp;rsquo;Reilly
-  URL http://www.reading.ac.uk/Statistics/genetics/software.html
+Author  DJ Balding (email: d.balding@ic.ac.uk) KL Ayres MA Beaumont P O&amp;rsquo;Reilly
+URL http://www.reading.ac.uk/Statistics/genetics/software.html
 Language C
-Reference  Balding (2003), &amp;ldquo;Likelihood-based inference for genetic correlation coefficients&amp;rdquo;, Theoretical Population Biology, 63:221-230
+Reference Balding (2003), &amp;ldquo;Likelihood-based inference for genetic correlation coefficients&amp;rdquo;, Theoretical Population Biology, 63:221-230
  Beaumont, Balding (2004), &amp;ldquo;Identifying adaptive genetic divergence among populations from genome scans&amp;rdquo;, Molecular Ecology, 13:969-980.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -65,9 +61,8 @@ Reference  Balding (2003), &amp;ldquo;Likelihood-based inference for genetic cor
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 1.7
 Description a powerful database software with improvement tools for paternity testing, database searching (like CODIS) and NRC II recommendations based formulae for investigating likelyhood ratios in putative contributors to crime evidences. Additional genetic population parameters estimations are added in this version. Only spanish version available.
-Author  Martinez Gustavo (email:ggmartinez@arnet.com.ar)
- Vazquez Sebastian
- Vicentin Ariel (email: bdgen@yahoo.com.ar)</description>
+Author  Martinez Gustavo (email:ggmartinez@arnet.com.ar) Vazquez Sebastian Vicentin Ariel (email: bdgen@yahoo.com.ar)
+URL http://www.simedic.com.ar/bdgen.htm</description>
     </item>
     
     <item>
@@ -78,10 +73,7 @@ Author  Martinez Gustavo (email:ggmartinez@arnet.com.ar)
       <guid>https://gaow.github.io/genetic-analysis-software/b/beagle/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version 3.2.1 (May 2010)
-Description BEAGLE is a state of the art software package for analysis of large-scale genetic data sets with hundreds of thousands of markers genotyped on thousands of samples. BEAGLE can
- phase genotype data (i.e. infer haplotypes) for unrelated individuals, parent-offspring pairs, and parent-offspring trios
- infer sporadic missing genotype data
- impute ungenotyped markers that have been genotyped in a reference panel</description>
+Description BEAGLE is a state of the art software package for analysis of large-scale genetic data sets with hundreds of thousands of markers genotyped on thousands of samples. BEAGLE can * phase genotype data (i.e. infer haplotypes) for unrelated individuals, parent-offspring pairs, and parent-offspring trios * infer sporadic missing genotype data * impute ungenotyped markers that have been genotyped in a reference panel * perform single marker and haplotypic association analysis * detect genetic regions that are homozygous-by-descent in an individual or identical-by-descent in pairs of individuals.</description>
     </item>
     
     <item>
@@ -104,9 +96,8 @@ Description BEAGLECALL is a software package for simultaneous genotype calling a
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Bayesian Epistasis Association Mapping
 Description BEAM treats the disease-associated markers and their interactions via a bayesian partitioning model and computes, via Markov chain Monte Carlo, the posterior probability that each marker set is associated with the disease.
-Author  Yu Zhang
- Jun S Liu (Harvard University)
-  URL http://www.people.fas.harvard.edu/~junliu/BEAM/
+Author  Yu Zhang Jun S Liu (Harvard University)
+URL http://www.people.fas.harvard.edu/~junliu/BEAM/
 Language C++
 OS UNIX, Linux, DOS
 Reference Zhang, Liu (2007), &amp;ldquo;Bayesian inference of epistatic interactions in case-control studies&amp;rdquo;, Nature, 39:1167-1173.</description>
@@ -121,9 +112,8 @@ Reference Zhang, Liu (2007), &amp;ldquo;Bayesian inference of epistatic interact
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version Jan 1998
 Description non-parametric linkage analysis using allele sharing in sib pairs
-Author  A Collins (email: arc@soton.ac.uk)
- NE Morton (University of Southampton, UK)
-  URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/BETA
+Author  A Collins (email: arc@soton.ac.uk) NE Morton (University of Southampton, UK)
+URL http://cedar.genetics.soton.ac.uk/pub/PROGRAMS/BETA
 Language C
 OS UNIX(SUN..)
 EXE beta
@@ -139,9 +129,8 @@ Reference Morton (1996), Proceedings of the National Academy of Sciences , 93:34
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Bayesian IMputation-Based Association Mapping
 Version 0.95
-Author  B Servin
- M Stephens
-  URL http://stephenslab.uchicago.edu/software.html
+Author  B Servin M Stephens
+URL http://stephenslab.uchicago.edu/software.html
 Reference Servin, Stephens (2007), &amp;ldquo;Imputation-based analysis of association studies: candidate genes and quantitative traits&amp;rdquo;, PLoS Genetics, 3(7):e114. http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030114   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS. * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.</description>
     </item>
     
@@ -187,9 +176,8 @@ Description The Birdsuite is a fully open-source set of tools to detect and repo
 Full Name Bayesian LinkAge DisEquilibrium mapping
 Version v2
 Author Jun Liu (Harvard Univ) (email: jliu@stat.harvard.edu)
-URL  http://www.people.fas.harvard.edu/~junliu/index1.html
- http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz
-  Reference  Liu, Sabatti, Teng, Keats, Risch (2001), &amp;ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&amp;rdquo;, Genome Research, 11:1716-1724.
+URL  http://www.people.fas.harvard.edu/~junliu/index1.html http://www.fas.harvard.edu/~junliu/TechRept/03folder/bladev2.tgz
+Reference Liu, Sabatti, Teng, Keats, Risch (2001), &amp;ldquo;Bayesian analysis of haplotypes for linkage disequilibrium mapping&amp;rdquo;, Genome Research, 11:1716-1724.
  Lu, Niu, Liu (2003), &amp;ldquo;Haplotype information and linkage disequilibrium mapping for single nucleotide polymorphisms&amp;rdquo;, Genome Research, 13:2112-2117.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
@@ -231,9 +219,8 @@ Reference Abad-Grau, Montes, Sebastiani (2006), &amp;ldquo;Building chromosome-w
 Version 1.1 (July 2002)
 Description a set of programs for calculations under different linkage disequilibrium (LD) distribution models
 Author YS Aulchenko (email: aulchenko@epib.fgg.eur.nl) (Erasmus University Medical School. The Netherlands)
-URL  http://www.geneticepi.com/Research/software/software.html
- http://www.geneticepi.com/Research/software/booLD-1.1.tar.gz
-  Language C++, FORTRAN 77, Perl
+URL  http://www.geneticepi.com/Research/software/software.html http://www.geneticepi.com/Research/software/booLD-1.1.tar.gz
+Language C++, FORTRAN 77, Perl
 OS UNIX, Linux
 EXE kLD, lsqLD, booit.pl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -246,15 +233,9 @@ EXE kLD, lsqLD, booit.pl   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND U
       <guid>https://gaow.github.io/genetic-analysis-software/b/boost/</guid>
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name BOolean Operation based Screening and Testing
-Author  Xiang Wan
- Can Yang (email: eeyang@ust.hk)
- Qiang Yang
- Hong Xue
- Xiaodan Fan
- Nelson Tang
- Weichuan Yu
-  URL http://bioinformatics.ust.hk/BOOST.html
-Reference Wan, Yang, Yang, Xue, Fan, Tang, Yu (2010), &amp;ldquo;BOOST: a Boolean representation-based method for detecting SNP-SNP interactions in genome-wide association studies&amp;rdquo;&amp;ldquo;, American Journal of Human Genetics, 87:325-340.</description>
+Author  Xiang Wan Can Yang (email: eeyang@ust.hk) Qiang Yang Hong Xue Xiaodan Fan Nelson Tang Weichuan Yu
+URL http://bioinformatics.ust.hk/BOOST.html
+Reference Wan, Yang, Yang, Xue, Fan, Tang, Yu (2010), &amp;ldquo;BOOST: a Boolean representation-based method for detecting SNP-SNP interactions in genome-wide association studies&amp;rdquo;&amp;ldquo;, American Journal of Human Genetics, 87:325-340.   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
     
     <item>
@@ -279,11 +260,10 @@ OS MS-Window, Linux   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMM
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Version July 1996
 Description Programs for inference of genealogical relationships from genetic data, including sibship inference.
-Author  Elizabeth A Thompson (University of Washington)
- Ian Painter (now at NCSU, email: ian@statgen.ncsu.edu)
-  URL  http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
+Author  Elizabeth A Thompson (University of Washington) Ian Painter (now at NCSU, email: ian@statgen.ncsu.edu)
+URL http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml
  ftp://ftp.u.washington.edu/pub/user-supported/pangaea/PANGAEA/BOREL
-  Language C
+Language C
 OS UNIX(DEC-UNIX/..)
 Related PANGAEA   /** * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.</description>
     </item>
@@ -324,9 +304,8 @@ Description a program for inferring haplotypes from genotypes to determine if th
       <description>Record added by Jurg Ott (the original Rockefeller list)
 Full Name Bayesian Quantitative Trait Locus mapping
 Description for the mapping of genetic traits from line crosses and recombinant inbred lines. It performs (1) maximum likelihood estimation of multi-gene models; (2) Bayesian estimation of multi-gene models via Laplace Approximations; and (3) interval mapping and composite interval mapping of genetic loci
-Author  Justin Borevitz
- Charles C. Berry (UCSD)
-  URL http://hacuna.</description>
+Author  Justin Borevitz Charles C. Berry (UCSD)
+URL http://hacuna.ucsd.edu/bqtl/</description>
     </item>
     
     <item>
